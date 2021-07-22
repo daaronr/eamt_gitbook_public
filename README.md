@@ -10,7 +10,7 @@ description: >-
 
 The “EA Market Testing Team” represents a small group of researchers and practitioners interested in promoting effective altruism and effective charitable giving, and learning more about what motivates this. To the best of our knowledge, this is the first organized collaboration of its kind. We aim to:
 
-The “EA Market Testing Team” represents a small group of researchers and practitioners interested in promoting effective altruism and effective charitable giving, and learning more about what motivates this. To the best of our knowledge this is the first organized collaboration of its kind. We aim to:
+The “EA Market Testing Team” represents a small group of researchers and practitioners interested in promoting effective altruism and effective charitable giving, and learning more about what motivates this. To the best of our knowledge, this is the first organized collaboration of its kind. We aim to:
 
 * Coalesce our understanding and evidence on barriers and facilitators of effective altruism/effective giving
 * Run a broad set of powerful trials and experiments \(esp. in large-scale settings\), gathering evidence on ‘what works best to promote meaningful actions \(donations and commitments\) in specific cases as well as general principles and approaches
@@ -23,5 +23,5 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 
 [Barriers to effective giving, related project](https://daaronr.github.io/ea_giving_barriers/index.html)
 
-\*\*\*\*
+We are planning a **fortnightly meeting**
 
