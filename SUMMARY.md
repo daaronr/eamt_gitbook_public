@@ -36,8 +36,5 @@
 ## Project: Profiling and segmentation <a id="profiling-and-segmentation"></a>
 
 * [Discussion](profiling-and-segmentation/discussion.md)
-
----
-
-* [Previous work](previous-work.md)
+* [Previous work](profiling-and-segmentation/previous-work.md)
 
