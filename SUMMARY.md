@@ -4,10 +4,10 @@
 
 ## Organization <a id="organization-and-overview"></a>
 
-* [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works.md)
+* [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
+  * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
 * [Sections and organization](organization-and-overview/sections-and-organization.md)
 * [Our team and resources](organization-and-overview/our-team-and-resources.md)
-* [Other tech](organization-and-overview/other-tech.md)
 
 ## Background and existing evidence
 
@@ -35,17 +35,17 @@
   * [Pledgers/emails](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs.md)
 * [Chatbot \(deferred\)](contexts-and-environments-for-testing/chatbot-tool-and-trials.md)
-
-## Methods discussion <a id="methodological-discussion"></a>
-
-* [Implementation and collecting data: Issues](methodological-discussion/implementation-and-collecting-data-issues/README.md)
-  * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
-* [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
-* [Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
+* [Implementation and collecting data: Issues](contexts-and-environments-for-testing/implementation-and-collecting-data-issues/README.md)
+  * [Issues: tracking and observing outcomes](contexts-and-environments-for-testing/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
+* [Adaptive design/sampling, reinforcement learning](contexts-and-environments-for-testing/adaptive-design-sampling-reinforcement-learning.md)
 
 ## Project: Profiling and segmentation <a id="profiling-and-segmentation"></a>
 
 * [Profiling: Discussion](profiling-and-segmentation/profiling-discussion.md)
-* [Surveys, focus groups, etc](profiling-and-segmentation/surveys-focus-groups-etc.md)
-* [Previous work](profiling-and-segmentation/previous-work.md)
+
+## Methods discussion <a id="methodological-discussion"></a>
+
+* [Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
+* [Surveys, focus groups, etc](methodological-discussion/surveys-focus-groups-etc.md)
+* [Previous work](methodological-discussion/previous-work.md)
 
