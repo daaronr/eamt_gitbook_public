@@ -8,6 +8,8 @@ description: >-
 
 ## Goal
 
+The “EA Market Testing Team” represents a small group of researchers and practitioners interested in promoting effective altruism and effective charitable giving, and learning more about what motivates this. To the best of our knowledge, this is the first organized collaboration of its kind. We aim to:
+
 The “EA Market Testing Team” represents a small group of researchers and practitioners interested in promoting effective altruism and effective charitable giving, and learning more about what motivates this. To the best of our knowledge this is the first organized collaboration of its kind. We aim to:
 
 * Coalesce our understanding and evidence on barriers and facilitators of effective altruism/effective giving
@@ -17,14 +19,9 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 
 ## **Quick links**
 
-[Airtable invitation
-](https://airtable.com/invite/l?inviteId=invrYLQD6MCwj5tzF&inviteToken=756e551c2eb2be11add77811fa080f3ac80c5adc68b402c5dcbbc4a16684b836&utm_source=email)[Slack group](https://join.slack.com/t/givingexperiments/shared_invite/zt-stgaroli-5FVxFgOY_MjXjrmUjfxLfw) \(invitation will need updating\)
+[Airtable invitation ](https://airtable.com/invite/l?inviteId=invrYLQD6MCwj5tzF&inviteToken=756e551c2eb2be11add77811fa080f3ac80c5adc68b402c5dcbbc4a16684b836&utm_source=email)[Slack group](https://join.slack.com/t/givingexperiments/shared_invite/zt-stgaroli-5FVxFgOY_MjXjrmUjfxLfw) \(invitation will need updating\)
 
 [Barriers to effective giving, related project](https://daaronr.github.io/ea_giving_barriers/index.html)
 
-
- ****
-
 \*\*\*\*
-
 
