@@ -1,2 +1,0 @@
-# Experimental design methods/issues
-
