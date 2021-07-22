@@ -38,6 +38,7 @@
 
 ## Methods discussion <a id="methodological-discussion"></a>
 
+* [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * [Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
 
 ## Project: Profiling and segmentation <a id="profiling-and-segmentation"></a>
