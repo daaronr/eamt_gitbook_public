@@ -1,8 +1,8 @@
 # Adaptive design/sampling, reinforcement learning
 
-## Overview: conversation with Dillon Bowen
+## Overview: conversation with DB
 
-Dillon: End of 3rd year of decision processes in Wharton Phd. 
+Dillon Bowen: End of 3rd year of decision processes in Wharton Phd. 
 
 ### **Adaptive experimentation**, 
 

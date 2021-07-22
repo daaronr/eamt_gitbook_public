@@ -20,7 +20,7 @@
 * [Tools and trials: overview](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md)
 * [Outcome: Effective gift/consider impact](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
   * [Effectiveness information and its presentation](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
-* [OC: Pledge/give substantially](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
+* [Outcome: Pledge, give substantially \(& effectively\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
   * [Accountability partners](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/accountability-partners.md)
   * [Moral duty \(of well-off\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
 
@@ -38,12 +38,14 @@
 
 ## Methods discussion <a id="methodological-discussion"></a>
 
+* [Implementation and collecting data: Issues](methodological-discussion/implementation-and-collecting-data-issues/README.md)
+  * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
 * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * [Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
 
 ## Project: Profiling and segmentation <a id="profiling-and-segmentation"></a>
 
+* [Profiling: Discussion](profiling-and-segmentation/profiling-discussion.md)
 * [Surveys, focus groups, etc](profiling-and-segmentation/surveys-focus-groups-etc.md)
-* [Discussion](profiling-and-segmentation/discussion.md)
 * [Previous work](profiling-and-segmentation/previous-work.md)
 

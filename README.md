@@ -23,5 +23,5 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 
 [Barriers to effective giving, related project](https://daaronr.github.io/ea_giving_barriers/index.html)
 
-\*\*\*\*
+We are planning a **fortnightly meeting**
 
