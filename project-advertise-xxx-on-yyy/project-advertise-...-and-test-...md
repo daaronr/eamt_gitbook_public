@@ -1,2 +1,0 @@
-# Project: Advertise ... and test ..
-

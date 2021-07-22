@@ -40,7 +40,3 @@
 
 * [Previous work](previous-work.md)
 
-## Project: Advertise XXX on YYY
-
-* [Project: Advertise ... and test ..](project-advertise-xxx-on-yyy/project-advertise-...-and-test-...md)
-

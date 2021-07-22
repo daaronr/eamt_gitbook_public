@@ -1,7 +1,5 @@
 # YouTube Remarketing
 
-
-
 I wanted to let you know that GWWC just launched a YouTube remarketing campaign. That means that when someone goes to the GWWC website, leaves, and then goes to YouTube we show them one of the following videos:
 
 * [Example 1](https://www.youtube.com/watch?v=GYeDfRx8U7k&t=12s)

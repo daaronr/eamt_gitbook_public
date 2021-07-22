@@ -6,16 +6,13 @@ description: >-
 
 # The challenge: drivers of effective/ineffective giving
 
-## 
-
-Draw from and link [EA Barriers Project \(Reinstein\) on "Presenting the Puzzle"](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html)  
-
+Draw from and link [EA Barriers Project \(Reinstein\) on "Presenting the Puzzle"](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html)
 
 ## Introduction
 
 From [EA Barriers Project](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html):
 
-{% embed url="https://daaronr.github.io/ea\_giving\_barriers/barriers-breakdown.html" %}
+{% embed url="https://daaronr.github.io/ea\_giving\_barriers/barriers-breakdown.html" caption="" %}
 
 > As [Burum, Nowak, and Hoffman](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html#ref-burumEvolutionaryExplanationIneffective2020) \([2020](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html#ref-burumEvolutionaryExplanationIneffective2020)\) state: “We donate billions of dollars to charities each year, yet much of our giving is ineffective. Why are we motivated to give, but not motivated to give effectively?”
 >
@@ -27,8 +24,5 @@ From [EA Barriers Project](https://daaronr.github.io/ea_giving_barriers/present-
 >
 > To address this, we must understand what drives giving choices, and how people react to the presentation of charity-effectiveness information.
 
-###  \(Lack of\) previous synthesis on this
-
-  
-
+### \(Lack of\) previous synthesis on this
 
