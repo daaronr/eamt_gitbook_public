@@ -18,7 +18,7 @@ Neela: infrastructure…. Have to think about the infrastructure…
 ### Interests/possible trials
 
 * "Obligation vs. supererogitory" \(Neela\)
-* [Profiling](../profiling-and-segmentation/profiling-discussion.md)
+* [Profiling](../../profiling-and-segmentation/profiling-discussion.md)
   * TLYCS are a little bit older / more female than Givewell/GWWC
   * Who is most likely to donate overseas? People who travel…
   * Will share info from some analysis of TLYCS \(do we have this?\)

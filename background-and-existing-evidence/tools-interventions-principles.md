@@ -14,19 +14,11 @@ A more organized categorization of barriers can be found in an airtable database
 
 The above table links a set of specific tools, evaluating their relevance for effective giving:
 
-{% embed url="https://airtable.com/shrDoiZ2azhZr1Rg4" %}
+{% embed url="https://airtable.com/shrDoiZ2azhZr1Rg4" caption="" %}
 
+We are considering a narrower set of tools \(in a different airtable, the airtable for the current project...
 
+### Specific proposed tools/interventions \(GWWC focus, adding WIP\)
 
-We are considering a narrower set of tools \(in a different airtable, the airtable for the current project...  
-
-#### Specific proposed tools/interventions \(GWWC focus, adding WIP\)
-
-{% embed url="https://airtable.com/shrUGJuhyxrKGMEUm" %}
-
-
-
-  
-  
-
+{% embed url="https://airtable.com/shrUGJuhyxrKGMEUm" caption="" %}
 

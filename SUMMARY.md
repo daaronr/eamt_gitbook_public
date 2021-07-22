@@ -27,13 +27,13 @@
 ## Contexts/environments, specific plans <a id="contexts-and-environments-for-testing"></a>
 
 * [Ads \(Google, Youtube...\)](contexts-and-environments-for-testing/ads-google-youtube....md)
-* [GiveWell](contexts-and-environments-for-testing/givewell.md)
-* [One For the World](contexts-and-environments-for-testing/one-for-the-world.md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Web page \(casual visitors\)](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
   * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
   * [Pledgers/emails](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
-* [TLYCS](contexts-and-environments-for-testing/tlycs.md)
+* [GiveWell](contexts-and-environments-for-testing/givewell/README.md)
+  * [TLYCS](contexts-and-environments-for-testing/givewell/tlycs.md)
+* [One For the World](contexts-and-environments-for-testing/one-for-the-world.md)
 * [Chatbot \(deferred\)](contexts-and-environments-for-testing/chatbot-tool-and-trials.md)
 
 ## Methods discussion <a id="methodological-discussion"></a>
