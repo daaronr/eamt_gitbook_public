@@ -1,2 +1,2 @@
-# OC: Pledge/donate substantially \(to an effective cause\)
+# OC: Pledge/give substantially
 

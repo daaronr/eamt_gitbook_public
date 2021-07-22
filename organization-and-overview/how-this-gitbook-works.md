@@ -9,6 +9,8 @@ description: >-
 
 ## What is this Gitbook \(wiki\) and what is it for?
 
+Rather than chains of disconnected emails and many unlinked Google docs, I \(David Reinstein\) thought it would be better to organize our project with this well-structured format. 
+
 ## Who has access/how to gain access?
 
 {% hint style="info" %}
@@ -25,9 +27,16 @@ In newly created blocks/elements "command-slash" \(on mac\) brings up a lot of c
 
 ## What are 'saving' and 'merging'?
 
+You need to click 'save' to save your work \(hopefully with a quick message explaining what you did\). You then need to 'merge it in' to be part of the shared repository. \(This has some connection to underlying git processes.\)  
+  
+**What if I get a 'conflict'?**  
+If 2 people edit simultaneously and both make changes they try to merge in, this can happen. It should be simple enough to resolve. Just find the icon for the bits indicating a conflict, and choose which version you want to keep.
+
 ## Technical: Connections with Git/Github and coding
 
-This Gitbook is connected to the private github-hosted repo \[daaronr/effective\_giving\_market\_testing\]\([https://github.com/daaronr/effective\_giving\_market\_testing](https://github.com/daaronr/effective_giving_market_testing)\]. It 'backs up' nicely to a set of easy-to-follow markdown files and folders. If you prefer not to use the web interface, you should be able to edit those files in any interface and push/merge the content in. I tested this on 22 July -- it seems to work very nicely, but you need to work on 'another branch' and merge it in, I think.
+This Gitbook is connected to the private github-hosted repo \[daaronr/effective\_giving\_market\_testing\]\([https://github.com/daaronr/effective\_giving\_market\_testing](https://github.com/daaronr/effective_giving_market_testing)\]. It 'backs up' nicely to a set of easy-to-follow markdown files and folders. If you prefer not to use the web interface, you should be able to edit those files in any interface and push/merge the content in.   
+  
+I tested this on 22 July -- it seems to work very nicely, but it seems to want to set up another 'main/master' branch and then you have to merge it in
 
 ## Playground
 

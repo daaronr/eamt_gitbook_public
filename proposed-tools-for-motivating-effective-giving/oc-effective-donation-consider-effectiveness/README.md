@@ -1,2 +1,2 @@
-# Outcome: Effective donation/consider effectiveness
+# Outcome: Effective gift/consider impact
 

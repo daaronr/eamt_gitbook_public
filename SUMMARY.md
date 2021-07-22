@@ -5,6 +5,7 @@
 ## Organization <a id="organization-and-overview"></a>
 
 * [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works.md)
+* [Sections and organization](organization-and-overview/sections-and-organization.md)
 * [Our team and resources](organization-and-overview/our-team-and-resources.md)
 * [Other tech](organization-and-overview/other-tech.md)
 
@@ -12,34 +13,36 @@
 
 * [The challenge: drivers of effective/ineffective giving](background-and-existing-evidence/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background-and-existing-evidence/models-theories-psychological-norms.md)
+* [Tools/interventions: principles](background-and-existing-evidence/tools-interventions-principles.md)
 
-## Proposed tools for motivating effective giving
+## Tools and trials <a id="proposed-tools-for-motivating-effective-giving"></a>
 
 * [Tools and trials: overview](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md)
-* [Outcome: Effective donation/consider effectiveness](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
+* [Outcome: Effective gift/consider impact](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
   * [Effectiveness information and its presentation](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
-* [OC: Pledge/donate substantially \(to an effective cause\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
+* [OC: Pledge/give substantially](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
+  * [Accountability partners](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/accountability-partners.md)
   * [Moral duty \(of well-off\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
 
-## Contexts and environments for testing and measuring <a id="contexts-and-environments-for-testing"></a>
+## Contexts/environments, specific plans <a id="contexts-and-environments-for-testing"></a>
 
 * [Ads \(Google, Youtube...\)](contexts-and-environments-for-testing/ads-google-youtube....md)
-* [TLYCS](contexts-and-environments-for-testing/tlycs.md)
 * [GiveWell](contexts-and-environments-for-testing/givewell.md)
 * [One For the World](contexts-and-environments-for-testing/one-for-the-world.md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Web page \(casual visitors\)](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
   * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
   * [Pledgers/emails](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
-* [Surveys, focus groups, etc](contexts-and-environments-for-testing/surveys-focus-groups-etc.md)
+* [TLYCS](contexts-and-environments-for-testing/tlycs.md)
 * [Chatbot \(deferred\)](contexts-and-environments-for-testing/chatbot-tool-and-trials.md)
 
-## Methodological discussion
+## Methods discussion <a id="methodological-discussion"></a>
 
 * [Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
 
 ## Project: Profiling and segmentation <a id="profiling-and-segmentation"></a>
 
+* [Surveys, focus groups, etc](profiling-and-segmentation/surveys-focus-groups-etc.md)
 * [Discussion](profiling-and-segmentation/discussion.md)
 * [Previous work](profiling-and-segmentation/previous-work.md)
 
