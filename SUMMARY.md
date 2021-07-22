@@ -9,7 +9,7 @@
 * [Our team and resources](organization-and-overview/our-team-and-resources.md)
 * [Other tech](organization-and-overview/other-tech.md)
 
-## Background and existing evidence
+## Background and existing evidence <a id="background"></a>
 
 * [The challenge: drivers of effective/ineffective giving](background-and-existing-evidence/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background-and-existing-evidence/models-theories-psychological-norms.md)
@@ -32,9 +32,10 @@
   * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
   * [Pledgers/emails](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs.md)
-* [GiveWell](contexts-and-environments-for-testing/givewell.md)
-* [One For the World](contexts-and-environments-for-testing/one-for-the-world.md)
-* [Chatbot \(deferred\)](contexts-and-environments-for-testing/chatbot-tool-and-trials.md)
+* [Other](contexts-and-environments-for-testing/other/README.md)
+  * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
+  * [One For the World](contexts-and-environments-for-testing/other/one-for-the-world.md)
+  * [Chatbot \(deferred\)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
 
 ## Methods discussion <a id="methodological-discussion"></a>
 
