@@ -31,10 +31,11 @@
   * [Web page \(casual visitors\)](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
   * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
   * [Pledgers/emails](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
-* [GiveWell](contexts-and-environments-for-testing/givewell/README.md)
-  * [TLYCS](contexts-and-environments-for-testing/givewell/tlycs.md)
-* [One For the World](contexts-and-environments-for-testing/one-for-the-world.md)
-* [Chatbot \(deferred\)](contexts-and-environments-for-testing/chatbot-tool-and-trials.md)
+* [TLYCS](contexts-and-environments-for-testing/tlycs.md)
+* [Other](contexts-and-environments-for-testing/other/README.md)
+  * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
+  * [One For the World](contexts-and-environments-for-testing/other/one-for-the-world.md)
+  * [Chatbot \(deferred\)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
 
 ## Methods discussion <a id="methodological-discussion"></a>
 
