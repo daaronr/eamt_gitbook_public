@@ -14,8 +14,3 @@ description: How the gitbook sections are organized; we can discuss this
 6. Methods: discuss issues of methodology and 'how to implement tricky things right' \(to link in other sections\)
 7. Project: Profiling 'whom to target' \(sufficiently distinct from the above so it gets its own section 
 
-
-
-  
-
-

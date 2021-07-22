@@ -13,10 +13,6 @@ The first table in the airtable \(picture below\) explains all the other tables
 
 ![](../.gitbook/assets/image.png)
 
-
-
-
-
 {% hint style="info" %}
 A good way of starting with Airtable/databases is to think
 
