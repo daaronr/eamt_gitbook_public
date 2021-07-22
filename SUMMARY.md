@@ -16,12 +16,17 @@
 ## Proposed tools for motivating effective giving
 
 * [Tools and trials: overview](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md)
-* [Moral duty \(of well-off\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off.md)
+* [Outcome: Effective donation/consider effectiveness](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
+  * [Effectiveness information and its presentation](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
+* [OC: Pledge/donate substantially \(to an effective cause\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
+  * [Moral duty \(of well-off\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
 
 ## Contexts and environments for testing and measuring <a id="contexts-and-environments-for-testing"></a>
 
 * [Ads \(Google, Youtube...\)](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs.md)
+* [GiveWell](contexts-and-environments-for-testing/givewell.md)
+* [One For the World](contexts-and-environments-for-testing/one-for-the-world.md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Web page \(casual visitors\)](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
   * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
