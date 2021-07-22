@@ -27,7 +27,9 @@ In newly created blocks/elements "command-slash" \(on mac\) brings up a lot of c
 
 ## What are 'saving' and 'merging'?
 
-## Technical: Connections with Git/Github and coding 
+## Technical: Connections with Git/Github and coding
+
+This Gitbook is connected to the private github-hosted repo [daaronr/effective_giving_market_testing](https://github.com/daaronr/effective_giving_market_testing]. It 'backs up' nicely to a set of easy-to-follow markdown files and folders. If you prefer not to use the web interface, you should be able to edit those files in any interface and push/merge the content in. (Trying this now 22 Jul 2021).
 
 
 
