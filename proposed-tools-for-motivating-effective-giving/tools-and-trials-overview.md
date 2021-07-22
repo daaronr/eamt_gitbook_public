@@ -12,8 +12,6 @@ _How should we group, organise and categorise?_
 2. Certain outcomes are relevant to some tools only
 3. Atheoretical 'trying different marketing colors' and tools that push several buttons
 
-
-
 ## Existing categorisation
 
 {% embed url="https://daaronr.github.io/ea\_giving\_barriers/tools.html" caption="Barriers project \(Reinstein\)" %}
