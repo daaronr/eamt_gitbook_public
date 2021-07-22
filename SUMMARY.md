@@ -4,17 +4,13 @@
 
 ## Organization <a id="organization-and-overview"></a>
 
----
-
-* [How this 'gitbook' works](how-this-gitbook-works.md)
-* [Our team and resources](our-team-and-resources.md)
+* [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works.md)
+* [Our team and resources](organization-and-overview/our-team-and-resources.md)
 
 ## Background and existing evidence
 
----
-
-* [The challenge: drivers of effective/ineffective giving](the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
-* [Models, theories, psychological norms](models-theories-psychological-norms.md)
+* [The challenge: drivers of effective/ineffective giving](background-and-existing-evidence/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
+* [Models, theories, psychological norms](background-and-existing-evidence/models-theories-psychological-norms.md)
 
 ## Proposed tools for motivating effective giving
 
