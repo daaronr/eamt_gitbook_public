@@ -42,5 +42,5 @@ Neela: infrastructure…. Have to think about the infrastructure…
 
 **Suggested fortnightly meeting**
 
-\*\*\*\*
+
 

@@ -37,7 +37,7 @@ Brainstorms: [See shared GDOC](https://docs.google.com/document/d/1Sps58H0LKvoLv
 * Already encouraging ‘advocacy’ and ‘start birthday fundraisers’
 * [**Youtube Remarketing**](youtube-remarketing.md) 
 
-#### The [doc below has been shared in a small group](https://docs.google.com/document/d/1Sps58H0LKvoLvzSSa2Yav3kFO1vDSVzsYXoYyWzvol0/edit#heading=h.umgv7nqt8hyj)
+#### The [doc below has been shared in a small group](https://docs.google.com/document/d/1Sps58H0LKvoLvzSSa2Yav3kFO1vDSVzsYXoYyWzvol0/edit#heading=h.umgv7nqt8hyj); we will incorporate elements of it into this Gitbook
 
 {% embed url="https://docs.google.com/document/d/1Sps58H0LKvoLvzSSa2Yav3kFO1vDSVzsYXoYyWzvol0/edit\#heading=h.umgv7nqt8hyj" caption="" %}
 

@@ -2,3 +2,7 @@
 
 ## Fixed vs adaptive designs
 
+
+
+
+
