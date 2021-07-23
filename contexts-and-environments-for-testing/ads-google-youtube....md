@@ -31,7 +31,7 @@ In the google ds platform you attribute it to a 'lookback window' but lots of ch
 
 There is a 'click-through' conversions and 'view-through' conversions... the future of the latter is in peril
 
-Once you get someone on the site you can use Google Analytics to see how they got to the site and what they do on the site'as long as they go directly' \
+Once you get someone on the site you can use Google Analytics to see how they got to the site and what they do on the site as long as they go directly' \
 
 Google Analytics uses 'last nondirect click'
 

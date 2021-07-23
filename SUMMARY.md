@@ -4,10 +4,10 @@
 
 ## Organization <a id="organization-and-overview"></a>
 
-* [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works.md)
+* [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
+  * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
 * [Sections and organization](organization-and-overview/sections-and-organization.md)
 * [Our team and resources](organization-and-overview/our-team-and-resources.md)
-* [Other tech](organization-and-overview/other-tech.md)
 
 ## Background and existing evidence <a id="background"></a>
 
@@ -21,9 +21,9 @@
 * [Outcome: Effective gift/consider impact](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
   * [Effectiveness information and its presentation](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
 * [Outcome: Pledge, give substantially \(& effectively\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
+  * [Moral duty \(of well-off\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
   * [Give if you win/ conditional pledge](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
   * [Accountability partners](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/accountability-partners.md)
-  * [Moral duty \(of well-off\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
 
 ## Contexts/environments, specific plans <a id="contexts-and-environments-for-testing"></a>
 
