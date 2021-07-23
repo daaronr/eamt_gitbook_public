@@ -39,8 +39,11 @@ Our main ‘policy’ audience includes both effective nonprofit organisations a
 
 ### \(Lack of\) previous synthesis on this
 
-**Academic:**
+**Academic work:**
 
+![](../.gitbook/assets/image%20%285%29.png)
+
+* [Caviola et al, 2021 \(abstract pictured above\)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2821%2900090-5#secst0005)
 * @loewensteinScarecrowTinMan2007
 * introduction to @Berman2018, @baron2011heuristics\)
 * introduction to [Caviola et al](http://journal.sjdm.org/19/190810/jdm190810.pdf): "on how both incorrect beliefs and preferences for ineffective charities contribute to ineffective giving"
@@ -52,7 +55,11 @@ Our main ‘policy’ audience includes both effective nonprofit organisations a
 * "[Charitable Fundraising and Smart Giving \(undergraduate thesis\)](https://aarongertler.net/wp-content/uploads/2018/01/Aaron-Gertler-Senior-Thesis-full-bibliography-1.pdf)
 * and 'The Psychology of Effective Altruism' \(Miller, 2016, slides only\).
 
-But these have not been detailed or systematic. This may stem from a small amount of available evidence to survey. Ideas42 wrote \(ibid\)
+
+
+Overall, these have not been detailed or systematic. While [Caviola et al, 2021](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2821%2900090-5#secst0005), is probably the strongest, most relevant, and most insightful \(and has some connection to the structure presented in the '[Barriers](https://daaronr.github.io/ea_giving_barriers/index.html)' project\), it does not drill deeply into the strength of the evidence and the relative importance of each factor. However, this may stem from a small amount of available evidence to survey.
+
+ Ideas42 wrote \(ibid\)
 
 > We did not find many field-based, experimental studies on the factors that encourage people to choose thoughtfully among charities or to plan ahead to give.
 
