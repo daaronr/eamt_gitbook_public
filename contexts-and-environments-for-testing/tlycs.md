@@ -9,38 +9,39 @@ description: The Life You Can Save.
 Leads: Bilal Siddiqi, Neela Saldhana;  
 Other partner contact: Jon Behar \(Giving Games\)
 
-## Notes
-
-Bilal has a background in evaluation research - wants to actually make them happen via donations
-
-Neela: infrastructure…. Have to think about the infrastructure…
-
 ### Interests/possible trials
 
 * "Obligation vs. supererogitory" \(Neela\)
+  * Drowning child vs. burning building
 * [Profiling](../profiling-and-segmentation/profiling-discussion.md)
   * TLYCS are a little bit older / more female than Givewell/GWWC
   * Who is most likely to donate overseas? People who travel…
-  * Will share info from some analysis of TLYCS \(do we have this?\)
+  * Neela mentioned some analysis which could be useful i think in the below document
+
+{% file src="../.gitbook/assets/behavioral\_insights\_to\_end\_global\_poverty\_12-15.pdf" caption="TLYCS behavioral analysis" %}
 
 ### Contexts and plans
 
 * Target "Giving Season"
-* What would be actionable:
-* Drowning child vs. burning building \(EXPLAIN?\)
+* What would be actionable?
 * How do people come into this funnel?
-  * Searching for most good in the abstract
+  * Searching for most good in the abstract, then this is easy?
   * If somebody already has something in mind… 
-  * Location: can you match location \(EXPLAIN?\)
-  * Matching cause… \(EXPLAIN?\)
+    * Good to match the donations to a location people are interested in
+    * We want to match our offering to the cause people are interested in 
 * Neela and Bilal were keen on targeting particularly in Australia...
-* Existing research: 1. [https://twitter.com/zeitzoff/status/1415001232901562372](https://twitter.com/zeitzoff/status/1415001232901562372) 2. More likely to support harsh punishments for consequentia**l**ist reasons
 * Logistics: 
   1. Barriers: basically hard to change website cos of team / technical barriers
-  2. They were asking us about money
+  2. We were discussing funding 
   3. But seems that advertising to get people to website is best… and there are funds
 
 **Suggested fortnightly meeting**
 
+Currently every other Wednesday 1pm.
 
+
+
+### **Other research** 
+
+Existing research: 1. [https://twitter.com/zeitzoff/status/1415001232901562372](https://twitter.com/zeitzoff/status/1415001232901562372) 2. More likely to support harsh punishments for consequentia**l**ist reasons
 
