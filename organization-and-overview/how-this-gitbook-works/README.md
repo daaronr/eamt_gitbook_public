@@ -19,7 +19,11 @@ As of 22 July 2021 this is a PRIVATE site, only accessible to members. As we are
 
 ## What do the sections and groups mean?
 
+"Groups" can hold multiple pages and pages can have sub-pages. But groups cannot have subgroups and the groups have no direct link \(while pages do\). \(In the git repo groups seem to be represented by folders\).
+
 ## How do I edit it and add content?
+
+Give it a try. But remember to 'save' and 'merge' your work!
 
 {% hint style="info" %}
 In newly created blocks/elements "command-slash" \(on mac\) brings up a lot of cool options
@@ -27,7 +31,8 @@ In newly created blocks/elements "command-slash" \(on mac\) brings up a lot of c
 
 ## What are 'saving' and 'merging'?
 
-You need to click 'save' to save your work \(hopefully with a quick message explaining what you did\). You then need to 'merge it in' to be part of the shared repository. \(This has some connection to underlying git processes.\)
+* You need to click 'save' to save your work \(hopefully with a quick message explaining what you did\). 
+* * You then need to 'merge it in' to be part of the shared repository. \(This has some connection to underlying git processes.\)
 
 **What if I get a 'conflict'?** If 2 people edit simultaneously and both make changes they try to merge in, this can happen. It should be simple enough to resolve. Just find the icon for the bits indicating a conflict, and choose which version you want to keep.
 
