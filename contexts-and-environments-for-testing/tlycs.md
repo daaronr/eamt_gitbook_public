@@ -45,3 +45,13 @@ Currently every other Wednesday 1pm.
 
 Existing research: 1. [https://twitter.com/zeitzoff/status/1415001232901562372](https://twitter.com/zeitzoff/status/1415001232901562372) 2. More likely to support harsh punishments for consequentia**l**ist reasons
 
+Bilal suggested reading this special issue: 
+
+{% embed url="https://www.sciencedirect.com/journal/journal-of-behavioral-and-experimental-economics/vol/66/suppl/C" %}
+
+Bilal also talked about this intervention which involved video messages by one of the authors:
+
+[https://www.nber.org/system/files/working\_papers/w27496/w27496.pdf](https://www.nber.org/system/files/working_papers/w27496/w27496.pdf)
+
+ 
+
