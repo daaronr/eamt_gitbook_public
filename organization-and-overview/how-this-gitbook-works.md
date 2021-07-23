@@ -14,7 +14,7 @@ Rather than chains of disconnected emails and many unlinked Google docs, I \(Dav
 ## Who has access/how to gain access?
 
 {% hint style="info" %}
-As of 21 July 2021 this is public, but we will make it a private book. As we are conducting trials, we cannot have this accessible to the whole world, including participants. However, we hope to make most of this public in due time, in line with information sharing and open science.
+As of 22 July 2021 this is a PRIVATE site, only accessible to members. As we are conducting trials, we cannot have this accessible to the whole world, including participants. However, we hope to make most of this public in due time, in line with information sharing and open science.
 {% endhint %}
 
 ## What do the sections and groups mean?
