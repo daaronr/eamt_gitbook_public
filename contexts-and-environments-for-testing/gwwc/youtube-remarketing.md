@@ -28,6 +28,8 @@ JS: I wanted to let you know that GWWC just launched a YouTube remarketing campa
 >
 > ...
 
+## Proposed next steps
+
 > Here are what I see as next steps:  _\[DR: next steps for remarketing trial?\]_
 >
 > 1. Researchers assign the Designated Marketing Areas for test/control _\[DR: can you elaborate which/what the "DMA"s are?\]_
