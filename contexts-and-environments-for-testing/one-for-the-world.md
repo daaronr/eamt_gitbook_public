@@ -1,15 +1,14 @@
 ---
-description: >-
-  OFTW has a donor base of ~700 active donors, ~1650 pledged donors (who pledged
-  but haven't started donating yet) and ~2000 lapsed donors. Jack Lewars is the
-  lead contact.
+description: Jack Lewars is the lead contact.
 ---
 
 # One For the World
 
 ## Background on OFTW
 
-80pct USA
+OFTW has a donor base of ~700 active donors, ~1650 pledged donors \(who pledged but haven't started donating yet\) and ~2000 lapsed donors.
+
+80 percent \(of donors?\) are in the USA  
 
 Focus on global health charities
 
@@ -33,7 +32,7 @@ We are in the process of creating these homepages and setting up conversion trac
 
 750 new people a year are recruited... thinks it would be 2 - 2.5k
 
-
+OFTW has a donor base of ~700 active donors, ~1650 pledged donors \(who pledged but haven't started donating yet\) and ~2000 lapsed donors.
 
 ## Ongoing/completed experiments
 
