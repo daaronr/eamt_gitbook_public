@@ -35,6 +35,7 @@
 * [TLYCS](contexts-and-environments-for-testing/tlycs.md)
 * [One For the World](contexts-and-environments-for-testing/one-for-the-world.md)
 * [Other](contexts-and-environments-for-testing/other/README.md)
+  * [Animal Charity Evaluators](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
   * [Chatbot \(deferred\)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
 
