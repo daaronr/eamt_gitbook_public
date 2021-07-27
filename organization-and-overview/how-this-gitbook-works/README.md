@@ -23,7 +23,7 @@ As of 22 July 2021 this is a PRIVATE site, only accessible to members. As we are
 
 ## How do I edit it and add content?
 
-Give it a try. But remember to 'save' and 'merge' your work!
+If you have 'write \(Editor\) access' you should be able to just start typing/clicking/adding.   Give it a try. But remember to 'save' and 'merge' your work!
 
 {% hint style="info" %}
 In newly created blocks/elements "command-slash" \(on mac\) brings up a lot of cool options
