@@ -32,6 +32,33 @@ Other partner contact: Jon Behar \(Giving Games\)
 
 {% file src="../.gitbook/assets/behavioral\_insights\_to\_end\_global\_poverty\_12-15.pdf" caption="TLYCS behavioral analysis" %}
 
+## **What is TLYCS already doing/contemplating doing**
+
+* what are the parameters/messages we can play with
+* what is tracked, what are the desired outcomes
+
+
+
+### What resources can we access \($$ for ads\)?
+
+Free GoogleAds thing -- maybe not being used? -- JS Winchell knows the most about this.
+
+## **Social media trials**
+
+FB targeted ads 
+
+* split randomly \(or by an untraceable block\) and use cookies/trackbacks
+* split geographically \(trace outcomes within a geographic region\) 
+
+\(Contact Will Bullock \(sp?\) at FB\) 
+
+A solicitation to... 
+
+* A TLYCS -organized fundraiser... 
+  * A fundraiser _within_ Facebook, easier to track
+    * [\(see HERE for FB help including tracking\)](https://www.facebook.com/help/1787615158233986)
+  * "Fundraiser API" meant to help with this 
+
 ## **\(Suggested\) fortnightly meeting**
 
 Currently every other Wednesday 1pm.
