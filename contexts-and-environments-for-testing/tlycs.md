@@ -62,8 +62,6 @@ Pages and promotion
   * _DR:_ but these can be analysed with Bayesian methods for actionable insights
 * suggest simplified presentation/navigation, 'decision tree quiz' to reduce cognitive load
 
- 
-
 #### Other work 
 
 Bilal suggested reading this special issue: 
@@ -79,7 +77,7 @@ Other papers in that issue \(some in lab settings\) also appear relevant, esp:
 - Maybe:  [Nudging charitable giving: Three field experiments](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300222)  
   
   
-_But note that some of these papers are from 'big Economists' who normally would see "getting a paper in a JBEE special issue" as a non-success. So each paper probably has important limitations._ 
+_But note that some of these papers are from 'Big Economists' who normally would see "getting a paper in a JBEE special issue" as a non-success. So each paper probably has important limitations._ 
 {% endhint %}
 
 [https://twitter.com/zeitzoff/status/1415001232901562372](https://twitter.com/zeitzoff/status/1415001232901562372) 2. More likely to support harsh punishments for consequentialist reasons \[WHAT'S THE CONNECTION?\]
