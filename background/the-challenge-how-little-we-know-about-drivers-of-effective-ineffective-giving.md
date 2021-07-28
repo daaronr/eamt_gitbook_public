@@ -49,11 +49,14 @@ Our main ‘policy’ audience includes both effective nonprofit organisations a
 * introduction to [Caviola et al](http://journal.sjdm.org/19/190810/jdm190810.pdf): "on how both incorrect beliefs and preferences for ineffective charities contribute to ineffective giving"
 * @greenhalghSystematicReviewBarriers2020 \(qualitative, focuses on largest philanthropists only\)
 
+ 
+
 **Non-academic/unpublished:**
 
 * 'Behavior and Charitable Giving' \(Ideas42, 2016\),
 * "[Charitable Fundraising and Smart Giving \(undergraduate thesis\)](https://aarongertler.net/wp-content/uploads/2018/01/Aaron-Gertler-Senior-Thesis-full-bibliography-1.pdf)
-* and 'The Psychology of Effective Altruism' \(Miller, 2016, slides only\).
+* 'The Psychology of Effective Altruism' \(Miller, 2016, slides only\).
+* ["Behavioral Insights To End Global Poverty" \(Princeton report for TLYCS, Jan 2021\)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0)
 
 
 

@@ -16,7 +16,7 @@ We focus on the 'barriers' or 'hurdles to giving effectively' among individuals 
 
 **A conceptual breakdown of barriers:**
 
-* Base values may be \(non\) utilitarian: People are optimising their own 'X', which does not coincide with impact $\rightarrow$ no puzzle?
+* Base values may be \(non\) utilitarian: People are optimising their own 'X', which does not coincide with impact --&gt; no puzzle?
 * Avoiding information about effectiveness: Even if people want to optimise impact, they may specifically dislike and avoid gathering information about effectiveness in a charitable giving setting
 * Presenting effectiveness information may backfire: E.g., if it switches off the 'generous part of the brain', gets people to think in a more 'market' mode, or makes people indecisive
 * Judgement/cognition failures, quantitative biases, information failure: People try but fail to optimize, and/or have persistent incorrect beliefs

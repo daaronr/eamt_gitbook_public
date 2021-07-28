@@ -40,15 +40,31 @@ Currently every other Wednesday 1pm.
 
 ### **Other research** 
 
-Existing research: 1. [https://twitter.com/zeitzoff/status/1415001232901562372](https://twitter.com/zeitzoff/status/1415001232901562372) 2. More likely to support harsh punishments for consequentia**l**ist reasons \[WHAT'S THE CONNECTION?\]
+* ["Behavioral Insights To End Global Poverty" \(Princeton report for TLYCS, Jan 2021\)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0)
+
+  
+  
+ 1. [https://twitter.com/zeitzoff/status/1415001232901562372](https://twitter.com/zeitzoff/status/1415001232901562372) 2. More likely to support harsh punishments for consequentia**l**ist reasons \[WHAT'S THE CONNECTION?\]
 
 Bilal suggested reading this special issue: 
 
 {% embed url="https://www.sciencedirect.com/journal/journal-of-behavioral-and-experimental-economics/vol/66/suppl/C" %}
 
-Bilal also talked about this intervention which involved video messages by one of the authors:
+{% hint style="info" %}
+David Reinstein: The Karlan and Wood paper is particularly relevant. I see that as the first -- albeit limited and contextual -  evidence on how donors react to quantitative/scientific impact information.  My notes on this paper are [HERE](https://daaronr.github.io/ea_giving_barriers/eval-aversion.html#analytical-grinch) \(I should incorporate these into the present wiki to enable discussion and expansion\)  
+  
+Other papers in that issue \(some in lab settings\) also appear relevant, esp:  
+- [Do people donate more when they perceive a single beneficiary whom they know? A field experimental test of the identifiability effect](https://www.sciencedirect.com/science/article/pii/S2214804316300179)  
+[- Information and donations to development aid projects](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300295) \(Lab giving to charities\)   
+- Maybe:  [Nudging charitable giving: Three field experiments](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300222)  
+  
+  
+_But note that some of these papers are from 'big Economists' who normally would see "getting a paper in a JBEE special issue" as a non-success. So each paper probably has important limitations._ 
+{% endhint %}
 
-[https://www.nber.org/system/files/working\_papers/w27496/w27496.pdf](https://www.nber.org/system/files/working_papers/w27496/w27496.pdf)
+
+
+Bilal also talked about this intervention which involved video messages by one of the authors: ["Messages on Covid Prevention in India..."](https://www.nber.org/system/files/working_papers/w27496/w27496.pdf) \(NBER\) 
 
  
 
