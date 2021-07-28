@@ -40,11 +40,31 @@ Currently every other Wednesday 1pm.
 
 ### **Other research** 
 
-* ["Behavioral Insights To End Global Poverty" \(Princeton report for TLYCS, Jan 2021\)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0)
+#### ["Behavioral Insights To End Global Poverty" \(Princeton report for TLYCS, Jan 2021\)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0)
 
-  
-  
- 1. [https://twitter.com/zeitzoff/status/1415001232901562372](https://twitter.com/zeitzoff/status/1415001232901562372) 2. More likely to support harsh punishments for consequentia**l**ist reasons \[WHAT'S THE CONNECTION?\]
+DR: takeaways \(from summary... the Author's takes _except where italicized_\)
+
+* 5 key principles: choice architecture,social norms, empathy, overhead cost aversion, and anchoring
+
+Factual:
+
+* TLYCS demographics are predictable \(White, Male, tech...\)
+* Donations cluster at end of tax year 
+
+Pages and promotion
+
+*  Social media channel is promising?
+* "Best charities" page underperforms -- high bounce.
+  * _DR: Maybe because Givewell etc do better at this?_
+* "Visual presentation of charities does have an effect
+  * _DR: Not clear how this is causally identified_
+* Ran "social media tests' they claim are underpowered. 
+  * _DR:_ but these can be analysed with Bayesian methods for actionable insights
+* suggest simplified presentation/navigation, 'decision tree quiz' to reduce cognitive load
+
+ 
+
+#### Other work 
 
 Bilal suggested reading this special issue: 
 
@@ -62,7 +82,7 @@ Other papers in that issue \(some in lab settings\) also appear relevant, esp:
 _But note that some of these papers are from 'big Economists' who normally would see "getting a paper in a JBEE special issue" as a non-success. So each paper probably has important limitations._ 
 {% endhint %}
 
-
+[https://twitter.com/zeitzoff/status/1415001232901562372](https://twitter.com/zeitzoff/status/1415001232901562372) 2. More likely to support harsh punishments for consequentialist reasons \[WHAT'S THE CONNECTION?\]
 
 Bilal also talked about this intervention which involved video messages by one of the authors: ["Messages on Covid Prevention in India..."](https://www.nber.org/system/files/working_papers/w27496/w27496.pdf) \(NBER\) 
 
