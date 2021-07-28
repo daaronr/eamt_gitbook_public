@@ -42,6 +42,7 @@
 ## Methods discussion <a id="methodological-discussion"></a>
 
 * [Implementation and collecting data: Issues](methodological-discussion/implementation-and-collecting-data-issues/README.md)
+  * [Geographic segmentation/blocked randomization](methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
   * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
 * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * [Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)

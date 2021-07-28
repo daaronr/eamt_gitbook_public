@@ -28,7 +28,7 @@ I present and discuss this breakdown, a more practical breakdown, and specific e
 
 These barriers are also mapped, and connected with tools and evidence in [this \(other\) Airtable](https://airtable.com/invite/l?inviteId=invfxhuOkmvi1DOKh&inviteToken=cee3b07b80a8ec3d4a4ca146dfe5148cde17e637c156719822d8732fbff46e3c&utm_source=email).
 
-See 'barriers' View Her
+See 'barriers' View 
 
 {% embed url="https://airtable.com/shrIxrtwL1Nb1DLGL" caption="" %}
 

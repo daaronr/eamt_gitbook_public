@@ -73,7 +73,7 @@ Currently every other Wednesday 1pm.
 
 DR: takeaways \(from summary... the Author's takes _except where italicized_\)
 
-* 5 key principles: choice architecture,social norms, empathy, overhead cost aversion, and anchoring
+* 5 key principles: choice architecture, social norms, empathy, overhead cost aversion, and anchoring
 
 Factual:
 
@@ -91,6 +91,8 @@ Pages and promotion
   * _DR:_ but these can be analyzed with Bayesian methods for actionable insights
 * suggest simplified presentation/navigation, 'decision tree quiz' to reduce cognitive load
 
+_Bilal agrees that this could be a good jumping-off point for suggesting trials_
+
 #### Other work 
 
 Bilal suggested reading this special issue: 
@@ -100,11 +102,10 @@ Bilal suggested reading this special issue:
 {% hint style="info" %}
 David Reinstein: The Karlan and Wood paper is particularly relevant. I see that as the first -- albeit limited and contextual -  evidence on how donors react to quantitative/scientific impact information.  My notes on this paper are [HERE](https://daaronr.github.io/ea_giving_barriers/eval-aversion.html#analytical-grinch) \(I should incorporate these into the present wiki to enable discussion and expansion\)  
   
-Other papers in that issue \(some in lab settings\) also appear relevant, esp:  
+Other papers in that issue \(some in lab settings\) also appear relevant, especially:  
 - [Do people donate more when they perceive a single beneficiary whom they know? A field experimental test of the identifiability effect](https://www.sciencedirect.com/science/article/pii/S2214804316300179)  
 [- Information and donations to development aid projects](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300295) \(Lab giving to charities\)   
 - Maybe:  [Nudging charitable giving: Three field experiments](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300222)  
-  
   
 _But note that some of these papers are from 'Big Economists' who normally would see "getting a paper in a JBEE special issue" as a non-success. So each paper probably has important limitations._ 
 {% endhint %}
@@ -112,6 +113,4 @@ _But note that some of these papers are from 'Big Economists' who normally would
 [https://twitter.com/zeitzoff/status/1415001232901562372](https://twitter.com/zeitzoff/status/1415001232901562372) 2. More likely to support harsh punishments for consequentialist reasons \[WHAT'S THE CONNECTION?\]
 
 Bilal also talked about this intervention which involved video messages by one of the authors: ["Messages on Covid Prevention in India..."](https://www.nber.org/system/files/working_papers/w27496/w27496.pdf) \(NBER\) 
-
- 
 
