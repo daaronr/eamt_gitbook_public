@@ -28,7 +28,7 @@ Other partner contact: Jon Behar \(Giving Games\)
 * [Profiling](../profiling-and-segmentation/profiling-discussion.md)
   * TLYCS are a little bit older / more female than Givewell/GWWC
   * Who is most likely to donate overseas? People who travel…
-  * Neela mentioned some analysis which could be useful  in the below document
+  * Neela mentioned ["Behavioral Insights To End Global Poverty" \(Princeton report for TLYCS, Jan 2021\)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0)
 
 {% file src="../.gitbook/assets/behavioral\_insights\_to\_end\_global\_poverty\_12-15.pdf" caption="TLYCS behavioral analysis" %}
 
@@ -67,7 +67,9 @@ Currently every other Wednesday 1pm.
 
 ### **Other research** 
 
-#### ["Behavioral Insights To End Global Poverty" \(Princeton report for TLYCS, Jan 2021\)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0)
+#### ["Behavioral Insights To End Global Poverty" \(Princeton report for TLYCS, Jan 2021\)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0) \(dropbox-shared version\)
+
+> _Modelling the project around the Princeton report seems like it could work and will seem more organic_
 
 DR: takeaways \(from summary... the Author's takes _except where italicized_\)
 
@@ -86,7 +88,7 @@ Pages and promotion
 * "Visual presentation of charities does have an effect
   * _DR: Not clear how this is causally identified_
 * Ran "social media tests' they claim are underpowered. 
-  * _DR:_ but these can be analysed with Bayesian methods for actionable insights
+  * _DR:_ but these can be analyzed with Bayesian methods for actionable insights
 * suggest simplified presentation/navigation, 'decision tree quiz' to reduce cognitive load
 
 #### Other work 
