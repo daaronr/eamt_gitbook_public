@@ -14,27 +14,27 @@ Methods I have been thinking about include targeting based on:
 
 -          Public lists of political donations \(e.g, archive.org\)
 
-o   Could target donors who donated to candidates sympathetic to a relevant cause area
+                    o   Could target donors who donated to candidates sympathetic to a relevant cause area
 
 -          Internet activity
 
-o   Watching videos relevant to a cause area
+                    o   Watching videos relevant to a cause area
 
-o   Reddit threads relative to a cause area
+                    o   Reddit threads relative to a cause area
 
-o   Reading magazines / news websites relevant to a cause area
+                    o   Reading magazines / news websites relevant to a cause area
 
-o   Searching or going on webpages for, say, Charity Navigator
+                    o   Searching or going on webpages for, say, Charity Navigator
 
 -          Education
 
-o   Enrollment on a degree relevant to a cause area
+                    o   Enrollment on a degree relevant to a cause area
 
-o   People at institutions which are likely to give them more influence
+                    o   People at institutions which are likely to give them more influence
 
 -          Exploiting social network structure
 
-o   Targeting on basis of number of followers / friends / etc..
+                    o   Targeting on basis of number of followers / friends / etc..
 
 -          Searching for specific terms on search engines
 
