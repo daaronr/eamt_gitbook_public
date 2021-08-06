@@ -7,6 +7,11 @@ description: >-
 
 # Ads \(Google, Youtube...\)
 
+
+## Youtube ads: Lift test
+
+
+
 ## Notes from conversation with JS Winchell .. needs cleaning
 
 'Drafts and experiments' feature on google/youtube

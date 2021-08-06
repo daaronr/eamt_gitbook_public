@@ -22,3 +22,27 @@ As well as
 
 {% embed url="https://airtable.com/shrUGJuhyxrKGMEUm" caption="" %}
 
+
+## Some tools and tests of high-interest (overview, quick presentatinos)
+
+## Nick Fitz: "some quick types of different tests/questions EA orgs are interested in"
+
+- identifiable victims vs statistical (etc), (DR: Some groups have principled objections to presenting identified victims; which ones do *not?*)
+
+- emotional vs factual/statements,
+
+- videos v images v text,
+
+- positive v negative valence,
+
+- opportunity v obligation,
+
+- cause areas (Not sure what exactly this meant)
+
+- different framings for specific EA orgs
+    - e.g., for GWWC they want to test 1% v 10% pledge asks,
+    - for CES they want to test saving-democracy v representation messaging,
+    - for Humane League they want to test different types of animals, etc)
+
+
+
