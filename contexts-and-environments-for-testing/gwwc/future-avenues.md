@@ -1,24 +1,27 @@
 # Future Avenues
 
-**Targeting**
+## **Targeting** 
 
-If the aim is to change the culture of giving generally, what kind of people should we be targeting?
+_See also_ [_Profiling: Discussion_](../../profiling-and-segmentation/profiling-discussion.md)
+
+**Question:** If our aim is _to change the culture of giving in general_, what kind of people should we be targeting?
 
 1.       People with lots of social influence
 
-2.       Low hanging fruit \(i.e., people who are naturally predisposed towards these ideas\)
+2.       Low-hanging fruit \(i.e., people who are naturally predisposed towards effective giving, pledging, and EA\)
 
-One interesting thing to do would be to try different methods of outreach and compare them on a basis of cost per whatever-metric-we-use.
+{% hint style="success" %}
+**Idea:** Compare different outreach methods on the basis of "cost per pledge" \(or per "whatever-metric-we-use"\). \(Outcomes:  [Outcome: Effective gift](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/)... and [Outcome: Pledge](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/)... \)
+{% endhint %}
 
-Methods I have been thinking about include targeting based on:  
+Compare _different outreach methods_ on the basis of "cost per pledge" \(or per "whatever-metric-we-use"\). \(See [Outcome: Effective gift.](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/).. and [Outcome: Pledge..](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/). discussions.\)
 
--          Public lists of political donations \(e.g, archive.org\)
+### Ideas/methods for targeting:  
 
-                    o   Could target donors who donated to candidates sympathetic to a relevant cause area
-
--          Internet activity
-
-                    o   Watching videos relevant to a cause area
+*          Public lists of political donations \(e.g, [archive.org](www.archive.org)\) 
+  * ... donors to candidates sympathetic to a relevant cause area
+* Internet activity
+  * Watching videos relevant to a cause area
 
                     o   Reddit threads relative to a cause area
 
