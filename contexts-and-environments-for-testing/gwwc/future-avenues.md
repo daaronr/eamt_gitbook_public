@@ -10,7 +10,7 @@ _See also_ [_Profiling: Discussion_](../../profiling-and-segmentation/profiling-
 2. Low-hanging fruit \(i.e., people who are naturally predisposed towards effective giving, pledging, and EA\)
 
 {% hint style="success" %}
-**Idea:** Compare different outreach methods on the basis of "cost per pledge" \(or per "whatever-metric-we-use"\). \(Outcomes: [Outcome: Effective gift](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/)... and [Outcome: Pledge](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/)... \)
+**Idea:** Compare different outreach methods on the basis of "cost per pledge" \(or per "whatever-metric-we-use"\). \(Outcomes: [Outcome: Effective gift](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/)... & [Outcome: Pledge](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/)... \)
 {% endhint %}
 
 Compare _different outreach methods_ on the basis of "cost per pledge" \(or per "whatever-metric-we-use"\). \(See [Outcome: Effective gift.](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/).. and [Outcome: Pledge..](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/). discussions.\)
@@ -35,15 +35,18 @@ Compare _different outreach methods_ on the basis of "cost per pledge" \(or per 
 
 ## Other, scalable contexts in which to test outreach messaging
 
-Platforms that facilitate randomization:
+### Platforms enabling individual randomization & tracking 
 
-* Email lists \(subject headings with 'open rates' as dependent variable\)
-* Facebook \(but you may need/want to switch off its targeting algorithm\)
+* Email lists \(subject headers w/ 'open rates' as dependent variable\)
+* Facebook 
+  * But the targeting algorithm may frustrate randomization
 
-Platforms that facilitate randomization by geography \(for ease of attribution… so long as you can tell the zip codes of people who sign up to email lists etc.\) or perhaps would randomize different versions of adverts and allow you to measure click rates – but that I don’t have experience with.
+### Platforms that facilitate [randomization by geograph](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) 
+
+This is helpful [for ease of attribution](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) if the **important outcomes** can be tracked by zip code/address. 
 
 * Online display advertising
-* Googlesearch
+* Google search
 * YouTube
 * LinkedIn
 
