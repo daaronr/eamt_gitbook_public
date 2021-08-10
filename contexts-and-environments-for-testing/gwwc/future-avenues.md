@@ -1,6 +1,6 @@
 # Future Avenues
 
-## **Targeting** 
+## **Targeting**
 
 _See also_ [_Profiling: Discussion_](../../profiling-and-segmentation/profiling-discussion.md)
 
@@ -16,82 +16,64 @@ _See also_ [_Profiling: Discussion_](../../profiling-and-segmentation/profiling-
 
 Compare _different outreach methods_ on the basis of "cost per pledge" \(or per "whatever-metric-we-use"\). \(See [Outcome: Effective gift.](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/).. and [Outcome: Pledge..](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/). discussions.\)
 
-### Ideas/methods for targeting:  
+### Ideas/methods for targeting:
 
-*          Public lists of political donations \(e.g, [archive.org](www.archive.org)\) 
+*          Public lists of political donations \(e.g, [archive.org](www.archive.org)\)
   * ... donors to candidates sympathetic to a relevant cause area
 * Internet activity
-  * Watching videos relevant to a cause area
+    * Watching videos relevant to a cause area
+    - Reddit threads relevant to a cause area
+    - Reading magazines / news websites relevant to a cause area
+    - Searching or going on webpages for, say, Charity Navigator
+- Education
+    - Enrollment on a degree relevant to a cause area
+    - People at high-status institutions (which are likely to give them more influence)
+- Exploiting social network structure
+    - Targeting on basis of number of followers / friends / etc..
+- Searching for specific terms on search engines
 
-                    o   Reddit threads relative to a cause area
+- Podcasts listeners (philanthropy, economics, development and global health ...)
 
-                    o   Reading magazines / news websites relevant to a cause area
-
-                    o   Searching or going on webpages for, say, Charity Navigator
-
--          Education
-
-                    o   Enrollment on a degree relevant to a cause area
-
-                    o   People at institutions which are likely to give them more influence
-
--          Exploiting social network structure
-
-                    o   Targeting on basis of number of followers / friends / etc..
-
--          Searching for specific terms on search engines
-
--          Podcasts people listen to \(e.g., podcasts about philanthropy or economics\)
-
-**Other, scalable contexts in which to test outreach messaging**
+## Other, scalable contexts in which to test outreach messaging
 
 Platforms that easily facilitate randomization:
 
--          Email lists \(subject headings with DV as open rates might work\)
+- Email lists \(subject headings with 'open rates' as dependent variable\)
+- Facebook \(but you may need/want to switch off its targeting algorithm \)
 
--          Facebook \(but you can’t stop it targeting different message to different populations\)
+Platforms that facilitate randomization by geography \(for ease of attribution… so long as you can tell the zip codes of people who sign up to email lists etc.\) or perhaps would randomize different versions of adverts and allow you to measure click rates – but that I don’t have experience with.
 
-Platforms that should facilitate randomization by geography \(for ease of attribution… so long as you can tell the zip codes of people who sign up to email lists etc.\) or perhaps would randomize different versions of adverts and allow you to measure click rates – but that I don’t have experience with.
+- Online display advertising
+- Googlesearch
+- YouTube
+- LinkedIn
 
--          Online display advertising
+## Testing Rich Content
 
--          Googlesearch
+(DR: what do you mean here? Give a link to a discussion of this?)
 
--          YouTube
+### How to test rich content?
 
--          LinkedIn
+- Emails might be an opportunity
+- Surveys with professional participants
+- Surveys with undergraduates
 
-**How to test rich content?**
+Not sure if you can generalize from convenience samples – might be good to think of creative ways of doing that though, e.g., looking at which content creates the most extreme enthusiasm.
 
--          Emails might be an opportunity
+### What to test in rich content?
 
--          Surveys with professional participants
+- Does messenger matter?
+- Does messenger demographics and appearance matter?
+- Does it depend on audience?
+- What’s the optimal length?
 
--          Surveys with undergraduates
+### Message customization
 
-Not sure if you can generalize from convenience samples – might be good to think of creative ways of doing that though, e.g., looking at which content creates the most extreme enthusiasm.  
+We haven’t thought about this much but it seems important – it might be worth, for example, having different messaging for different cause areas and letting them be algorithmically targeted.
 
-**What to test in rich content?**
+## Imagery / non-content considerations
 
--          Does messenger matter?
-
--          Does messenger demographics and appearance matter?
-
--          Does it depend on audience?
-
--          What’s the optimal length?
-
-**Message customization**
-
-We haven’t thought about this much but it seems important – it might be worth, for example, having different messaging for different cause areas and letting them be algorithmically targeted. 
-
-**Imagery / non-content considerations**
-
--          How many images to include on a page?
-
--          How much text to include in a page?
-
--          How many buttons?
-
--          How many choice options?
-
+- How many images to include on a page?
+- How much text to include in a page?
+- How many buttons?
+- How many choice options?
