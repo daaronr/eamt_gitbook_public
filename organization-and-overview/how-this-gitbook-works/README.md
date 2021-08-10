@@ -36,7 +36,7 @@ In newly created blocks/elements "command-slash" \(on mac\) brings up a lot of c
 
 **What if I get a 'conflict'?** If 2 people edit simultaneously and both make changes they try to merge in, this can happen. It should be simple enough to resolve. Just find the icon for the bits indicating a conflict, and choose which version you want to keep.
 
-![](../../.gitbook/assets/image%20%282%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%282%29%20%282%29%20%281%29.png)
 
 It should be simple enough to resolve.  
   
