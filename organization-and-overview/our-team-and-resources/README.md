@@ -8,5 +8,5 @@ As individuals and organizations are goal-driven and impact driven: we are in th
 
 {% embed url="https://airtable.com/shroW5VTMAJDafbi3" caption="" %}
 
-{% page-ref page="our-team-and-resources.md" %}
+{% page-ref page="./" %}
 

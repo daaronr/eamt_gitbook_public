@@ -7,7 +7,7 @@ description: How the gitbook sections are organized; we can discuss this
 **Overview of grouped sections ... the basic idea:**
 
 1. [Preamble](../)
-2. Explain [organization](sections-and-organization.md) of the [team](our-team-and-resources.md) and [our tools ](https://github.com/daaronr/effective_giving_market_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)
+2. Explain [organization](sections-and-organization.md) of the [team](our-team-and-resources/) and [our tools ](https://github.com/daaronr/effective_giving_market_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)
 3. "Background:
    * [What we're trying to do and why](../background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md),
    * [What is known/models of effective giving](../background/models-theories-psychological-norms.md), 

@@ -25,5 +25,3 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 
 We are planning a **fortnightly meeting**
 
-TESTING: small _change_ here made/pushed on github witut interface
-
