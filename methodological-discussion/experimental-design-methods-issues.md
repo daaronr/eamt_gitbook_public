@@ -1,4 +1,4 @@
-# Experimental design methods/issues
+# \(Experimental design methods/issues\)
 
 ## Randomization and blocking
 

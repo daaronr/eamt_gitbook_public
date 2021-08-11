@@ -1,2 +1,2 @@
-# Effectiveness information and its presentation
+# \(Effectiveness information and its presentation\)
 

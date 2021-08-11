@@ -1,4 +1,4 @@
-# Issues: tracking and observing outcomes
+# \(Issues: tracking and observing outcomes\)
 
 1. Tracking: See a page, track action afterwards
 2. Putting ads on youtube and testing click through
