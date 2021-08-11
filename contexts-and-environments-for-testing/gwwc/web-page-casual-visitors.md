@@ -24,6 +24,8 @@ Which calls to action work best at getting people to give an email?
 
 These 'calls to action' could be tested across a range of platforms
 
+\(Possible tool: consider elicit.org for alternative phrasings etc, \)
+
 \(Has a list of things, including some 'offers'\), can track these people going forward by email \(or by some cookie?\), can also connect it to EA Funds ... donation outcomes
 
 The 'generic ideas' are mostly going to surround selection
