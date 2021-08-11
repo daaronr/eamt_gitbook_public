@@ -1,12 +1,36 @@
 ---
 description: >-
-  This page just lays out some options for tests that we can prioritize for
-  Giving What We Can.
+  This page just lays out some options for testing implementation strategies
+  that we can prioritize for Giving What We Can.
 ---
 
-# Testing Options List for Prioritization
+# Testing Contexts and Strategies for Prioritization
 
 ## **What to test: simple messaging and themes**
+
+Link content here ... but we are considering _strategies_ on this page, so we don't go into detail.
+
+{% tabs %}
+{% tab title="Types..." %}
+See tabs
+{% endtab %}
+
+{% tab title="Social " %}
+
+{% endtab %}
+
+{% tab title="Obligation" %}
+
+{% endtab %}
+
+{% tab title="Effectiveness" %}
+dsasdfas  
+  
+blah  
+  
+blah
+{% endtab %}
+{% endtabs %}
 
 ## Scalable contexts/platforms: to test outreach messaging
 
@@ -56,7 +80,7 @@ Not sure if you can generalize from convenience samples – might be good to thi
 * Does it depend on audience?
 * What’s the optimal length?
 
-### Message customization
+## Message customization \(heterogeneity and targeted marketing\)
 
 We haven’t thought about this much but it seems important – it might be worth, for example, having different messaging for different cause areas and letting them be algorithmically targeted.
 
@@ -67,9 +91,7 @@ We haven’t thought about this much but it seems important – it might be wort
 * How many buttons?
 * How many choice options?
 
-
-
-
+The 'mysterious sauce' ... JS knows about ... we don't always have a "theory" but it might be meaningful.
 
 ## **Targeting**
 
