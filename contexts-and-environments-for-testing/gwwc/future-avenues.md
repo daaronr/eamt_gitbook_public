@@ -1,4 +1,10 @@
-# Future Avenues
+---
+description: >-
+  This page just lays out some options for tests that we can prioritize for
+  Giving What We Can.
+---
+
+# Testing Options List for Prioritization
 
 ## **Targeting**
 
