@@ -13,7 +13,7 @@ _See also_ [_Profiling: Discussion_](../../profiling-and-segmentation/profiling-
 **Question:** If our aim is _to change the culture of giving in general_, what kind of people should we be targeting?
 
 1. People with lots of social influence
-2. Low-hanging fruit \(i.e., people who are naturally predisposed towards effective giving, pledging, and EA\)
+2. Low-hanging fruit \(i.e., people who are naturally predisposed towards effective giving, pledging, & EA\)
 
 {% hint style="success" %}
 **Idea:** Compare different outreach methods on the basis of "cost per pledge" \(or per "whatever-metric-we-use"\). \(Outcomes: [Outcome: Effective gift](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/)... & [Outcome: Pledge](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/)... \)
@@ -39,13 +39,20 @@ Compare _different outreach methods_ on the basis of "cost per pledge" \(or per 
 * Key search terms \(google 'effective giving' etc\)
 * Podcasts listeners \(philanthropy, economics, development & global health ...\)
 
-## Other, scalable contexts in which to test outreach messaging
+## Scalable contexts/platforms: to test outreach messaging
 
-### Platforms enabling individual randomization & tracking 
+### ... enabling individual randomization & tracking of medium-term outcomes 
 
-* Email lists \(subject headers w/ 'open rates' as dependent variable\)
-* Facebook 
-  * But the targeting algorithm may frustrate randomization
+* GWWC web site _at point of email signup_
+* Email lists 
+  * immediate: subject headers w/ 'open rates' as dependent variable
+  * medium-term: all outcomes tied to email
+
+### ... immediate outcomes \(clicks etc\)
+
+Facebook 
+
+* But the targeting algorithm may frustrate randomization. Can it be switched off?
 
 ### Platforms that facilitate [randomization by geograph](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) 
 
@@ -55,6 +62,7 @@ This is helpful [for ease of attribution](../../methodological-discussion/implem
 * Google search
 * YouTube
 * LinkedIn
+* Facebook \(presumably
 
 ## Testing Rich Content
 
