@@ -54,7 +54,7 @@ Facebook
 
 * But the targeting algorithm may frustrate randomization. Can it be switched off?
 
-### Platforms that facilitate [randomization by geograph](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) 
+### ... facilitate [randomization by geograph](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) 
 
 This is helpful [for ease of attribution](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) if the **important outcomes** can be tracked by zip code/address. 
 
@@ -62,13 +62,17 @@ This is helpful [for ease of attribution](../../methodological-discussion/implem
 * Google search
 * YouTube
 * LinkedIn
-* Facebook \(presumably
+* Facebook \(presumably\)
 
 ## Testing Rich Content
 
-Luke mentioned it would be a high priority to test the effectiveness of "rich content", i.e., short or even long talks, book chapters, podcasts, and so forth. It might be something paid participants are more useful for as we can get richer feedback too.  
+\(explain why this is a priority and what it is\)
 
 ### How to test rich content?
+
+We can use some of the same strategies as above to test  "rich content", i.e., short or even long talks, book chapters, podcasts, and so forth. 
+
+However, we may also want richer more detailed 'qualitative' feedback.. Paid participants may allow  richer feedback.  
 
 * Emails might be an opportunity
 * Surveys with professional participants
