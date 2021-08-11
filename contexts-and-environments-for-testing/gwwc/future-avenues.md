@@ -19,7 +19,7 @@ Compare _different outreach methods_ on the basis of "cost per pledge" \(or per 
 
 * Public lists of political donations \(e.g, [archive.org](https://github.com/daaronr/effective_giving_market_testing/tree/6930982530446fb3eca07600975697123b09c7da/contexts-and-environments-for-testing/gwwc/www.archive.org)\)
   * ... donors to candidates sympathetic to a relevant cause area
-* Internet activity ... those who watch/read/search
+* Internet activity ... those who watch/read/search for:
   * Videos relevant to a cause area
   * Reddit threads relevant to a cause area
   * Magazines/news sites relevant to a cause area
