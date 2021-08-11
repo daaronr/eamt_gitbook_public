@@ -8,7 +8,7 @@
   * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
 * [Sections and organization](organization-and-overview/sections-and-organization.md)
 * [Our team and resources](organization-and-overview/our-team-and-resources/README.md)
-  * [Overview: EA Forum post](organization-and-overview/our-team-and-resources/overview-ea-forum-post.md)
+  * [Overview: Posts and writings](organization-and-overview/our-team-and-resources/overview-ea-forum-post.md)
 
 ## Background and existing evidence <a id="background"></a>
 
