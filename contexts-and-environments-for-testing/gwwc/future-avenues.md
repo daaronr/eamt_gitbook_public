@@ -52,7 +52,7 @@ This is helpful [for ease of attribution](../../methodological-discussion/implem
 
 ## Testing Rich Content
 
-\(DR: what do you mean here? Give a link to a discussion of this?\)
+Luke mentioned it would be a high priority to test the effectiveness of "rich content", i.e., short or even long talks, book chapters, podcasts, and so forth. It might be something paid participants are more useful for as we can get richer feedback too.  
 
 ### How to test rich content?
 
