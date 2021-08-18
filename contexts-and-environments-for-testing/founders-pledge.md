@@ -1,2 +1,2 @@
-# \(Founders pledge\)
+# \(Founders Pledge\)
 

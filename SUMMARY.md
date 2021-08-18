@@ -35,7 +35,7 @@
   * [Pledgers/emails \(placeholder\)](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
   * [Testing Contexts and Strategies for Prioritization](contexts-and-environments-for-testing/gwwc/future-avenues.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs.md)
-* [\(Founders pledge\)](contexts-and-environments-for-testing/founders-pledge.md)
+* [\(Founders Pledge\)](contexts-and-environments-for-testing/founders-pledge.md)
 * [One For the World](contexts-and-environments-for-testing/one-for-the-world.md)
 * [\(Other\)](contexts-and-environments-for-testing/other/README.md)
   * [FLI \(adjacent\)](contexts-and-environments-for-testing/other/fli-adjacent.md)
