@@ -33,6 +33,7 @@
   * [Web page \(casual visitors\)](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
   * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
   * [Pledgers/emails \(placeholder\)](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
+  * [Facebook ads \(GWWC\)](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md)
   * [Testing Contexts and Strategies for Prioritization](contexts-and-environments-for-testing/gwwc/future-avenues.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs.md)
 * [\(Founders Pledge\)](contexts-and-environments-for-testing/founders-pledge.md)
