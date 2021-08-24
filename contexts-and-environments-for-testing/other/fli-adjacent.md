@@ -1,2 +1,2 @@
-# FLI \(adjacent\)
+# \(FLI \(adjacent\)\)
 

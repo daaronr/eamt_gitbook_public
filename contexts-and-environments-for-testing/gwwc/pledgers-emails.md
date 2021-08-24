@@ -4,5 +4,5 @@ description: >-
   signed up for mailing list?)
 ---
 
-# Pledgers/emails \(placeholder\)
+# \(Pledgers/emails\)
 

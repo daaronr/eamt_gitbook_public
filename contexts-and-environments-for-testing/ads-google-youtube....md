@@ -1,2 +1,2 @@
-# Ads \(Google, Youtube...\)
+# \(Ads \(Google, Youtube...\)\)
 

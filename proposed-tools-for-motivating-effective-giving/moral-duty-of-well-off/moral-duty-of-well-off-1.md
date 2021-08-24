@@ -1,2 +1,2 @@
-# Moral duty \(of well-off\)
+# \(Moral duty \(of well-off\)\)
 
