@@ -18,7 +18,9 @@ Self-stated ['reasons why I pledge' in some survey ](https://docs.google.com/spr
 Which calls to action work best at getting people to give an email?
 
 * Join a community of effective givers
-* Do the most good with your donations... 
+* Do the most good with your donations...
+
+ 
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
