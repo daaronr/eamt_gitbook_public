@@ -16,3 +16,5 @@ Statistical power versus optimized learning
 
 ### Which statistical tests/methods
 
+[https://gitlab.com/dsbowen/conditional-inference/-/blob/master/examples/bayes\_primer.ipynb](https://gitlab.com/dsbowen/conditional-inference/-/blob/master/examples/bayes_primer.ipynb)
+
