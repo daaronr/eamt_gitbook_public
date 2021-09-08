@@ -11,6 +11,17 @@ Other partner contact: Jon Behar \(Giving Games\)
 
 ### Contexts and plans
 
+
+
+New initiatives of interest
+
+1. bespoke recommended charities or charity bundles for different 'cause areas of interest'
+2. sales funnel or open-response interaction to help get people into different areas/interest ... a completely automated "DAO" as the ultimate product
+
+
+
+Other notes
+
 * Target "Giving Season" timing-wise
 * What would be actionable?
 * How do people come into this funnel?
