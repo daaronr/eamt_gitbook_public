@@ -13,7 +13,19 @@ Other partner contact: Jon Behar \(Giving Games\)
 
 ### **Bespoke recommendations and funds**
 
-_TLYCS is considering introducing cause-area funds to allow people with specific cause and beneficiary preferences to nonetheless have effective giving options.  They are also considering tools for helping elicit these preferences and guide people._ 
+TLYCS is considering introducing cause-area funds to allow people with specific cause and beneficiary preferences to nonetheless have effective giving options.  They are also considering tools for helping elicit these preferences and guide people. 
+
+_Issues/questions:_ 
+
+* Will cause-specific funds increase overall giving? \(If not it may be a negative, as it could decrease overall efficiency\)
+  * How to best present and describe cause-specific funds? Which causes?
+* Will asking people about their preferences increase \(or decrease\) giving? Why or why not?
+  * Makes them feel more cared about \(+\)
+  * Tailoring, better donor optimization to own preferences \(+\)
+  * Opportunity for expressive giving, even if automated \(+\)
+  * More forms to fill out --&gt; more time and cognitive cost \(-\)
+  * "Automated questions" \(& bots\) --&gt; feeling personally neglected, less expressive \(-\)
+  * Uncertainty about preferences --&gt; inaction \(-\)
 
 _We outline a proposed_ [_Funds Recommendations_ ](funds-recommendations-trial.md)_trial in the subchapter_ [_\(linked\)_](funds-recommendations-trial.md)\_\_
 
