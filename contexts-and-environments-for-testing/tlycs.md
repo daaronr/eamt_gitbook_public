@@ -15,8 +15,26 @@ Other partner contact: Jon Behar \(Giving Games\)
 
 New initiatives of interest
 
-1. bespoke recommended charities or charity bundles for different 'cause areas of interest'
-2. sales funnel or open-response interaction to help get people into different areas/interest ... a completely automated "DAO" as the ultimate product
+_Bespoke recommendations and funds_
+
+1. No Questions Group \(CONTROL\): no questions,
+   1.  25-30 to choose from  or Single fund ... 90-10 fund \[possibly consider testing  emphasis\]
+   2. 25-30 to choose + Four bundled cause-area groups \(Cause areas: Climate, Poverty,..\)   + 90/10 ...
+2. THREE QUESTIONS group \('what are you interested in'? etc\)
+   1. Get 5 bespoke charities recommended and the 90-10 fund
+   2. Get 5 bespoke charities + 1 bespoke fund + 90-10
+   3. ?? 1 bespoke fund + 90-10 only?
+
+
+
+* ALTERNATIVE: compare sales funnel or open-response interaction to help get people into different areas/interest ... a completely automated "DAO" as the ultimate product
+* vs human interaction? to what extent do we recommend the bot or not? 
+
+
+
+_"Start-up impact initiatives ... incubation granting' ..._ 
+
+relates to charity entrepreneurs and DPrize
 
 
 
