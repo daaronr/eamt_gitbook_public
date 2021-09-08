@@ -4,6 +4,8 @@
 
 Dillon Bowen: End of 3rd year of decision processes in Wharton Phd.
 
+Here is a stats package for estimating effect sizes in multi-armed experiments. [https://dsbowen.gitlab.io/conditional-inference/](https://dsbowen.gitlab.io/conditional-inference/)
+
 ### **Adaptive experimentation**,
 
 ...running experiments with many arms and winnowing out the 'best ones' to learn the most/best.
