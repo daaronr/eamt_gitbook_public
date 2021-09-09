@@ -1,16 +1,18 @@
 ---
-description: Jack Lewars is the lead contact.
+description: Chloë Cudaback is the lead contact. (Previously Jack Lewars)
 ---
 
-# One For the World
+# One For the World \(OftW\)
 
-## Background on OFTW
+## Background on OftW
 
 OFTW has a donor base of ~700 active donors, ~1650 pledged donors \(who pledged but haven't started donating yet\) and ~2000 lapsed donors.
 
 80 percent \(of donors?\) are in the USA  
 
 Focus on global health charities
+
+They focus  on donations to GiveWekk charities ... but technically any 510c3
 
 
 
@@ -38,16 +40,19 @@ OFTW has a donor base of ~700 active donors, ~1650 pledged donors \(who pledged 
 
 ### NYU - message testing on our homepage
 
-We are working with Joshua Lewis and a group of students at NYU to experiment with messaging on our homepage. A full write-up of this will follow, but essentially we have chosen two new framings for OFTW's message to feature on variations of our homepage, and we're running an A/B test with the [existing homepage](https://www.1fortheworld.org/) as a control. The two messages we are testing are:
+We are working with Joshua Lewis and a group of students at NYU to experiment with messaging on our homepage. A full write-up of this will follow, but essentially we have chosen two new framings for OFTW's message to feature on variations of our homepage, and we're running an A/B test with the [existing homepage](https://www.1fortheworld.org/) as a control. 
 
-lock on donating to GW charities ... but technically any 510c3
+"Exiting home page as of  9 Sep 2021"
 
-1. Identifiable victim:  
-   **How to help children like Zawadi**
+![](../.gitbook/assets/image%20%288%29.png)
 
-   Zawadi was malnourished as a baby, but with help from our top charities, is now healthy, happy, and has survived her 5th birthday. If the Zawadi had died, her family would have lost a child they loved, and Zawadi would have lost a lifetime of experiences. Our top charities are among save among the most lives per dollar of any charity. The more donations these charities receive, the more children like Zawadi will survive."
+  
+  
+The two messages we are testing are:
 
-2. Who needs money more?
+1. **T1: dentifiable victim: How to help children like Zawadi**
+   1. Zawadi was malnourished as a baby, but with help from our top charities, is now healthy, happy, and has survived her 5th birthday. If the Zawadi had died, her family would have lost a child they loved, and Zawadi would have lost a lifetime of experiences. Our top charities are among save among the most lives per dollar of any charity. The more donations these charities receive, the more children like Zawadi will survive."
+2. **T2: Who needs money more?**
 
    **Can you live on 99% of your income?**
 

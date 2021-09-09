@@ -27,7 +27,7 @@ _Issues/questions:_
   * "Automated questions" \(& bots\) --&gt; feeling personally neglected, less expressive \(-\)
   * Uncertainty about preferences --&gt; inaction \(-\)
 
-_We outline a proposed_ [_Funds Recommendations_ ](funds-recommendations-trial.md)_trial in the subchapter_ [_\(linked\)_](funds-recommendations-trial.md)\_\_
+_We outline a proposed_ [_Funds Recommendations trial i_](funds-recommendations-trial.md)_n the subchapter_ [_\(linked\)_](funds-recommendations-trial.md)\_\_
 
 ### _"Start-up impact initiatives ... incubation granting' ..._ 
 
