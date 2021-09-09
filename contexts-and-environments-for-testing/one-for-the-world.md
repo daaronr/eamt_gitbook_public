@@ -6,35 +6,100 @@ description: Chloë Cudaback is the lead contact. (Previously Jack Lewars)
 
 ## Background on OftW
 
+_What is OftW and how does it differ from others in this space?_
+
+* Chloe: Focus on youth and university students at a pivotal point in their life
+  * Accesible messaging, more of a starting point, less gatekeeping
+* David: 1% is 'more manageable' as a starting point perhaps
+* Luke: Narrow in focus on type of charities: global health and poverty
+
+  \_\_
+
 OFTW has a donor base of ~700 active donors, ~1650 pledged donors \(who pledged but haven't started donating yet\) and ~2000 lapsed donors.
 
 80 percent \(of donors?\) are in the USA  
 
 Focus on global health charities
 
-They focus  on donations to GiveWekk charities ... but technically any 510c3
+They focus on donations to GiveWell charities ... but technically any 510c3
 
 
 
-### Typical donor journey: 
+### Some key goals 
 
-We are in the process of creating these homepages and setting up conversion tracking. As OFTW has ~0 organic sign ups currently, we are testing for a variety of conversions, including:
+**Reinstein/Lewars conversation notes \(rough\)**
 
-* university campus, someone I like tells me they are involved in oftw, asks me to come along with free food
+* activating more donors who took the pledge at university, so that their donations actually start; 
+* retaining donors for longer once they activate; 
+* upselling donors to give more over time \(either more as a raw amount, e.g. 'keeping pace' at 1% of their income; or more as a percentage, e.g. 'graduating' to take the 10% GWWC pledge\)
+* acquiring new donors with fewer touch points, e.g. via online advertising, via our website etc. \(we currently get ~0 organic sign ups\)
+
+**Cudaback**
+
+[Chloe's OKRs Notion](https://aquamarine-tennis-e2f.notion.site/Chlo-s-OKRs-eb3e27f1356f4bf28829817a3f44e50d)
+
+## Who/what/how to test, learn, and adapt
+
+### **Pipeline/groups/segments**
+
+1. Pledgers
+2. Active donors \(Chloe is thinking of segments to this and how to appeal to them\) 
+   1. Second tier -- people who have given each months for 12+ months; "Legacy donors" \(DR: maybe 1x per year high-value donors should be in this group\)
+3. One-time donors \(these may or may not be pledgers\)
+4. Cancelled
+5. Payment failures
+
+* Another group worth considering: 'pledge-curious supporters' 
+
+### **Goals/actions**
+
+* 'Activating' Pledgers as donors \(pledged but not donated\)
+*  ****Active donors 
+  * Retain
+  * Upsell \(maybe only to the second tier?\)
+* Acquiring pledges, perhaps from a 'pledge-curious group'
+
+### **Interested in knowing more about**
+
+* Content -- expand our ability to tell stories about the beneficiaries
+  * Ways to tell these stories 
+* Frequency \(of comms with supporters\)
+
+### **Communications contexts**
+
+* Platforms: Social media, email flows
+* Telling stories in corporate context 
+
+Typical audience have been students and young professionals, but there is interest in corporate outreach
+
+* Zoom and **lunchtime talks in corporate contexts** \(How many? These seem extremely promising\)
+  * How many people are activating/pledging following these lunch+learn?
+
+## Typical donor journey: 
+
+We are in the process of creating these homepages and setting up conversion tracking. As OFTW has ~0 organic sign ups currently, we are testing for a variety of conversion routes, including: \[Todo: clarify this\]
+
+* university campus, someone I like tells me they are involved in OftW, asks me to come along with free food
 * at some point I take the pledge
 * It is not a highly controlled process
 * asking us \(staff\) a question by email
-* joining a group call with others wanting to learn about effective donating
+* joining a group call with others wanting to learn about effective donating \(Kennan as dir. of chapter management\)
 * taking the pledge
 * making a one-off donation 
 
-### Some rough numbers
+## Some rough numbers
 
-650 active donors 1500 people in pipeline not at start date 
+650 active donors 
 
-750 new people a year are recruited... thinks it would be 2 - 2.5k
+1500 people in pipeline \(pre-activation date\) 
 
-OFTW has a donor base of ~700 active donors, ~1650 pledged donors \(who pledged but haven't started donating yet\) and ~2000 lapsed donors.
+750 new people a year are recruited... thinks it would be 2-2.5k
+
+OFTW has a donor base of ~700 active donors, 
+
+~1650 pledged donors \(who pledged but haven't started donating yet\) and 
+
+~2000 lapsed donors.
 
 ## Ongoing/completed experiments
 
@@ -42,7 +107,7 @@ OFTW has a donor base of ~700 active donors, ~1650 pledged donors \(who pledged 
 
 We are working with Joshua Lewis and a group of students at NYU to experiment with messaging on our homepage. A full write-up of this will follow, but essentially we have chosen two new framings for OFTW's message to feature on variations of our homepage, and we're running an A/B test with the [existing homepage](https://www.1fortheworld.org/) as a control. 
 
-"Exiting home page as of  9 Sep 2021"
+"Existing home page as of  9 Sep 2021"
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
@@ -83,19 +148,22 @@ For all donors who are due to reach a donation milestone next month - that is, t
 
 length of time for feedback is a challenge
 
-1. a control email saying 'thank you for pledging - 
+1. a control email saying 'thank you for pledging'
 2. a treatment email saying 'thank you for pledging - do you plan to donate $x again next month, or would you like to update your donation? Click here to keep the current amount / click here to update your donation amount'
 
 Both emails come from Jack as Executive Director. We hope that people who get the treatment email will be more likely to keep donating and/or to increase their donation amount.
 
-## Other notes
+## Other notes– going forward steps
 
-### Reinstein/Lewars conversation notes \(rough\)
+9 Sep 2021 
 
-* activating more donors who took the pledge at university, so that their donations actually start; 
-* retaining donors for longer once they activate; 
-* upselling donors to give more over time \(either more as a raw amount, e.g. 'keeping pace' at 1% of their income; or more as a percentage, e.g. 'graduating' to take the 10% GWWC pledge\)
-* acquiring new donors with fewer touch points, e.g. via online advertising, via our website etc. \(we currently get ~0 organic sign ups\)
+1. Potentially interested in 'joining our group' and coming to \(e.g.\) 1x per month cross-org meetings
+2. Engaging with this Gitbook and other resources
+3. Tests and trials of interest -- thinking about it
+4. Possibly open to collaboration with other orgs \(GWWC, TLYCS etc\) on 
+   * Advertisement and social media campaigns and tests/trials
+   * Corporate lunchtime talks and outreach \(could be done jointly\)
+   * Sharing data and insights
 
 ## Resources
 

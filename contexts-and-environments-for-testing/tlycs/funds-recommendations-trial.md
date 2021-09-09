@@ -7,7 +7,7 @@ description: The Life You Can Save.
 ## Proposed trial design \('conceptual 2x2'\)
 
 1. No Questions dimension
-   *  CONTROL: 25-30 charities to choose from or Single fund ... 90-10 fund \[possibly consider testing  emphasis\]
+   * CONTROL: 25-30 charities to choose from or Single fund ... 90-10 fund \[possibly consider testing  emphasis\]
    * BUNDLES: 25-30 to choose + Four bundled cause-area groups \(Cause areas: Climate, Poverty,..\)   + 90/10 ...
 2. Questions dimension \('what are you interested in'? etc\)
    * RECOMMEND: Get 5 bespoke charities recommended and the 90-10 fund

@@ -5,5 +5,5 @@ description: >-
   charities
 ---
 
-# Outcome: Pledge, give substantially \(& effectively\)
+# \(Outcome: Pledge, give substantially \(& effectively\)\)
 

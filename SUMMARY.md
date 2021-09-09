@@ -19,9 +19,9 @@
 ## Tools and trials <a id="proposed-tools-for-motivating-effective-giving"></a>
 
 * [Tools and trials: overview](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md)
-* [Outcome: Effective gift/consider impact](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
+* [\(Outcome: Effective gift/consider impact\)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
   * [\(Effectiveness information and its presentation\)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
-* [Outcome: Pledge, give substantially \(& effectively\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
+* [\(Outcome: Pledge, give substantially \(& effectively\)\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
   * [\(Moral duty \(of well-off\)\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
   * [Give if you win/ conditional pledge](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
   * [\(Accountability partners\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/accountability-partners.md)

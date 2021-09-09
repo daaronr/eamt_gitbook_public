@@ -4,5 +4,5 @@ description: >-
   their giving and make donations to effective causes in particular
 ---
 
-# Outcome: Effective gift/consider impact
+# \(Outcome: Effective gift/consider impact\)
 

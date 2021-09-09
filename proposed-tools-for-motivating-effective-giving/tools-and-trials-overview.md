@@ -22,7 +22,7 @@ As well as
 
 {% embed url="https://airtable.com/shrUGJuhyxrKGMEUm" caption="" %}
 
-## Some tools and tests of high-interest \(overview, quick presentatinos\)
+## Some tools and tests of high-interest \(overview, quick presentations\)
 
 ## Nick Fitz: "some quick types of different tests/questions EA orgs are interested in"
 
