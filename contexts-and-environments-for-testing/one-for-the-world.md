@@ -50,7 +50,7 @@ We are working with Joshua Lewis and a group of students at NYU to experiment wi
   
 The two messages we are testing are:
 
-1. **T1: dentifiable victim: How to help children like Zawadi**
+1. **T1: Identifiable victim: How to help children like Zawadi**
    1. Zawadi was malnourished as a baby, but with help from our top charities, is now healthy, happy, and has survived her 5th birthday. If the Zawadi had died, her family would have lost a child they loved, and Zawadi would have lost a lifetime of experiences. Our top charities are among save among the most lives per dollar of any charity. The more donations these charities receive, the more children like Zawadi will survive."
 2. **T2: Who needs money more?**
 
