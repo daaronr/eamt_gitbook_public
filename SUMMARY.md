@@ -60,3 +60,7 @@
 * [\(Surveys, focus groups, etc\)](profiling-and-segmentation/surveys-focus-groups-etc.md)
 * [\(Previous work\)](profiling-and-segmentation/previous-work.md)
 
+## Supplements and references
+
+* [\(Charity ratings, rankings, messages\)](supplements-and-references/charity-ratings-rankings-messages.md)
+
