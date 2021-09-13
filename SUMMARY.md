@@ -62,5 +62,5 @@
 
 ## Supplements and references
 
-* [\(Charity ratings, rankings, messages\)](supplements-and-references/charity-ratings-rankings-messages.md)
+* [Charity ratings, rankings, messages](supplements-and-references/charity-ratings-rankings-messages.md)
 
