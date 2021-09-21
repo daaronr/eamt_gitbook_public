@@ -1,5 +1,7 @@
 ---
-description: Chloë Cudaback is the lead contact. (Previously Jack Lewars)
+description: >-
+  Chloë Cudaback is the lead contact (communications manager). (Previously Jack
+  Lewars)
 ---
 
 # One For the World \(OftW\)
@@ -167,7 +169,7 @@ Both emails come from Jack as Executive Director. We hope that people who get th
 
 ## Resources
 
-We are hiring a Communications Officer imminently, who will add more messaging expertise and have a lot more time for this type of work.
+We are hiring a Communications Officer imminently, who will add more messaging expertise and have a lot more time for this type of work. --&gt; this is Chloe Cudaback
 
 We would dearly love to have donors' donation management \(e.g. taking the pledge / updating a pledge etc.\) entirely housed on our own site, both for donor convenience and for analytics purposes. Currently, donors log in at [donational.org](https://donational.org/) to manage their pledges. 
 
