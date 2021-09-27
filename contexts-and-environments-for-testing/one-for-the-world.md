@@ -6,12 +6,23 @@ description: >-
 
 # One For the World \(OftW\)
 
+## **Tip of the spear**
+
+27-sept-01
+
+* Planning _giving season_ 'upsell' and reminder promotions for activated pledgers \(donors\)
+  * possible split-test on emails -- impact vs emotional 
+  * possible Youtube video/videos \(lift/split\) tied to emails  
+* Chloe to consult Jack, 
+  * touch base with us again on possible email variants
+  * contact JS on youtube marketing \(sharing emails etc\), keep us in the loop 
+
 ## Background on OftW
 
 _What is OftW and how does it differ from others in this space?_
 
 * Chloe: Focus on youth and university students at a pivotal point in their life
-  * Accesible messaging, more of a starting point, less gatekeeping
+  * Accessible messaging, more of a starting point, less gatekeeping
 * David: 1% is 'more manageable' as a starting point perhaps
 * Luke: Narrow in focus on type of charities: global health and poverty
 
@@ -33,7 +44,7 @@ They focus on donations to GiveWell charities ... but technically any 510c3
 
 * activating more donors who took the pledge at university, so that their donations actually start; 
 * retaining donors for longer once they activate; 
-* upselling donors to give more over time \(either more as a raw amount, e.g. 'keeping pace' at 1% of their income; or more as a percentage, e.g. 'graduating' to take the 10% GWWC pledge\)
+* Upselling donors to give more over time \(either more as a raw amount, e.g. 'keeping pace' at 1% of their income; or more as a percentage, e.g. 'graduating' to take the 10% GWWC pledge\)
 * acquiring new donors with fewer touch points, e.g. via online advertising, via our website etc. \(we currently get ~0 organic sign ups\)
 
 **Cudaback**
@@ -44,8 +55,8 @@ They focus on donations to GiveWell charities ... but technically any 510c3
 
 ### **Pipeline/groups/segments**
 
-1. Pledgers
-2. Active donors \(Chloe is thinking of segments to this and how to appeal to them\) 
+1. **Pledgers**
+2. **Active donors, i.e., "Activated pledgers"** \(Chloe is thinking of segments to this and how to appeal to them\) 
    1. Second tier -- people who have given each months for 12+ months; "Legacy donors" \(DR: maybe 1x per year high-value donors should be in this group\)
 3. One-time donors \(these may or may not be pledgers\)
 4. Cancelled
@@ -125,8 +136,6 @@ The two messages we are testing are:
 
    1% of the median US Salary, around $1 a day, probably makes little difference to most people’s wellbeing. However, donating it to effective charities can make a real difference. Our top charities are among the most effective in the world in terms of lives saved per dollar. Instead of spending an extra $1 a day on yourself, learn more about donating to the world’s most effective charities via the One for the World pledge.
 
-### 
-
 ### Texas A&M University - activation
 
 We are randomly sending all donors who are due to activate in three months either:
@@ -166,6 +175,42 @@ Both emails come from Jack as Executive Director. We hope that people who get th
    * Advertisement and social media campaigns and tests/trials
    * Corporate lunchtime talks and outreach \(could be done jointly\)
    * Sharing data and insights
+
+#### **27 Sept 2021**
+
+Giving season is coming...Open to testing  less disruptive and less risky stuff
+
+* "Testing involving activated pledgers \(active donors\)"
+
+  * Doing a series of email campaigns throughout giving seasonal
+    * \(Notes also givingtuesday and other things\)  
+    * Asking them to 'donate on top of' \(unclear if it is additional to the 1%?\) 
+    * this year they _are_ trying to 'upsell them' ... rem -- current goal is to 'upsell by 5 percent' ... earn an additional 5% of that 'run rate'
+  * previously: 'just getting in their inbox'
+  * In past, the focus has been on 'showing them their impact' 
+    * A quarterly impact report based on their specific  donations
+    * last year was centered around a match
+    * \(?Haven't done so in the past, but might be worth considering an emotional appeal\) 
+  * JS suggested: Chloe  at OfTw sends list of emails, JS works to put ads on Ebay or Facebook to some share of these, Chloe considers the impact of these. 
+    * JS suggests trying something simple so we can see something in a short run
+    * YouTube: Can tell us time video spent on screen, how long they watched it...
+  * Timings
+
+    * Through december-jan  they can expect to see a bunch of donations
+    * could do this early on, try to compare 1 group getting one campaign and the other another campaign, or something 
+
+  _**Upshot of meeting, todo:**_
+
+* Chloe considers reasonable variants of messaging \(email or video\), Josh, David, others help consider these. She runs these by Jack to see if he is OK with this
+  * try for 'early testing and pivot within giving season'
+* Works with JS on possible Youtube campaign lift test ...
+
+  *  \(would need 'audience lists' with possible assigned splits 
+  * would need a video \(or multiple if we need to test it\)
+
+Script for 2020 emails below:
+
+![](../.gitbook/assets/image%20%289%29.png)
 
 ## Resources
 
