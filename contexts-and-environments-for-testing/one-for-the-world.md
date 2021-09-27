@@ -14,8 +14,11 @@ description: >-
   * possible split-test on emails -- impact vs emotional 
   * possible Youtube video/videos \(lift/split\) tied to emails  
 * Chloe to consult Jack, 
+
   * touch base with us again on possible email variants
-  * contact JS on youtube marketing \(sharing emails etc\), keep us in the loop 
+  * contact JS on youtube marketing \(sharing emails etc\), keep us in the loop
+
+  \(see [_meeting notes_](https://app.gitbook.com/@effective-giving-marketing/s/effective-giving-market-testing/contexts-and-environments-for-testing/one-for-the-world#other-notes-going-forward-steps) _below\)_  
 
 ## Background on OftW
 
