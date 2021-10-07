@@ -17,10 +17,7 @@ _E.g., we might do a 'lift test':_
 1. select a balanced random set of US Zip codes for a particular repeated YouTube ad promoting GWWC, the "Treated group" 
 2. compare the rate of GWWC visits, email sign-ups, pledges, and donations in the next 6 months from these zip codes relative to all other zip codes. \(Possibly throwing out or finding a way to draw additional inference from zip codes adjacent to the treated group\)..
 
-_We could also do multi-armed tests \(of several types of ad or other treatment, with a similar setup as above\)_
-
-  
-  
+_We could also do multi-armed tests \(of several types of ad or other treatment, with a similar setup as above\)_  
  
 
 

@@ -1,4 +1,4 @@
-# \(Facebook split-testing etc\)
+# Facebook split-testing etc
 
 Orazi, D. C., & Johnston, A. C. \(2020\). Running field experiments using Facebook split test. Journal of Business Research, 118, 189-198.
 

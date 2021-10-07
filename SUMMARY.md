@@ -47,12 +47,13 @@
 
 ## Methods discussion <a id="methodological-discussion"></a>
 
-* [\(Implementation and collecting data: Issues\)](methodological-discussion/implementation-and-collecting-data-issues/README.md)
-  * [\(Facebook split-testing etc\)](methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md)
+* [Implementation and collecting data: Issues](methodological-discussion/implementation-and-collecting-data-issues/README.md)
+  * [Facebook split-testing etc](methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md)
   * [Geographic segmentation/blocked randomization](methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
-  * [\(Issues: tracking and observing outcomes\)](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
+  * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
+* ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
 * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
-* [\(Experimental design methods/issues\)](methodological-discussion/experimental-design-methods-issues.md)
+* ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
 
 ## Project: Profiling and segmentation <a id="profiling-and-segmentation"></a>
 

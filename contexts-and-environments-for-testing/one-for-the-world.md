@@ -125,7 +125,7 @@ We are working with Joshua Lewis and a group of students at NYU to experiment wi
 
 "Existing home page as of  9 Sep 2021"
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%288%29%20%284%29.png)
 
   
   

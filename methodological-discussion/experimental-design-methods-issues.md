@@ -1,4 +1,4 @@
-# \(Experimental design methods/issues\)
+# "Quant" Experimental design methods/issues
 
 ## Randomization and blocking
 
@@ -6,7 +6,7 @@
 
 ### How to block/stratify
 
-## What are our estimation goals
+## What are our estimation goals?
 
 Statistical power versus optimized learning
 
