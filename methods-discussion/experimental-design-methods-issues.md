@@ -3,7 +3,7 @@
 
 ## Fixed vs adaptive designs
 
-## Randomization: Individual or Region-based
+## Randomization: Individual or Geographical or Other
 
 ## Framed versus natural field settings
 
