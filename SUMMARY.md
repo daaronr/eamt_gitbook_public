@@ -2,52 +2,54 @@
 
 * [Effective Giving and Action: Market testing and Synthesis](README.md)
 
-## Organization <a id="organization-and-overview"></a>
+## Organization <a href="organization-and-overview" id="organization-and-overview"></a>
 
 * [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
   * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
 * [Sections and organization](organization-and-overview/sections-and-organization.md)
-* [Our team and resources](organization-and-overview/our-team-and-resources/README.md)
+* [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
   * [Overview: Posts and writings](organization-and-overview/our-team-and-resources/overview-ea-forum-post.md)
+  * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
 
-## Background and existing evidence <a id="background"></a>
+## Background and existing evidence <a href="background" id="background"></a>
 
 * [The challenge: drivers of effective/ineffective giving](background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background/models-theories-psychological-norms.md)
 * [Tools/interventions: principles](background/tools-interventions-principles.md)
 
-## Tools and trials <a id="proposed-tools-for-motivating-effective-giving"></a>
+## Tools and trials <a href="proposed-tools-for-motivating-effective-giving" id="proposed-tools-for-motivating-effective-giving"></a>
 
 * [Tools and trials: overview](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md)
-* [\(Outcome: Effective gift/consider impact\)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
-  * [\(Effectiveness information and its presentation\)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
-* [\(Outcome: Pledge, give substantially \(& effectively\)\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
-  * [\(Moral duty \(of well-off\)\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
+* [(Outcome: Effective gift/consider impact)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
+  * [(Effectiveness information and its presentation)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
+* [(Outcome: Pledge, give substantially (& effectively))](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
+  * [(Moral duty (of well-off))](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
   * [Give if you win/ conditional pledge](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
-  * [\(Accountability partners\)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/accountability-partners.md)
+  * [(Accountability partners)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/accountability-partners.md)
 
-## Contexts/environments, specific plans <a id="contexts-and-environments-for-testing"></a>
+## Contexts/environments, specific plans <a href="contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
-* [\(Ads \(Google, Youtube...\)\)](contexts-and-environments-for-testing/ads-google-youtube....md)
+* [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
-  * [Web page \(casual visitors\)](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
+  * [Web page (casual visitors)](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
   * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
-  * [\(Pledgers/emails\)](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
-  * [Facebook ads \(GWWC\)](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md)
+  * [(Pledgers/emails)](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
+  * [Facebook ads (GWWC)](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md)
   * [Testing Contexts and Strategies for Prioritization](contexts-and-environments-for-testing/gwwc/future-avenues.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
   * [Funds/recommendations trial](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md)
-* [\(Founders Pledge\)](contexts-and-environments-for-testing/founders-pledge.md)
-* [One For the World \(OftW\)](contexts-and-environments-for-testing/one-for-the-world.md)
-* [\(Other\)](contexts-and-environments-for-testing/other/README.md)
-  * [\(FLI \(adjacent\)\)](contexts-and-environments-for-testing/other/fli-adjacent.md)
-  * [\(Animal Charity Evaluators\)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
+* [(Founders Pledge)](contexts-and-environments-for-testing/founders-pledge.md)
+* [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world.md)
+* [(Other) - test edit](contexts-and-environments-for-testing/other/README.md)
+  * [(FLI (adjacent))](contexts-and-environments-for-testing/other/fli-adjacent.md)
+  * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
-  * [Chatbot \(deferred\)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
+  * [Chatbot (deferred)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
 
-## Methods discussion <a id="methodological-discussion"></a>
+## Methods discussion <a href="methodological-discussion" id="methodological-discussion"></a>
 
 * [Implementation and collecting data: Issues](methodological-discussion/implementation-and-collecting-data-issues/README.md)
+  * [(Best-practice guidelines)](methodological-discussion/implementation-and-collecting-data-issues/best-practice-guidelines.md)
   * [Facebook split-testing etc](methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md)
   * [Geographic segmentation/blocked randomization](methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
   * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
@@ -55,13 +57,12 @@
 * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
 
-## Project: Profiling and segmentation <a id="profiling-and-segmentation"></a>
+## Project: Profiling and segmentation <a href="profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
-* [\(Profiling: Discussion\)](profiling-and-segmentation/profiling-discussion.md)
-* [\(Surveys, focus groups, etc\)](profiling-and-segmentation/surveys-focus-groups-etc.md)
-* [\(Previous work\)](profiling-and-segmentation/previous-work.md)
+* [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
+* [(Surveys, focus groups, etc)](profiling-and-segmentation/surveys-focus-groups-etc.md)
+* [(Previous work)](profiling-and-segmentation/previous-work.md)
 
 ## Supplements and references
 
 * [Charity ratings, rankings, messages](supplements-and-references/charity-ratings-rankings-messages.md)
-
