@@ -9,6 +9,7 @@
 * [Sections and organization](organization-and-overview/sections-and-organization.md)
 * [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
   * [Overview: Posts and writings](organization-and-overview/our-team-and-resources/overview-ea-forum-post.md)
+  * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
 
 ## Background and existing evidence <a href="background" id="background"></a>
 
@@ -39,7 +40,7 @@
   * [Funds/recommendations trial](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md)
 * [(Founders Pledge)](contexts-and-environments-for-testing/founders-pledge.md)
 * [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world.md)
-* [(Other)](contexts-and-environments-for-testing/other/README.md)
+* [(Other) - test edit](contexts-and-environments-for-testing/other/README.md)
   * [(FLI (adjacent))](contexts-and-environments-for-testing/other/fli-adjacent.md)
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
@@ -48,6 +49,7 @@
 ## Methods discussion <a href="methodological-discussion" id="methodological-discussion"></a>
 
 * [Implementation and collecting data: Issues](methodological-discussion/implementation-and-collecting-data-issues/README.md)
+  * [(Best-practice guidelines)](methodological-discussion/implementation-and-collecting-data-issues/best-practice-guidelines.md)
   * [Facebook split-testing etc](methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md)
   * [Geographic segmentation/blocked randomization](methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
   * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
