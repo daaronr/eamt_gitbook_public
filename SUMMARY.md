@@ -65,4 +65,5 @@
 
 ## Supplements and references
 
+* [Literature on animal advocacy messaging](supplements-and-references/literature-on-animal-advocacy-messaging.md)
 * [Charity ratings, rankings, messages](supplements-and-references/charity-ratings-rankings-messages.md)
