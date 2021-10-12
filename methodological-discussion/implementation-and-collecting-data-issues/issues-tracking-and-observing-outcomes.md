@@ -6,3 +6,11 @@
 
 Other approaches include time-series and difference in difference in response to switching on or off the ad, trial, or page content
 
+
+## Notes from conversations (need explanation)
+
+
+Nick -- Branch and Amplitude/apply/segment ... to track someone throughout the whole funnel
+
+
+"drop the FB pixel"
