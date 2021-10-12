@@ -7,9 +7,9 @@ description: >-
 
 # How this 'gitbook' works
 
-## What is this Gitbook \(wiki\) and what is it for?
+## What is this Gitbook (wiki) and what is it for?
 
-Rather than chains of disconnected emails and many unlinked Google docs, I \(David Reinstein\) thought it would be better to organize our project with this well-structured format.
+Rather than chains of disconnected emails and many unlinked Google docs, I (David Reinstein) thought it would be better to organize our project with this well-structured format.
 
 ## Who has access/how to gain access?
 
@@ -19,32 +19,33 @@ As of 22 July 2021 this is a PRIVATE site, only accessible to members. As we are
 
 ## What do the sections and groups mean?
 
-"Groups" can hold multiple pages and pages can have sub-pages. But groups cannot have subgroups and the groups have no direct link \(while pages do\). \(In the git repo groups seem to be represented by folders\).
+"Groups" can hold multiple pages and pages can have sub-pages. But groups cannot have subgroups and the groups have no direct link (while pages do). (In the git repo groups seem to be represented by folders).
 
 ## How do I edit it and add content?
 
-If you have 'write \(Editor\) access' you should be able to just start typing/clicking/adding.   Give it a try. But remember to 'save' and 'merge' your work!
+If you have 'write (Editor) access' you should be able to just start typing/clicking/adding.   Give it a try. But remember to 'save' and 'merge' your work!
 
 {% hint style="info" %}
-In newly created blocks/elements "command-slash" \(on mac\) brings up a lot of cool options
+In newly created blocks/elements "command-slash" (on mac) brings up a lot of cool options
 {% endhint %}
 
 ## What are 'saving' and 'merging'?
 
-* You need to click 'save' to save your work \(hopefully with a quick message explaining what you did\). 
-* * You then need to 'merge it in' to be part of the shared repository. \(This has some connection to underlying git processes.\)
+* You need to click 'save' to save your work (hopefully with a quick message explaining what you did). 
+*
+  * You then need to 'merge it in' to be part of the shared repository. (This has some connection to underlying git processes.)
 
 **What if I get a 'conflict'?** If 2 people edit simultaneously and both make changes they try to merge in, this can happen. It should be simple enough to resolve. Just find the icon for the bits indicating a conflict, and choose which version you want to keep.
 
-![](../../.gitbook/assets/image%20%282%29%20%282%29%20%282%29%20%281%29.png)
+![](<../../.gitbook/assets/image (2) (2) (2) (1).png>)
 
-It should be simple enough to resolve.  
-  
+It should be simple enough to resolve.\
+\
 
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](<../../.gitbook/assets/image (4).png>)
 
-Just find the icon for the bits indicating a conflict in the outline bar \(that arrow triangle thing\), go to that section/those sections, and choose which version you want to keep.
+Just find the icon for the bits indicating a conflict in the outline bar (that arrow triangle thing), go to that section/those sections, and choose which version you want to keep.
 
 ## Technical: Connections with Git/Github and coding
 
@@ -61,4 +62,3 @@ I tested this on 22 July -- it seems to work very nicely, but it seems to want t
 
 
 ## [Other tech](other-tech.md)
-

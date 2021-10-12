@@ -4,10 +4,10 @@ description: The Life You Can Save.
 
 # TLYCS
 
-## [The Life You Can Save ](https://www.thelifeyoucansave.org/)
+## [The Life You Can Save ](https://www.thelifeyoucansave.org)
 
-Leads: Bilal Siddiqi, Neela Saldhana;  
-Other partner contact: Jon Behar \(Giving Games\)
+Leads: Bilal Siddiqi, Neela Saldhana;\
+Other partner contact: Jon Behar (Giving Games)
 
 ## Proposed trials and tests, initiatives, and plans
 
@@ -15,21 +15,21 @@ Other partner contact: Jon Behar \(Giving Games\)
 
 TLYCS is considering introducing cause-area funds to allow people with specific cause and beneficiary preferences to nonetheless have effective giving options.  They are also considering tools for helping elicit these preferences and guide people. 
 
-_Issues/questions:_ 
+_Issues/questions: _
 
-* Will cause-specific funds increase overall giving? \(If not it may be a negative, as it could decrease overall efficiency\)
+* Will cause-specific funds increase overall giving? (If not it may be a negative, as it could decrease overall efficiency)
   * How to best present and describe cause-specific funds? Which causes?
-* Will asking people about their preferences increase \(or decrease\) giving? Why or why not?
-  * Makes them feel more cared about \(+\)
-  * Tailoring, better donor optimization to own preferences \(+\)
-  * Opportunity for expressive giving, even if automated \(+\)
-  * More forms to fill out --&gt; more time and cognitive cost \(-\)
-  * "Automated questions" \(& bots\) --&gt; feeling personally neglected, less expressive \(-\)
-  * Uncertainty about preferences --&gt; inaction \(-\)
+* Will asking people about their preferences increase (or decrease) giving? Why or why not?
+  * Makes them feel more cared about (+)
+  * Tailoring, better donor optimization to own preferences (+)
+  * Opportunity for expressive giving, even if automated (+)
+  * More forms to fill out --> more time and cognitive cost (-)
+  * "Automated questions" (& bots) --> feeling personally neglected, less expressive (-)
+  * Uncertainty about preferences --> inaction (-)
 
-_We outline a proposed_ [_Funds Recommendations trial i_](funds-recommendations-trial.md)_n the subchapter_ [_\(linked\)_](funds-recommendations-trial.md)\_\_
+_We outline a proposed _[_Funds Recommendations trial i_](funds-recommendations-trial.md)_n the subchapter _[_(linked)_](funds-recommendations-trial.md)__
 
-### _"Start-up impact initiatives ... incubation granting' ..._ 
+### _"Start-up impact initiatives ... incubation granting' ... _
 
 relates to charity entrepreneurs and DPrize
 
@@ -49,14 +49,18 @@ relates to charity entrepreneurs and DPrize
   1. Barriers: basically hard to change website cos of team / technical barriers
   2. We were discussing funding 
   3. But seems that advertising to get people to website is best… and there are funds
-* "Obligation vs. supererogatory" \(Neela\)
-  * Drowning child vs. burning building \[EXPLAIN\]
+* "Obligation vs. supererogatory" (Neela)
+  *   Drowning child vs. burning building \[EXPLAIN]
+
+
 * [Profiling](../../profiling-and-segmentation/profiling-discussion.md)
   * TLYCS are a little bit older / more female than Givewell/GWWC
   * Who is most likely to donate overseas? People who travel…
-  * Neela mentioned ["Behavioral Insights To End Global Poverty" \(Princeton report for TLYCS, Jan 2021\)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0)
+  * Neela mentioned ["Behavioral Insights To End Global Poverty" (Princeton report for TLYCS, Jan 2021)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0)
 
-{% file src="../../.gitbook/assets/behavioral\_insights\_to\_end\_global\_poverty\_12-15.pdf" caption="TLYCS behavioral analysis" %}
+{% file src="../../.gitbook/assets/behavioral_insights_to_end_global_poverty_12-15.pdf" %}
+TLYCS behavioral analysis
+{% endfile %}
 
 ## **What is TLYCS already doing/contemplating doing**
 
@@ -65,7 +69,7 @@ relates to charity entrepreneurs and DPrize
 
 
 
-### What resources can we access \($$ for ads\)?
+### What resources can we access (\$$ for ads)?
 
 Free GoogleAds thing -- maybe not being used? -- JS Winchell knows the most about this.
 
@@ -73,37 +77,38 @@ Free GoogleAds thing -- maybe not being used? -- JS Winchell knows the most abou
 
 FB targeted ads 
 
-* split randomly \(or by an untraceable block\) and use cookies/trackbacks
-* split geographically \(trace outcomes within a geographic region\) 
+* split randomly (or by an untraceable block) and use cookies/trackbacks
+* split geographically (trace outcomes within a geographic region)\
 
-\(Contact Will Bullock \(sp?\) at FB\) 
+
+(Contact Will Bullock (sp?) at FB) 
 
 A solicitation to... 
 
 * A TLYCS -organized fundraiser... 
   * A fundraiser _within_ Facebook, easier to track
-    * [\(see HERE for FB help including tracking\)](https://www.facebook.com/help/1787615158233986)
+    * [(see HERE for FB help including tracking)](https://www.facebook.com/help/1787615158233986)
   * "Fundraiser API" meant to help with this 
 
-## **\(Suggested\) fortnightly meeting**
+## **(Suggested) fortnightly meeting**
 
 Currently every other Wednesday 1pm.
 
 
 
-### **Other research** 
+### **Other research **
 
-#### ["Behavioral Insights To End Global Poverty" \(Princeton report for TLYCS, Jan 2021\)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0) \(dropbox-shared version\)
+#### ["Behavioral Insights To End Global Poverty" (Princeton report for TLYCS, Jan 2021)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0) (dropbox-shared version)
 
 > _Modelling the project around the Princeton report seems like it could work and will seem more organic_
 
-DR: takeaways \(from summary... the Author's takes _except where italicized_\)
+DR: takeaways (from summary... the Author's takes _except where italicized_)
 
 * 5 key principles: choice architecture, social norms, empathy, overhead cost aversion, and anchoring
 
 Factual:
 
-* TLYCS demographics are predictable \(White, Male, tech...\)
+* TLYCS demographics are predictable (White, Male, tech...)
 * Donations cluster at end of tax year 
 
 Pages and promotion
@@ -126,17 +131,16 @@ Bilal suggested reading this special issue:
 {% embed url="https://www.sciencedirect.com/journal/journal-of-behavioral-and-experimental-economics/vol/66/suppl/C" %}
 
 {% hint style="info" %}
-David Reinstein: The Karlan and Wood paper is particularly relevant. I see that as the first -- albeit limited and contextual -  evidence on how donors react to quantitative/scientific impact information.  My notes on this paper are [HERE](https://daaronr.github.io/ea_giving_barriers/eval-aversion.html#analytical-grinch) \(I should incorporate these into the present wiki to enable discussion and expansion\)  
-  
-Other papers in that issue \(some in lab settings\) also appear relevant, especially:  
-- [Do people donate more when they perceive a single beneficiary whom they know? A field experimental test of the identifiability effect](https://www.sciencedirect.com/science/article/pii/S2214804316300179)  
-[- Information and donations to development aid projects](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300295) \(Lab giving to charities\)   
-- Maybe:  [Nudging charitable giving: Three field experiments](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300222)  
-  
-_But note that some of these papers are from 'Big Economists' who normally would see "getting a paper in a JBEE special issue" as a non-success. So each paper probably has important limitations._ 
+David Reinstein: The Karlan and Wood paper is particularly relevant. I see that as the first -- albeit limited and contextual -  evidence on how donors react to quantitative/scientific impact information.  My notes on this paper are [HERE](https://daaronr.github.io/ea_giving_barriers/eval-aversion.html#analytical-grinch) (I should incorporate these into the present wiki to enable discussion and expansion)\
+\
+Other papers in that issue (some in lab settings) also appear relevant, especially:\
+\- [Do people donate more when they perceive a single beneficiary whom they know? A field experimental test of the identifiability effect](https://www.sciencedirect.com/science/article/pii/S2214804316300179)\
+[- Information and donations to development aid projects](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300295) (Lab giving to charities) \
+\- Maybe:  [Nudging charitable giving: Three field experiments](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300222)\
+\
+_But note that some of these papers are from 'Big Economists' who normally would see "getting a paper in a JBEE special issue" as a non-success. So each paper probably has important limitations. _
 {% endhint %}
 
-[https://twitter.com/zeitzoff/status/1415001232901562372](https://twitter.com/zeitzoff/status/1415001232901562372) 2. More likely to support harsh punishments for consequentialist reasons \[WHAT'S THE CONNECTION?\]
+[https://twitter.com/zeitzoff/status/1415001232901562372](https://twitter.com/zeitzoff/status/1415001232901562372) 2. More likely to support harsh punishments for consequentialist reasons \[WHAT'S THE CONNECTION?]
 
-Bilal also talked about this intervention which involved video messages by one of the authors: ["Messages on Covid Prevention in India..."](https://www.nber.org/system/files/working_papers/w27496/w27496.pdf) \(NBER\) 
-
+Bilal also talked about this intervention which involved video messages by one of the authors: ["Messages on Covid Prevention in India..."](https://www.nber.org/system/files/working_papers/w27496/w27496.pdf) (NBER) 

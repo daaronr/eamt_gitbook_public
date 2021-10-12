@@ -41,6 +41,6 @@ Goals what kinds of inference:
 
 ### Implementing adaptive design
 
-We need a great web developer, a system so that a program Dillon writes is fed data on the factors (?) to assign a user to a treatment. Dllon will set up an ML model that is continuously updated … ‘next person clicking on this page gets this treatment … web dev makes sure it shows the recommended content’
+We need a great web developer, a system so that a program Dillon writes is fed data on the factors (?) to assign a user to a treatment. Dillon will set up an ML model that is continuously updated … ‘next person clicking on this page gets this treatment … web dev makes sure it shows the recommended content’
 
 We figure out what factors we want, what levels, have a basic web design … Dillon comes in and turns the ‘1000 dim treatment space and featurise it so his model can use it’.. Works with a Dev to set up a pipeline.

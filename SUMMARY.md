@@ -54,8 +54,8 @@
   * [Geographic segmentation/blocked randomization](methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
   * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
-* [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
-* ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
+* ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues/README.md)
+  * [Adaptive design/sampling, reinforcement learning](methodological-discussion/experimental-design-methods-issues/adaptive-design-sampling-reinforcement-learning.md)
 
 ## Project: Profiling and segmentation <a href="profiling-and-segmentation" id="profiling-and-segmentation"></a>
 

@@ -24,10 +24,10 @@ See tabs
 {% endtab %}
 
 {% tab title="Effectiveness" %}
-dsasdfas  
-  
-blah  
-  
+dsasdfas\
+\
+blah\
+\
 blah
 {% endtab %}
 {% endtabs %}
@@ -41,11 +41,13 @@ blah
   * immediate: subject headers w/ 'open rates' as dependent variable
   * medium-term: all outcomes tied to email
 
-### ... immediate outcomes \(clicks etc\)
+### ... immediate outcomes (clicks etc)
 
 Facebook 
 
-* But the targeting algorithm may frustrate randomization. Can it be switched off?
+*   But the targeting algorithm may frustrate randomization. Can it be switched off?
+
+
 
 ### ... facilitate [randomization by geograph](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) 
 
@@ -55,11 +57,11 @@ This is helpful [for ease of attribution](../../methodological-discussion/implem
 * Google search
 * YouTube
 * LinkedIn
-* Facebook \(presumably\)
+* Facebook (presumably)
 
 ## Testing Rich Content
 
-\(explain why this is a priority and what it is\)
+(explain why this is a priority and what it is)
 
 ### How to test rich content?
 
@@ -80,7 +82,7 @@ Not sure if you can generalize from convenience samples – might be good to thi
 * Does it depend on audience?
 * What’s the optimal length?
 
-## Message customization \(heterogeneity and targeted marketing\)
+## Message customization (heterogeneity and targeted marketing)
 
 We haven’t thought about this much but it seems important – it might be worth, for example, having different messaging for different cause areas and letting them be algorithmically targeted.
 
@@ -100,29 +102,28 @@ _See also_ [_Profiling: Discussion_](../../profiling-and-segmentation/profiling-
 **Question:** If our aim is _to change the culture of giving in general_, what kind of people should we be targeting?
 
 1. People with lots of social influence
-2. Low-hanging fruit \(i.e., people who are naturally predisposed towards effective giving, pledging, & EA\)
+2. Low-hanging fruit (i.e., people who are naturally predisposed towards effective giving, pledging, & EA)
 
 {% hint style="success" %}
-**Idea:** Compare different outreach methods on the basis of "cost per pledge" \(or per "whatever-metric-we-use"\). \(Outcomes: [Outcome: Effective gift](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/)... & [Outcome: Pledge](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/)... \)
+**Idea:** Compare different outreach methods on the basis of "cost per pledge" (or per "whatever-metric-we-use"). (Outcomes: [Outcome: Effective gift](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/)... & [Outcome: Pledge](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/)... )
 {% endhint %}
 
-Compare _different outreach methods_ on the basis of "cost per pledge" \(or per "whatever-metric-we-use"\). \(See [Outcome: Effective gift.](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/).. and [Outcome: Pledge..](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/). discussions.\)
+Compare _different outreach methods_ on the basis of "cost per pledge" (or per "whatever-metric-we-use"). (See [Outcome: Effective gift.](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/).. and [Outcome: Pledge..](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/). discussions.)
 
 ### Ideas/methods for targeting: platforms and audiences
 
-* Public lists of political donations \(e.g, [archive.org](https://github.com/daaronr/effective_giving_market_testing/tree/6930982530446fb3eca07600975697123b09c7da/contexts-and-environments-for-testing/gwwc/www.archive.org)\)
+* Public lists of political donations (e.g, [archive.org](https://github.com/daaronr/effective_giving_market_testing/tree/6930982530446fb3eca07600975697123b09c7da/contexts-and-environments-for-testing/gwwc/www.archive.org))
   * ... donors to candidates sympathetic to a relevant cause area
 * Internet activity ... those who watch/read/search for:
   * Videos relevant to a cause area
   * Reddit threads relevant to a cause area
   * Magazines/news sites relevant to a cause area
-  * Search/visiting webpages about charity effectiveness/merit \(e.g., Charity Navigator\) 👍 
+  * Search/visiting webpages about charity effectiveness/merit (e.g., Charity Navigator) :thumbsup: 
 * Education
   * Courses/degrees/majors relevant to a cause area 
-    * \(e.g., development econ/studies, animal behavior, AI\)
-  * People at high-status institutions \(future influencers/policymakers\)
+    * (e.g., development econ/studies, animal behavior, AI)
+  * People at high-status institutions (future influencers/policymakers)
 * Exploiting social network structure
-  * Targeting "influencers" and "central" people \(on the basis of "number of followers" / friends / etc.\)
-* Key search terms \(google 'effective giving' etc\)
-* Podcasts listeners \(philanthropy, economics, development & global health ...\)
-
+  * Targeting "influencers" and "central" people (on the basis of "number of followers" / friends / etc.)
+* Key search terms (google 'effective giving' etc)
+* Podcasts listeners (philanthropy, economics, development & global health ...)
