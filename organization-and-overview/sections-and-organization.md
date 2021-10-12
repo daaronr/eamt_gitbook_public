@@ -12,10 +12,14 @@ description: How the gitbook sections are organized; we can discuss this
    * [What we're trying to do and why](../background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md),
    * [What is known/models of effective giving](../background/models-theories-psychological-norms.md), 
    * P[rinciples behind potential trials](../background/tools-interventions-principles.md)
-4. [Tools and trials](../proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md): specific things we want to do/test; \(partly\) grouped by 'outcomes' \(esp. [effectiveness](../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/) & [commitment](../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/)\)
+4. [Tools and trials](../proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md): specific things we want to do/test; (partly) grouped by 'outcomes' (esp. [effectiveness](../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/) & [commitment](../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/))
 5. Contexts/environments, specific plans for trials in these contexts
-6. Methods: discuss issues of methodology & '[how to implement](https://github.com/daaronr/effective_giving_market_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/contexts-and-environments-for-testing/implementation-and-collecting-data-issues/README.md) tricky things right' 
-   * Let's link this in other sections not rehash each debate
-7. [Project: Profiling 'whom to target' ](../profiling-and-segmentation/profiling-discussion.md)
-   * \(sufficiently distinct from the above so it gets its own section\) 
+6.  [Methods](broken-reference): discuss issues of methodology & '[how to implement](https://github.com/daaronr/effective_giving_market_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/contexts-and-environments-for-testing/implementation-and-collecting-data-issues/README.md) tricky things right' 
 
+    (Let's link this in other sections not rehash each debate)
+
+    * Qualitative design issues
+    * Quant issues
+    * [Implementation issues](../methodological-discussion/implementation-and-collecting-data-issues/)
+7. [Project: Profiling 'whom to target' ](../profiling-and-segmentation/profiling-discussion.md)
+   * (sufficiently distinct from the above so it gets its own section) 
