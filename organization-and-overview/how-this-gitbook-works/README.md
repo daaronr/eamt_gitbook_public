@@ -37,7 +37,9 @@ If you have 'write (Editor) access' you should be able to just start typing/clic
 In newly created blocks/elements "command-slash" (on mac) brings up a lot of cool options
 {% endhint %}
 
-##
+## Merges and conflicts
+
+If you have the Administrator status, you can merge in your own, or others' changes. 
 
 **What if I get a 'conflict'?** If 2 people edit simultaneously and both make changes they try to merge in, this can happen. It should be simple enough to resolve. Just find the icon for the bits indicating a conflict, and choose which version you want to keep.
 
