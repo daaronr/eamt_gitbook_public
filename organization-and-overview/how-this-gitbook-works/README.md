@@ -23,17 +23,21 @@ As of 22 July 2021 this is a PRIVATE site, only accessible to members. As we are
 
 ## How do I edit it and add content?
 
-If you have 'write (Editor) access' you should be able to just start typing/clicking/adding.   Give it a try. But remember to 'save' and 'merge' your work!
+If you have 'write (Editor) access' you should be able to just start typing/clicking/adding.  
+
+**Update: **15 Oct 2021  Gitbook has changed their protocols. You now need to click the icon in the upper right to 'start a change request' and then 'submit' this request when you are ready 
+
+![](<../../.gitbook/assets/image (1).png>)
+
+![](<../../.gitbook/assets/image (2).png>)
+
+ Give it a try. 
 
 {% hint style="info" %}
 In newly created blocks/elements "command-slash" (on mac) brings up a lot of cool options
 {% endhint %}
 
-## What are 'saving' and 'merging'?
-
-* You need to click 'save' to save your work (hopefully with a quick message explaining what you did). 
-*
-  * You then need to 'merge it in' to be part of the shared repository. (This has some connection to underlying git processes.)
+##
 
 **What if I get a 'conflict'?** If 2 people edit simultaneously and both make changes they try to merge in, this can happen. It should be simple enough to resolve. Just find the icon for the bits indicating a conflict, and choose which version you want to keep.
 
