@@ -45,6 +45,7 @@
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
   * [Chatbot (deferred)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
+* [Academic Paper Ideas](contexts-and-environments-for-testing/academic-paper-ideas.md)
 
 ## Methods discussion <a href="methodological-discussion" id="methodological-discussion"></a>
 
