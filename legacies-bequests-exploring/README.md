@@ -40,6 +40,8 @@ description: >-
 
 DR: Germany-based. Its a bit hard to see from  their website exactly what they are doing/focused on
 
+NB -- its a (high) fee-based model, much of which may go to salaries and support, so not necessarily good to promote widely
+
 
 
 ### Will-writing support
