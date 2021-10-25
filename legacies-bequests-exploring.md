@@ -42,6 +42,16 @@ DR: Germany-based. Its a bit hard to see from  their website exactly what they a
 
 
 
+### Will-writing support
+
+#### "Effective legacies" -- charity science
+
+[ttps://www.charityscience.com/effective-legacies.html](https://www.charityscience.com/effective-legacies.html)\
+[https://www.charityscience.com/legacy-form-instructions.html](https://www.charityscience.com/legacy-form-instructions.html)\
+[https://www.charityscience.com/uploads/1/0/7/2/10726656/legacy\_fundraising\_pdf.pdf](https://www.charityscience.com/uploads/1/0/7/2/10726656/legacy\_fundraising\_pdf.pdf)
+
+
+
 ## Misc notes; conversation with Jack Lewars
 
 Jack: "ROI" on bequest funding in UK is much higher than other events, he has heard.
