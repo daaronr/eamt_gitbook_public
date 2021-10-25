@@ -71,4 +71,5 @@
 
 ***
 
-* [Legacies/bequests (exploring)](legacies-bequests-exploring.md)
+* [Legacies/bequests (exploring)](legacies-bequests-exploring/README.md)
+  * [Research: motivating bequest/legate giving](legacies-bequests-exploring/research-motivating-bequest-legate-giving.md)
