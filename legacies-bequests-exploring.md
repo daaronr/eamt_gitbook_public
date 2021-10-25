@@ -58,7 +58,9 @@ Need to have a vehicle -- and a fund that dynamically determines where it goes&#
 
 ## **Going forward plans/to do**
 
-* DR to do research, both 'what the space is' and 'what the research says .. about approaches to bequests&#x20;
+* DR to do research
+  * what orgs and tools exist and what is missing or needs pushing’&#x20;
+  * what the applied research says .. about approaches to encouraging bequests
 * JL can volunteer some time, with other volunteers to put together an MVP
 * possibly -- go out in the  Spring, trial  with some push ... GW, LTFF, climate funds, look for the result
 * if it goes well, worth considering incubation at Charity Entrpreneurship&#x20;
