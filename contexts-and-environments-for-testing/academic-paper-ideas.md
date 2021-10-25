@@ -18,11 +18,12 @@ Current ideas for papers are summarized in the google doc embedded. The document
 
 * one section for each idea we have fleshed out, so far (at oct 23):&#x20;
   * shared community insight framing
-  * warm glow from effectiveness
+  * Donor responses to “quantitative ‘per dollar’ impact information” and presentations of this (DR added)
+  * warm glow (DR: 'internal reward) from effectiveness
 * a list of others ideas we have yet to flesh out
 * some classic ideas we could test (as an alternative to developing novel hypotheses)
 
-Here's the doc:
+Here's the doc: [(link HERE to edit or comment within)](https://docs.google.com/document/d/1v3QmwONxuGpgxKkX1-4ESi7sgsnI1SZVlT2wWUwHCG4/edit#)
 
 {% embed url="https://docs.google.com/document/d/1v3QmwONxuGpgxKkX1-4ESi7sgsnI1SZVlT2wWUwHCG4/edit?usp=sharing" %}
 
