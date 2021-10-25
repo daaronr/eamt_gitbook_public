@@ -12,7 +12,7 @@ description: >-
 * Bequest fundraising seen to have high-ROI
 * Some psych/econ/legal reasons why people might be particular willing to donate from their 'leftover assets at death'
 * Some initiatives exist (see below), 'Oftw/Gwwc/TLYCS' might plug in to these
-* Reinstein has some ideas about facilitating negotiations among parents and children (legates and legatees) to help discover a shared interest in effective pledging/giving&#x20;
+* [Reinstein has some ideas](https://davidreinstein.wordpress.com/2018/07/16/inheritance-tax-and-charitable-bequests-an-intergenerational-pact/?platform=hootsuite) about facilitating negotiations among parents and children (legates and legatees) to help discover a shared interest in effective pledging/giving&#x20;
 * Consider writing up an MVP and doing a trial in Spring 2022?
 
 ## Key existing initiatives and tools&#x20;
@@ -52,6 +52,14 @@ DR: Germany-based. Its a bit hard to see from  their website exactly what they a
 
 
 
+## Ideas/insights/writings
+
+{% embed url="https://davidreinstein.wordpress.com/2018/07/16/inheritance-tax-and-charitable-bequests-an-intergenerational-pact?platform=hootsuite" %}
+(Short blog post, slightly Reinstein-research-promotiony)
+{% endembed %}
+
+DR: My intervention approach centers around a mediation where legatees and 'testators' (parent and child) discuss their values. A 'conditional anonymity' approach might be taken, in which each states privately what outcomes/shares they would be happy with, and only the mutually-agreed-upon space is revealed to all. &#x20;
+
 ## Misc notes; conversation with Jack Lewars
 
 Jack: "ROI" on bequest funding in UK is much higher than other events, he has heard.
@@ -63,6 +71,8 @@ EA may be a bit too impatient for longer-term projects of fundraising (ironicall
 FP 'gets around this' because of their legal lock..&#x20;
 
 Need to have a vehicle -- and a fund that dynamically determines where it goes&#x20;
+
+
 
 
 
