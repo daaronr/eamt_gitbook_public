@@ -6,12 +6,22 @@ description: >-
 
 # Legacies/bequests (exploring)
 
-
+## Key ideas
 
 * "Boomer" wealth will be passed on to heirs soon ... huge amounts
-* ("Giving pledge")
-* "Generation pledge"
-* Reinstein - facilitate negotiations among parents and children&#x20;
+* Bequest fundraising seen to have high-ROI
+* Some psych/econ/legal reasons why people might be particular willing to donate from their 'leftover assets at death'
+* Some initiatives exist (see below), 'Oftw/Gwwc/TLYCS' might plug in to these
+* Reinstein has some ideas about facilitating negotiations among parents and children (legates and legatees) to help discover a shared interest in effective pledging/giving&#x20;
+* Consider writing up an MVP and doing a trial in Spring 2022?
+
+## Key existing initiatives and tools&#x20;
+
+### Pledges&#x20;
+
+("The Giving pledge")
+
+#### ["Generation pledge"](https://www.generationpledge.org)
 
 {% embed url="https://www.generationpledge.org" %}
 
@@ -19,19 +29,20 @@ description: >-
 
 [@Peter Wildeford](https://rethinkpriorities.slack.com/team/U019CL8FK4H) Yes! Generation Pledge is a community for UHNW individuals who pledge to give at least 10% of their future inheritance. The community incentivizes and advises them on how to have the most impact with both their financial and their social capital (connections, easy access to important people, etc.). They have 70 members (people who took the pledge) from all over the globe, amounting to ca. $1.5B in pledged money. I'd say that max. 10% of their members are EA-aligned right now. \[DR: what about the 'effective' part it?]  The pledge is a social commitment but not a legally binding one.
 
-Jack has some contact with this ... trying to bring them on an EA journey, how to be as persuasive as possible.&#x20;
-
-Rival --  "Resource Generation'  -- not effective
-
+* Jack has some contact with this ... trying to bring them on an EA journey, how to be as persuasive as possible.&#x20;
+* Rival --  "Resource Generation'  -- not effective
 
 
-* ["Legacies now"](https://legacies-now.de/en):&#x20;
+
+#### ["Legacies now"](https://legacies-now.de/en):&#x20;
 
 \>  I think their name was just inspired from the idea of philanthropists who want to "leave a legacy to the world", so the org wants to help them do that soon and effectively. But I haven't seen them work on bequest fundraising. Their target audience are philanthropists giving >1M per year every year these days.
 
+DR: Germany-based. Its a bit hard to see from  their website exactly what they are doing/focused on
 
 
 
+## Misc notes; conversation with Jack Lewars
 
 Jack: "ROI" on bequest funding in UK is much higher than other events, he has heard.
 
@@ -45,7 +56,7 @@ Need to have a vehicle -- and a fund that dynamically determines where it goes&#
 
 
 
-**Going forward plans**
+## **Going forward plans/to do**
 
 * DR to do research, both 'what the space is' and 'what the research says .. about approaches to bequests&#x20;
 * JL can volunteer some time, with other volunteers to put together an MVP
