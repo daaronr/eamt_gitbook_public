@@ -32,3 +32,22 @@ Updates: Went through recent impact ratings (briefly picking charities, found so
 ## (Animal charity evaluators)
 
 ## (Other)
+
+
+
+## Non-effectiveness ratings (for comparison)
+
+### **Charity Navigator** (mainly non-impact, see above)
+
+### Guidestar (AKA 'Candid')&#x20;
+
+ratings have little or nothing to do with impact. \
+\- Guide Dogs for the Blind and Make-a-Wish are both top ('Platinum' rated) ... we know these are ineffective (classic examples)- Against Malaria Foundation is unrated and "New Incentives" gets the lower 'Gold' rating -- both are  top-rated on GiveWell.\
+\
+Also, note the Guidestar criteria:
+
+> The Platinum Seal of Transparency indicates that the Foundation shares clear and important information with the public about our goals, strategies, capabilities, achievements and progress indicators that highlight the difference the Foundation makes in the world.\
+>
+
+\
+It's about transparency, not impact. &#x20;
