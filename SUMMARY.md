@@ -20,6 +20,7 @@
 ## Tools and trials <a href="proposed-tools-for-motivating-effective-giving" id="proposed-tools-for-motivating-effective-giving"></a>
 
 * [Tools and trials: overview](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md)
+* [Academic Paper Ideas](proposed-tools-for-motivating-effective-giving/academic-paper-ideas.md)
 * [(Outcome: Effective gift/consider impact)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
   * [(Effectiveness information and its presentation)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
 * [(Outcome: Pledge, give substantially (& effectively))](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
@@ -45,7 +46,6 @@
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
   * [Chatbot (deferred)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
-* [Academic Paper Ideas](contexts-and-environments-for-testing/academic-paper-ideas.md)
 
 ## Methods discussion <a href="methodological-discussion" id="methodological-discussion"></a>
 
