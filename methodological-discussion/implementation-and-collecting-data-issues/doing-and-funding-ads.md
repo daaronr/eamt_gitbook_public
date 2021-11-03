@@ -13,3 +13,7 @@ JS Winchell presentation:
 {% embed url="https://docs.google.com/presentation/d/1i17-7eCbxYnjZX3vVq0U8lMjxeFrOwSCI2KizlD6bgQ/edit#slide=id.gdf2944a9a7_0_0" %}
 JS presentation -- how to spend your Google Ads Grant
 {% endembed %}
+
+
+
+## General grants -- see "[grants](../../grants-funding-reports-admin/grants-funding-and-reports.md#funding-for-ea-marketing-ads)" section

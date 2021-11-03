@@ -75,3 +75,8 @@
 
 * [Legacies/bequests (exploring)](legacies-bequests-exploring/README.md)
   * [Research: motivating bequest/legate giving](legacies-bequests-exploring/research-motivating-bequest-legate-giving.md)
+
+## Grants, funding, reports, admin
+
+* [Reinstein/Longview "psychology of effective giving" project](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)
+* [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
