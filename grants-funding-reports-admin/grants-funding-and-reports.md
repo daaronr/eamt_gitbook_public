@@ -16,8 +16,6 @@ description: >-
 
 ## Research funding
 
-* Reinstein: LongView-administered grant
-
 
 
 ##
