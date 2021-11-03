@@ -23,15 +23,15 @@ As of 22 July 2021 this is a PRIVATE site, only accessible to members. As we are
 
 ## How do I edit it and add content?
 
-If you have 'write (Editor) access' you should be able to just start typing/clicking/adding.  
+If you have 'write (Editor) access' you should be able to just start typing/clicking/adding. &#x20;
 
-**Update: **15 Oct 2021  Gitbook has changed their protocols. You now need to click the icon in the upper right to 'start a change request' and then 'submit' this request when you are ready 
+**Update: **15 Oct 2021  Gitbook has changed their protocols. You now need to click the icon in the upper right to 'start a change request' and then 'submit' this request when you are ready&#x20;
 
 ![](<../../.gitbook/assets/image (1).png>)
 
 ![](<../../.gitbook/assets/image (2).png>)
 
- Give it a try. 
+&#x20;Give it a try.&#x20;
 
 {% hint style="info" %}
 In newly created blocks/elements "command-slash" (on mac) brings up a lot of cool options
@@ -39,7 +39,7 @@ In newly created blocks/elements "command-slash" (on mac) brings up a lot of coo
 
 ## Merges and conflicts
 
-If you have the Administrator status, you can merge in your own, or others' changes. 
+If you have the Administrator status, you can merge in your own, or others' changes.&#x20;
 
 **What if I get a 'conflict'?** If 2 people edit simultaneously and both make changes they try to merge in, this can happen. It should be simple enough to resolve. Just find the icon for the bits indicating a conflict, and choose which version you want to keep.
 
@@ -55,7 +55,7 @@ Just find the icon for the bits indicating a conflict in the outline bar (that a
 
 ## Technical: Connections with Git/Github and coding
 
-This Gitbook is connected to the private [github-hosted repo here](https://github.com/daaronr/effective_giving_market_testing):
+This Gitbook is connected to the private [github-hosted repo here](https://github.com/daaronr/effective\_giving\_market\_testing):
 
 ```bash
 https://github.com/daaronr/effective_giving_market_testing
@@ -68,3 +68,6 @@ I tested this on 22 July -- it seems to work very nicely, but it seems to want t
 
 
 ## [Other tech](other-tech.md)
+
+* [Slack group](./#what-is-this-gitbook-wiki-and-what-is-it-for) (see esp. `effective_giving_team` channel)
+* [Airtable (editor access) ](https://airtable.com/invite/l?inviteId=invaagum9BDQbMsp3\&inviteToken=fb75210f65c46364093e8bdac82e92380728a0b878d121506180a15bac2b7b4b)
