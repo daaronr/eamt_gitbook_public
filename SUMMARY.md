@@ -78,5 +78,4 @@
 
 ## Grants, funding, reports, admin
 
-* [Reinstein/Longview "psychology of effective giving" project](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)
 * [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
