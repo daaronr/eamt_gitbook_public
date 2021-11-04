@@ -83,4 +83,4 @@
 
 ## Self-aware-experiments-surveys
 
-* ["Lab-esque" experiments and surveys](self-aware-experiments-surveys/lab-esque-experiments-and-surveys.md)
+* [Discussion: "Lab-esque" experiments/surveys](self-aware-experiments-surveys/lab-esque-experiments-and-surveys.md)
