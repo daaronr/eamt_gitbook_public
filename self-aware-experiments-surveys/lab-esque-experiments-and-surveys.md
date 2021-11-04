@@ -2,6 +2,8 @@
 
 ## "A large-scale online experiment" (participants-aware)
 
+TEST OFFLINE EDIT
+
 **Reinstein comment: **We are focused on doing field experiments and marketing trials. However, we could also consider 'laboratory-type experiments' and surveys, with small or hypothetical donation/action choices, earnings determined by the experimenters, and, perhaps most importantly, participants aware they are in an experiment. Bastian discusses an ambitious program for this below. I think this has value and can complement [our lab efforts (see my comments at the bottom). ](lab-esque-experiments-and-surveys.md#reinstein-further-comments) However, I don't want this to derail us from our marketing and field experiments in key EA-relevant settings (for reasons discussed at bottom).&#x20;
 
 
