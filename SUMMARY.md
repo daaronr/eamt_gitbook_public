@@ -80,3 +80,7 @@
 ## Grants, funding, reports, admin
 
 * [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
+
+## Self-aware-experiments-surveys
+
+* ["Lab-esque" experiments and surveys](self-aware-experiments-surveys/lab-esque-experiments-and-surveys.md)
