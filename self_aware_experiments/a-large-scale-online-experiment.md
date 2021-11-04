@@ -1,4 +1,49 @@
-# A large-scale online experiment
+# "A large-scale online experiment" (Participants aware of experiment)
+
+
+## Reinstein comment:
+
+We are focused on doing field experiments and trials. I think this is justified because:
+
+1. "Validity" and generalizability:  These yield directly-applicable insights in the contexts they are run, and very likely generalizable insights for 'other similar EA orgs and appeals'. They avoid many 'biases and limitations' of lab and 'participant-aware' trials (stake sizes, hypothetical vs real choices, house money, experimenter demand, student or 'weird mturk' subject pools, etc.)
+
+2. "Neglectedness and tractability": There has been less work on these relative to lab-esque trials, and we have a unique opportunity to run these
+
+3. Cost and knock-on benefits: These are (often) self-financing, and in fact running these trials may generate value in terms of donations and awareness.
+
+
+Nonetheless, I see a role for lab-esque, online 'participant aware' experiments, both to supplement our field trials, and to directly gain insights.
+
+*I refer here to experiments*
+
+- that we set up and finance (or crowd-fund)
+- that are *not* tied to a field organization or natural setting',
+- that may use subject pools with 'known quantified demographics'
+- potentially involving 'lab-earned' money, forced choices among charities, or even hypothetical choices and stated beliefs and attitudes
+
+
+*Possible advantages/benefits*:
+
+1. Participants of interest ('relevant or representative sample') who may *never enter our field sites*
+
+2. Elicit inframarginal choices relevant to people at some distance from EA.
+
+(People who would never give to (e.g.) AMF in a campaign... but we can learn more about what makes them more or less sympathetic to this)
+
+3. Pay for detailed attitudinal responses, free responses, etc.
+
+4. Engineer a 'common testing setting' for careful comparison
+
+5. Pre-test and post-test frames and responses
+
+*Other notes and thoughts:*  I really support this, but I don’t want it to crowd out our drive to get some field experiments done and reported. We did indeed plan things like surveys and hypothetical choices as well as  Prolific experiments as part of our broader plan, especially  relevant to ‘profiling’. I just want to focus first on getting some marketing and field trials up.  So maybe if Bastian and others can work somewhat-independently on this, but as part of our general effort, and we will assist. As I note, these can and should supplement and enhance the field trials... e.g.,  pre and post-testing of how people see the frames. Also if we are doing the self-aware experiments I’d ideally like to ‘do it better, more systematically, and potentially with adaptive designs’ than the typical academic work.
+
+
+
+## Notes from Bastian Jaeger
+
+
+(DR: I plan to read and respond in detail)
 
 I wanted to write down my thoughts and get your reactions on the possibility of running online lab experiments to test the effectiveness of different interventions. I know that many people are (rightfully) skeptical about how informative online experiments (when run like the typical academic study) can be to predict “real-world” behavior, which is why I organized my views as potential criticisms and their rebuttals. Feel free to add to both or to add your thoughts in another format.
 
