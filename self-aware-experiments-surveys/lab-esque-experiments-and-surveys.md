@@ -2,11 +2,9 @@
 
 ## "A large-scale online experiment" (participants-aware)
 
-**Reinstein comment: **We are focused on doing field experiments and marketing trials. However, we could also consider 'laboratory-type experiments' and surveys,with small or hypothetical donation/action choices, earnings determined by the experimenters, and, perhaps most importantly, participan
+**Reinstein comment: **We are focused on doing field experiments and marketing trials. However, we could also consider 'laboratory-type experiments' and surveys, with small or hypothetical donation/action choices, earnings determined by the experimenters, and, perhaps most importantly, participants aware they are in an experiment. Bastian discusses an ambitious program for this below. I think this has value and can complement [our lab efforts (see my comments at the bottom). ](lab-esque-experiments-and-surveys.md#reinstein-further-comments) However, I don't want this to derail us from our marketing and field experiments in key EA-relevant settings (for reasons discussed at bottom).&#x20;
 
 
-
-&#x20;
 
 ### Notes from Bastian Jaeger (DR re-wording in part)
 
@@ -28,7 +26,7 @@
 
 **External generalizability**
 
-**"Behavior in online experiments tell us nothing about behavior in the “real world” (external validity)**
+**"Behavior in online experiments tell us nothing about behavior in the “real world” **
 
 I think this is the biggest issue. Typical experiments likely have low external validity and are therefore relatively uninformative. I wouldn’t go so far as to dismiss all (contrived/artificial/lab-based) experimental work based on this criticism. To an extent, the same psychological mechanisms operate in the lab and in everyday life. For example, we (rightfully) don’t dismiss findings on basic perceptual or physiological processes as uninformative because we know that these processes operate in very similar ways inside and outside the lab. For complex social phenomena, this becomes more problematic, but still, evidence from lab studies may shed \*some\* light on psychological processes that also operate in everyday life.
 
