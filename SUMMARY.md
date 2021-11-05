@@ -31,10 +31,13 @@
 
 ## Contexts/environments, specific plans <a href="contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
+* [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
+* [Environments and plans](contexts-and-environments-for-testing/environments-and-plans.md)
 * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Web page (casual visitors)](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
-  * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
+  * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing/README.md)
+    * [A/B testing the call-to-action](contexts-and-environments-for-testing/gwwc/youtube-remarketing/a-b-testing-the-call-to-action.md)
   * [(Pledgers/emails)](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
   * [Facebook ads (GWWC)](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md)
   * [Testing Contexts and Strategies for Prioritization](contexts-and-environments-for-testing/gwwc/future-avenues.md)
@@ -69,7 +72,6 @@
 ## Supplements and references
 
 * [Literature on animal advocacy messaging](supplements-and-references/literature-on-animal-advocacy-messaging.md)
-* [A large-scale online experiment](supplements-and-references/a-large-scale-online-experiment.md)
 * [Charity ratings, rankings, messages](supplements-and-references/charity-ratings-rankings-messages.md)
 
 ***
