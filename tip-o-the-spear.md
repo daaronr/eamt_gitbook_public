@@ -6,7 +6,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ## Team/Organizational updates
 
-1. Proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda), DR trying to organize
+1. Proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda), DR organizing (complete [doodle poll](https://doodle.com/poll/yipd6tub9k7tcsumy9afrmxc/admin#table) please)
 2. Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-time
 
 ## Latest/coolest campaigns, trials, initiatives
@@ -21,7 +21,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 ### [OftW](tip-o-the-spear.md#oftw)
 
 * Giving-season email campaign text (Singer); considering alternate messages
-* "Upselling" youtube marketing (casual lift test, or trials?); working with JS
+* "Upselling" YouTube marketing (casual lift test, or trials?); working with JS
 * [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world.md#ongoing-completed-experiments)
 
 ### [TLYCS](contexts-and-environments-for-testing/tlycs/)
@@ -35,8 +35,29 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 * JustGiving 'seed donations'
 * Facebook birthday fundraiser trial&#x20;
 
+## Meeting agendas
+
+### November 2021
+
+1. Introductions (5 min)
+2. Questions/comments on our team, tools (esp. this gitbook), and the monthly meeting/agenda (5-10 min)
+3. Recent & upcoming trials -- let's show and tell (2 min intro)
+   * Description: who (researchers, participants), when, what, why (key questions)
+   * (Where) can we currently access the 'plans, content, and data'?
+   * Difficulties, questions, uncertainties
+   * Findings, next steps, 'what we want to learn next'?&#x20;
+4. at GWWC (8-12 min)
+5. at OftW (8-12 min)
+6. &#x20;at TLYCS (8-12 min)
+7. JS Winchell: what he's been up to, considering funding/grants for his time (5-10 min)
+8. Time-permitting: "Our most interesting questions and issues"
+
+Strict 1-hour deadline; will announce end after 1 hour. But you are free to stick around later. E.g., (David Reinstein) will be available to talk through the Gitbook.
+
 ## Recent meetings
 
-### 1 Nov 2021: See writeup and/or video
+### 1 Nov 2021: Lewis, Reinstein, Winchell, Freeman
+
+See writeup and/or video
 
 {% embed url="https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#" %}
