@@ -6,6 +6,8 @@ description: >-
 
 # Charity ratings, rankings, messages
 
+What are the existing sources of information and ratings about charity effectiveness? How credible are these? How are these presented, and how could/should they be presented?
+
 ## Givewell
 
 ## SoGive

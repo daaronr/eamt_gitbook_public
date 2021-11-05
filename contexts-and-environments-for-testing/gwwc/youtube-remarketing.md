@@ -4,7 +4,7 @@ description: GWWC youtube remarketing campaign (trial)
 
 # YouTube Remarketing
 
-See also the cross-organization notes on [advertising, google, youtube, etc](https://github.com/daaronr/effective_giving_market_testing/tree/0d4bc759981fd3998fb93ba39a1b1f1b875ee5de/contexts-and-environments-for-testing/gwwc/contexts-and-environments-for-testing/ads-google-youtube.md)
+See also the cross-organization notes on [advertising, google, youtube, etc](https://github.com/daaronr/effective\_giving\_market\_testing/tree/0d4bc759981fd3998fb93ba39a1b1f1b875ee5de/contexts-and-environments-for-testing/gwwc/contexts-and-environments-for-testing/ads-google-youtube.md)
 
 ## YouTube Remarketing
 
@@ -16,7 +16,7 @@ JS: I wanted to let you know that GWWC just launched a YouTube remarketing campa
 * [Example 4](https://www.youtube.com/watch?v=4vL2TuygAfg\&t=319s)
 * [Example 5](https://www.youtube.com/watch?v=D4T-q1vAgzE)
 * [Example 6](https://www.youtube.com/watch?v=41tlWqyD094\&t=92s)
-* [Example 7](https://www.youtube.com/watch?v=JiG_NrxIEns\&t=636s)
+* [Example 7](https://www.youtube.com/watch?v=JiG\_NrxIEns\&t=636s)
 
 ### Understanding assignment, proposing experimental design [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX)’s questions:
 
@@ -66,10 +66,10 @@ We've been running the YT remarketing for 3 weeks so wanted to send you an updat
 * Cost per view has gone down from $0.05 per >30s view to $0.02 per >30s view
 * Views have increased 75% without increasing budget (from 220/day to start to 386 yesterday)
 
-![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.1\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ_hDVdViEQapoi8ScvrQmqLSdETS8dJizmkF2nCh-yiZNjV-Lgmyu3ltc45oKsT-3wa6VLhF1HDDlGbLcKG7\_84nFMhLqFMqxtQsHev77tBlSsXMcNqmJxUO1s\&disp=emb\&realattid=ii_ks32th160)\
+![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.1\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ\_hDVdViEQapoi8ScvrQmqLSdETS8dJizmkF2nCh-yiZNjV-Lgmyu3ltc45oKsT-3wa6VLhF1HDDlGbLcKG7\_84nFMhLqFMqxtQsHev77tBlSsXMcNqmJxUO1s\&disp=emb\&realattid=ii\_ks32th160)\
 \
 2\. 10% of the time people watched the full video!\
-![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.2\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ-cfbGoRTUjeXUVWj7KrfwlgOXv-aaI7hKW_V2TMOS4hHs6FSFxZAvV5UhT25gbw-mOVAVPUjPwhfOhlBaKGMIymL73JqKK7YvjWh4A\_95d6oaHonjEKyFAHk8\&disp=emb\&realattid=ii_ks33a1z92)\
+![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.2\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ-cfbGoRTUjeXUVWj7KrfwlgOXv-aaI7hKW\_V2TMOS4hHs6FSFxZAvV5UhT25gbw-mOVAVPUjPwhfOhlBaKGMIymL73JqKK7YvjWh4A\_95d6oaHonjEKyFAHk8\&disp=emb\&realattid=ii\_ks33a1z92)\
 \
 
 
@@ -79,7 +79,7 @@ We've been running the YT remarketing for 3 weeks so wanted to send you an updat
 
 
 \
-3\. Your best video had a view rate (% of time people choose to watch >30s) twice as good as your worst video![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.3\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ_Ax_VUEXUHn1\_WZXK-af52waOROoud5baKCg316S_tsoS2hLprlCb9FgQDDWPB9pXlKQxvPRIqr1kLRDj5AMZkHCo4-Lz1wNsabKNpKn_d4pdNKuapBvwjchY\&disp=emb\&realattid=ii_ks33e7h74)\
+3\. Your best video had a view rate (% of time people choose to watch >30s) twice as good as your worst video![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.3\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ\_Ax\_VUEXUHn1\_WZXK-af52waOROoud5baKCg316S\_tsoS2hLprlCb9FgQDDWPB9pXlKQxvPRIqr1kLRDj5AMZkHCo4-Lz1wNsabKNpKn\_d4pdNKuapBvwjchY\&disp=emb\&realattid=ii\_ks33e7h74)\
 \
 4\. You can see view rate by age, gender, and device in the "Analytics" tab
 
@@ -90,6 +90,6 @@ We've been running the YT remarketing for 3 weeks so wanted to send you an updat
 
 
 * Could add "similar audiences" which is when we let Google use machine learning to find people similar to your website visitors and also show ads to them
-* Could walk David Reinstein and Joshua Lewis through the UI so they can get a sense of the metrics/reporting available and how it could be used for research 
+* Could walk David Reinstein and Joshua Lewis through the UI so they can get a sense of the metrics/reporting available and how it could be used for research&#x20;
 
 \

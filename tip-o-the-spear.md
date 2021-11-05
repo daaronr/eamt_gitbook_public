@@ -14,7 +14,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 ### [GWWC](tip-o-the-spear.md#gwwc)
 
 * "Pledge page" split-test; vary presentations of pledge options (tied to cookies)  &#x20;
-* [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing/)
+* [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
 * [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md) ... that seeks to get people to enter their email.
 * Collecting ideas: aiming for testing at multiple parts of the funnel
 

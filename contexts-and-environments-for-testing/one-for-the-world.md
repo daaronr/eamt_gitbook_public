@@ -11,9 +11,9 @@ description: >-
 27-sept-01
 
 * Planning _giving season_ 'upsell' and reminder promotions for activated pledgers (donors)
-  * possible split-test on emails -- impact vs emotional 
-  * possible Youtube video/videos (lift/split) tied to emails  
-*   Chloe to consult Jack, 
+  * possible split-test on emails -- impact vs emotional&#x20;
+  * possible Youtube video/videos (lift/split) tied to emails &#x20;
+*   Chloe to consult Jack,&#x20;
 
     * touch base with us again on possible email variants
     * contact JS on youtube marketing (sharing emails etc), keep us in the loop
@@ -28,28 +28,28 @@ _What is OftW and how does it differ from others in this space?_
 * Chloe: Focus on youth and university students at a pivotal point in their life
   * Accessible messaging, more of a starting point, less gatekeeping
 * David: 1% is 'more manageable' as a starting point perhaps
-*   Luke: Narrow in focus on type of charities: global health and poverty
+*   Luke: Narrow focus on type of charities: global health and poverty
 
     __
 
 OFTW has a donor base of \~700 active donors, \~1650 pledged donors (who pledged but haven't started donating yet) and \~2000 lapsed donors.
 
-80 percent (of donors?) are in the USA  
+80 percent (of donors?) are in the USA &#x20;
 
 Focus on global health charities
 
-They focus on donations to GiveWell charities ... but technically any 510c3
+They focus on donations to GiveWell charities ... but technically OftW pledgers can give to any 510c3
 
 
 
-### Some key goals 
+### Some key goals&#x20;
 
 **Reinstein/Lewars conversation notes (rough)**
 
-* activating more donors who took the pledge at university, so that their donations actually start; 
-* retaining donors for longer once they activate; 
+* activating more donors who took the pledge at university, so that their donations actually start;&#x20;
+* retaining donors for longer once they activate;&#x20;
 * Upselling donors to give more over time (either more as a raw amount, e.g. 'keeping pace' at 1% of their income; or more as a percentage, e.g. 'graduating' to take the 10% GWWC pledge)
-* acquiring new donors with fewer touch points, e.g. via online advertising, via our website etc. (we currently get \~0 organic sign ups)
+* acquiring new donors with fewer touchpoints, e.g. via online advertising, via our website etc. (we currently get \~0 organic sign ups)
 
 **Cudaback**
 
@@ -60,18 +60,18 @@ They focus on donations to GiveWell charities ... but technically any 510c3
 ### **Pipeline/groups/segments**
 
 1. **Pledgers**
-2. **Active donors, i.e., "Activated pledgers"** (Chloe is thinking of segments to this and how to appeal to them) 
+2. **Active donors, i.e., "Activated pledgers"** (Chloe is thinking of segments to this and how to appeal to them)&#x20;
    1. Second tier -- people who have given each months for 12+ months; "Legacy donors" (DR: maybe 1x per year high-value donors should be in this group)
 3. One-time donors (these may or may not be pledgers)
 4. Cancelled
 5. Payment failures
 
-* Another group worth considering: 'pledge-curious supporters' 
+* Another group worth considering: 'pledge-curious supporters'&#x20;
 
 ### **Goals/actions**
 
 * 'Activating' Pledgers as donors (pledged but not donated)
-* ** **Active donors 
+* ** **Active donors&#x20;
   * Retain
   * Upsell (maybe only to the second tier?)
 * Acquiring pledges, perhaps from a 'pledge-curious group'
@@ -79,20 +79,20 @@ They focus on donations to GiveWell charities ... but technically any 510c3
 ### **Interested in knowing more about**
 
 * Content -- expand our ability to tell stories about the beneficiaries
-  * Ways to tell these stories 
+  * Ways to tell these stories&#x20;
 * Frequency (of comms with supporters)
 
 ### **Communications contexts**
 
 * Platforms: Social media, email flows
-* Telling stories in corporate context 
+* Telling stories in corporate context&#x20;
 
 Typical audience have been students and young professionals, but there is interest in corporate outreach
 
 * Zoom and **lunchtime talks in corporate contexts** (How many? These seem extremely promising)
   * How many people are activating/pledging following these lunch+learn?
 
-## Typical donor journey: 
+## Typical donor journey:&#x20;
 
 We are in the process of creating these homepages and setting up conversion tracking. As OFTW has \~0 organic sign ups currently, we are testing for a variety of conversion routes, including: \[Todo: clarify this]
 
@@ -102,19 +102,19 @@ We are in the process of creating these homepages and setting up conversion trac
 * asking us (staff) a question by email
 * joining a group call with others wanting to learn about effective donating (Kennan as dir. of chapter management)
 * taking the pledge
-* making a one-off donation 
+* making a one-off donation&#x20;
 
 ## Some rough numbers
 
-650 active donors 
+650 active donors&#x20;
 
-1500 people in pipeline (pre-activation date) 
+1500 people in pipeline (pre-activation date)&#x20;
 
 750 new people a year are recruited... thinks it would be 2-2.5k
 
-OFTW has a donor base of \~700 active donors, 
+OFTW has a donor base of \~700 active donors,&#x20;
 
-\~1650 pledged donors (who pledged but haven't started donating yet) and 
+\~1650 pledged donors (who pledged but haven't started donating yet) and&#x20;
 
 \~2000 lapsed donors.
 
@@ -122,7 +122,7 @@ OFTW has a donor base of \~700 active donors,
 
 ### NYU - message testing on our homepage
 
-We are working with Joshua Lewis and a group of students at NYU to experiment with messaging on our homepage. A full write-up of this will follow, but essentially we have chosen two new framings for OFTW's message to feature on variations of our homepage, and we're running an A/B test with the [existing homepage](https://www.1fortheworld.org) as a control. 
+We are working with Joshua Lewis and a group of students at NYU to experiment with messaging on our homepage. A full write-up of this will follow, but essentially we have chosen two new framings for OFTW's message to feature on variations of our homepage, and we're running an A/B test with the [existing homepage](https://www.1fortheworld.org) as a control.&#x20;
 
 "Existing home page as of  9 Sep 2021"
 
@@ -171,12 +171,12 @@ Both emails come from Jack as Executive Director. We hope that people who get th
 
 ## Other notes– going forward steps
 
-9 Sep 2021 
+9 Sep 2021&#x20;
 
 1. Potentially interested in 'joining our group' and coming to (e.g.) 1x per month cross-org meetings
 2. Engaging with this Gitbook and other resources
 3. Tests and trials of interest -- thinking about it
-4. Possibly open to collaboration with other orgs (GWWC, TLYCS etc) on 
+4. Possibly open to collaboration with other orgs (GWWC, TLYCS etc) on&#x20;
    * Advertisement and social media campaigns and tests/trials
    * Corporate lunchtime talks and outreach (could be done jointly)
    * Sharing data and insights
@@ -188,21 +188,21 @@ Giving season is coming...Open to testing  less disruptive and less risky stuff
 *   "Testing involving activated pledgers (active donors)"
 
     * Doing a series of email campaigns throughout giving seasonal
-      * (Notes also givingtuesday and other things)  
-      * Asking them to 'donate on top of' (unclear if it is additional to the 1%?) 
+      * (Notes also givingtuesday and other things) &#x20;
+      * Asking them to 'donate on top of' (unclear if it is additional to the 1%?)&#x20;
       * this year they _are_ trying to 'upsell them' ... rem -- current goal is to 'upsell by 5 percent' ... earn an additional 5% of that 'run rate'
     * previously: 'just getting in their inbox'
-    * In past, the focus has been on 'showing them their impact' 
+    * In past, the focus has been on 'showing them their impact'&#x20;
       * A quarterly impact report based on their specific  donations
       * last year was centered around a match
-      * (?Haven't done so in the past, but might be worth considering an emotional appeal) 
-    * JS suggested: Chloe  at OfTw sends list of emails, JS works to put ads on Ebay or Facebook to some share of these, Chloe considers the impact of these. 
+      * (?Haven't done so in the past, but might be worth considering an emotional appeal)&#x20;
+    * JS suggested: Chloe  at OfTw sends list of emails, JS works to put ads on Ebay or Facebook to some share of these, Chloe considers the impact of these.&#x20;
       * JS suggests trying something simple so we can see something in a short run
       * YouTube: Can tell us time video spent on screen, how long they watched it...
     *   Timings
 
         * Through december-jan  they can expect to see a bunch of donations
-        * could do this early on, try to compare 1 group getting one campaign and the other another campaign, or something 
+        * could do this early on, try to compare 1 group getting one campaign and the other another campaign, or something&#x20;
 
 
 
@@ -211,7 +211,7 @@ Giving season is coming...Open to testing  less disruptive and less risky stuff
   * try for 'early testing and pivot within giving season'
 *   Works with JS on possible Youtube campaign lift test ...
 
-    *  (would need 'audience lists' with possible assigned splits 
+    * &#x20;(would need 'audience lists' with possible assigned splits&#x20;
     * would need a video (or multiple if we need to test it)
 
 
@@ -224,4 +224,4 @@ Script for 2020 emails below:
 
 We are hiring a Communications Officer imminently, who will add more messaging expertise and have a lot more time for this type of work. --> this is Chloe Cudaback
 
-We would dearly love to have donors' donation management (e.g. taking the pledge / updating a pledge etc.) entirely housed on our own site, both for donor convenience and for analytics purposes. Currently, donors log in at [donational.org](https://donational.org) to manage their pledges. 
+We would dearly love to have donors' donation management (e.g. taking the pledge / updating a pledge etc.) entirely housed on our own site, both for donor convenience and for analytics purposes. Currently, donors log in at [donational.org](https://donational.org) to manage their pledges.&#x20;

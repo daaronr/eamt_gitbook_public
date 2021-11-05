@@ -31,12 +31,12 @@
 
 ## Contexts/environments, specific plans <a href="contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
-* [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
 * [Environments and plans](contexts-and-environments-for-testing/environments-and-plans.md)
+* [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
 * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Web page (casual visitors)](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
-  * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing/README.md)
+  * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
     * [A/B testing the call-to-action](contexts-and-environments-for-testing/gwwc/youtube-remarketing/a-b-testing-the-call-to-action.md)
   * [(Pledgers/emails)](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
   * [Facebook ads (GWWC)](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md)

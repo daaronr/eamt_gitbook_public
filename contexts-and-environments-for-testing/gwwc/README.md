@@ -35,7 +35,7 @@ Brainstorms: [See shared GDOC](https://docs.google.com/document/d/1Sps58H0LKvoLv
 * **Donation page**: Split-testing ‘which pledge do you see (first)’ (try giving, GWWC, further giving)
   * Random draw, cookie holds it constant by individual
 * Already encouraging ‘advocacy’ and ‘start birthday fundraisers’
-* [**Youtube Remarketing**](youtube-remarketing/)&#x20;
+* [**Youtube Remarketing**](youtube-remarketing.md)&#x20;
 
 #### The [doc below has been shared in a small group](https://docs.google.com/document/d/1Sps58H0LKvoLvzSSa2Yav3kFO1vDSVzsYXoYyWzvol0/edit#heading=h.umgv7nqt8hyj); we will incorporate elements of it into this Gitbook
 
