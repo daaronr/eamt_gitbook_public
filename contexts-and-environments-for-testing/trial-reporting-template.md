@@ -14,6 +14,12 @@ __
 
 ## "Concise reporting template"
 
+
+
+{% hint style="info" %}
+_Please keep your answers brief -- if you want to give more detail (which is not necessary) please link a later section or external page. _
+{% endhint %}
+
 _** **_
 
 ### **General idea, main 'hypothesis' (if there is one)**
