@@ -8,6 +8,10 @@ description: >-
 
 ## **Tip of the spear**
 
+(moved to shared section at top)
+
+
+
 27-sept-01
 
 * Planning _giving season_ 'upsell' and reminder promotions for activated pledgers (donors)
