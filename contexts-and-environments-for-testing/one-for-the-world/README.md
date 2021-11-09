@@ -130,7 +130,7 @@ We are working with Joshua Lewis and a group of students at NYU to experiment wi
 
 "Existing home page as of  9 Sep 2021"
 
-![](<../.gitbook/assets/image (8) (4).png>)
+![](<../../.gitbook/assets/image (8) (4).png>)
 
 \
 \
@@ -222,7 +222,7 @@ Giving season is coming...Open to testing  less disruptive and less risky stuff
 
 Script for 2020 emails below:
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 ## Resources
 

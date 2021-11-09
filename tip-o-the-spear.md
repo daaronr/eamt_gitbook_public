@@ -22,11 +22,11 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ### [OftW](tip-o-the-spear.md#oftw)
 
-* <mark style="color:orange;background-color:orange;">Giving-season email campaign for 'additional donation'</mark>
+* <mark style="color:blue;background-color:orange;"></mark>[<mark style="color:blue;background-color:orange;">Giving-season email campaign for 'additional donation'</mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)<mark style="color:blue;background-color:orange;"></mark>[ <mark style="color:blue;background-color:orange;">\[link\]</mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)<mark style="color:blue;background-color:orange;"></mark>
   * Series of 3 emails prior to giving Tuesday
   * Split test: A. Impact (standard) vs B. Emotional/story&#x20;
 * "Upselling" YouTube marketing (casual lift test, or trials?); working with JS
-* [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world.md#ongoing-completed-experiments)
+* [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments)
 
 ### [TLYCS](contexts-and-environments-for-testing/tlycs/)
 
