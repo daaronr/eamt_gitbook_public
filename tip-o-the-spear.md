@@ -13,8 +13,10 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ### [GWWC](tip-o-the-spear.md#gwwc)
 
-* <mark style="background-color:orange;">"Pledge page" split-test; vary presentations of pledge options (tied to cookies)</mark>  &#x20;
-* [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
+*   <mark style="background-color:orange;">"Pledge page" split-test; vary presentations of pledge options (tied to cookies/IP addresses)</mark>
+
+    _<mark style="background-color:yellow;">We have some results</mark> _<mark style="background-color:yellow;">(incidence rates and Google's metrics)!</mark> &#x20;
+* <mark style="background-color:yellow;"></mark>[YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
 * [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md) ... that seeks to get people to enter their email.
 * Collecting ideas: aiming for testing at multiple parts of the funnel
 
