@@ -2,7 +2,7 @@
 geometry: margin=0.7in
 ---
 
-# preregistration\_work
+# preregistration: OftW Giving Tuesday/giving season 2021-22
 
 Academic-linked authors: David Reinstein, Josh Lewis, potentially others going forward
 
@@ -18,14 +18,13 @@ No, no data have been collected for this study yet.
 
 Are effectiveness-minded (EA-adjacent) donors and pledgers more motivated to donate by
 
-1. A (non-quantitative) mention of impact and effectiveness (in line with the standard OftW pitch)
-2. Emotional appeals and 'identified victim' images
+1. "A": A (non-quantitative) mention of impact and effectiveness (in line with the standard OftW pitch)
+2. "B": Emotional appeals and 'identified victim' images
 
 Framing this in terms of the psychology, social science, and philanthropy literature:
 
 "Does the Identifiable Victims Effect (see e.g., meta-analysis by Lee and Feeley, 2016) also motivate the most analytical and committed donors?"
 
-\\
 
 ## 3) Describe the key dependent variable(s) specifying how they will be measured.
 
@@ -34,7 +33,6 @@ Framing this in terms of the psychology, social science, and philanthropy litera
 * `don_general_gs`: (If observable), the amount the person donates during the 'Giving Season', as observed through the OftW/donational/Plaid network
 * `don_general_1yr`: (If observable), the amount the person donates during the 'Giving Season' and for the following year (ending 15 January 2023) as observed through the OftW/donational/Plaid network
 * `d_continue_pledge_1yr`: Whether the person is still an active OftW pledger a year after the current giving season (15 January 2023)
-* `don_amt`: Donation amount (used in considering the overall value of the campaigns to the fundraiser)
 
 ## 4) How many and which conditions will participants be assigned to?
 
@@ -74,15 +72,29 @@ B. Story/Emotion version:
 
 ## 5) Specify exactly which analyses you will conduct to examine the main question/hypothesis.
 
-Our baseline analysis method will be:
+We will report all of the following analyses, with our preferred method in bold:
 
-* Standard (OLS) linear regressions (even where dependent variables are binary), reporting Huber-White heteroskedasticity-robust standard errors.^\[We realize that these are not always the most appropriate models/tests. However we preregister these as our baseline because they are probably the most widely used and accepted in experimental economics and Economics as a whole.]
+**Binary outcomes:**
 
-@Josh: my co-authors on the other project wanted this. I am not a huge fan; I think I prefer nonparametric (ranksum etc) and simulation tests if we are not 'going Bayesian'.
+- **Fisher's exact test**
 
-* As our treatment is carefully balanced and randomized, no 'control variables' will be used; we will only put 'treatment variables' on the right-hand-side. As these are blocked to be orthogonal, we will generally only include a single treatment variable on the rhs of each regression. (Thus, these are close to being simple t-tests).
+- Bayesian Test of Difference in Proportions (as in [here](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#bayes_prop)), with an informative beta distribution for the prior over the incidence rate in each treatment, with a parameter based on the incidence rates for similar campaigns in the prior 2 years.
 
-Although we specify directional hypotheses for some of the tests below, we will report 'two-tailed' tests in all cases.
+**Continuous outcomes:**
+
+- **Simulation/permutation based tests** for whether the mean (including 0's) is higher in group A or B (including 0's)
+- ... same for median, but these will almost always be 0, we anticipate
+
+- Standard rank-sum tests
+
+- T-test with unequal variance
+
+All tests will be 2-sided.
+
+We will also report Bayesian credible intervals and other Bayesian measures for the proportion tests. We may also explore Bayesian approaches for the continuous outcomes, e.g., Bayesian beta regression.
+
+
+
 
 ### Specific analyses
 
@@ -90,17 +102,6 @@ Although we specify directional hypotheses for some of the tests below, we will 
 
 1. Does the story/emotion text (relative to the impact text) increase or reduce: i. donation incidence, and/or ii. average amount raised per individual (including 0 donations)?
 
-_Specific tests/analyses:_^\[Note: Notation below approximately represents `R` statistical model notation.]
-
-> i. `d_don ~ d_impact`
-
-> where `d_impact=1` in treatment B
-
-> ii. `log_don_1 ~ d_impact`
-
-etc. (fill this in)
-
-\\
 
 (@Josh -- in previous preregs, I liked to specify R-like pseudo code as above) ... \\
 
@@ -116,7 +117,7 @@ Any interactions or subsets?
 
 We will not exclude any observations from the sample, unless they make it clear to us that they are aware of this trial.
 
-We will not Windsorise or exclude outliers (@Josh, let's discuss)
+We will not Windsorise or exclude outliers.
 
 ## 7) How many observations will be collected or what will determine sample size?
 
@@ -130,22 +131,23 @@ Where situations arise that have not been anticipated in our preregistration and
 
 #### Exploratory and secondary hypotheses/questions/analyses
 
-\*Interactions, moderators, heterogeneity: \*
-
-We recognize that it is challenging to estimate the interaction effects of treatments. Non-linearities and ceiling effects can be difficult to disentangle from a 'real behavioral' interaction effect. Similarly, heterogeneity by subgroups is difficult to disentangle from nonlinearity and ceiling/floor effects (full discussion to be given [here](https://daaronr.github.io/metrics\_discussion/reg-follies.html#interaction-terms-and-pitfalls)).
-
-?Any interactions of interest? \\
-
 _Secondary hypotheses and questions_
 
-?Anything
+**Which treatment motivates a higher rate of...**
+
+- Email open rates (note, as we have three obs per participant, we will need random effects or clustered standard errors). and
+
+- Use click rates (with same caveat)?
+
+
+
+We consider these as secondary because the click and open rates do not necessarily strongly relate to outcomes of interest, particular among this set of already effectiveness-minded donors. These outcomes may simply reflect attention or curiosity about the content.
 
 \\
 
+Exploratory: what factors (especially gender, university/student status, university subject) predict which treatment leads to greater donation (incidence and amount).
+
 #### Power calculations
 
-(Add frozen links to power calculations here?)
+We did not have time to do even simple power calculations before the start date of this experiment. However, we will try to conduct these before we obtain any of the data, and update this preregistration.
 
-#### Structure and associated files
-
-(link files/explanation of data storage and project?)
