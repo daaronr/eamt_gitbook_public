@@ -52,7 +52,7 @@ Within each group, they will be randomized (selection without replacement to ens
 
 A series of three emails will be sent, with participants remaining in the same treatment across all three emails.
 
-See actual texts for design [HERE](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit)
+See actual texts for design and timing [HERE](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit)
 
 Example content differences, from email 1:
 
@@ -82,10 +82,12 @@ We will report all of the following analyses, with our preferred method in bold:
 
 **Continuous outcomes:**
 
-- **Simulation/permutation based tests** for whether the mean (including 0's) is higher in group A or B (including 0's)
-- ... same for median, but these will almost always be 0, we anticipate
+- **Standard rank-sum tests (Mann–Whitney U test**)
 
-- Standard rank-sum tests
+- Simulation/permutation based tests for whether the mean (including 0's) is higher in group A or B (including 0's)
+
+- ... same for median, but medians will almost always be 0, we anticipate
+
 
 - T-test with unequal variance
 
@@ -96,16 +98,13 @@ We will also report Bayesian credible intervals and other Bayesian measures for 
 
 
 
-### Specific analyses
+We also anticipate reporting multiple-hypothesis-test corrections, but we are not pre-registering a method. Our approach to this is likely to follow that of List et al (2017), which this paper applied to a similar domain (charitable giving experiments with multiple donation-related outcomes).
 
-**Impact vs story/emotion: specific questions and analyses**
+We will report confidence intervals on our results as well as Bayesian credible intervals under flat and weakly informative priors. Where we have a 'near-zero' result, we will try to put reasonable bounds on it to convey the extent of our certainty that the true effect or parameter was fairly small.
 
-1. Does the story/emotion text (relative to the impact text) increase or reduce: i. donation incidence, and/or ii. average amount raised per individual (including 0 donations)?
+Where situations arise that have not been anticipated in our preregistration and pre-analysis plan, we will try to follow the Don Green lab [standard operating procedures](https://github.com/acoppock/Green-Lab-SOP) unless there is a very strong reason to deviate from this, which we will specify.
 
 
-(@Josh -- in previous preregs, I liked to specify R-like pseudo code as above) ... \\
-
-Any interactions or subsets?
 
 \\
 
@@ -121,13 +120,14 @@ We will not Windsorise or exclude outliers.
 
 ## 7) How many observations will be collected or what will determine sample size?
 
-We also anticipate reporting multiple-hypothesis-test corrections, but we are not pre-registering a method. Our approach to this is likely to follow that of List et al (2017), which this paper applied to a similar domain (charitable giving experiments with multiple donation-related outcomes).
+A series of three campaign emails will be sent out by OftW to their regular email lists, to roughly 4000 participants, as described above
 
-We will report confidence intervals on our results as well as Bayesian credible intervals under flat and weakly informative priors. Where we have a 'near-zero' result, we will try to put reasonable bounds on it to convey the extent of our certainty that the true effect or parameter was fairly small.
+Targeted dates: November 10, November 18, November 23, all in 2021, but these may be delayed for feasibility
 
-Where situations arise that have not been anticipated in our preregistration and pre-analysis plan, we will try to follow the Don Green lab [standard operating procedures](https://github.com/acoppock/Green-Lab-SOP) unless there is a very strong reason to deviate from this, which we will specify.
 
-\\
+
+## Other
+Anything else you would like to pre-register? (e.g., secondary analyses, variables collected for exploratory purposes, unusual analyses planned?)
 
 #### Exploratory and secondary hypotheses/questions/analyses
 
@@ -145,7 +145,10 @@ We consider these as secondary because the click and open rates do not necessari
 
 \\
 
-Exploratory: what factors (especially gender, university/student status, university subject) predict which treatment leads to greater donation (incidence and amount).
+Exploratory: what factors (especially gender, university/student status, university subject) predict which treatment leads to greater donation (incidence and amount)
+
+Note that our partner is planning to use this trial to inform future trials and experiments, particular for the 'Giving Tuesday' season itself.
+.
 
 #### Power calculations
 
