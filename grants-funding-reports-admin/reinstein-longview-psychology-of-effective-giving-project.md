@@ -2,7 +2,7 @@
 description: >-
   A permanent, continuously updated space to track David Reinstein's progress on
   research and impact stemming from his "psychology of effective giving" grant,
-  administered by Longview Philanthropy. This space will be shared with the funders and with members of the 'EA Marketing Team'
+  administered by Longview Philanthropy.
 ---
 
 # Reinstein/Longview "psychology of effective giving" project
@@ -16,10 +16,10 @@ description: >-
 *   Brought together&#x20;
 
     * key players from EA giving and pledge organizations (especially GWWC, TLYCS, and OftW),&#x20;
-    * applied academics and
+    * applied academics, and
     * &#x20;marketing experts.
 
-    Our team is listed [HERE](../organization-and-overview/our-team-and-resources/). We have held regular meetings, sharing our plans and advice
+    Our team is listed [HERE](../organization-and-overview/our-team-and-resources/). We have held regular meetings, sharing our plans and advice.
 * Created a shared space ([HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/); present context, a wiki-style gitbook) to coordinate our plans, resources, and insights (as well as a Slack group and an airtable for structured content)
 * Worked to push forward and encourage several marketing trials, some of which are underway (see '[tip-o-the-spear](../tip-o-the-spear.md)' within the (current) Gitbook)
 * Current push: run trials and experiments for 'quick wins and PoC' while working towards building structure and resources for continous systematic marketing, testing, and sharing insights
