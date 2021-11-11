@@ -25,6 +25,6 @@ What are highest value?
 
 ## Research funding
 
-*
+* Reinstein: funding (for 1 year of time, 15 hours per week) from grant administered by Longview
 
 ##
