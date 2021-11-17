@@ -15,16 +15,16 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 *   <mark style="background-color:orange;">"Pledge page" split-test; vary presentations of pledge options (tied to cookies/IP addresses)</mark>
 
-    _<mark style="background-color:yellow;">We have some results</mark> _<mark style="background-color:yellow;">(incidence rates and Google's metrics)!</mark> &#x20;
-* <mark style="background-color:yellow;"></mark>[YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
+    \_<mark style="background-color:yellow;">We have some results</mark> \_<mark style="background-color:yellow;">(incidence rates and Google's metrics)!</mark>
+* [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
 * [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md) ... that seeks to get people to enter their email.
 * Collecting ideas: aiming for testing at multiple parts of the funnel
 
 ### [OftW](tip-o-the-spear.md#oftw)
 
-* <mark style="color:blue;background-color:orange;"></mark>[<mark style="color:blue;background-color:orange;">Giving-season email campaign for 'additional donation'</mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)<mark style="color:blue;background-color:orange;"></mark>[ <mark style="color:blue;background-color:orange;">\[link\]</mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)<mark style="color:blue;background-color:orange;"></mark>
+* [<mark style="color:blue;background-color:orange;">Giving-season email campaign for 'additional donation'</mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)[ <mark style="color:blue;background-color:orange;">\[link\]</mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)
   * Series of 3 emails prior to giving Tuesday
-  * Split test: A. Impact (standard) vs B. Emotional/story&#x20;
+  * Split test: A. Impact (standard) vs B. Emotional/story
 * "Upselling" YouTube marketing (casual lift test, or trials?); working with JS
 * [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments)
 
@@ -33,30 +33,36 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 * Various trials with JS, including city-level Youtube test
 * Considering a '[funds recommendations trial'](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md) with different options and 'prompted consideration'
 
-### Reinstein & co&#x20;
+### Reinstein & co
 
 * Trying to push forward 'self and academic-funded large trials', ideally before giving season
 * JustGiving 'seed donations'
-* Facebook birthday fundraiser trial&#x20;
+* Facebook birthday fundraiser trial
 
 ## Meeting agendas
 
-### November 2021
+### December 1 2021 (7-8pm EST)
 
-1. Introductions (5 min)
-2. Questions/comments on our team, tools (esp. this gitbook), and the monthly meeting/agenda (5-10 min)
-3. Recent & upcoming trials -- let's show and tell (2 min intro)
-   * Description: who (researchers, participants), when, what, why (key questions)
-   * (Where) can we currently access the 'plans, content, and data'?
-   * Difficulties, questions, uncertainties
-   * Findings, next steps, 'what we want to learn next'?&#x20;
-4. at GWWC (8-12 min)
-5. at OftW (8-12 min)
-6. &#x20;at TLYCS (8-12 min)
-7. JS Winchell: what he's been up to, considering funding/grants for his time (5-10 min)
-8. Time-permitting: "Our most interesting questions and issues"
+1. Introductions (5 min; just a 'hello and here's a quick thing you might not know about me/ thing I'm excited about')
+2. Questions/comments on our 'Market Testing team', our tools (esp. this gitbook), and the monthly meeting/agenda (5-10 min)
+3.  Recent & upcoming trials -- let's "show and tell" (2 min intro)
+
+    * Description: who (researchers, participants), when, what, why (key questions)
+    * (Where) can we currently access the 'plans, content, and data'?
+    * Difficulties, questions, uncertainties
+    * Findings, next steps, 'what we want to learn next'?
+
+    A. at GWWC (8-12 min)
+
+    B. at OftW (8-12 min)
+
+    C. at TLYCS (8-12 min if Neela is present, otherwise Reinstein summarizes in 1-2 min)
+4. JS Winchell: what he's been up to, considering funding/grants for his time (5-10 min)
+5. Time-permitting: "Our most interesting questions and issues"
 
 Strict 1-hour deadline; will announce end after 1 hour. But you are free to stick around later. E.g., (David Reinstein) will be available to talk through the Gitbook.
+
+_We plan to record this meeting and share it with the group, but not outside the group (except by mutual agreement of all present)_
 
 ## Recent meetings
 

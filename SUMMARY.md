@@ -47,7 +47,7 @@
 * [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world/README.md)
   * [pre-giving-tuesday-email split test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test.md)
   * [Preregistration: OftW pre-GT](contexts-and-environments-for-testing/one-for-the-world/preregistration\_oftw\_pre\_gt.md)
-* [(Other) - test edit](contexts-and-environments-for-testing/other/README.md)
+* [(Other)](contexts-and-environments-for-testing/other/README.md)
   * [(FLI (adjacent))](contexts-and-environments-for-testing/other/fli-adjacent.md)
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
