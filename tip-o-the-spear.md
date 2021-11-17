@@ -6,14 +6,14 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ## Team/Organizational updates
 
-1. Proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda), DR organizing (complete [doodle poll](https://doodle.com/poll/yipd6tub9k7tcsumy9afrmxc/admin#table) please)
+1. First of proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda) set for December 1, 7pm New York (will share Zoom link shortly)
 2. Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-time
 
 ## Latest/coolest campaigns, trials, initiatives
 
 ### [GWWC](tip-o-the-spear.md#gwwc)
 
-*   <mark style="background-color:orange;">"Pledge page" split-test; vary presentations of pledge options (tied to cookies/IP addresses)</mark>
+*   <mark style="background-color:green;">"Pledge page" split-test; vary presentations of pledge options (tied to cookies/IP addresses)</mark>
 
     \_<mark style="background-color:yellow;">We have some results</mark> \_<mark style="background-color:yellow;">(incidence rates and Google's metrics)!</mark>
 * [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
@@ -22,7 +22,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ### [OftW](tip-o-the-spear.md#oftw)
 
-* [<mark style="color:blue;background-color:orange;">Giving-season email campaign for 'additional donation'</mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)[ <mark style="color:blue;background-color:orange;">\[link\]</mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)
+* <mark style="background-color:green;"></mark>[<mark style="background-color:green;"><mark style="color:blue;background-color:orange;">Giving-season email campaign for 'additional donation'<mark style="color:blue;background-color:orange;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)<mark style="background-color:green;"></mark>[ <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="color:blue;background-color:orange;">\[link\]<mark style="color:blue;background-color:orange;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing) <mark style="background-color:green;"><mark style="color:blue;background-color:orange;"> </mark>_<mark style="background-color:green;"><mark style="color:blue;background-color:orange;">(underway)<mark style="color:blue;background-color:orange;"></mark>_
   * Series of 3 emails prior to giving Tuesday
   * Split test: A. Impact (standard) vs B. Emotional/story
 * "Upselling" YouTube marketing (casual lift test, or trials?); working with JS
@@ -30,14 +30,17 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ### [TLYCS](contexts-and-environments-for-testing/tlycs/)
 
-* Various trials with JS, including city-level Youtube test
 * Considering a '[funds recommendations trial'](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md) with different options and 'prompted consideration'
+* Various trials with JS, including city-level Youtube test
 
-### Reinstein & co
 
-* Trying to push forward 'self and academic-funded large trials', ideally before giving season
+
+### Reinstein & Co
+
+Trying to push forward 'self and academic-funded large trials', ideally before giving season
+
 * JustGiving 'seed donations'
-* Facebook birthday fundraiser trial
+* Facebook birthday fundraiser trial&#x20;
 
 ## Meeting agendas
 
@@ -68,6 +71,6 @@ _We plan to record this meeting and share it with the group, but not outside the
 
 ### 1 Nov 2021: Lewis, Reinstein, Winchell, Freeman
 
-See writeup and/or video
+See writeup (below) and/or video
 
 {% embed url="https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#" %}
