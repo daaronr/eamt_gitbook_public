@@ -13,16 +13,16 @@ description: >-
 
 **Josh Lewis (NYU) and David Reinstein have:**
 
-*   Brought together&#x20;
+*   Brought together
 
-    * key players from EA giving and pledge organizations (especially GWWC, TLYCS, and OftW),&#x20;
+    * key players from EA giving and pledge organizations (especially GWWC, TLYCS, and OftW),
     * applied academics, and
-    * &#x20;marketing experts.
+    * marketing experts.
 
     Our team is listed [HERE](../organization-and-overview/our-team-and-resources/). We have held regular meetings, sharing our plans and advice.
-* Created a shared space ([HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/); present context, a wiki-style gitbook) to coordinate our plans, resources, and insights (as well as a Slack group and an airtable for structured content)
-* Worked to push forward and encourage several marketing trials, some of which are underway (see '[tip-o-the-spear](../tip-o-the-spear.md)' within the (current) Gitbook)
-* Current push: run trials and experiments for 'quick wins and PoC' while working towards building structure and resources for continous systematic marketing, testing, and sharing insights
+* Created a shared space ([HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/); i.e., the present context, a wiki-style gitbook) to coordinate our plans, resources, and insights (as well as a Slack group and an airtable for structured content
+* Worked to push forward and encourage several marketing trials, some of which are underway (or even have data we are analyzing see '[tip-o-the-spear](../tip-o-the-spear.md)' within the (current) Gitbook)
+* Current push: run trials and experiments for 'quick wins and Proofs of Concept' while working towards building structure and resources for continuous systematic marketing, testing, and sharing insights
 
 ### "Impact of impact information" experiments and synthesis
 
@@ -30,11 +30,11 @@ description: >-
 
 Background: We are working with ICRC, a Switzerland-based individual development association on a series of large-scale field trials
 
-&#x20;experiment involving 'cost per impact' information has come back. The results suggest 'near-zero and tightly bounded impact of the cost-per-impact information'. This is broadly consistent with previous work (Karlan and Wood's experiment at Freedom From Hunger, my bi-annual experiment with Catholic Relief Services, other small-scale experiments)
+Our experiment involving 'cost per impact' information has come back. The results suggest 'near-zero and tightly bounded impact of the cost-per-impact information'. This is generally consistent with previous work, including [Karlan and Wood (2017)](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300490?via%3Dihub) experiment at Freedom From Hunger, my [2018 and 2019 experiments with Catholic Relief Services](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#comparison-of-posterior-probabilities), and other small-scale experiments [(Reinstein and Bergh, 2020)](https://journals.sagepub.com/doi/full/10.1177/1948550619893968?casa\_token=LHG5-s5teJYAAAAA%3AFpnPvCaoS94ADEvRt772GtOEHyhfSWAbWoboSArW\_WZ13s2AACbD6Ty\_Z07M6UhPqC\_ROWKYV1A).
 
-My next steps: To write up these results in particular, and in synthesis (meta-analysis) with the previous evidence, bounding the effect of cost-per-impact information, and considering how it informs effective charities and fundraisers.
+_My next steps_: To write up these results in particular, and in synthesis (meta-analysis) with the previous evidence, bounding the effect of cost-per-impact information, and considering how it informs effective charities and fundraisers.
 
-1. Just Giving 'seed pages' trial:
+### Just Giving 'seed pages' trial:
 
 Rem: Investigating 'impact of early contributions (and messages)' to inform 'whether EAs should donate on social media'
 
@@ -43,31 +43,29 @@ Rem: Investigating 'impact of early contributions (and messages)' to inform 'whe
 * Aim to run self-funded pilot for upcoming 2020-21 giving season.
 * Conversations and advising from Dillon Bowen on adaptive design, reinforcement and Bayesian learning extensions
 
-1. Facebook fundraising trial (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
+### Facebook fundraising trial (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
 
-Rem: Trial incentivizing FB users to start birthday fundraisers for effective charities, investigating how this behavior (and amounts raised) responds to effectiveness and rating information and presentation. Karlan has 100k USD funding for this.
+Rem: Trial incentivizing FB users to start birthday fundraisers for effective charities, investigating how this behavior (and amounts raised) responds to effectiveness and rating information and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
 
-* Failed to obtain FB Fundraiser API access, revised project design in light of this (basically set)
-* Hiring another web dev to build this; may need some support for 'automating donations' (but API access is on the table again)
-* Aim to run in early 2022
+* Some tech delays: Failed to obtain FB Fundraiser API access, revised project design in light of this
+  * However, we may be able to work _with_ Facebook on this, and  API access is on the table again; we now have a partner co-author within Facebook
+* Hiring another web dev to build this and support our automation (suitable person identified and interviewed, an EA-aligned web developer, finalizing details)
+  * Aim to run in early 2022
 
-1. Barriers synthesis
+### Barriers synthesis
 
 * Some updates and additions
-* particularly incorporating recent syntheses (XXX)
-* Watch this space -- planning major updates in next few weeks
+* particularly incorporating recent syntheses (Caviola et al "The many obstacles to effective giving", Noetel et al "What Works..."; [Jaeger and Vugt "Psychological Barriers..." ](https://www.sciencedirect.com/science/article/pii/S2352250X21001779) )
+* Watch [this space](https://daaronr.github.io/ea\_giving\_barriers/index.html) -- planning major updates in next few weeks
 
-1. Other
+### Other
 
-* Additional content in EA Survey donation report (link BD section) informs 'do GWWC people fulfill pledges?'. This work straddles my RP and grant work; I included some additional content and analysis over and above RP mandate on this.
+* Additional content in EA Survey donation report [informs 'do GWWC people fulfill pledges?](https://rethinkpriorities.github.io/ea\_data\_public/eas\_donations.html#plan-actual)'. This work straddles my RP and grant work; I included some additional content and analysis over and above RP mandate on this.
 
-###
 
-&#x20;
 
 ## Documentation
 
-- "Grant Agreement" Gdoc (not shared here)
-- "2021.03.15 Award Letter_ Rethink Priorities (David Reinstein).pdf" (not shared here)
-- [Reinstein original proposal, key details - linked Gdoc](https://docs.google.com/document/d/1JVy1uK1x5vCAJTwwCJdUPvYAZBJeLBpfEMY9Tqx1-MY/edit#)
-
+* "Grant Agreement" Gdoc (not shared here)
+* "2021.03.15 Award Letter\_ Rethink Priorities (David Reinstein).pdf" (not shared here)
+* [Reinstein original proposal, key details - linked Gdoc](https://docs.google.com/document/d/1JVy1uK1x5vCAJTwwCJdUPvYAZBJeLBpfEMY9Tqx1-MY/edit#)
