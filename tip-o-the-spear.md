@@ -41,6 +41,7 @@ Trying to push forward 'self and academic-funded large trials', ideally before g
 
 * JustGiving 'seed donations'
 * Facebook birthday fundraiser trial&#x20;
+* Integrating evidence from (own and others) field experiments on the 'impact of impact information in charitable campaigns'
 
 ## Meeting agendas
 
