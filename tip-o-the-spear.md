@@ -6,7 +6,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ## Team/Organizational updates
 
-1. First of proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda) set for December 1, 7pm New York (will share Zoom link shortly)
+1. First of proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda) set for December 1, 7pm New York ([Zoom link](https://nyu.zoom.us/j/92874154608))
 2. Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-time
 
 ## Latest/coolest campaigns, trials, initiatives
@@ -15,12 +15,12 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 *   <mark style="background-color:green;">"Pledge page" split-test; vary presentations of pledge options (tied to cookies/IP addresses)</mark>
 
-    \_<mark style="background-color:yellow;">We have some results</mark> \_<mark style="background-color:yellow;">(incidence rates and Google's metrics)!</mark>
+    _<mark style="background-color:yellow;">We have some results</mark>_ <mark style="background-color:yellow;">(incidence rates and Google's metrics)!</mark>
 * [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
-* [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md) ... that seeks to get people to enter their email.
-* Collecting ideas: aiming for testing at multiple parts of the funnel
+* [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email.
+* Collecting ideas: aiming for testing at multiple points in the funnel
 
-### [OftW](tip-o-the-spear.md#oftw)
+### [One for the World](tip-o-the-spear.md#oftw)
 
 * <mark style="background-color:green;"></mark>[<mark style="background-color:green;"><mark style="color:blue;background-color:orange;">Giving-season email campaign for 'additional donation'<mark style="color:blue;background-color:orange;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)<mark style="background-color:green;"></mark>[ <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="color:blue;background-color:orange;">\[link\]<mark style="color:blue;background-color:orange;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing) <mark style="background-color:green;"><mark style="color:blue;background-color:orange;"> </mark>_<mark style="background-color:green;"><mark style="color:blue;background-color:orange;">(underway)<mark style="color:blue;background-color:orange;"></mark>_
   * Series of 3 emails prior to giving Tuesday
@@ -28,7 +28,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 * "Upselling" YouTube marketing (casual lift test, or trials?); working with JS
 * [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments)
 
-### [TLYCS](contexts-and-environments-for-testing/tlycs/)
+### [The Life You Can Save](contexts-and-environments-for-testing/tlycs/)
 
 * Considering a '[funds recommendations trial'](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md) with different options and 'prompted consideration'
 * Various trials with JS, including city-level Youtube test
@@ -37,7 +37,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ### Reinstein & Co
 
-Trying to push forward 'self and academic-funded large trials', ideally before giving season
+Pushing forward 'self and academic-funded large trials', ideally before giving season
 
 * JustGiving 'seed donations'
 * Facebook birthday fundraiser trial&#x20;

@@ -7,4 +7,4 @@ description: >-
 
 # Environments and plans
 
-See **T**
+See [trial-reporting-template.md](trial-reporting-template.md "mention")

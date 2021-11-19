@@ -11,17 +11,17 @@ description: >-
 
 The “EA Market Testing Team” represents a small group of researchers and practitioners interested in promoting effective altruism and effective charitable giving, and learning more about what motivates this. To the best of our knowledge, this is the first organized collaboration of its kind. We aim to:
 
-* Coalesce our understanding and evidence on barriers and facilitators of effective altruism/effective giving
+* Coalesce our understanding and evidence on barriers and facilitators of effective altruism/effective giving/effective action
 * Run a broad set of powerful trials and experiments (esp. in large-scale settings), gathering evidence on ‘what works best to promote meaningful actions (donations and commitments) in specific cases as well as general principles and approaches
 * Conduct [profiling, survey, and segmentation activities and trials](profiling-and-segmentation/profiling-discussion.md), building evidence on which types of people are most responsive to effective giving messages and appeals
 * Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics
 
 ## **Quick links**
 
-[Airtable invitation ](https://airtable.com/invite/l?inviteId=invrYLQD6MCwj5tzF\&inviteToken=756e551c2eb2be11add77811fa080f3ac80c5adc68b402c5dcbbc4a16684b836)
+[Airtable invitation](https://airtable.com/invite/l?inviteId=invrYLQD6MCwj5tzF\&inviteToken=756e551c2eb2be11add77811fa080f3ac80c5adc68b402c5dcbbc4a16684b836) (systematic 'database' of records of participants, ideas, trials, etc)
 
 [Slack group](https://join.slack.com/t/givingexperiments/shared\_invite/zt-stgaroli-5FVxFgOY\_MjXjrmUjfxLfw) (invitation will need updating)
 
-[Barriers to effective giving, related project](https://daaronr.github.io/ea\_giving\_barriers/index.html)
+[Barriers to effective giving: a related project](https://daaronr.github.io/ea\_giving\_barriers/index.html) (theory and evidence)
 
-We are planning a **fortnightly meeting**
+We are planning a [**monthly meeting**](tip-o-the-spear.md#meeting-agendas)****
