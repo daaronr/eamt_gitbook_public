@@ -9,7 +9,7 @@ description: >-
 
 ## Achievements, progress, current plans
 
-### EA Marketing group
+### 1. EA Marketing group
 
 **Josh Lewis (NYU) and David Reinstein have:**
 
@@ -24,7 +24,7 @@ description: >-
 * Worked to push forward and encourage several marketing trials, some of which are underway (or even have data we are analyzing see '[tip-o-the-spear](../tip-o-the-spear.md)' within the (current) Gitbook)
 * Current push: run trials and experiments for 'quick wins and Proofs of Concept' while working towards building structure and resources for continuous systematic marketing, testing, and sharing insights
 
-### "Impact of impact information" experiments and synthesis
+### 2. "Impact of impact information" experiments and synthesis
 
 #### ICRC experiment (with Jan Schmitz and Deborah Kistler
 
@@ -34,7 +34,7 @@ Our experiment involving 'cost per impact' information has come back. The result
 
 _My next steps_: To write up these results in particular, and in synthesis (meta-analysis) with the previous evidence, bounding the effect of cost-per-impact information, and considering how it informs effective charities and fundraisers.
 
-### Just Giving 'seed pages' trial:
+### 3. Just Giving 'seed pages' trial:
 
 Rem: Investigating 'impact of early contributions (and messages)' to inform 'whether EAs should donate on social media'
 
@@ -43,7 +43,7 @@ Rem: Investigating 'impact of early contributions (and messages)' to inform 'whe
 * Aim to run self-funded pilot for upcoming 2020-21 giving season.
 * Conversations and advising from Dillon Bowen on adaptive design, reinforcement and Bayesian learning extensions
 
-### Facebook fundraising trial (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
+### 4. Facebook fundraising trial (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
 
 Rem: Trial incentivizing FB users to start birthday fundraisers for effective charities, investigating how this behavior (and amounts raised) responds to effectiveness and rating information and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
 
@@ -52,13 +52,13 @@ Rem: Trial incentivizing FB users to start birthday fundraisers for effective ch
 * Hiring another web dev to build this and support our automation (suitable person identified and interviewed, an EA-aligned web developer, finalizing details)
   * Aim to run in early 2022
 
-### Barriers synthesis
+### 5. Barriers synthesis
 
 * Some updates and additions
 * particularly incorporating recent syntheses (Caviola et al "The many obstacles to effective giving", Noetel et al "What Works..."; [Jaeger and Vugt "Psychological Barriers..." ](https://www.sciencedirect.com/science/article/pii/S2352250X21001779) )
 * Watch [this space](https://daaronr.github.io/ea\_giving\_barriers/index.html) -- planning major updates in next few weeks
 
-### Other
+### 6. Other
 
 * Additional content in EA Survey donation report [informs 'do GWWC people fulfill pledges?](https://rethinkpriorities.github.io/ea\_data\_public/eas\_donations.html#plan-actual)'. This work straddles my RP and grant work; I included some additional content and analysis over and above RP mandate on this.
 
