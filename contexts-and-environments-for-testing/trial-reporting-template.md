@@ -82,4 +82,9 @@ Planned analysis methods, preregistration link, IRB link, connection to other pr
    1. Who/what when will it be done?
    2. Link to 'where' it will be done (both the 'follow up the pre-analysis plan, and the full write-up, if applicable)
    3. Possibly: Briefly characterize the overall confusions/state of analysis here (state the date last updated)&#x20;
+5. Feeding synthesis and meta-analysis
+   1. Which generalizable questions does this inform?
+   2. Is data sharable? Key comparable outcomes?
+   3. What other work/trials does this relate to?
+   4. State of meta-analysis
 
