@@ -131,7 +131,7 @@ Needs some clarification -- was all of the other presentation the same? Did anyt
 
 Three versions of this page were randomly presented between \[DATERANGE].
 
-Equal likelihood.
+Equal likelihood (initially or overall?)
 
 Note: Alternation or random sampling with/without replacement?
 DR: From the non-exact balance below, I suspect that there was either
@@ -142,6 +142,9 @@ DR: From the non-exact balance below, I suspect that there was either
 
 As the 'most successful' block has the greatest number of sessions, I expect the latter.
 
+On the other hand, for Google's help on 'create an A/B test' they state:
+> All variants are weighted equally by default in Optimize.
+> A visitor who is included in your experiment has an equal chance of seeing any of your variants.
 
 
 The version presented stayed constant according to an individual's IP cookie tracking (or IP address?).
@@ -208,9 +211,16 @@ Separate Block for Other Pledges: 2718
 
 The "separate block for other pledges" seems to have been the most successful, with an 0.49% higher (percentage point) incidence rate than the 'Original', i.e., a 22% higher rate of pledging (2.69 vs 2.20).
 
-True, these differences seem unlikely to be statistically significant in a conventional sense, even if we had a method for adjusting for the (likely) adaptive sampling. Still, Google analytics (presumably reasonable Bayesian) model states an 80% chance that this is the best treatment, and this seems useful and informative.
+True, these differences seem unlikely to be statistically significant in a conventional sense, even if we had a method for adjusting for the (likely) adaptive sampling. Still, Google analytics (presumably a reasonable Bayesian) model states an 80% chance that this is the best treatment, and this seems useful and informative.
 
-(I'd like to report probablistic confidence or credible intervals on the improvement here, to get a sense of ‘how big a deal this is likely to be’, but I don't have the numbers needed to calculate these here yet.)
+> Optimize uses Bayesian inference to generate its reports.
+
+> Optimize chooses its priors to be quite uninformed.
+
+(But this still doesn't tell us _what_ these priors are).
+
+Aside: I'd like to report probablistic confidence or credible intervals on the improvement here, to get a sense of ‘how big a deal this is likely to be’, but I don't have the numbers needed to calculate these here yet. Google Optimize reports the 95% credible intervals -- that's too wide to be meaningful.
+
 
 The "pledge perform try giving" treatment (which, looking at the Webarchive, seems to be what was presented before this trial began), perform substantially worse than the original.
 
