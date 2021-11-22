@@ -33,7 +33,7 @@ _Three versions of this page were randomly presented between \[DATERANGE]. _The 
 
 1.  "Original"
 
-    Is this the original?
+    _Is this the original? _Note that the second one is what I see when I look at the earlier page on the WebArchive
 
 ![](<../../.gitbook/assets/image (2).png>)
 
