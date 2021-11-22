@@ -62,3 +62,24 @@ Description, link exact language/content if possible
 ### **Optional/suggested additions**
 
 Planned analysis methods, preregistration link, IRB link, connection to other projects and promotions
+
+
+
+## Ex-post: Reporting results (brief)
+
+### Implementation and data collection
+
+1. Did it go as planned? Any departures? (Timing, randomization, design changes, etc)
+2. How much/what data was collected? How many observations?
+3. Where is the data stored (also link/adjust the above), who has it, and under what conditions?
+
+### Basic results/outcomes&#x20;
+
+1. "Partners and stakeholders opinions": were they happy with the trial? Did they seem to think it was a success?
+2. Simplest statement (e.g., "3% donated in the treatment versus 2.2% in the control, with an average amount raised of $4.3 in the treatment and $3.1 in the control')
+3. Preliminary interpretation, with statistical test if possible (e.g., 'google Optimize states an 80% chance that the treatment outperformed the control', a Fisher's exact test yields a p=0.06 that a positive donations was more likely in the treatment than the control)
+4. "Full analysis"
+   1. Who/what when will it be done?
+   2. Link to 'where' it will be done (both the 'follow up the pre-analysis plan, and the full write-up, if applicable)
+   3. Possibly: Briefly characterize the overall confusions/state of analysis here (state the date last updated)&#x20;
+
