@@ -29,12 +29,13 @@
   * [Give if you win/ conditional pledge](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
   * [(Accountability partners)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/accountability-partners.md)
 
-## Contexts/environments, specific plans <a href="contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
+## Contexts-environments-plans-tests <a href="contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
 * [Environments and plans](contexts-and-environments-for-testing/environments-and-plans.md)
 * [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
 * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
+  * [Pledge page (options trial)](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md)
   * [Web page (casual visitors)](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
   * [YouTube Remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
     * [A/B testing the call-to-action](contexts-and-environments-for-testing/gwwc/youtube-remarketing/a-b-testing-the-call-to-action.md)

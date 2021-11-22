@@ -14,9 +14,9 @@ Brainstorms: [See shared GDOC](https://docs.google.com/document/d/1Sps58H0LKvoLv
 
 ### **Stages of the funnel:**
 
-1. Awareness & Consideration (Curious, [casual visitors etc](web-page-casual-visitors.md)) &#x20;
-2. Conversion/acquisition (donate/pledge) &#x20;
-3. Retention (fulfill and report pledge) &#x20;
+1. Awareness & Consideration (Curious, [casual visitors etc](web-page-casual-visitors.md))
+2. Conversion/acquisition (donate/pledge)
+3. Retention (fulfill and report pledge)
 4. ‘Advocacy’ (promoting GWWC to others)
 
 ### **Key questions (Luke)**
@@ -28,14 +28,14 @@ Brainstorms: [See shared GDOC](https://docs.google.com/document/d/1Sps58H0LKvoLv
 ### **Outcomes and tracking**
 
 * ‘Followed through with reported pledge’ -- a very rare event and not a great thing to track … ‘first donation’ is better
-* Bringing donation-tracking ‘in-house’ … donation dashboard, allowing  better outcome tracking
+* Bringing donation-tracking ‘in-house’ … donation dashboard, allowing better outcome tracking
 
 ### Ongoing trials/promos
 
 * **Donation page**: Split-testing ‘which pledge do you see (first)’ (try giving, GWWC, further giving)
   * Random draw, cookie holds it constant by individual
 * Already encouraging ‘advocacy’ and ‘start birthday fundraisers’
-* [**Youtube Remarketing**](youtube-remarketing.md)&#x20;
+* [**Youtube Remarketing**](youtube-remarketing.md)
 
 #### The [doc below has been shared in a small group](https://docs.google.com/document/d/1Sps58H0LKvoLvzSSa2Yav3kFO1vDSVzsYXoYyWzvol0/edit#heading=h.umgv7nqt8hyj); we will incorporate elements of it into this Gitbook
 
@@ -43,4 +43,4 @@ Brainstorms: [See shared GDOC](https://docs.google.com/document/d/1Sps58H0LKvoLv
 
 #### Giving What We Can is running trials and interventions, producing videos and funding ads, and interested in doing more, systematically and robustly
 
-### Giving What We Can (GWWC)
+###
