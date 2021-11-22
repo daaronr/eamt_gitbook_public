@@ -21,8 +21,8 @@ description: >-
 
     Our team is listed [HERE](../organization-and-overview/our-team-and-resources/). We have held regular meetings, sharing our plans and advice.
 * Created a shared space ([HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/); i.e., the present context, a wiki-style gitbook) to coordinate our plans, resources, and insights (as well as a Slack group and an airtable for structured content
-* Worked to push forward and encourage several marketing trials, some of which are underway (some even have data that we are analyzing; see '[tip-o-the-spear](../tip-o-the-spear.md)' within the (current) Gitbook)
-* Current push: run trials and experiments for 'quick wins and Proofs of Concept' while working towards building structure and resources for continuous systematic marketing, testing, and sharing insights
+* Worked to push forward and encourage several marketing trials, some of which are underway (some even have data that we are analyzing; see '[tip-o-the-spear](../tip-o-the-spear.md)' within the (current) Gitbook); e.g., evidence from GWWC trial [<mark style="background-color:yellow;">suggesting that 'too many options/try-giving option may be harmful'</mark> ](../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief)<mark style="background-color:yellow;"></mark>
+* Current push: run trials and experiments for 'quick wins and proofs-of-concept' while working towards building structure and resources for continuous systematic marketing, testing, and sharing insights
 
 ### 2. "Impact of impact information" experiments and synthesis
 
