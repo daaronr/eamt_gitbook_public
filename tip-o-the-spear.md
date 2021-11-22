@@ -41,7 +41,9 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 * JustGiving 'seed donations'
 * Facebook birthday fundraiser trial&#x20;
-* Integrating evidence from (own and others) field experiments on the 'impact of impact information in charitable campaigns'
+* Integrating evidence from (own and others') field experiments on the '[impact of impact information in charitable campaigns'](https://daaronr.github.io/dualprocess/index.html)
+  * "New": DonorsVoice/CRS,  ICRC
+  * 'Published': Karlan and Wood (2017), Bergh and Reinstein (2020)
 
 ## Meeting agendas
 
