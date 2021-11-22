@@ -14,9 +14,9 @@
 
 ## Background and existing evidence <a href="background" id="background"></a>
 
-* [The challenge: drivers of effective/ineffective giving](background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
-* [Models, theories, psychological norms](background/models-theories-psychological-norms.md)
-* [Tools/interventions: principles](background/tools-interventions-principles.md)
+* [The challenge: drivers of effective/ineffective giving](background-and-existing-evidence/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
+* [Models, theories, psychological norms](background-and-existing-evidence/models-theories-psychological-norms.md)
+* [Tools/interventions: principles](background-and-existing-evidence/tools-interventions-principles.md)
 
 ## Tools and trials <a href="proposed-tools-for-motivating-effective-giving" id="proposed-tools-for-motivating-effective-giving"></a>
 
