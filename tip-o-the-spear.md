@@ -6,7 +6,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ## Team/Organizational updates
 
-1. First of proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda) set for December 1, 7pm New York ([Zoom link](https://nyu.zoom.us/j/92874154608))
+1. First of proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt)s (1 hour standing meeting with agenda) set for December 1, 7pm New York ([Zoom link](https://nyu.zoom.us/j/92874154608))
 2. Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-time
 
 ## Latest/coolest campaigns, trials, initiatives
@@ -18,7 +18,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
     _<mark style="background-color:yellow;">We have</mark> _[some results](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'too many options/try-giving option may be harmful' ; but DR needs clarification</mark>
 * [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
 * [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email.
-* Collecting ideas: aiming for testing at multiple points in the funnel
+* Collecting ideas: aiming for testing at multiple points in the funnel ([Airtable](https://airtable.com/shrUGJuhyxrKGMEUm), Gdoc)
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 

@@ -39,7 +39,11 @@ _**Update**_: as of 15 Oct 2021 Gitbook has changed their protocols. You now nee
 Give it a try. Once you 'submit', you, or someone else can 'merge' it in.&#x20;
 
 {% hint style="info" %}
-In newly created blocks/elements "command-slash" (on mac) brings up a lot of cool options
+In newly created blocks/elements "command-slash" (on mac) brings up a lot of cool options (scroll down)
+{% endhint %}
+
+{% hint style="info" %}
+Typing the "@" symbol offers a quick way to link other pages in this book
 {% endhint %}
 
 ## Merges and conflicts

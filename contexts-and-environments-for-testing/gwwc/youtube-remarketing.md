@@ -2,9 +2,9 @@
 description: GWWC youtube remarketing campaign (trial)
 ---
 
-# YouTube Remarketing
+# YouTube Remarketing (+)
 
-See also the cross-organization notes on [advertising, google, youtube, etc](https://github.com/daaronr/effective\_giving\_market\_testing/tree/0d4bc759981fd3998fb93ba39a1b1f1b875ee5de/contexts-and-environments-for-testing/gwwc/contexts-and-environments-for-testing/ads-google-youtube.md)
+See also the cross-organization [notes on advertising, google, youtube, etc](../ads-google-youtube....md) (=placeholder for now) and the tips on [doing-and-funding-ads.md](../../methodological-discussion/implementation-and-collecting-data-issues/doing-and-funding-ads.md "mention"))
 
 ## YouTube Remarketing
 
@@ -41,7 +41,7 @@ JS: I wanted to let you know that GWWC just launched a YouTube remarketing campa
 
 ## JS Winchell results summary (preliminary?)
 
-We've been running the YT remarketing for 3 weeks so wanted to send you an update. \
+We've been running the YT remarketing for 3 weeks so wanted to send you an update.\
 **Most important takeaway:** It costs $1 to get a website visitor to watch 1h of your videos!\
 **High level metrics**
 
@@ -54,9 +54,6 @@ We've been running the YT remarketing for 3 weeks so wanted to send you an updat
 * CTR: 0.37%
 * Average CPC: $1.83
 * Conversions (users spending >30s on the website): 2
-
-
-
 * This is not a good tactic for driving site traffic or donations (although we could optimize for this instead if we wanted)
 
 \
@@ -70,13 +67,10 @@ We've been running the YT remarketing for 3 weeks so wanted to send you an updat
 \
 2\. 10% of the time people watched the full video!\
 ![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.2\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ-cfbGoRTUjeXUVWj7KrfwlgOXv-aaI7hKW\_V2TMOS4hHs6FSFxZAvV5UhT25gbw-mOVAVPUjPwhfOhlBaKGMIymL73JqKK7YvjWh4A\_95d6oaHonjEKyFAHk8\&disp=emb\&realattid=ii\_ks33a1z92)\
-\
-
+\\
 
 * You can see this data by video if you are interested to control for video length
-* E.g. _5% of people chose to watch the entire 13 minutes of _[_this video_](https://www.youtube.com/watch?v=41tlWqyD094)
-
-
+* E.g. \_5% of people chose to watch the entire 13 minutes of \_[_this video_](https://www.youtube.com/watch?v=41tlWqyD094)
 
 \
 3\. Your best video had a view rate (% of time people choose to watch >30s) twice as good as your worst video![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.3\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ\_Ax\_VUEXUHn1\_WZXK-af52waOROoud5baKCg316S\_tsoS2hLprlCb9FgQDDWPB9pXlKQxvPRIqr1kLRDj5AMZkHCo4-Lz1wNsabKNpKn\_d4pdNKuapBvwjchY\&disp=emb\&realattid=ii\_ks33e7h74)\
@@ -86,10 +80,8 @@ We've been running the YT remarketing for 3 weeks so wanted to send you an updat
 * For the [13m video](https://www.youtube.com/watch?v=sdo8m7aVB6I\&t=108s), older people and men were more likely to choose to continue watching
 
 \
-**Possible next steps**\
-
+**Possible next steps**
 
 * Could add "similar audiences" which is when we let Google use machine learning to find people similar to your website visitors and also show ads to them
-* Could walk David Reinstein and Joshua Lewis through the UI so they can get a sense of the metrics/reporting available and how it could be used for research&#x20;
+* Could walk David Reinstein and Joshua Lewis through the UI so they can get a sense of the metrics/reporting available and how it could be used for research
 
-\

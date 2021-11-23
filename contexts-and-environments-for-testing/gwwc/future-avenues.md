@@ -15,43 +15,29 @@ Link content here ... but we are considering _strategies_ on this page, so we do
 See tabs
 {% endtab %}
 
-{% tab title="Social " %}
-
-{% endtab %}
-
-{% tab title="Obligation" %}
-
-{% endtab %}
-
 {% tab title="Effectiveness" %}
-dsasdfas\
-\
-blah\
-\
-blah
+
 {% endtab %}
 {% endtabs %}
 
 ## Scalable contexts/platforms: to test outreach messaging
 
-### ... enabling individual randomization & tracking of medium-term outcomes 
+### ... enabling individual randomization & tracking of medium-term outcomes
 
 * GWWC web site _at point of email signup_
-* Email lists 
+* Email lists
   * immediate: subject headers w/ 'open rates' as dependent variable
   * medium-term: all outcomes tied to email
 
 ### ... immediate outcomes (clicks etc)
 
-Facebook 
+Facebook
 
-*   But the targeting algorithm may frustrate randomization. Can it be switched off?
+* But the targeting algorithm may frustrate randomization. Can it be switched off?
 
+### ... facilitate [randomization by geograph](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
 
-
-### ... facilitate [randomization by geograph](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) 
-
-This is helpful [for ease of attribution](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) if the **important outcomes** can be tracked by zip code/address. 
+This is helpful [for ease of attribution](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) if the **important outcomes** can be tracked by zip code/address.
 
 * Online display advertising
 * Google search
@@ -65,9 +51,9 @@ This is helpful [for ease of attribution](../../methodological-discussion/implem
 
 ### How to test rich content?
 
-We can use some of the same strategies as above to test  "rich content", i.e., short or even long talks, book chapters, podcasts, and so forth. 
+We can use some of the same strategies as above to test "rich content", i.e., short or even long talks, book chapters, podcasts, and so forth.
 
-However, we may also want richer more detailed 'qualitative' feedback.. Paid participants may allow  richer feedback.  
+However, we may also want richer more detailed 'qualitative' feedback.. Paid participants may allow richer feedback.
 
 * Emails might be an opportunity
 * Surveys with professional participants
@@ -112,15 +98,15 @@ Compare _different outreach methods_ on the basis of "cost per pledge" (or per "
 
 ### Ideas/methods for targeting: platforms and audiences
 
-* Public lists of political donations (e.g, [archive.org](https://github.com/daaronr/effective_giving_market_testing/tree/6930982530446fb3eca07600975697123b09c7da/contexts-and-environments-for-testing/gwwc/www.archive.org))
+* Public lists of political donations (e.g, [archive.org](https://github.com/daaronr/effective\_giving\_market\_testing/tree/6930982530446fb3eca07600975697123b09c7da/contexts-and-environments-for-testing/gwwc/www.archive.org))
   * ... donors to candidates sympathetic to a relevant cause area
 * Internet activity ... those who watch/read/search for:
   * Videos relevant to a cause area
   * Reddit threads relevant to a cause area
   * Magazines/news sites relevant to a cause area
-  * Search/visiting webpages about charity effectiveness/merit (e.g., Charity Navigator) :thumbsup: 
+  * Search/visiting webpages about charity effectiveness/merit (e.g., Charity Navigator) :thumbsup:
 * Education
-  * Courses/degrees/majors relevant to a cause area 
+  * Courses/degrees/majors relevant to a cause area
     * (e.g., development econ/studies, animal behavior, AI)
   * People at high-status institutions (future influencers/policymakers)
 * Exploiting social network structure
