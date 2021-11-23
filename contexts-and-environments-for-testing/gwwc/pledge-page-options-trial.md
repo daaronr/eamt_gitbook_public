@@ -33,7 +33,7 @@ description: >-
 
 These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/) October 2020).
 
-![Pledge page ?"Separate Block for Other Pledges"?](<../../.gitbook/assets/image (15).png>)
+![Pledge page ?"Separate Block for Other Pledges"?](<../../.gitbook/assets/image (15) (1).png>)
 
 Following 'become a member' takes you to this page ([https://www.givingwhatwecan.org/pledge/](https://www.givingwhatwecan.org/pledge/)) ... there may be other ways into this as well.
 
@@ -95,7 +95,7 @@ Sample size: see below, from from Google Analytics
 
 2\. "Pledge before TryGiving" in the previous subsection, as WebArchived [HERE](https://web.archive.org/web/20200618222645/https://www.givingwhatwecan.org/pledge/) (?)
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
 
 3\. Separate Block for Other Pledges
 
