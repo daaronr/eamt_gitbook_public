@@ -49,7 +49,7 @@ The version presented stayed constant according to an individual's IP cookie tra
 
 ### Point of contact (at GWWC)
 
-Julian Hazell (julianhazell4 at gmail dot com)
+Julian Hazell (julian.hazell@givingwhatwecan.org)
 
 Luke Freeman
 
