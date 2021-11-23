@@ -19,12 +19,12 @@ description: >-
     * applied academics, and
     * marketing experts.
 
-    Our team is listed [HERE](../organization-and-overview/our-team-and-resources/). We have held a number of small-group meetings, sharing our plans and advice. Our first '[monthly general meeting](../tip-o-the-spear.md#meeting-agendas)' is on the agena for 1 Dec. 2021.
-* Created a shared space ([HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/); i.e., the present context, a wiki-style gitbook) to coordinate our plans, resources, and insights (as well as a Slack group and an [Airtable](../organization-and-overview/how-this-gitbook-works/other-tech.md#airtable) for structured content).
-* Worked to push forward and encourage several marketing trials, some of which are underway (some even have data that we are analyzing; see '[tip-o-the-spear](../tip-o-the-spear.md)' within the (current) Gitbook);&#x20;
-  * e.g., evidence from GWWC trial <mark style="background-color:yellow;">suggesting that '</mark>[<mark style="background-color:yellow;">too many options/try-giving option may reduce take-up'</mark>](../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#basic-results-outcomes)<mark style="background-color:yellow;"></mark>
+    Our team is listed [HERE](../organization-and-overview/our-team-and-resources/). We have held a number of small-group meetings, sharing our plans and advice. First '[monthly general meeting](../tip-o-the-spear.md#meeting-agendas)': scheduled for 1 Dec. 2021.
+* Created shared space ([HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/); i.e., the present context, a wiki-style gitbook) to coordinate our plans, resources, and insights (as well as a Slack group and an [Airtable](../organization-and-overview/how-this-gitbook-works/other-tech.md#airtable) for structured content).
+* Worked to push forward and encourage several marketing trials, some of which are underway (including some with data and results; see '[tip-o-the-spear](../tip-o-the-spear.md)' and  links to preliminary results);&#x20;
+  * e.g., evidence from GWWC trial <mark style="background-color:yellow;">suggesting  '</mark>[<mark style="background-color:yellow;">too many options/try-giving option may reduce take-up'</mark>](../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#basic-results-outcomes)<mark style="background-color:yellow;"></mark>
 * _Current push_: run trials and experiments for 'quick wins and proofs-of-concept' while working towards building structure and resources for continuous systematic marketing, testing, and sharing insights.&#x20;
-  * One of my key roles here in this is advising on designs (see [Broken link](broken-reference "mention")) and organizing and sharing results and analysis to avoid lost threads (see [trial-reporting-template.md](../contexts-and-environments-for-testing/trial-reporting-template.md "mention")) &#x20;
+  * My key roles include advising on designs (see [Broken link](broken-reference "mention")) and organizing and sharing results and analysis to avoid 'lost threads' (see [trial-reporting-template.md](../contexts-and-environments-for-testing/trial-reporting-template.md "mention")) &#x20;
 
 ### 2. "[Impact of impact information](../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/)" experiments and synthesis
 
@@ -32,18 +32,18 @@ description: >-
 
 _Background_: We are working with ICRC, a Switzerland-based individual development association on a series of large-scale field trials.
 
-Our experiment involving 'cost per impact' information has come back. The results suggest 'near-zero and tightly bounded impact of the cost-per-impact information'. This is generally consistent with previous work, including the  [Karlan and Wood (2017)](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300490?via%3Dihub) experiment at Freedom From Hunger, my [2018 and 2019 experiments with Catholic Relief Services](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#comparison-of-posterior-probabilities), and other small-scale experiments [(Reinstein and Bergh, 2020)](https://journals.sagepub.com/doi/full/10.1177/1948550619893968?casa\_token=LHG5-s5teJYAAAAA%3AFpnPvCaoS94ADEvRt772GtOEHyhfSWAbWoboSArW\_WZ13s2AACbD6Ty\_Z07M6UhPqC\_ROWKYV1A).
+Our experiment involving 'cost per impact' information has come back. The results (see [linked preview](../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview.md)) suggest 'near-zero and tightly bounded impact of the cost-per-impact information'. This is generally consistent with previous work, including the  [Karlan and Wood (2017)](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300490?via%3Dihub) experiment at Freedom From Hunger, my [2018 and 2019 experiments with Catholic Relief Services](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#comparison-of-posterior-probabilities), and other small-scale experiments [(Reinstein and Bergh, 2020)](https://journals.sagepub.com/doi/full/10.1177/1948550619893968?casa\_token=LHG5-s5teJYAAAAA%3AFpnPvCaoS94ADEvRt772GtOEHyhfSWAbWoboSArW\_WZ13s2AACbD6Ty\_Z07M6UhPqC\_ROWKYV1A).
 
-_My next steps_: Write up these results in particular, and [in synthesis (meta-analysis) with the previous evidence](https://daaronr.github.io/dualprocess/index.html#raises-questions). We will 'bound the effect of cost-per-impact information', and consider how it informs effective charities and fundraisers.
+_My next steps_: Write up these results specifically, and [in synthesis (meta-analysis) with the previous evidence](https://daaronr.github.io/dualprocess/index.html#raises-questions). We will 'bound the effect of cost-per-impact information', and consider how it informs effective charities and fundraisers.
 
 ### 3. Just Giving 'seed pages' trial:
 
 Purpose: Investigate 'impact of early contributions (and messages)' to inform 'whether EAs should donate on social media'.
 
-\[Link to placeholder: [social-influence-justgiving.md](../contexts-and-environments-for-testing/social-influence-justgiving.md "mention")]
+\[Placeholder link: [social-influence-justgiving.md](../contexts-and-environments-for-testing/social-influence-justgiving.md "mention")]
 
 * Scoped out feasible design and power calculations for small-stakes pilot and later 'effectiveness trial'; sufficient pages exist.
-* Worked with Oska Fentem (Bristol MRes) to build 'donation seeding bot'; works but needs stress-testing.
+* Worked with Oska Fentem (Bristol MRes); built 'donation-seeding bot'; needs stress-testing.
 * Aim to run self-funded pilot for upcoming 2020-21 giving season.
 * Conversations and advising from Dillon Bowen on adaptive design, reinforcement and Bayesian learning extensions
 
@@ -53,11 +53,11 @@ _My next steps: _Gaining server access and 'tech support' to enable this automat
 
 Trial incentivizing FB users to start birthday fundraisers for effective charities, investigating how this behavior (and amounts raised) responds to effectiveness and rating information and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
 
-* Some tech delays: Failed to obtain FB Fundraiser API access, thus revised project design
+* Tech delays: Failed to obtain FB Fundraiser API access; thus revised design
   * However, we may be able to work _with_ Facebook on this, and API access is on the table again; we now have a partner co-author within Facebook
 *   Hiring another web dev to build this and support our automation (suitable person identified and interviewed, an EA-aligned web developer, finalizing details)
 
-    * Aim to run in early 2022
+    * Aim to run in early (Feb.?) 2022
 
     _My next steps: _finalizing 'state of FB support and API access', hiring developer (1-2 weeks design work for simple design), running POC
 
@@ -67,11 +67,11 @@ Trial incentivizing FB users to start birthday fundraisers for effective chariti
 
 * Some updates and additions
 * particularly incorporating recent syntheses (Caviola et al "The many obstacles to effective giving", Noetel et al "What Works..."; [Jaeger and Vugt "Psychological Barriers..." ](https://www.sciencedirect.com/science/article/pii/S2352250X21001779) )
-* Watch [this space](https://daaronr.github.io/ea\_giving\_barriers/index.html) -- planning major updates in next few weeks
+* Watch [this space](https://daaronr.github.io/ea\_giving\_barriers/index.html)&#x20;
 
 ### 6. Other
 
-* Additional content in EA Survey donation report [informs 'do GWWC people fulfill pledges?](https://rethinkpriorities.github.io/ea\_data\_public/eas\_donations.html#plan-actual)'. This work straddles my RP and grant work; I included some additional content and analysis over and above RP mandate on this.
+Additional content in EA Survey donation report [informs 'do GWWC people fulfill pledges?](https://rethinkpriorities.github.io/ea\_data\_public/eas\_donations.html#plan-actual)'. This work straddles my RP and grant work; I included some additional content and analysis over and above RP mandate on this.
 
 ## Documentation
 
