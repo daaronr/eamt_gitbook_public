@@ -9,15 +9,25 @@ description: >-
 
 {% tabs %}
 {% tab title="quick tabs" %}
-
+(see tabs to the left for quick views)
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="timeline" %}
+* March 16, 2021: Grant signed; April 19, 2021: Funds received;
+  * I am considering the latter the 'start date', if this is OK.&#x20;
+* This implies an end to the ('renewable') 1-year funding of April 19, 2022. Nov 24, 2021: Scheduled checking with Tyler John. I propose further milestones in the next tab, for considering internal deadlines.
+{% endtab %}
 
+{% tab title="proposed milestones" %}
+Specific next steps and internal deadlines&#x20;
+
+* Full write-up of ICRC/impactLaunch FB trial,
+* &#x20;JG trialRevamp/ integration of recent surveys into Barriers repo
+* Preliminary report of EA marketing trials... possibly EA forum post?
+* Arrange a second meeting with Tyler? ... to see something in writing closer to the deadline.
+*
 {% endtab %}
 {% endtabs %}
-
-##
 
 ## Achievements, progress, current plans
 
