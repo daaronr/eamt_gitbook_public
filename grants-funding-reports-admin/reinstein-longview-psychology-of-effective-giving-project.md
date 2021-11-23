@@ -40,6 +40,8 @@ _My next steps_: Write up these results in particular, and [in synthesis (meta-a
 
 Purpose: Investigate 'impact of early contributions (and messages)' to inform 'whether EAs should donate on social media'.
 
+\[Link to placeholder: [social-influence-justgiving.md](../contexts-and-environments-for-testing/social-influence-justgiving.md "mention")]
+
 * Scoped out feasible design and power calculations for small-stakes pilot and later 'effectiveness trial'; sufficient pages exist.
 * Worked with Oska Fentem (Bristol MRes) to build 'donation seeding bot'; works but needs stress-testing.
 * Aim to run self-funded pilot for upcoming 2020-21 giving season.

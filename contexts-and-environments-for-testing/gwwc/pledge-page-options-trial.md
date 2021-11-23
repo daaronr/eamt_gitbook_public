@@ -33,7 +33,7 @@ description: >-
 
 These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/) October 2020).
 
-![Pledge page ?"Separate Block for Other Pledges"?](<../../.gitbook/assets/image (15) (1).png>)
+![Pledge page ?"Separate Block for Other Pledges"?](<../../.gitbook/assets/image (15) (1) (1).png>)
 
 Following 'become a member' takes you to this page ([https://www.givingwhatwecan.org/pledge/](https://www.givingwhatwecan.org/pledge/)) ... there may be other ways into this as well.
 
