@@ -7,6 +7,18 @@ description: >-
 
 # Reinstein/Longview "psychology of effective giving" project
 
+{% tabs %}
+{% tab title="quick tabs" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+##
+
 ## Achievements, progress, current plans
 
 ### 1. EA Marketing group
