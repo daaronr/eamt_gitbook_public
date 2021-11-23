@@ -33,7 +33,7 @@ description: >-
 
 These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/) October 2020).
 
-![Pledge page ?"Separate Block for Other Pledges"?](<../../.gitbook/assets/image (10).png>)
+![Pledge page ?"Separate Block for Other Pledges"?](<../../.gitbook/assets/image (15).png>)
 
 Following 'become a member' takes you to this page ([https://www.givingwhatwecan.org/pledge/](https://www.givingwhatwecan.org/pledge/)) ... there may be other ways into this as well.
 
@@ -91,15 +91,15 @@ Sample size: see below, from from Google Analytics
 
     _Is this the 'original/?_ Note that the second one is what I see when I look at the earlier page on the WebArchive
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 2\. "Pledge before TryGiving" in the previous subsection, as WebArchived [HERE](https://web.archive.org/web/20200618222645/https://www.givingwhatwecan.org/pledge/) (?)
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 3\. Separate Block for Other Pledges
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 {% hint style="info" %}
 DR: I'm not sure if I understand the labelling and the setup fully. [Julian Hazell](https://app.gitbook.com/u/5r4JrDxg4Gb3ZrYJYfN2YWU2v6H2 "mention") [Luke Freeman](https://app.gitbook.com/u/ljuM97uRtMeH7IhMq9MSN1kuPcC3 "mention") maybe you can get in touch/help with this?
@@ -181,7 +181,7 @@ _Where is the data stored (also link/adjust the above), who has it, and under wh
 
 ### Basic results/outcomes
 
-![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (11).png>)
+![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17).png>)
 
 **Reinstein quick interpretation** _(if I am understanding what is what)_
 
