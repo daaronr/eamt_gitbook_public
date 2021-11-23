@@ -15,24 +15,26 @@ description: >-
 
 *   Brought together
 
-    * key players from EA giving and pledge organizations (especially GWWC, TLYCS, and OftW),
+    * key players from EA giving and pledge organizations (especially [GWWC](../contexts-and-environments-for-testing/gwwc/), [TLYCS](../contexts-and-environments-for-testing/tlycs/), and [OftW](../contexts-and-environments-for-testing/one-for-the-world/)),
     * applied academics, and
     * marketing experts.
 
-    Our team is listed [HERE](../organization-and-overview/our-team-and-resources/). We have held regular meetings, sharing our plans and advice.
-* Created a shared space ([HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/); i.e., the present context, a wiki-style gitbook) to coordinate our plans, resources, and insights (as well as a Slack group and an airtable for structured content
-* Worked to push forward and encourage several marketing trials, some of which are underway (some even have data that we are analyzing; see '[tip-o-the-spear](../tip-o-the-spear.md)' within the (current) Gitbook); e.g., evidence from GWWC trial [<mark style="background-color:yellow;">suggesting that 'too many options/try-giving option may be harmful'</mark> ](../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief)<mark style="background-color:yellow;"></mark>
-* Current push: run trials and experiments for 'quick wins and proofs-of-concept' while working towards building structure and resources for continuous systematic marketing, testing, and sharing insights
+    Our team is listed [HERE](../organization-and-overview/our-team-and-resources/). We have held a number of small-group meetings, sharing our plans and advice. Our first '[monthly general meeting](../tip-o-the-spear.md#meeting-agendas)' is on the agena for 1 Dec. 2021.
+* Created a shared space ([HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/); i.e., the present context, a wiki-style gitbook) to coordinate our plans, resources, and insights (as well as a Slack group and an [Airtable](../organization-and-overview/how-this-gitbook-works/other-tech.md#airtable) for structured content).
+* Worked to push forward and encourage several marketing trials, some of which are underway (some even have data that we are analyzing; see '[tip-o-the-spear](../tip-o-the-spear.md)' within the (current) Gitbook);&#x20;
+  * e.g., evidence from GWWC trial <mark style="background-color:yellow;">suggesting that '</mark>[<mark style="background-color:yellow;">too many options/try-giving option may reduce take-up'</mark>](../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#basic-results-outcomes)<mark style="background-color:yellow;"></mark>
+* _Current push_: run trials and experiments for 'quick wins and proofs-of-concept' while working towards building structure and resources for continuous systematic marketing, testing, and sharing insights.&#x20;
+  * One of my key roles here in this is advising on designs (see [Broken link](broken-reference "mention")) and organizing and sharing results and analysis to avoid lost threads (see [trial-reporting-template.md](../contexts-and-environments-for-testing/trial-reporting-template.md "mention")) &#x20;
 
-### 2. "Impact of impact information" experiments and synthesis
+### 2. "[Impact of impact information](../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/)" experiments and synthesis
 
-#### ICRC experiment (with Jan Schmitz and Deborah Kistler)
+#### [ICRC](../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview.md) experiment (with Jan Schmitz and Deborah Kistler)
 
-Background: We are working with ICRC, a Switzerland-based individual development association on a series of large-scale field trials.
+_Background_: We are working with ICRC, a Switzerland-based individual development association on a series of large-scale field trials.
 
 Our experiment involving 'cost per impact' information has come back. The results suggest 'near-zero and tightly bounded impact of the cost-per-impact information'. This is generally consistent with previous work, including the  [Karlan and Wood (2017)](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300490?via%3Dihub) experiment at Freedom From Hunger, my [2018 and 2019 experiments with Catholic Relief Services](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#comparison-of-posterior-probabilities), and other small-scale experiments [(Reinstein and Bergh, 2020)](https://journals.sagepub.com/doi/full/10.1177/1948550619893968?casa\_token=LHG5-s5teJYAAAAA%3AFpnPvCaoS94ADEvRt772GtOEHyhfSWAbWoboSArW\_WZ13s2AACbD6Ty\_Z07M6UhPqC\_ROWKYV1A).
 
-_My next steps_: To write up these results in particular, and in synthesis (meta-analysis) with the previous evidence. We eill bound the effect of cost-per-impact information, and consider how it informs effective charities and fundraisers.
+_My next steps_: Write up these results in particular, and [in synthesis (meta-analysis) with the previous evidence](https://daaronr.github.io/dualprocess/index.html#raises-questions). We will 'bound the effect of cost-per-impact information', and consider how it informs effective charities and fundraisers.
 
 ### 3. Just Giving 'seed pages' trial:
 
@@ -43,14 +45,19 @@ Purpose: Investigate 'impact of early contributions (and messages)' to inform 'w
 * Aim to run self-funded pilot for upcoming 2020-21 giving season.
 * Conversations and advising from Dillon Bowen on adaptive design, reinforcement and Bayesian learning extensions
 
-### 4. Facebook fundraising trial (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
+_My next steps: _Gaining server access and 'tech support' to enable this automation, finish outlining and re-registering, run POC pilot
 
-Rem: Trial incentivizing FB users to start birthday fundraisers for effective charities, investigating how this behavior (and amounts raised) responds to effectiveness and rating information and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
+### 4. [Facebook fundraising trial](reinstein-longview-psychology-of-effective-giving-project.md#4.-facebook-fundraising-trial-with-paul-smeets-dean-karlan-and-janek-kretschmer) (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
+
+Trial incentivizing FB users to start birthday fundraisers for effective charities, investigating how this behavior (and amounts raised) responds to effectiveness and rating information and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
 
 * Some tech delays: Failed to obtain FB Fundraiser API access, thus revised project design
   * However, we may be able to work _with_ Facebook on this, and API access is on the table again; we now have a partner co-author within Facebook
-* Hiring another web dev to build this and support our automation (suitable person identified and interviewed, an EA-aligned web developer, finalizing details)
-  * Aim to run in early 2022
+*   Hiring another web dev to build this and support our automation (suitable person identified and interviewed, an EA-aligned web developer, finalizing details)
+
+    * Aim to run in early 2022
+
+    _My next steps: _finalizing 'state of FB support and API access', hiring developer (1-2 weeks design work for simple design), running POC
 
 ### 5. Barriers synthesis
 
