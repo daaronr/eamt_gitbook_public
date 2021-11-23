@@ -6,8 +6,6 @@ description: >-
 
 # ICRC - quick overview
 
-​​
-
 ## ICRC: quick overview
 
 April 2021 mailing addressed to ICRC's existing donor base of:
@@ -25,3 +23,5 @@ April 2021 mailing addressed to ICRC's existing donor base of:
 ![Response rates per 100; bars= 95% CI's (?)](<../../.gitbook/assets/image (15).png>)
 
 ![Average donations per mailing -- includes zeroes](<../../.gitbook/assets/image (18).png>)
+
+![Focus on 'cost-per-outcome' (pooled treatments)](<../../.gitbook/assets/image (12).png>)
