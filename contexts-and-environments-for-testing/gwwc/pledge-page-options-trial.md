@@ -5,7 +5,7 @@ description: >-
   individual browser level over a certain period.
 ---
 
-# Pledge page (options trial)
+# Pledge page (options trial) (+)
 
 ****[**Following **](../trial-reporting-template.md)** **[trial-reporting-template.md](../trial-reporting-template.md "mention")****
 
@@ -81,8 +81,6 @@ Everyone going to the above page within the above time duration.
 
 Sample size: see below, from from Google Analytics
 
-
-
 ### Key treatment(s)
 
 **Variation in presentation of the pledge options**
@@ -93,9 +91,9 @@ Sample size: see below, from from Google Analytics
 
 ![](<../../.gitbook/assets/image (7).png>)
 
-2\. "Pledge before TryGiving" in the previous subsection, as WebArchived [HERE](https://web.archive.org/web/20200618222645/https://www.givingwhatwecan.org/pledge/) (?)
+2\. "Pledge before TryGiving" ... as above but with Try Giving and The Pledge swapped
 
-![](<../../.gitbook/assets/image (19) (1).png>)
+
 
 3\. Separate Block for Other Pledges
 
