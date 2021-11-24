@@ -130,8 +130,6 @@ On the other hand, for Google's help on 'create an A/B test' they state:
 > All variants are weighted equally by default in Optimize. A visitor who is included in your experiment has an equal chance of seeing any of your variants.
 {% endhint %}
 
-
-
 The version presented stayed constant according to an individual's IP cookie tracking (or IP address?).
 
 ### **Outcome data**
@@ -195,17 +193,13 @@ Aside on stats:
 DR: But this still doesn't tell us _what_ these priors are. There's a lot of sensitivity to this choice, in my experience.&#x20;
 {% endhint %}
 
-
-
 {% hint style="info" %}
 &#x20;_Aside:_ I'd like to report probablistic confidence or credible intervals on the improvement here, to get a sense of ‘how big a deal this is likely to be’, but I don't have the numbers needed to calculate these here yet. Google Optimize reports the 95% credible intervals -- that's too wide to be meaningful.
 {% endhint %}
 
 __
 
-__
-
-T**he "pledge perform try giving" treatment** (which, looking at the Webarchive, seems to be what was presented before this trial began), **performs substantially worse** than the original.
+T**he "pledge Before Try giving" treatment** **performed substantially worse** than the original.
 
 {% hint style="info" %}
 Footnote: The poor performance of ‘pledge before try giving’ difference appears even more striking than the strength of ‘Separate Block’. It even seems to borderi on conventional statistical significance … I expect that in a naive (because not considering adaptive design) standard comparison of the latter two treatments, we’d find conventional statistical significance.
@@ -215,7 +209,7 @@ Footnote: The poor performance of ‘pledge before try giving’ difference appe
 
 '**DR: Intuitive interpretation' **(_if_ I'm understanding what's being reported here)
 
-Perhaps giving people more options makes them indecisive. They may be particularly reluctant to choose the “most ambitious giving pledge”. The "pledge before try giving" may perform the worst because it makes the try giving pledge as an alternative option particularly salient. (In contrast, the "Original" at least makes the 10% pledge the central and the middle option.)
+Perhaps giving people more options makes them indecisive. They may be particularly reluctant to choose the “most ambitious giving pledge”. The "pledge before try giving" may perform the worst because it makes the Try giving pledge as an alternative option particularly salient. (In contrast, the "Original" at least makes the 10% pledge the central and the middle option.)
 
 _Caveats:_
 
