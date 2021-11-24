@@ -56,7 +56,7 @@ _Background_: We are working with ICRC, a Switzerland-based individual developme
 
 Our experiment involving 'cost per impact' information has come back. The results (see [linked preview](../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)) suggest 'near-zero and tightly bounded impact of the cost-per-impact information'. This is generally consistent with previous work, including the  [Karlan and Wood (2017)](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300490?via%3Dihub) experiment at Freedom From Hunger, my [2018 and 2019 experiments with Catholic Relief Services](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#comparison-of-posterior-probabilities), and other small-scale experiments [(Reinstein and Bergh, 2020)](https://journals.sagepub.com/doi/full/10.1177/1948550619893968?casa\_token=LHG5-s5teJYAAAAA%3AFpnPvCaoS94ADEvRt772GtOEHyhfSWAbWoboSArW\_WZ13s2AACbD6Ty\_Z07M6UhPqC\_ROWKYV1A).
 
-_My next steps_: Write up these results specifically, and [in synthesis (meta-analysis) with the previous evidence](https://daaronr.github.io/dualprocess/index.html#raises-questions). We will 'bound the effect of cost-per-impact information', and consider how it informs effective charities and fundraisers.
+_My next steps_: Write up these results specifically, and [in synthesis (meta-analysis) with the previous evidence](https://daaronr.github.io/dualprocess/index.html#raises-questions). We will 'bound the effect of cost-per-impact information' on donation incidence and average amount, and consider how it informs effective charities and fundraisers.
 
 ### 3. Just Giving 'seed pages' trial:
 
@@ -69,7 +69,7 @@ Purpose: Investigate 'impact of early contributions (and messages)' to inform 'w
 * Aim to run self-funded pilot for upcoming 2020-21 giving season.
 * Conversations and advising from Dillon Bowen on adaptive design, reinforcement and Bayesian learning extensions
 
-_My next steps: _Gaining server access and 'tech support' to enable this automation, finish outlining and re-registering, run POC pilot
+_My next steps: _Gaining server access and 'tech support' to enable this automation, finish outlining and re-registering, run PoC (but also informative) pilots (first 'small seeds' for mainstream charities, then 'large and small seeds' for effective charities)
 
 ### 4. [Facebook fundraising trial](reinstein-longview-psychology-of-effective-giving-project.md#4.-facebook-fundraising-trial-with-paul-smeets-dean-karlan-and-janek-kretschmer) (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
 
@@ -87,9 +87,9 @@ Trial incentivizing FB users to start birthday fundraisers for effective chariti
 
 [Web-resource (bookdown): Increasing effective charitable giving: The puzzle, what we know, what we need to know next](https://daaronr.github.io/ea\_giving\_barriers/index.html)
 
-* Some updates and additions
+* Updates and additions, some reorganization.
 * particularly incorporating recent syntheses (Caviola et al "The many obstacles to effective giving", Noetel et al "What Works..."; [Jaeger and Vugt "Psychological Barriers..." ](https://www.sciencedirect.com/science/article/pii/S2352250X21001779) )
-* Watch [this space](https://daaronr.github.io/ea\_giving\_barriers/index.html)&#x20;
+  * In light of these papers, renewed focus on '_careful_ e_vidence-base_ _on key operationalized claims_' over broad 'literature review'
 
 ### 6. Other
 

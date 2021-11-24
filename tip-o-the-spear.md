@@ -15,7 +15,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 *   <mark style="background-color:green;">"</mark>[<mark style="background-color:green;">Pledge page" split-test</mark>](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#general-idea-main-hypothesis)<mark style="background-color:green;">; vary presentations of pledge options (tied to cookies/IP addresses)</mark>
 
-    _<mark style="background-color:yellow;">We have</mark> _[some results](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'too many options/try-giving option may be harmful' ; but DR needs clarification</mark>
+    _<mark style="background-color:yellow;">We have</mark> _[some results](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>&#x20;
 * [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
 * [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email.
 * Collecting ideas: aiming for testing at multiple points in the funnel ([Airtable](https://airtable.com/shrUGJuhyxrKGMEUm), Gdoc)
