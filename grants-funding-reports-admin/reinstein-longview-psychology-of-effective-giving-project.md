@@ -5,7 +5,7 @@ description: >-
   administered by Longview Philanthropy.
 ---
 
-# Reinstein/Longview "psychology of effective giving" project
+# Reinstein/Longview "psychology of effective giving"
 
 {% tabs %}
 {% tab title="quick tabs" %}
@@ -25,7 +25,18 @@ Specific next steps and internal deadlines&#x20;
 * &#x20;JG trialRevamp/ integration of recent surveys into Barriers repo
 * Preliminary report of EA marketing trials... possibly EA forum post?
 * Arrange a second meeting with Tyler? ... to see something in writing closer to the deadline.
-*
+
+
+{% endtab %}
+
+{% tab title="Meeting notes" %}
+**Work categories:**
+
+1. Building EA marketing & testing (action & capacity)
+2. Running independent trials ('impact of impact info' focus)
+3.  Synthesis of 'barriers' – evidence, communication focus&#x20;
+
+
 {% endtab %}
 {% endtabs %}
 
