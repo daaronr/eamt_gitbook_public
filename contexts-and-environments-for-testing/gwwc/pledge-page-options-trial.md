@@ -7,7 +7,7 @@ description: >-
 
 # Pledge page (options trial) (+)
 
-****[**Following **](../trial-reporting-template.md)** **[trial-reporting-template.md](../trial-reporting-template.md "mention")****
+****[**Following** ](../trial-reporting-template.md) **** [trial-reporting-template.md](../trial-reporting-template.md "mention")****
 
 ## General idea, main 'hypothesis'&#x20;
 
@@ -47,8 +47,8 @@ Following 'become a member' takes you to this 'Take a Pledge' page ([`https://ww
 
 The content of the key 'choice button' part varied between these three versions&#x20;
 
-1. **"**_Original_**:" **A block of three (in the order of commitment) 'The Pledge' (10%) in the center and highlighted (see above)
-2. _"Pledge before TryGiving": _A block of 3 with "Try Giving" (1%) in the center and highlighted
+1. **"**_Original_**:"** A block of three (in the order of commitment) 'The Pledge' (10%) in the center and highlighted (see above)
+2. _"Pledge before TryGiving":_ A block of 3 with "Try Giving" (1%) in the center and highlighted
 3. "_Separate Block for Other Pledges":_ A single block for 'The Pledge' (10%), with the other pledges given as clickable bullet points below (as well as a bullet for the 'company pledge' ... which had a different presentation in other versions)
 
 The version presented stayed constant according to an individual's IP cookie tracking
@@ -87,7 +87,7 @@ Everyone going to the above page within the above time duration.
 
 'People interested in GWWC pledges'
 
-Sample size: see below, from from Google Analytics
+Sample size: see below,  from Google Analytics
 
 ### Key treatment(s)
 
@@ -99,7 +99,7 @@ Sample size: see below, from from Google Analytics
 
 ![](<../../.gitbook/assets/image (7).png>)
 
-2\. "**Pledge before TryGiving**" ... as above but with Try Giving and The Pledge swapped
+2\. "**Pledge before TryGiving**" ... as above but with Try Giving and The Pledge swapped, and Try Giving highlighted
 
 
 
@@ -108,12 +108,12 @@ Sample size: see below, from from Google Analytics
 ![](<../../.gitbook/assets/image (12) (1).png>)
 
 {% hint style="info" %}
-DR: I'm in contact with [Julian Hazell](https://app.gitbook.com/u/5r4JrDxg4Gb3ZrYJYfN2YWU2v6H2 "mention") [Luke Freeman](https://app.gitbook.com/u/ljuM97uRtMeH7IhMq9MSN1kuPcC3 "mention")  to doublecheck and verify all of the above, as well as  the clarification questions below
+DR: I'm in contact with [Julian Hazell](https://app.gitbook.com/u/5r4JrDxg4Gb3ZrYJYfN2YWU2v6H2 "mention") [Luke Freeman](https://app.gitbook.com/u/ljuM97uRtMeH7IhMq9MSN1kuPcC3 "mention") to doublecheck and verify all of the above, as well as  the clarification questions below
 {% endhint %}
 
 _Needs some clarification:_
 
-* Was all of the other presentation otherwise the same, including the relative position of this 'box'?&#x20;
+* Was all of the remaining presentation otherwise the same, including the relative position of this 'box'?&#x20;
 * Did anything else vary over the period of this trial?
 
 ### Treatment assignment procedure
@@ -137,10 +137,10 @@ _F_or Google's help on 'create an A/B test' they state:
 
 > All variants are weighted equally by default in Optimize. A visitor who is included in your experiment has an equal chance of seeing any of your variants.
 
-Which suggests that 1 or 2 explains it &#x20;
+Which suggests that "1" or "2" explains it &#x20;
 {% endhint %}
 
-The version presented stayed constant according to an individual's IP cookie tracking
+The version presented stayed constant according to an individual's IP cookie tracking.
 
 ### **Outcome data**
 
@@ -148,24 +148,26 @@ _Uncertain location, status, access, needs some discussion_
 
 Statistics should be available on Google Analytics, Reinstein trying to gain access.
 
-_Update: Luke suggests it might only be recording 'pressed any button' (any pledge) as the sucessful outcome. _
+_Update: Luke suggests it might only be recording 'pressed any button' (any pledge) as the successful outcome._&#x20;
 
 __
 
 **Ideally**:
 
-* One entry per page view over the interval, detailing - Whether pledged
-  * Which pledge
-  * Time and date of view
-  * Time spent on page
-  * Other clicks
-  * Location of user
-  * Any other information about user
+One entry per page view over the interval, detailing&#x20;
+
+* Whether pledged
+* Which pledge
+* Time and date of view
+* Time spent on page
+* Other clicks
+* Location of user
+* Any other information about user
 
 Most importantly:
 
 * Number of page views over the interval, by treatment
-* Number of pledges over interval
+* Number of pledges over the interval
   * by treatment
   * by type of pledge
 * Follow-up donations etc (if connectable)
@@ -205,14 +207,14 @@ _3. Where is the data stored (also link/adjust the above), who has it, and under
 
 **Reinstein quick interpretation** _(if I am understanding what is what)_
 
-The** "separate block for other pledges" seems to have been the most successful, **with an 0.49% higher (percentage point) incidence rate than the 'Original', i.e., a 22% higher rate of pledging (2.69 vs 2.20).
+The **"separate block for other pledges" seems to have been the most successful,** with an 0.49% higher (percentage point) incidence rate than the 'Original', i.e., a 22% higher rate of pledging (2.69 vs 2.20).
 
-These differences seem unlikely to be statistically significant in a conventional sense, even if we had a method for adjusting for the (likely) adaptive sampling. Still, Google analytics (presumably a reasonable Bayesian) model states an 80% chance that this is the best treatment, and this seems useful and informative.
+These differences seem unlikely to be statistically significant in a conventional sense. Still, Google analytics (presumably a reasonable Bayesian) model states an 80% chance that this is the best treatment, and this seems useful and informative.
 
 {% hint style="info" %}
 Aside on stats:
 
-> Optimize uses Bayesian inference to generate its reports._.. _Optimize chooses its priors to be quite uninformed.
+> Optimize uses Bayesian inference to generate its reports._.._ Optimize chooses its priors to be quite uninformed.
 
 DR: But this still doesn't tell us _what_ these priors are. There's a lot of sensitivity to this choice, in my experience.&#x20;
 {% endhint %}
@@ -231,9 +233,21 @@ Footnote: The poor performance of ‘pledge before try giving’ difference appe
 
 
 
-'**DR: Intuitive interpretation' **(_if_ I'm understanding what's being reported here)
+'**DR: Intuitive interpretation'** (_if_ I'm understanding what's being reported here)
 
-Perhaps giving people more options makes them indecisive. They may be particularly reluctant to choose the “most ambitious giving pledge”. The "pledge before try giving" may perform the worst because it makes the 'Try Giving' pledge a particular salient alternative option. (In contrast, the "Original" at least makes The 10% Pledge the central and the middle option.)
+Perhaps giving people more options makes them indecisive. They may be particularly reluctant to choose a “relatively ambitious giving pledge” if a less ambitious option is highlighted.
+
+This could also involve issues of self and social- signaling; if the 'main thing' to do is 10% (as in "separate block", then this may seem a straightforward way of conveying 'I am generous'. On the other hand if the 'Further pledge' is fairly prominent, perhaps the signal feels less positive.  And if the '1% pledge' is made central, 10% might seem more than a necessary signal. &#x20;
+
+The "pledge before try giving" may perform the worst because it makes the 'Try Giving' pledge a particular salient alternative option. (In contrast, the "Original" at least makes 'The 10% Pledge' the central and the middle option.)
+
+{% hint style="info" %}
+But in this case, why should the _overall_ pledge rate (any button-press) be lower with more options (Original vs 'separate block'), and lower still when Try Giving is made central? It's hard to say too much if we don't know the composition of the pledges people make.&#x20;
+
+Still, it might be that people mainly came in with the desire to take The Pledge (10%), as this is most heavily promoted. In such a case, making other pledge possibilities prominent may A. Cause people to rethink their choices and delay a decision (perhaps never returning) and/or B. Feel less comfortable with the overall 'signal' their pledge will send. This doesn't mean that the 'multiple boxes' environment are worse overall, but it may perform worse for those people coming here, as these were the people particularly attracted by the '10% is the main thing' signaling environment.&#x20;
+{% endhint %}
+
+&#x20;
 
 _Caveats:_
 
@@ -242,7 +256,7 @@ _Caveats:_
 
 
 
-_Further thoughts: _We should try to focus more carefully on 'whether this is having any effect on ultimate pledge-taking and pledge-follow-through behavior'. I would be surprised if a moderate difference in the framing of a particular page should have such a large (2.69-1.71/1.71 =  57%) impact on the incidence of such a large life choice, involving at least tens of thousands of dollars. However, I still expect the incidence of 'click this button' to be _likely related_ to that ultimate outcome, thus I suspect these results are still informative and useful as they stand.
+_Further thoughts:_ We should try to focus more carefully on 'whether this is having any effect on ultimate pledge-taking and pledge-follow-through behavior'. I would be surprised if a moderate difference in the framing of a particular page should have such a large (2.69-1.71/1.71 =  57%) impact on the incidence of such a large life choice, involving at least tens of thousands of dollars. However, I still expect the incidence of 'click this button' to be _likely related_ to that ultimate outcome, thus I suspect these results are still informative and useful as they stand.
 
 
 
