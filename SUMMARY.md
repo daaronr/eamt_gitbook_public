@@ -35,7 +35,7 @@
 * [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
 * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
-  * [Testing Contexts and Strategies for Prioritization](contexts-and-environments-for-testing/gwwc/future-avenues.md)
+  * [Testing Contexts: Overview](contexts-and-environments-for-testing/gwwc/future-avenues.md)
   * [Pledge page (options trial) (+)](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md)
   * [YouTube Remarketing (+)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
   * [Web page (casual visits)/CtA](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
