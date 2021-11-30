@@ -48,14 +48,14 @@ Specific next steps and internal deadlines&#x20;
 
 *   **Brought together**
 
-    * **key players** from EA giving and pledge organizations (especially [**GWWC**](../contexts-and-environments-for-testing/gwwc/)**, **[**TLYCS**](../contexts-and-environments-for-testing/tlycs/)**,** and [**OftW**](../contexts-and-environments-for-testing/one-for-the-world/)**, **and consulting with [givewell.md](../contexts-and-environments-for-testing/other/givewell.md "mention") and others),
+    * **key players** from EA giving and pledge organizations (especially [**GWWC**](../contexts-and-environments-for-testing/gwwc/)**,** [**TLYCS**](../contexts-and-environments-for-testing/tlycs/)**,** and [**OftW**](../contexts-and-environments-for-testing/one-for-the-world/)**,** and consulting with [givewell.md](../contexts-and-environments-for-testing/other/givewell.md "mention") and others),
     * applied academics, and
     * marketing experts.
 
-    **Our team  **is listed [HERE](../organization-and-overview/our-team-and-resources/).  We have held a number of small-group meetings, sharing our plans and advice. First '[monthly general meeting](../tip-o-the-spear.md#meeting-agendas)': scheduled for 1 Dec. 2021 (see [#meeting-agendas](../tip-o-the-spear.md#meeting-agendas "mention"))
+    **Our team**  is listed [HERE](../organization-and-overview/our-team-and-resources/).  We have held a number of small-group meetings, sharing our plans and advice. First '[monthly general meeting](../tip-o-the-spear.md#meeting-agendas)': scheduled for 1 Dec. 2021 (see [#meeting-agendas](../tip-o-the-spear.md#meeting-agendas "mention"))
 * Created shared space ([HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/); i.e., the present context, a wiki-style 'Gitbook') to coordinate our plans, resources, and insights (as well as a Slack group and an [Airtable](../organization-and-overview/how-this-gitbook-works/other-tech.md#airtable) for structured content).
-* Worked to push forward and encourage **several marketing trials, some of which are underway **(including some with data and results; see '[tip-o-the-spear](../tip-o-the-spear.md)' and  links to preliminary results);&#x20;
-  * e.g., evidence from GWWC trial <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;"><mark style="background-color:yellow;">suggesting  '<mark style="background-color:yellow;"></mark>[<mark style="background-color:yellow;"><mark style="background-color:yellow;">too many options/try-giving option may reduce take-up'<mark style="background-color:yellow;"></mark>](../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#basic-results-outcomes)<mark style="background-color:yellow;"><mark style="background-color:yellow;"><mark style="background-color:yellow;"></mark>
+* Worked to push forward and encourage **several marketing trials, some of which are underway** (including some with data and results; see '[tip-o-the-spear](../tip-o-the-spear.md)' and  links to preliminary results);&#x20;
+  * e.g., evidence from GWWC trial <mark style="background-color:yellow;"></mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;"><mark style="background-color:yellow;">suggesting  '<mark style="background-color:yellow;"></mark>[<mark style="background-color:yellow;"><mark style="background-color:yellow;">too many options/try-giving option may reduce take-up'<mark style="background-color:yellow;"></mark>](../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#basic-results-outcomes)<mark style="background-color:yellow;"><mark style="background-color:yellow;"><mark style="background-color:yellow;"></mark>
   * <mark style="background-color:yellow;">e.g., OftW is currently running a</mark> [pre-giving-tuesday-email-split-test](../contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention"), we're helping to oversee/analyze. This (perhaps uniquely) considers the presentation of _emotional versus impact_ information for EA-aligned/adjacent donors. (Note that [Will MacAskill has expressed interest](https://docs.google.com/document/d/1JVy1uK1x5vCAJTwwCJdUPvYAZBJeLBpfEMY9Tqx1-MY/edit#) in testing this particular framing comparison.) &#x20;
 * _**Current push**_: run trials and experiments for 'quick wins and proofs-of-concept' while working towards building structure and resources for continuous systematic marketing, testing, and sharing insights.&#x20;
   * **My key roles** include advising on designs (see [Broken link](broken-reference "mention")) and organizing and sharing results and analysis to avoid 'lost threads' (see [trial-reporting-template.md](../contexts-and-environments-for-testing/trial-reporting-template.md "mention")) &#x20;
@@ -81,11 +81,11 @@ Purpose: Investigate 'impact of early contributions (and messages)' to inform 'w
 * Aim to run self-funded pilot for upcoming 2020-21 giving season.
 * Conversations and advising from Dillon Bowen on adaptive design, reinforcement and Bayesian learning extensions
 
-_My next steps: _Gaining server access and 'tech support' to enable this automation, finish outlining and re-registering, run PoC (but also informative) pilots (first 'small seeds' for mainstream charities, then 'large and small seeds' for effective charities)
+_My next steps:_ Gaining server access and 'tech support' to enable this automation, finish outlining and re-registering, run PoC (but also informative) pilots (first 'small seeds' for mainstream charities, then 'large and small seeds' for effective charities)
 
 ### 4. [Facebook fundraising trial](reinstein-longview-psychology-of-effective-giving-project.md#4.-facebook-fundraising-trial-with-paul-smeets-dean-karlan-and-janek-kretschmer) (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
 
-**Trial incentivizing FB users to start birthday fundraisers for effective charities, **investigating how this behavior (and amounts raised)** responds to effectiveness and rating information **and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
+**Trial incentivizing FB users to start birthday fundraisers for effective charities,** investigating how this behavior (and amounts raised) **responds to effectiveness and rating information** and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
 
 * Tech delays: Failed to obtain FB Fundraiser API access; thus revised design
   * However, we may be able to work _with_ Facebook on this, and API access is on the table again; we now have a partner co-author within Facebook
@@ -93,7 +93,7 @@ _My next steps: _Gaining server access and 'tech support' to enable this automat
 
     * Aim to run in early (Feb.?) 2022
 
-    _My next steps: _finalizing 'state of FB support and API access', hiring developer (1-2 weeks design work for simple design), running POC
+    _My next steps:_ finalizing 'state of FB support and API access', hiring developer (1-2 weeks design work for simple design), running POC
 
 ### 5. Barriers synthesis
 

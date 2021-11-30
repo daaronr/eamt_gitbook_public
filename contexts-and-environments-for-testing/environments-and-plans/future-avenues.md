@@ -73,8 +73,8 @@ _See also_ [_Profiling: Discussion_](../../profiling-and-segmentation/profiling-
 
 **Question:** If our aim is _to change the culture of giving in general_, what kind of people should we be targeting?
 
-1. People with lots of social influence
-2. Low-hanging fruit (i.e., people who are naturally predisposed towards effective giving, pledging, & EA)
+1. _Influencers (_People with lots of social influence)
+2. _Low-hanging fruit_ (i.e., people who are naturally predisposed towards effective giving, pledging, & EA)
 
 {% hint style="success" %}
 **Idea:** Compare different outreach methods on the basis of "cost per pledge" (or per "whatever-metric-we-use"). (Outcomes: [Outcome: Effective gift](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/)... & [Outcome: Pledge](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/)... )

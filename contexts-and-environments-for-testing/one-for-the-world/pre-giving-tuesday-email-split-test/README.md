@@ -1,13 +1,13 @@
 # pre-giving-tuesday-email split test (+)
 
-_24 Nov 2021 -- adapting this to the _[trial-reporting-template.md](../../trial-reporting-template.md "mention")_ ... incorporating the _[preregistration\_oftw\_pre\_gt.md](preregistration\_oftw\_pre\_gt.md "mention")_ and the internal plan notes (below)_
+_24 Nov 2021 -- adapting this to the_ [trial-reporting-template.md](../../trial-reporting-template.md "mention") _... incorporating the_ [preregistration\_oftw\_pre\_gt.md](preregistration\_oftw\_pre\_gt.md "mention") _and the internal plan notes (below)_
 
-## General idea, main 'hypothesis' <a href="general-idea-main-hypothesis" id="general-idea-main-hypothesis"></a>
+## General idea, main 'hypothesis' <a href="#general-idea-main-hypothesis" id="general-idea-main-hypothesis"></a>
 
 **Are effectiveness-minded (EA-adjacent) donors and pledgers more motivated to donate by**
 
 1. "A": A (non-quantitative) **mention of impact and effectiveness** (as in the standard OftW pitch)
-2. "B":** Emotional appeals and 'identified victim' images**
+2. "B": **Emotional appeals and 'identified victim' images**
 
 _In the context of **One for The World**'s (OFTW) 'giving season upselling campaign, potentially generalizable to other contexts._
 

@@ -7,9 +7,9 @@ description: >-
 
 # Environments, plans, tests
 
-See [trial-reporting-template.md](trial-reporting-template.md "mention")
+See [trial-reporting-template.md](../trial-reporting-template.md "mention")
 
-[future-avenues.md](gwwc/future-avenues.md "mention") (this is for GWWC but it applies more generally)
+[future-avenues.md](future-avenues.md "mention") (this is for GWWC but it applies more generally)
 
 
 

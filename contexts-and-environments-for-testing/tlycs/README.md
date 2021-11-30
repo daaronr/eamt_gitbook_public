@@ -27,7 +27,7 @@ TLYCS is considering introducing cause-area funds to allow people with specific 
   * "Automated questions" (& bots) --> feeling personally neglected, less expressive (-)
   * Uncertainty about preferences --> inaction (-)
 
-\_We outline a proposed \_[_Funds Recommendations trial i_](funds-recommendations-trial.md)_n the subchapter _[_(linked)_](funds-recommendations-trial.md)
+\_We outline a proposed \_[_Funds Recommendations trial i_](funds-recommendations-trial.md)_n the subchapter_ [_(linked)_](funds-recommendations-trial.md)
 
 ### \_"Start-up impact initiatives ... incubation granting' ... \_
 
