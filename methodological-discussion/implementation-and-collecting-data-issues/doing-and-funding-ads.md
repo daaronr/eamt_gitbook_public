@@ -14,6 +14,8 @@ JS Winchell presentation:
 JS presentation -- how to spend your Google Ads Grant
 {% endembed %}
 
+[Tomasik (2014) post](https://reducing-suffering.org/spreading-google-grants-with-caution-about-counterfactuals/)&#x20;
 
+{% embed url="https://reducing-suffering.org/spreading-google-grants-with-caution-about-counterfactuals" %}
 
 ## General grants -- see "[grants](../../grants-funding-reports-admin/grants-funding-and-reports.md#funding-for-ea-marketing-ads)" section

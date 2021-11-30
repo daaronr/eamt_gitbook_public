@@ -3,7 +3,7 @@
 * [Effective Giving and Action: Market testing and Synthesis](README.md)
 * [Tip-o-the-spear](tip-o-the-spear.md)
 
-## Organization <a href="organization-and-overview" id="organization-and-overview"></a>
+## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
 
 * [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
   * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
@@ -12,13 +12,13 @@
   * [Overview: Posts and writings](organization-and-overview/our-team-and-resources/overview-ea-forum-post.md)
   * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
 
-## Background and existing evidence <a href="background" id="background"></a>
+## Background and existing evidence <a href="#background" id="background"></a>
 
 * [The challenge: drivers of effective/ineffective giving](background-and-existing-evidence/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background-and-existing-evidence/models-theories-psychological-norms.md)
 * [Tools/interventions: principles](background-and-existing-evidence/tools-interventions-principles.md)
 
-## Tools and trials <a href="proposed-tools-for-motivating-effective-giving" id="proposed-tools-for-motivating-effective-giving"></a>
+## Tools and trials <a href="#proposed-tools-for-motivating-effective-giving" id="proposed-tools-for-motivating-effective-giving"></a>
 
 * [Tools and trials: overview](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md)
 * [Academic Paper Ideas](proposed-tools-for-motivating-effective-giving/academic-paper-ideas.md)
@@ -29,7 +29,7 @@
   * [Give if you win/ conditional pledge](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
   * [(Accountability partners)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/accountability-partners.md)
 
-## Contexts-environments-plans-tests <a href="contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
+## Contexts-environments-plans-tests <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
 * [Environments, plans, tests](contexts-and-environments-for-testing/environments-and-plans.md)
 * [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
@@ -58,19 +58,19 @@
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
   * [Chatbot (deferred)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
 
-## Methods and implementation discussion <a href="methodological-discussion" id="methodological-discussion"></a>
+## Methods and implementation discussion <a href="#methodological-discussion" id="methodological-discussion"></a>
 
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
 * ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
   * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * [Implementation and collecting data: Issues](methodological-discussion/implementation-and-collecting-data-issues/README.md)
   * ["Doing and funding ads"](methodological-discussion/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
-  * [(Best-practice guidelines)](methodological-discussion/implementation-and-collecting-data-issues/best-practice-guidelines.md)
+  * [Video ads/Best-practice guidelines](methodological-discussion/implementation-and-collecting-data-issues/best-practice-guidelines.md)
   * [Facebook split-testing etc](methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md)
   * [Geographic segmentation/blocked randomization](methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
   * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
 
-## Project: Profiling and segmentation <a href="profiling-and-segmentation" id="profiling-and-segmentation"></a>
+## Project: Profiling and segmentation <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
 * [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
 * [(Surveys, focus groups, etc)](profiling-and-segmentation/surveys-focus-groups-etc.md)
