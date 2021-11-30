@@ -72,9 +72,9 @@
 
 ## Project: Profiling and segmentation <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
+* [Previous work](profiling-and-segmentation/previous-work.md)
 * [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
 * [(Surveys, focus groups, etc)](profiling-and-segmentation/surveys-focus-groups-etc.md)
-* [(Previous work)](profiling-and-segmentation/previous-work.md)
 
 ## Supplements and references
 
