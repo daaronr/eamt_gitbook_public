@@ -1,12 +1,10 @@
 ---
 description: >-
-  This page lays out some options for testing implementation strategies that we
-  can prioritize for Giving What We Can.
+  Testing 'implementation strategies'; prioritized for GWWC but also relevant
+  generally
 ---
 
 # Testing Contexts: Overview
-
-
 
 ## Contexts to test outreach messages&#x20;
 
@@ -19,7 +17,7 @@ description: >-
 
 ### Contexts for 'Immediate outcomes' (clicks etc)
 
-Facebook; But the targeting algorithm may frustrate randomization. (see [facebook-split-testing-etc.md](../../methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md "mention")) Can it be switched off?
+Facebook; But the targeting algorithm may frustrate randomization. (see [facebook-split-testing-etc.md](../../methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md "mention").) Can it be switched off?
 
 ### Contexts allowing  [randomization by geograph](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)&#x20;
 
@@ -67,7 +65,7 @@ We haven’t thought about this much but it seems important – it might be wort
 * How many buttons?
 * How many choice options?
 
-The 'mysterious sauce' ... JS knows about ... we don't always have a "theory" but it might be meaningful.
+The 'mysterious sauce' ... JS knows about ([best-practice-guidelines.md](../../methodological-discussion/implementation-and-collecting-data-issues/best-practice-guidelines.md "mention"))... we don't always have a "theory" but it might be meaningful.
 
 ## **Targeting**
 
@@ -98,4 +96,4 @@ _See also_ [_Profiling: Discussion_](../../profiling-and-segmentation/profiling-
 * Exploiting social network structure
   * Targeting "influencers" and "central" people (on the basis of "number of followers" / friends / etc.)
 * Key search terms (google 'effective giving' etc)
-* Podcasts listeners (philanthropy, economics, development & global health ...)
+* Podcast listeners (philanthropy, economics, development & global health ...)
