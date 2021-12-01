@@ -75,6 +75,7 @@
 
 * [Previous work](profiling-and-segmentation/previous-work.md)
 * [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
+* [(Profiling 'existing traffic')](profiling-and-segmentation/profiling-existing-traffic.md)
 * [(Surveys, focus groups, etc)](profiling-and-segmentation/surveys-focus-groups-etc.md)
 
 ## Supplements and references

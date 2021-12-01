@@ -14,7 +14,7 @@ Reporting and considering this in the context of the GWWC  [pledge-page-options-
 
 #### Setup and requirements
 
-#### Set 'variants' and give them weights (what shares for each)
+#### Set 'variants' and give them weights (assign shares for each)
 
 #### Page and audience targeting
 
