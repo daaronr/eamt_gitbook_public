@@ -42,6 +42,7 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 * Integrating evidence from (own and others') field experiments on the '[impact of impact information in charitable campaigns'](https://daaronr.github.io/dualprocess/index.html); original and meta-analysis
   * "New": DonorsVoice/CRS,  ICRC [#icrc-quick-overview](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md#icrc-quick-overview "mention")
   * 'Published': Karlan and Wood (2017), Bergh and Reinstein (2020)
+* Updates to ["Increasing effective giving"](https://daaronr.github.io/ea\_giving\_barriers/index.html) synthesis, and to resources in this gitbook
 
 ## Meeting agendas
 
