@@ -35,7 +35,7 @@ These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https
 
 __
 
-![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1).png>)
+![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1) (1).png>)
 
 Following 'become a member' takes you to this 'Take a Pledge' page ([`https://www.givingwhatwecan.org/pledge/`](https://www.givingwhatwecan.org/pledge/))&#x20;
 
@@ -203,7 +203,7 @@ _3. Where is the data stored (also link/adjust the above), who has it, and under
 
 ### Basic results/outcomes
 
-![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17).png>)
+![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1).png>)
 
 **Reinstein quick interpretation** _(if I am understanding what is what)_
 

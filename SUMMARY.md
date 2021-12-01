@@ -69,6 +69,7 @@
   * [Facebook split-testing etc](methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md)
   * [Geographic segmentation/blocked randomization](methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
   * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
+  * [Google A/B, optimize, analytics interface](methodological-discussion/implementation-and-collecting-data-issues/google-a-b-optimize-analytics-interface.md)
 
 ## Project: Profiling and segmentation <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
