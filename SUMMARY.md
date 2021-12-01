@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Effective Giving and Action: Market testing and Synthesis](README.md)
-* [Tip-o-the-spear](tip-o-the-spear/README.md)
-  * [Sections and organization](tip-o-the-spear/sections-and-organization.md)
+* [Tip-o-the-spear](tip-o-the-spear.md)
+  * [Sections and organization](organization-and-overview/sections-and-organization.md)
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
 

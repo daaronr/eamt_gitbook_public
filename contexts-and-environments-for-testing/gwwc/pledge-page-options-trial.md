@@ -105,7 +105,7 @@ Sample size: see below,  from Google Analytics
 
 3\. "**Separate Block for Other Pledges**" (see below)
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 {% hint style="info" %}
 DR: I'm in contact with [Julian Hazell](https://app.gitbook.com/u/5r4JrDxg4Gb3ZrYJYfN2YWU2v6H2 "mention") [Luke Freeman](https://app.gitbook.com/u/ljuM97uRtMeH7IhMq9MSN1kuPcC3 "mention") to doublecheck and verify all of the above, as well as  the clarification questions below
@@ -205,7 +205,7 @@ _3. Where is the data stored (also link/adjust the above), who has it, and under
 
 ### Basic results/outcomes
 
-![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1).png>)
+![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1) (1).png>)
 
 **Reinstein quick interpretation** _(if I am understanding what is what)_
 
@@ -213,25 +213,58 @@ The **"separate block for other pledges" seems to have been the most successful,
 
 These differences seem unlikely to be statistically significant in a conventional sense. Still, Google analytics (presumably a reasonable Bayesian) model states an 80% chance that this is the best treatment, and this seems useful and informative.
 
+{% hint style="warning" %}
+If anything, these result for 'separate block' seems **potentially understated**, given that GA is reporting conversions based on _sessions_ (contiguous use periods) and not users. We can reasonably assume that a roughly equal number of users were assigned to each treatment (as per the design). As a result, we assume that roughly equal share_s 'viewed the relevant page at least once'_ (because of the law of large numbers). However, the most successful treatment, the 'Separate block', is recording _more_ sessions. Thus, the relative conversion rate, as a share of _users_, would be even higher than the one reported here, relative to the baseline.&#x20;
+{% endhint %}
+
 {% hint style="info" %}
-Aside on stats:
+_Aside on stats:_
 
 > Optimize uses Bayesian inference to generate its reports._.._ Optimize chooses its priors to be quite uninformed.
 
 DR: But this still doesn't tell us _what_ these priors are. There's a lot of sensitivity to this choice, in my experience.&#x20;
 {% endhint %}
 
-{% hint style="info" %}
-&#x20;_Aside:_ I'd like to report probabilistic confidence or credible intervals on the improvement here, to get a sense of ‘how big a deal this is likely to be’, but I don't have the numbers needed to calculate these here yet. Google Optimize reports the 95% credible intervals -- that's too wide to be meaningful.
-{% endhint %}
-
-__
-
-T**he "Pledge Before Try giving" treatment** **performed substantially worse** than the original.
+**The "Pledge Before Try giving" treatment** **performed substantially worse** than the original.
 
 {% hint style="info" %}
 Footnote: The poor performance of ‘pledge before try giving’ difference appears even more substantial than the strength of ‘Separate Block’. It even seems to border on conventional statistical significance … I expect that in a standard comparison of the latter two treatments, we’d find conventional statistical significance.
 {% endhint %}
+
+#### These differences are meaningful–consider the 'posteriors':
+
+Downloading the 'Analytics data' behind the above graphs, we see:
+
+
+
+| Variant                          | 2.5th Percentile Modeled Improvement | 25th Percentile Modeled Improvement | Modeled Improvement | 75th Percentile Modeled Improvement | 97.5th Percentile Modeled Improvement |
+| -------------------------------- | ------------------------------------ | ----------------------------------- | ------------------- | ----------------------------------- | ------------------------------------- |
+| Original                         | 0%                                   | 0%                                  | 0%                  | 0%                                  | 0%                                    |
+| Pledge Before Try Giving         | -50%                                 | -33%                                | -23%                | -11%                                | 18%                                   |
+| Separate Block For Other Pledges | -18%                                 | 4%                                  | 20%                 | 36%                                 | 76%                                   |
+
+_**This suggests it is very reasonable to think that 'Separate Block' is substantially better**_
+
+Our 'posterior' probability thus infers (assuming symmetry, I think) that we should put (considering odds ratios, not percentage points)&#x20;
+
+* a 2.5% chance of SB having an 18% (or more) _lower_ rate of conversion than  'Original'
+* a 22.5% chance on SB being between 18% worse and 4% better
+* a 25% chance of being 4-20% better&#x20;
+* a 25% chance of being 20-36% better
+* A 22.5% chance of being 36-76% better&#x20;
+* A 2.5% chance of being more than 76% better
+
+We can also combine intervals, to make statements like ...
+
+* a 50% chance of being 4-36% better&#x20;
+* a 50% chance of being 20-76% better
+
+_**For 'Pledge before...' we can state, e.g.,**_&#x20;
+
+* PB has a 75% chance of being at least 11% worse than Original
+* and a 50% chance of being at least 23% worse than Original
+
+
 
 
 

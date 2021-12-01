@@ -34,7 +34,7 @@ _**Update**_: as of 15 Oct 2021 Gitbook has changed their protocols. You now nee
 
 ![](<../../.gitbook/assets/image (1) (1).png>)
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 Give it a try. Once you 'submit', you, or someone else can 'merge' it in.&#x20;
 
