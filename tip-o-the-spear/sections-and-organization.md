@@ -7,7 +7,7 @@ description: How the gitbook sections are organized; we can discuss this
 **Overview of grouped sections ... the basic idea:**
 
 1. [Preamble](../)
-2. Explain [organization](sections-and-organization.md) of the [team](our-team-and-resources/) and [our tools](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)
+2. Explain [organization](sections-and-organization.md) of the [team](../organization-and-overview/our-team-and-resources/) and [our tools](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)
 3. "Background:
    * [What we're trying to do and why](broken-reference),
    * [What is known/models of effective giving](../background-and-existing-evidence/models-theories-psychological-norms.md),
@@ -19,7 +19,7 @@ description: How the gitbook sections are organized; we can discuss this
       1. Background on the organization and the environments within
       2. Plans and progress on trials within each
    3. T[emplate for reporting](../contexts-and-environments-for-testing/trial-reporting-template.md#concise-reporting-template) trials and progress
-6.  [Methods](broken-reference/): discuss issues of methodology & '[how to implement](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/contexts-and-environments-for-testing/implementation-and-collecting-data-issues/README.md) tricky things right'
+6.  [Methods](../organization-and-overview/broken-reference/): discuss issues of methodology & '[how to implement](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/contexts-and-environments-for-testing/implementation-and-collecting-data-issues/README.md) tricky things right'
 
     _(Let's link to this in other sections not rehash each debate in multiple places)_
 
@@ -27,4 +27,4 @@ description: How the gitbook sections are organized; we can discuss this
     * [Quantitative design and method issues](../methodological-discussion/experimental-design-methods-issues.md)
     * [Implementation issues](../methodological-discussion/implementation-and-collecting-data-issues/), 'practical' issues
 7. [Project: Profiling 'whom to target'](../profiling-and-segmentation/profiling-discussion.md)
-8. [Supplements and references](broken-reference/): Useful discussions and spinoff conversations I didn't know where else to put
+8. [Supplements and references](../organization-and-overview/broken-reference/): Useful discussions and spinoff conversations I didn't know where else to put

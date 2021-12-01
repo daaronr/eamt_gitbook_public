@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Effective Giving and Action: Market testing and Synthesis](README.md)
-* [Tip-o-the-spear](tip-o-the-spear.md)
+* [Tip-o-the-spear](tip-o-the-spear/README.md)
+  * [Sections and organization](tip-o-the-spear/sections-and-organization.md)
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
 
 * [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
   * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
-* [Sections and organization](organization-and-overview/sections-and-organization.md)
 * [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
   * [Overview: Posts and writings](organization-and-overview/our-team-and-resources/overview-ea-forum-post.md)
   * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)

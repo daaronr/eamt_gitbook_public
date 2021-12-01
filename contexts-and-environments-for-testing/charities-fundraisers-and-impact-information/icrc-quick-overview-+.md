@@ -18,7 +18,7 @@ April 2021 mailing addressed to ICRC's existing donor base of:
 
 ![](<../../.gitbook/assets/image (1).png>)
 
-![ICRC mailings -- differences in inserts](<../../.gitbook/assets/image (19).png>)
+![ICRC mailings -- differences in inserts](<../../.gitbook/assets/image (19) (1).png>)
 
 | ENGLISH                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@ April 2021 mailing addressed to ICRC's existing donor base of:
 | DONATE 150CHF  TODAY: your donation can supply  food parcels to a Syrian family                                                                                                                               |
 | <p>DONATE TODAY:<br> - With 50CHF you offer 4 Hygiene kits to Syrian families<br> - With 100CHF you offer 14 school kits to Syrian students<br> - With 150CHF you offer 9 Food parcels to Syrian families</p> |
 
-![Response rates per 100; bars= 95% CI's (?)](<../../.gitbook/assets/image (15) (1) (1).png>)
+![Response rates per 100; bars= 95% CI's (?)](<../../.gitbook/assets/image (15) (1) (1) (1).png>)
 
 ![Average donations per mailing -- includes zeroes](<../../.gitbook/assets/image (18) (1).png>)
 

@@ -35,7 +35,7 @@ These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https
 
 __
 
-![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1) (1).png>)
+![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
 Following 'become a member' takes you to this 'Take a Pledge' page ([`https://www.givingwhatwecan.org/pledge/`](https://www.givingwhatwecan.org/pledge/))&#x20;
 
