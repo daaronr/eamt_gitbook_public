@@ -37,6 +37,8 @@
 * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Pledge page (options trial) (+)](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md)
+  * [Home page header versions (+)](contexts-and-environments-for-testing/gwwc/home-page-header-versions-+.md)
+  * [Giving guides (+)](contexts-and-environments-for-testing/gwwc/giving-guides-+.md)
   * [YouTube Remarketing (+)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
   * [Web page (casual visits)/CtA](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
   * [(Pledgers/emails)](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
