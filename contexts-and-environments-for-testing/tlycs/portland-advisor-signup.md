@@ -10,9 +10,10 @@ description: TLYCS ran a campaign in single city
 Please keep your answers brief -- if you want to give more detail (which is not necessary) please link a later section or external page. \_
 {% endhint %}
 
-### **General idea, main 'hypothesis' (if there is one)**No hypo
+### **General idea, main 'hypothesis' (if there is one)**
 
-Can we get people to sign up for donation advice using exiting videos for YouTube Ads
+* Can we get people to sign up for donation advice using existing videos in YouTube Ads
+* Which ads are best at this (content categories)&#x20;
 
 ### Point of contact (at organization running trial)\*
 
@@ -24,9 +25,19 @@ Johnstuart Winchell (j.s.winchell@gmail.com)
 
 Hoping to launch 12/1 or 12/2, to run for a month
 
-### Digital location where project 'lives' (planning, material, data)Environment/context for trial&#x20;
+### Digital location where project 'lives' (planning, material, data)
+
+(nothing organised)
 
 Google/YouTube Ads interface
+
+email conversation ...&#x20;
+
+****
+
+### Environment/context for trial&#x20;
+
+youtube ads in 1 city, very general population&#x20;
 
 ### **Participant universe and sample size**
 
@@ -38,9 +49,21 @@ People living in Portland Oregon in the top 10% of household income (approximate
 
 ### Key treatment(s)
 
-Description, link exact language/content if possible
+Ten versions of youtube ad video ...&#x20;
+
+LINK to these?
+
+Three main videos
+
+1. funny cartoon song
+2. person speaking to camera
+3. giving away money to poor people and see their response (!connecting with someone)
+
+
 
 ### Treatment assignment procedure
+
+Using YT/GG optimize algorithm (share specific details and parameters please)
 
 * Varied at what level (individual visitors, postal codes, days of the week, etc)
 * How are treatments assigned ('blocked randomization', 'adaptive/Thomson sampling', etc.)
@@ -50,6 +73,12 @@ Description, link exact language/content if possible
 
 ### **Outcome data**
 
+* How long they watch
+* Whether they click through
+* **Whether they fill out the form (Algorithm is serving to optimize this)**
+
+&#x20;
+
 * What will be collected, when and how
 * Where will the data be stored, who will have access
 
@@ -57,20 +86,10 @@ Description, link exact language/content if possible
 
 Planned analysis methods, preregistration link, IRB link, connection to other projects and promotions
 
-Youtube trial (run through Google ads)
 
 
 
 
 
-
-
-Measurement
-
-"in-platform"&#x20;
-
-
-
-"Optimizin
 
 [https://www.thelifeyoucansave.org/advisor/](https://www.thelifeyoucansave.org/advisor/)
