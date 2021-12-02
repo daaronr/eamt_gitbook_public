@@ -10,31 +10,27 @@ description: TLYCS ran a campaign in single city
 Please keep your answers brief -- if you want to give more detail (which is not necessary) please link a later section or external page. \_
 {% endhint %}
 
-### **General idea, main 'hypothesis' (if there is one)**
+### **General idea, main 'hypothesis' (if there is one)**No hypo
 
-(Optional: brief on background theory and previous evidence)
-
-
-
-
+Can we get people to sign up for donation advice using exiting videos for YouTube Ads
 
 ### Point of contact (at organization running trial)\*
 
-\*and 'academic lead' if there is one
+Stacey Black&#x20;
 
-
+Johnstuart Winchell (j.s.winchell@gmail.com)
 
 ### Timing of trial (when will it/did it start and end, if known)
 
-### Digital location where project 'lives' (planning, material, data)
+Hoping to launch 12/1 or 12/2, to run for a month
 
-The present Gitbook/and a nested Github repo folder could be ideal. Please give a precise link
+### Digital location where project 'lives' (planning, material, data)Environment/context for trial&#x20;
 
-### Environment/context for trial
-
-(web page, advertisement, etc)
+Google/YouTube Ads interface
 
 ### **Participant universe and sample size**
+
+People living in Portland Oregon in the top 10% of household income (approximated by Google) will get an in-stream ad (ad plays before the video that the user intended to watch)
 
 * Who will be targeted or who do you expect to be part of the trial?
 * How many people (or 'units') do you expect to be involved (median guess)?
