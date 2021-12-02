@@ -47,6 +47,7 @@
   * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
     * [Preregistration: OftW pre-GT](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/preregistration\_oftw\_pre\_gt.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
+  * [Portland advisor signup](contexts-and-environments-for-testing/tlycs/portland-advisor-signup.md)
   * [Funds/recommendations trial](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md)
 * [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)

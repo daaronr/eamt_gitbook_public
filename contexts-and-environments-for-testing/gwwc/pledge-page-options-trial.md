@@ -199,7 +199,7 @@ _3. Where is the data stored (also link/adjust the above), who has it, and under
 
 ### Basic results/outcomes
 
-![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1) (1).png>)
+![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1) (1) (1).png>)
 
 **Reinstein quick interpretation** _(if I am understanding what is what)_
 
