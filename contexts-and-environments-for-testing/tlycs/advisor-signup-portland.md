@@ -10,11 +10,13 @@ Filling out using [trial-reporting-template.md](../trial-reporting-template.md "
 
 ### **General idea, main 'hypothesis' (if there is one)**
 
-_Specific goal of promotion:_ Get people to fill out [a form](https://www.thelifeyoucansave.org/advisor/) to request an appointment with a donation advisor while simultaneously raising awareness for TLYCS
+_Specific goal of promotion:_ Get people to click in the ad go to the 'landing page' fill out [a form](https://www.thelifeyoucansave.org/advisor/) to request an appointment with a donation advisor while simultaneously raising awareness for TLYCS
 
-* Can we get people to sign up for donation advice using existing videos in YouTube Ads?
-  * How many sign up and what sorts of people &#x20;
-* Which ads are best at this? (These ads differ in substance as well as in style)&#x20;
+1. Can we get people to sign up for donation advice using videos in YouTube Ads?&#x20;
+   1. How many sign up and what sorts of people? &#x20;
+2. Do these ads boost engagement with TLYCS in net? (E.g. donations, website activity, book downloads)
+   * "Lift test" on Portland market; analyze with difference-in-difference relative to other markets)
+3. Which ads are best at this? (These ads differ in substance as well as in style)&#x20;
 
 ### Point of contact (at organization running trial)\*
 
@@ -32,13 +34,7 @@ End date: December 31 (planned)
 
 ### Digital location where project 'lives' (planning, material, data)
 
-(nothing organised)
-
-Google/YouTube Ads interface
-
-email conversation ...&#x20;
-
-****
+Nothing has been organized yet. This interface is the best summary atm. Google/YouTube Ads interface will have the data.(Email conversations with JS and TLYCS has some content.
 
 ### Environment/context for trial&#x20;
 
@@ -54,31 +50,39 @@ People living in Portland Oregon in the top 10% of household income (approximate
 
 ### Key treatment(s)
 
-Exposure to a sequence of ten versions of youtube ad videos
+Exposure to a sequence of nine versions of YouTube ad videos
 
 Frequency cap: 6/week ...&#x20;
 
+**Three main 'theme/header' variations (but these seem similar, just slightly different phrasings)**
 
+_interacted with..._
 
-Three main 'theme/header' variations (but these seem similar?)
+**Three categories of videos** within each theme:
 
-Three categories of videos within each ("Bravery/$10/I want to do good")&#x20;
+1. "**Bravery**": Charlie Bresler explaining to camera how 'you can save lives like Superman without being brave like him ... with small amounts of money for bednets, nutrient micro-doses, etc.
+2. **$10:** African (looking) guy giving out money (up to $10) to (poor?) people in Capetown who are very happy and grateful (they speak an African language (?), some subtitles). Text narrative overlaid about how $5 can buy a slice of pizza or an interocular lens to treat cataracts, etc. Emotional, a bit towards 'identified victims/recipients'
+3. **"I want to do good":** Colorful puppets (with some cartoons) sing (British accents) about how good it feels to give up things they don't need and to donate to save lives, and counter common arguments about this 'breeding dependency', fear of administrative waste, etc.&#x20;
 
-1. funny cartoon song
-2. person speaking to camera
-3. giving away money to poor people and see their response (!connecting with someone)
+{% hint style="info" %}
+The videos I could see didn't actually link the 'advisor landing page' in the video or on the bottom. (One actually went to a dead link -- shall we doublecheck this doesn't happen on the real ads?!) [Johnstuart Winchell](https://app.gitbook.com/u/6XKoliSY0eVGn9imHc6orCLb5532 "mention"); looking at your notes, I guess (?) these come in pop-up things in the 'real context' on Youtube, e.g., as in...
 
-Ad copy
+![](<../../.gitbook/assets/image (13).png>)
+{% endhint %}
 
-{% embed url="https://docs.google.com/document/d/1NIXQNZH8O8XajXBpKocpbZ1yT3hblIv8E0vMfNg1J14/edit?pli=1" %}
+These are organized and linked [**here**](https://docs.google.com/document/d/1NIXQNZH8O8XajXBpKocpbZ1yT3hblIv8E0vMfNg1J14/edit?pli=1)**.**
+
+Each video comes with the (same?) sitelink extension with a Call to Action:
+
+![](https://lh5.googleusercontent.com/vE-xSY0cH9Y\_L\_4SOGicVc0BM2LJX5V3TPGcRV22EMil6goxm6MtPClHIay083ToIspDmPlNXG0\_8wqSxc6D1UPP0yHHynX5hLsclj6JzfK56Ffa4z5-h6nP6ziymxsS41J\_sxwu)
 
 ### Treatment assignment procedure
 
-Using YT/GG optimize algorithm (share specific details and parameters please)
+Uses a YouTube/Google optimization algorithm.&#x20;
 
-* Varied at what level (individual visitors, postal codes, days of the week, etc)
-* How are treatments assigned ('blocked randomization', 'adaptive/Thomson sampling', etc.)
-* How many/what share are assigned to each treatment?
+Optimizing for: Advisor form fills (maximizing the probability that a user fills out the linked form)
+
+DR: Presumably this targets videos initially by random draw, and then serves videos more that performed better, perhaps interacting this learning with the user demography etc. &#x20;
 
 ***
 
