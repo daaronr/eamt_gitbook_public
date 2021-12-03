@@ -24,10 +24,10 @@
 * [Academic Paper Ideas](proposed-tools-for-motivating-effective-giving/academic-paper-ideas.md)
 * [(Outcome: Effective gift/consider impact)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
   * [(Effectiveness information and its presentation)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
-* [(Outcome: Pledge, give substantially (& effectively))](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/README.md)
-  * [(Moral duty (of well-off))](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
-  * [Give if you win/ conditional pledge](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
-  * [(Accountability partners)](proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/accountability-partners.md)
+  * [(Outcome: Pledge, give substantially (& effectively))](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/README.md)
+    * [(Moral duty (of well-off))](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
+    * [Give if you win/ conditional pledge](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
+    * [(Accountability partners)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/accountability-partners.md)
 
 ## Contexts-environments-plans-tests <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
@@ -47,7 +47,7 @@
   * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
     * [Preregistration: OftW pre-GT](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/preregistration\_oftw\_pre\_gt.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
-  * [Portland advisor signup](contexts-and-environments-for-testing/tlycs/portland-advisor-signup.md)
+  * [Advisor signup (Portland)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland.md)
   * [Funds/recommendations trial](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md)
 * [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)

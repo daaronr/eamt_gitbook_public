@@ -18,13 +18,32 @@ Please keep your answers brief -- if you want to give more detail (which is not 
 
 ### **General idea, main 'hypothesis' (if there is one)**
 
+_Firstly, what is this promotion trying to do (e.g., 'encourage signups for giving pledges')?_&#x20;
+
+_But more importantly, what are you trying to **learn** here...  What might you have a better understanding of after the trial than you did before the trial?_
+
+_E.g.,_&#x20;
+
+> _Specifically:_
+>
+> * &#x20;_Does the opportunity we offer to sign up for an 'accountability partner' increase or decrease the rate at which people sign up for the GWWC giving pledge?_&#x20;
+> * _Does it lead to greater overall GWWC-linked donations per visitor over the next 1 year interval?_
+>
+> _Generally:_&#x20;
+>
+> * _Does 'social accountability' help to encourage giving and other-regarding pledges and the fulfillment of these? Does the 'fear of being held accountable' discourage people from making commitments?_&#x20;
+>
+> __
+
 _(Optional: brief on background theory and previous evidence)_
 
 ### Point of contact (at organization running trial)
 
-_and 'academic lead' if there is one_
+_You can enter more than 1 person here, including an external organizer (like JS Winchell), but ideally, also someone inside the organization._&#x20;
 
-_You can enter more than 1 person here_
+_Add  'academic/research lead' here if there is one_
+
+&#x20;__&#x20;
 
 ### Timing of trial (when will it/did it start and end, if known)
 

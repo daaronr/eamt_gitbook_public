@@ -1,19 +1,20 @@
 ---
-description: TLYCS ran a campaign in single city
+description: TLYCS ran a campaign in single city involving 'donation advice'
 ---
 
-# Portland advisor signup
+# Advisor signup (Portland)
 
-"Concise reporting template"
+Filling out using [trial-reporting-template.md](../trial-reporting-template.md "mention") format
 
-{% hint style="info" %}
-Please keep your answers brief -- if you want to give more detail (which is not necessary) please link a later section or external page. \_
-{% endhint %}
+(Reinstein working with JS Winchell, incorporating [his notes](https://docs.google.com/document/d/1eIt4cXfNqIHr2HiGcb8Mf06BOqR2Pgcga8In-VcLTPA/edit))
 
 ### **General idea, main 'hypothesis' (if there is one)**
 
-* Can we get people to sign up for donation advice using existing videos in YouTube Ads
-* Which ads are best at this (content categories)&#x20;
+_Specific goal of promotion:_ Get people to fill out [a form](https://www.thelifeyoucansave.org/advisor/) to request an appointment with a donation advisor while simultaneously raising awareness for TLYCS
+
+* Can we get people to sign up for donation advice using existing videos in YouTube Ads?
+  * How many sign up and what sorts of people &#x20;
+* Which ads are best at this? (These ads differ in substance as well as in style)&#x20;
 
 ### Point of contact (at organization running trial)\*
 

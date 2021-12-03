@@ -77,7 +77,7 @@ _See also_ [_Profiling: Discussion_](../../profiling-and-segmentation/profiling-
 2. _Low-hanging fruit_ (i.e., people who are naturally predisposed towards effective giving, pledging, & EA)
 
 {% hint style="success" %}
-**Idea:** Compare different outreach methods on the basis of "cost per pledge" (or per "whatever-metric-we-use"). (Outcomes: [Outcome: Effective gift](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/)... & [Outcome: Pledge](../../proposed-tools-for-motivating-effective-giving/moral-duty-of-well-off/)... )
+**Idea:** Compare different outreach methods on the basis of "cost per pledge" (or per "whatever-metric-we-use"). (Outcomes: [Outcome: Effective gift](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/)... & [Outcome: Pledge](../../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/)... )
 {% endhint %}
 
 ### Ideas/methods for targeting: platforms and audiences
