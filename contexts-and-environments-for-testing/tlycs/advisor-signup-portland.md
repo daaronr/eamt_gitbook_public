@@ -18,13 +18,17 @@ _Specific goal of promotion:_ Get people to fill out [a form](https://www.thelif
 
 ### Point of contact (at organization running trial)\*
 
-Stacey Black&#x20;
+Stacey Black - TLYCS&#x20;
 
-Johnstuart Winchell (j.s.winchell@gmail.com)
+Chantal Johnson - TLYCS&#x20;
+
+Johnstuart Winchell - Google/YouTube (j.s.winchell@gmail.com)
 
 ### Timing of trial (when will it/did it start and end, if known)
 
-Hoping to launch 12/1 or 12/2, to run for a month
+Launch date: December 3&#x20;
+
+End date: December 31 (planned)
 
 ### Digital location where project 'lives' (planning, material, data)
 
@@ -38,29 +42,35 @@ email conversation ...&#x20;
 
 ### Environment/context for trial&#x20;
 
-youtube ads in 1 city, very general population&#x20;
+YouTube Ads
 
 ### **Participant universe and sample size**
 
-People living in Portland Oregon in the top 10% of household income (approximated by Google) will get an in-stream ad (ad plays before the video that the user intended to watch)
+Location: Portland, OR&#x20;
 
-* Who will be targeted or who do you expect to be part of the trial?
-* How many people (or 'units') do you expect to be involved (median guess)?
-* (Optional): How many do you expect will have a 'positive outcome'?
+Audience: Top 10% household income
+
+People living in Portland Oregon in the top 10% of household income (approximated by Google) will get an in-stream ad (ad plays before the video that the user intended to watch)
 
 ### Key treatment(s)
 
-Ten versions of youtube ad video ...&#x20;
+Exposure to a sequence of ten versions of youtube ad videos
 
-LINK to these?
+Frequency cap: 6/week ...&#x20;
 
-Three main videos
+
+
+Three main 'theme/header' variations (but these seem similar?)
+
+Three categories of videos within each ("Bravery/$10/I want to do good")&#x20;
 
 1. funny cartoon song
 2. person speaking to camera
 3. giving away money to poor people and see their response (!connecting with someone)
 
+Ad copy
 
+{% embed url="https://docs.google.com/document/d/1NIXQNZH8O8XajXBpKocpbZ1yT3hblIv8E0vMfNg1J14/edit?pli=1" %}
 
 ### Treatment assignment procedure
 
