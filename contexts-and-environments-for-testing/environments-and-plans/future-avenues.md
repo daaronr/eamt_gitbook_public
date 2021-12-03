@@ -6,7 +6,7 @@ description: >-
 
 # Testing Contexts: Overview
 
-## Contexts to test outreach messages&#x20;
+## Contexts to test outreach messages
 
 ### Contexts allowing individual randomization & tracking of medium-term outcomes
 
@@ -19,11 +19,11 @@ description: >-
 
 Facebook; But the targeting algorithm may frustrate randomization. (see [facebook-split-testing-etc.md](../../methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md "mention").) Can it be switched off?
 
-### Contexts allowing  [randomization by geograph](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)&#x20;
+### Contexts allowing [randomization by geograph](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
 
 See [geographic-segmentation-blocked-randomization.md](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md "mention")
 
-This is helpful [for ease of attribution](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) if the **important outcomes** can be tracked by zip code/address.
+This is helpful [for ease of attribution](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) if the **important outcomes** can be tracked by ZIP code/post code/address.
 
 * Online display advertising
 * Google search
@@ -43,7 +43,7 @@ However, we may also want richer more detailed 'qualitative' feedback.. Paid par
 * Surveys with professional participants
 * Surveys with undergraduates
 
-_Here generalizability may be a challenge, particularly extending inference from_ convenience samples to larger and more general populations.&#x20;
+_Here generalizability may be a challenge, particularly extending inference from_ convenience samples to larger and more general populations.
 
 "Might be good to think of creative ways of doing that though, e.g., looking at which content creates the most extreme enthusiasm."
 
@@ -73,7 +73,7 @@ _See also_ [_Profiling: Discussion_](../../profiling-and-segmentation/profiling-
 
 **Question:** If our aim is _to change the culture of giving in general_, what kind of people should we be targeting?
 
-1. _Influencers (_People with lots of social influence)
+1. \_Influencers (\_People with lots of social influence)
 2. _Low-hanging fruit_ (i.e., people who are naturally predisposed towards effective giving, pledging, & EA)
 
 {% hint style="success" %}

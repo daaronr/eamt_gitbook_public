@@ -10,8 +10,6 @@ _**For each proposed/ongoing/past trial, we should report the following minimal 
 
 **If you don't have time and you have another clear presentation of most of this, please link or embed it.**
 
-
-
 ## "Concise reporting template"
 
 {% hint style="info" %}
@@ -20,27 +18,29 @@ Please keep your answers brief -- if you want to give more detail (which is not 
 
 ### **General idea, main 'hypothesis' (if there is one)**
 
-(Optional: brief on background theory and previous evidence)
+_(Optional: brief on background theory and previous evidence)_
 
-### Point of contact (at organization running trial)\*
+### Point of contact (at organization running trial)
 
-\*and 'academic lead' if there is one
+_and 'academic lead' if there is one_
+
+_You can enter more than 1 person here_
 
 ### Timing of trial (when will it/did it start and end, if known)
 
 ### Digital location where project 'lives' (planning, material, data)
 
-The present Gitbook/and a nested Github repo folder could be ideal. Please give a precise link
+The present Gitbook/and a nested Github repo folder could be ideal. Please give a precise link so others could access it.
 
 ### Environment/context for trial
 
-(web page, advertisement, etc)
+(Is it on a web page, a google advertisement, a physical mailing, etc)
 
 ### **Participant universe and sample size**
 
 * Who will be targeted or who do you expect to be part of the trial?
-* How many people (or 'units') do you expect to be involved (median guess)?
-* (Optional): How many do you expect will have a 'positive outcome'?
+* (Somewhat optional) How many people (or 'units') do you expect to be involved (median guess)?
+* (Optional): How many do you expect will have a 'positive outcome' (e.g., a 'conversion')?
 
 ### Key treatment(s)
 
@@ -48,22 +48,22 @@ Description, link exact language/content if possible
 
 ### Treatment assignment procedure
 
-* Varied at what level (individual visitors, postal codes, days of the week, etc)
+* At what level is it varied? (individual visitors, postal codes, days of the week, etc)
 * How are treatments assigned ('blocked randomization', 'adaptive/Thomson sampling', etc.)
-* How many/what share are assigned to each treatment?
+  * _If you are using a 'set Google, Facebook etc algorithm', just input the settings you used here, and/or link the (Google, FB, etc) explanation_&#x20;
+* How many/what shares are assigned to each treatment?
 
 ***
 
 ### **Outcome data**
 
-* What will be collected, when and how
+* What measures (outcomes, other features) will be collected?
+* When and how
 * Where will the data be stored, who will have access
 
 ### **Optional/suggested additions**
 
-Planned analysis methods, preregistration link, IRB link, connection to other projects and promotions
-
-
+_Planned analysis methods, preregistration link, IRB link, connection to other projects and promotions_
 
 ## Ex-post: Reporting results (brief)
 
@@ -73,7 +73,7 @@ Planned analysis methods, preregistration link, IRB link, connection to other pr
 2. How much/what data was collected? How many observations?
 3. Where is the data stored (also link/adjust the above), who has it, and under what conditions?
 
-### Basic results/outcomes&#x20;
+### Basic results/outcomes
 
 1. "Partners and stakeholders opinions": were they happy with the trial? Did they seem to think it was a success?
 2. Simplest statement (e.g., "3% donated in the treatment versus 2.2% in the control, with an average amount raised of $4.3 in the treatment and $3.1 in the control')
@@ -81,10 +81,9 @@ Planned analysis methods, preregistration link, IRB link, connection to other pr
 4. "Full analysis"
    1. Who/what when will it be done?
    2. Link to 'where' it will be done (both the 'follow up the pre-analysis plan, and the full write-up, if applicable)
-   3. Possibly: Briefly characterize the overall confusions/state of analysis here (state the date last updated)&#x20;
+   3. Possibly: Briefly characterize the overall confusions/state of analysis here (state the date last updated)
 5. Feeding synthesis and meta-analysis
    1. Which generalizable questions does this inform?
    2. Is data sharable? Key comparable outcomes?
    3. What other work/trials does this relate to?
    4. State of meta-analysis
-
