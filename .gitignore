@@ -14,3 +14,5 @@ _book
 *.epub
 *.mobi
 *.pdf
+data_please_gitignore/*
+

@@ -5,7 +5,7 @@ description: >-
   inference
 ---
 
-# "Qualitative" design issues
+# "Qualitative" design issues (EA market testing)
 
 ## **Naturalness of setting versus 'pure' treatments**
 
