@@ -9,8 +9,6 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 1. First of proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt)s (1 hour standing meeting with agenda) set for December 1, 7pm New York ([Zoom link](https://nyu.zoom.us/j/92874154608))
 2. Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-time
 
-
-
 ## Latest/coolest campaigns, trials, initiatives
 
 ### [GWWC](tip-o-the-spear.md#gwwc)
@@ -24,7 +22,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
-* [<mark style="color:blue;background-color:orange;"><mark style="background-color:green;">Giving-season email campaign for 'additional donation'<mark style="background-color:green;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)[ <mark style="color:blue;background-color:orange;"><mark style="background-color:green;">\[link\]<mark style="background-color:green;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing) _<mark style="color:blue;background-color:orange;"><mark style="background-color:green;">(underway)<mark style="background-color:green;"></mark>_
+* [<mark style="background-color:green;"><mark style="color:blue;background-color:orange;">Giving-season email campaign for 'additional donation'<mark style="color:blue;background-color:orange;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)[ <mark style="background-color:green;"><mark style="color:blue;background-color:orange;">\[link\]<mark style="color:blue;background-color:orange;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing) _<mark style="background-color:green;"><mark style="color:blue;background-color:orange;">(underway)<mark style="color:blue;background-color:orange;"></mark>_
 * "Upselling" YouTube marketing (casual lift test, or trials?); working with JS
 * [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments)
 
@@ -38,9 +36,9 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 Pushing forward 'self and academic-funded large trials', ideally before giving season
 
 * JustGiving 'seed donations' [social-influence-justgiving.md](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/social-influence-justgiving.md "mention")
-* Facebook birthday fundraiser trial  [fb-birthday-trial-brief.md](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md "mention")
+* Facebook birthday fundraiser trial [fb-birthday-trial-brief.md](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md "mention")
 * Integrating evidence from (own and others') field experiments on the '[impact of impact information in charitable campaigns'](https://daaronr.github.io/dualprocess/index.html); original and meta-analysis
-  * "New": DonorsVoice/CRS,  ICRC [#icrc-quick-overview](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md#icrc-quick-overview "mention")
+  * "New": DonorsVoice/CRS, ICRC [#icrc-quick-overview](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md#icrc-quick-overview "mention")
   * 'Published': Karlan and Wood (2017), Bergh and Reinstein (2020)
 * Updates to ["Increasing effective giving"](https://daaronr.github.io/ea\_giving\_barriers/index.html) synthesis, and to resources in this gitbook
 
@@ -57,7 +55,7 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
     * Difficulties, questions, uncertainties
     * Findings, next steps, 'what we want to learn next'?
 
-    A. at [gwwc](contexts-and-environments-for-testing/gwwc/ "mention"), especially [pledge-page-options-trial.md](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md "mention") (8-12 min)&#x20;
+    A. at [gwwc](contexts-and-environments-for-testing/gwwc/ "mention"), especially [pledge-page-options-trial.md](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md "mention") (8-12 min)
 
     B. at [one-for-the-world](contexts-and-environments-for-testing/one-for-the-world/ "mention"), especially [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") (8-12 min)
 
