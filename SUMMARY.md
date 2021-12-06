@@ -76,9 +76,9 @@
 
 ## Project: Profiling and segmentation <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
-* [Previous work/data](profiling-and-segmentation/previous-work/README.md)
+* [Previous work/data](profiling-and-segmentation/previous-work.md)
   * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
-  * [Other data sources](profiling-and-segmentation/previous-work/other-data-sources.md)
+  * [Other work and data](profiling-and-segmentation/previous-work/other-work-and-data.md)
 * [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
 * [(Profiling 'existing traffic')](profiling-and-segmentation/profiling-existing-traffic.md)
 * [(Surveys, focus groups, etc)](profiling-and-segmentation/surveys-focus-groups-etc.md)
