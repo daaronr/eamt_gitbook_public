@@ -78,6 +78,9 @@
 
 * [Previous work/data](profiling-and-segmentation/previous-work.md)
   * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
+  * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
+  * [Animal welfare attitudes: profiling/surveying](profiling-and-segmentation/previous-work/animal-welfare-attitudes-profiling-surveying.md)
+  * [Rethink Priorities work](profiling-and-segmentation/previous-work/rethink-priorities-work.md)
   * [Other work and data](profiling-and-segmentation/previous-work/other-work-and-data.md)
 * [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
 * [(Profiling 'existing traffic')](profiling-and-segmentation/profiling-existing-traffic.md)
@@ -98,6 +101,6 @@
 * [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)
 * [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
 
-## Self-aware-experiments-surveys
+## Further discussions
 
-* [Discussion: "Lab-esque" experiments/surveys](self-aware-experiments-surveys/lab-esque-experiments-and-surveys.md)
+* [Discussion: "Lab-esque" experiments/surveys](further-discussions/lab-esque-experiments-and-surveys.md)
