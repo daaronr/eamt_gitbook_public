@@ -49,6 +49,8 @@
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
   * [Advisor signup (Portland)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland.md)
   * [Funds/recommendations trial](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md)
+* [80000 hours](contexts-and-environments-for-testing/80000-hours/README.md)
+  * [YouTube awareness; UPenn (+)](contexts-and-environments-for-testing/80000-hours/youtube-awareness-upenn-+.md)
 * [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
