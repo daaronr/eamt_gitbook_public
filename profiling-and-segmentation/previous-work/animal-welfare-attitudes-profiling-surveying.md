@@ -22,7 +22,10 @@ This is possibly the best meta-resource as well as a source of original research
 
 Some replication work on the above
 
+_Various work including_
 
+__\
+_DR: I'm awaiting permission to share the list._
 
 ## Paper: The moral standing of animals
 
