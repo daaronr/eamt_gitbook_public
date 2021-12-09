@@ -21,7 +21,7 @@ _**Why might this be relevant:**_&#x20;
 
 They ask about support for global redistribution, international aid institutions, globalization, immigration, and more, and have an incentivized giving choice.  These are (arguably) measures of support for some EA behaviors/attitudes.
 
-I suspect that this data could be tied to a variety of rich (personality? demographic?) measures in the SOEP.&#x20;
+I suspect that this data could be tied to a variety of rich (personality? demographic?) measures in the SOEP.  (RP slack discussion [here](https://rethinkpriorities.slack.com/archives/G01962YABHB/p1638923727273900?thread\_ts=1635802401.031800\&cid=G01962YABHB), I aim to incorporate this)
 
 
 
