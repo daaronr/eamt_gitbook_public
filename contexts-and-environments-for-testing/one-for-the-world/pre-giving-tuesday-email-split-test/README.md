@@ -19,6 +19,8 @@ _**Academic framing**_: "Does the Identifiable Victims Effect (see e.g., the met
 
 **One for The World**'s (OFTW) 'giving season upselling campaign''
 
+> 10 emails total over the course of November were sent in preparation for GivingTuesday.
+
 ### Point of contact (at organization running trial)
 
 [Chloë Cudaback](https://app.gitbook.com/u/wTqRK0aZqff8Tbm0WPvAj34i4k03 "mention")\
@@ -38,6 +40,8 @@ Present Gitbook, Google doc linked below, preregistration (OSF), and  ??
 Emails \
 ... to existing OftW pledgers (asking for additional donations in Giving Season)
 
+> All 10 emails had the same CTA: make an additional $100 donation for the giving season/GivingTuesday on top of their recurring monthly pledge donation.
+
 ### **Participant universe and sample size**
 
 Roughly 4000 participants, as described\
@@ -45,9 +49,17 @@ Roughly 4000 participants, as described\
 
 ### Key treatment(s)
 
+Basically: (Chloe's description)
+
+* A list of \~4500 contacts (activated pledgers) was split into two treatment groups.
+* Treatment Group A received emails that were focused on the contact's impact
+* while Treatment Group B received emails that were focused on individual stories of beneficiaries
+
 See [#treatment-specifics-i.e.-experimental-conditions](preregistration\_oftw\_pre\_gt.md#treatment-specifics-i.e.-experimental-conditions "mention")
 
 ### Treatment assignment procedure
+
+.
 
 See [#4-how-many-and-which-conditions-will-participants-be-assigned-to](preregistration\_oftw\_pre\_gt.md#4-how-many-and-which-conditions-will-participants-be-assigned-to "mention")&#x20;
 
@@ -76,14 +88,8 @@ Pre-registered on OSF in 'AsPredicted' format, content incorporated here [prereg
 
 ## Preliminary results
 
-(From message from Chloe)
+_(From message from Chloe; description of experiment intagrated above)_
 
-* 10 emails total over the course of November were sent in preparation for GivingTuesday.
-* A list of \~4500 contacts (activated pledgers) was split into two treatment groups.
-* Treatment Group A received emails that were focused on the contact's impact
-* while Treatment Group B received emails that were focused on individual stories of beneficiaries.
-* All 10 emails had the same CTA: make an additional $100 donation for the giving season/GivingTuesday on top of their recurring monthly pledge donation.
+> Preliminary analysis shows that even with the one high-performing outlier removed from the dataset, **those emails that appealed to emotional storytelling performed better (higher in-email click rate) than those that were impact-focused**.
 
-Preliminary analysis shows that even with the one high-performing outlier removed from the dataset, **those emails that appealed to emotional storytelling performed better (higher in-email click rate) than those that were impact-focused**.
-
-Further analysis that details the way that different contact demographics interacted with each email treatment type will also be done, as well as an analysis of clicks converted to completed donations.
+> Further analysis that details the way that different contact demographics interacted with each email treatment type will also be done, as well as an analysis of clicks converted to completed donations.
