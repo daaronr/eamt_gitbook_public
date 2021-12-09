@@ -58,6 +58,8 @@ The present Gitbook/and a nested Github repo folder could be ideal. Please give 
 * (Somewhat optional) How many people (or 'units') do you expect to be involved (median guess)?
 * (Optional): How many do you expect will have a 'positive outcome' (e.g., a 'conversion')?
 
+
+
 ### Key treatment(s)
 
 Description, link exact language/content if possible
@@ -73,7 +75,7 @@ Description, link exact language/content if possible
 
 * What measures (outcomes, other features) will be collected?
 * When and how
-* Where will the data be stored, who will have access
+* **Crucial: Where will the data be stored and who will have access?**
 
 ### **Optional/suggested additions**
 

@@ -67,6 +67,12 @@ See [#4-how-many-and-which-conditions-will-participants-be-assigned-to](preregis
 
 Targeting: Donation incidence and amount in the relevant 'giving season' and over the next year, specifically described in prereg under...[#3-describe-the-key-dependent-variable-s-specifying-how-they-will-be-measured.](preregistration\_oftw\_pre\_gt.md#3-describe-the-key-dependent-variable-s-specifying-how-they-will-be-measured. "mention")
 
+\
+**Data storage/form:**&#x20;
+
+* MailChimp data (Chloe sharing this),
+* Reports on donations (Kennan is gathering this)
+
 ### **Optional/suggested additions**
 
 _Planned analysis methods, preregistration link: see_ [preregistration\_oftw\_pre\_gt.md](preregistration\_oftw\_pre\_gt.md "mention") and [#5-specify-exactly-which-analyses-you-will-conduct-to-examine-the-main-question-hypothesis.](preregistration\_oftw\_pre\_gt.md#5-specify-exactly-which-analyses-you-will-conduct-to-examine-the-main-question-hypothesis. "mention") within \

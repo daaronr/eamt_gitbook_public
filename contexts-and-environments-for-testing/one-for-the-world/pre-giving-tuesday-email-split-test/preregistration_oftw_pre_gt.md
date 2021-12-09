@@ -2,7 +2,7 @@
 geometry: margin=0.7in
 ---
 
-# preregistration: OftW Giving Tuesday/giving season 2021-22
+# Preregistration: OftW pre-GT
 
 Academic-linked authors: David Reinstein, Josh Lewis, potentially others going forward
 
@@ -24,7 +24,6 @@ Are effectiveness-minded (EA-adjacent) donors and pledgers more motivated to don
 Framing this in terms of the psychology, social science, and philanthropy literature:
 
 "Does the Identifiable Victims Effect (see e.g., meta-analysis by Lee and Feeley, 2016) also motivate the most analytical and committed donors?"
-
 
 ## 3) Describe the key dependent variable(s) specifying how they will be measured.
 
@@ -76,27 +75,19 @@ We will report all of the following analyses, with our preferred method in bold:
 
 **Binary outcomes:**
 
-- **Fisher's exact test**
-
-- Bayesian Test of Difference in Proportions (as in [here](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#bayes_prop)), with an informative beta distribution for the prior over the incidence rate in each treatment, with a parameter based on the incidence rates for similar campaigns in the prior 2 years.
+* **Fisher's exact test**
+* Bayesian Test of Difference in Proportions (as in [here](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#bayes\_prop)), with an informative beta distribution for the prior over the incidence rate in each treatment, with a parameter based on the incidence rates for similar campaigns in the prior 2 years.
 
 **Continuous outcomes:**
 
-- **Standard rank-sum tests (Mann–Whitney U test**)
-
-- Simulation/permutation based tests for whether the mean (including 0's) is higher in group A or B (including 0's)
-
-- ... same for median, but medians will almost always be 0, we anticipate
-
-
-- T-test with unequal variance
+* **Standard rank-sum tests (Mann–Whitney U test**)
+* Simulation/permutation based tests for whether the mean (including 0's) is higher in group A or B (including 0's)
+* ... same for median, but medians will almost always be 0, we anticipate
+* T-test with unequal variance
 
 All tests will be 2-sided.
 
 We will also report Bayesian credible intervals and other Bayesian measures for the proportion tests. We may also explore Bayesian approaches for the continuous outcomes, e.g., Bayesian beta regression.
-
-
-
 
 We also anticipate reporting multiple-hypothesis-test corrections, but we are not pre-registering a method. Our approach to this is likely to follow that of List et al (2017), which this paper applied to a similar domain (charitable giving experiments with multiple donation-related outcomes).
 
@@ -105,8 +96,6 @@ We will report confidence intervals on our results as well as Bayesian credible 
 Where situations arise that have not been anticipated in our preregistration and pre-analysis plan, we will try to follow the Don Green lab [standard operating procedures](https://github.com/acoppock/Green-Lab-SOP) unless there is a very strong reason to deviate from this, which we will specify.
 
 
-
-\\
 
 ## 6) Describe exactly how outliers will be defined and handled, and your precise rule(s) for excluding observations.
 
@@ -124,9 +113,8 @@ A series of three campaign emails will be sent out by OftW to their regular emai
 
 Targeted dates: November 10, November 18, November 23, all in 2021, but these may be delayed for feasibility
 
-
-
 ## Other
+
 Anything else you would like to pre-register? (e.g., secondary analyses, variables collected for exploratory purposes, unusual analyses planned?)
 
 #### Exploratory and secondary hypotheses/questions/analyses
@@ -135,11 +123,8 @@ _Secondary hypotheses and questions_
 
 **Which treatment motivates a higher rate of...**
 
-- Email open rates (note, as we have three obs per participant, we will need random effects or clustered standard errors). and
-
-- Use click rates (with same caveat)?
-
-
+* Email open rates (note, as we have three obs per participant, we will need random effects or clustered standard errors). and
+* Use click rates (with same caveat)?
 
 We consider these as secondary because the click and open rates do not necessarily strongly relate to outcomes of interest, particular among this set of already effectiveness-minded donors. These outcomes may simply reflect attention or curiosity about the content.
 
@@ -147,10 +132,8 @@ We consider these as secondary because the click and open rates do not necessari
 
 Exploratory: what factors (especially gender, university/student status, university subject) predict which treatment leads to greater donation (incidence and amount)
 
-Note that our partner is planning to use this trial to inform future trials and experiments, particular for the 'Giving Tuesday' season itself.
-.
+Note that our partner is planning to use this trial to inform future trials and experiments, particular for the 'Giving Tuesday' season itself. .
 
 #### Power calculations
 
 We did not have time to do even simple power calculations before the start date of this experiment. However, we will try to conduct these before we obtain any of the data, and update this preregistration.
-
