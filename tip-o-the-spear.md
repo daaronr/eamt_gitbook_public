@@ -2,11 +2,11 @@
 description: What's the latest? Where are we up to? What are we pushing on now?
 ---
 
-# Tip-o-the-spear
+# Tip-o-the-spear, meetings
 
 ## Team/Organizational updates
 
-1. First of proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt)s (1 hour standing meeting with agenda) set for December 1, 7pm New York ([Zoom link](https://nyu.zoom.us/j/92874154608))
+1. First of proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt)s (1 hour standing meeting with agenda) held for December 1, 7pm New York (recorded [HERE](tip-o-the-spear.md#team-organizational-updates))
 2. Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-time
 
 ## Latest/coolest campaigns, trials, initiatives
@@ -29,7 +29,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 ### [The Life You Can Save](contexts-and-environments-for-testing/tlycs/)
 
 * Considering a '[funds recommendations trial'](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md) with different options and 'prompted consideration'
-* Various trials with JS, including city-level Youtube test
+* Various trials with JS, including [advisor-signup-portland.md](contexts-and-environments-for-testing/tlycs/advisor-signup-portland.md "mention") city-level Youtube test
 
 ### Reinstein & Co
 
@@ -42,9 +42,14 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
   * 'Published': Karlan and Wood (2017), Bergh and Reinstein (2020)
 * Updates to ["Increasing effective giving"](https://daaronr.github.io/ea\_giving\_barriers/index.html) synthesis, and to resources in this gitbook
 
-## Meeting agendas
+## Meeting agendas and recordings
 
 ### December 1 2021 (7-8pm EST)
+
+_Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15) __&#x20;
+
+* _first hour= general meeting,_&#x20;
+* _last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland.md](contexts-and-environments-for-testing/tlycs/advisor-signup-portland.md "mention") _trial in the Gitbook with the_ [trial-reporting-template.md](contexts-and-environments-for-testing/trial-reporting-template.md "mention") __&#x20;
 
 1. **Introductions** (5 min; just a 'hello and here's a quick thing you might not know about me/ thing I'm excited about')
 2. **Questions/comments** on our 'Market Testing team', our tools (esp. this gitbook), and the monthly meeting/agenda (5-10 min)
@@ -65,7 +70,11 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 Strict 1-hour deadline; will announce end after 1 hour. But you are free to stick around later. E.g., (David Reinstein) will be available to talk through the Gitbook.
 
-_We plan to record this meeting and share it with the group, but not outside the group (except by mutual agreement of all present)_
+{% hint style="info" %}
+_We have recorded this meeting and shared it with the group_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_. Please do not share  outside the group (except by mutual agreement of all present)_
+{% endhint %}
+
+__
 
 ## Recent meetings
 

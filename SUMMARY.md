@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Effective Giving and Action: Market testing and Synthesis](README.md)
-* [Tip-o-the-spear](tip-o-the-spear.md)
-  * [Sections and organization](organization-and-overview/sections-and-organization.md)
+* [Tip-o-the-spear, meetings](tip-o-the-spear.md)
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
 
+* [Sections and organization](organization-and-overview/sections-and-organization.md)
 * [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
   * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
 * [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
@@ -20,8 +20,8 @@
 
 ## Tools and trials <a href="#proposed-tools-for-motivating-effective-giving" id="proposed-tools-for-motivating-effective-giving"></a>
 
-* [Tools and trials: overview](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md)
-* [Academic Paper Ideas](proposed-tools-for-motivating-effective-giving/academic-paper-ideas.md)
+* [Tools and trials: overview](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview/README.md)
+  * [Academic Paper Ideas](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview/academic-paper-ideas.md)
 * [(Outcome: Effective gift/consider impact)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
   * [(Effectiveness information and its presentation)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
   * [(Outcome: Pledge, give substantially (& effectively))](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/README.md)
@@ -47,7 +47,7 @@
   * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
     * [Preregistration: OftW pre-GT](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/preregistration\_oftw\_pre\_gt.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
-  * [Advisor signup (Portland)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland.md)
+  * [Advisor signup (Portland) (+)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland.md)
   * [Funds/recommendations trial](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md)
 * [80000 hours](contexts-and-environments-for-testing/80000-hours/README.md)
   * [YouTube awareness; UPenn (+)](contexts-and-environments-for-testing/80000-hours/youtube-awareness-upenn-+.md)

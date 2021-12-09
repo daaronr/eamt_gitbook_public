@@ -7,7 +7,7 @@ description: >-
 
 # Pledge page (options trial) (+)
 
-[**Following** ](../trial-reporting-template.md) **** [trial-reporting-template.md](../trial-reporting-template.md "mention")
+[**Following**](../trial-reporting-template.md)**:** [trial-reporting-template.md](../trial-reporting-template.md "mention")
 
 ## General idea, main 'hypothesis'
 
@@ -203,7 +203,7 @@ _3. Where is the data stored (also link/adjust the above), who has it, and under
 
 **Reinstein quick interpretation** _(if I am understanding what is what)_
 
-See mobile device looks different !  half of users are mobile.&#x20;
+See mobile device looks different ! half of users are mobile.
 
 The **"separate block for other pledges" seems to have been the most successful,** with an 0.49% higher (percentage point) incidence rate than the 'Original', i.e., a 22% higher rate of pledging (2.69 vs 2.20).
 
@@ -222,8 +222,6 @@ DR: But this still doesn't tell us _what_ these priors are. There's a lot of sen
 
 Dillon thoughts: there is possibly a more sophisticated approach to this than what Google is doing ... the better prior is an 'empirical bayes' appraoch (controversi
 {% endhint %}
-
-
 
 **The "Pledge Before Try giving" treatment** **performed substantially worse** than the original.
 
