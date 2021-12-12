@@ -124,7 +124,7 @@ The final section gives the day to day breakdown of the performance of each trea
 
 The 'Analytics data' gives us _sessions_ and _conversions_ by day and by treatment.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 (Where no session occurs in a day for a treatment, it is coded as blank).
 
