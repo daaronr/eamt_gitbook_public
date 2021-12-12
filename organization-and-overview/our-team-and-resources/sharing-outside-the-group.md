@@ -12,7 +12,7 @@ The proposed 'public' versino of this gitbook, redacted, semi-automating integra
 
 ![](<../../.gitbook/assets/image (14).png>)
 
-DRL I was thinking we may want a version of our gitbook we can share publicly. Many of the tools we are building are not confidential (e.g., the methodology, the background, the tips on making ads). We may want to share these in the EA community and with academic and other partners, or even on the WWW, without having to share ’all the details of our ongoing trials.\
+DR I was thinking we may want a version of our gitbook we can share publicly. Many of the tools we are building are not confidential (e.g., the methodology, the background, the tips on making ads). We may want to share these in the EA community and with academic and other partners, or even on the WWW, without having to share ’all the details of our ongoing trials.\
 
 
 To this end …  see [HERE](https://effective-giving-marketing.gitbook.io/untitled/lZF4xKeC9iVglophCgV8/). This is  another space in the "Gitbook team" (a ‘branch’ if you use the GH integration, soon to be a public ‘fork’ if we agree). I’ve created this version\
