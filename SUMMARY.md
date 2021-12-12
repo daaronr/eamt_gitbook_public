@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Effective Giving and Action: Market testing and Synthesis](README.md)
-* [Tip-o-the-spear](tip-o-the-spear.md)
-  * [Sections and organization](organization-and-overview/sections-and-organization.md)
+* [PUBLIC: Effective Giving & Action: Market testing & Synthesis](README.md)
+* [Tip-o-the-spear](tip-o-the-spear/README.md)
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
 
+* [Sections and organization](organization-and-overview/sections-and-organization.md)
 * [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
   * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
 * [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
@@ -47,7 +47,6 @@
   * [Trials in preparation - redacted()
 * [Other orgs/approaches](contexts-and-environments-for-testing/other/README.md)
   * [Redacted]()
-
 
 ## Methods and implementation discussion <a href="#methodological-discussion" id="methodological-discussion"></a>
 
