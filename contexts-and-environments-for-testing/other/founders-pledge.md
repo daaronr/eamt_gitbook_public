@@ -1,2 +1,0 @@
-# \(Founders Pledge\)
-
