@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Effective Giving and Action: Market testing and Synthesis](README.md)
+* [PUBLIC: Effective Giving & Action: Market testing & Synthesis](README.md)
 * [Tip-o-the-spear](tip-o-the-spear/README.md)
   * [Sections and organization](organization-and-overview/sections-and-organization.md)
 
@@ -38,15 +38,12 @@
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [various trials - redacted](<README (1).md>)
 * [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world-oftw/README.md)
-  *
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
-  *
 * [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
   * [\[Trials in preparation - redacted()](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/trials-in-preparation-redacted.md)
 * [Other orgs/approaches](contexts-and-environments-for-testing/other/README.md)
-  *
 
 ## Methods and implementation discussion <a href="#methodological-discussion" id="methodological-discussion"></a>
 

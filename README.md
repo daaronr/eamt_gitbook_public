@@ -5,7 +5,12 @@ description: >-
   our resources and knowledge.
 ---
 
-# Effective Giving and Action: Market testing and Synthesis
+# PUBLIC: Effective Giving & Action: Market testing & Synthesis
+
+{% hint style="info" %}
+**This version is being prepared for public sharing**: All confidential or private details should have been removed!\
+This will be fed from a 'fork' (currently a branch) of the  private repo, key pages will be merged in to the GH repo. However, we will do a careful check on this after every pull to make sure no private content is added.
+{% endhint %}
 
 ## Goal
 
@@ -18,7 +23,6 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 
 ## **Quick links**
 
-*Private group links removed here*
+_Private group links removed here_
 
 [Barriers to effective giving: a related project](https://daaronr.github.io/ea\_giving\_barriers/index.html) (theory and evidence)
-
