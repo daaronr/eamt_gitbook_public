@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Effective Giving and Action: Market testing and Synthesis](README.md)
-* [Tip-o-the-spear](tip-o-the-spear/README.md)
+* [Tip-o-the-spear](tip-o-the-spear.md)
   * [Sections and organization](organization-and-overview/sections-and-organization.md)
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
@@ -32,21 +32,22 @@
 ## Contexts-environments-plans-tests <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
 * [Environments, plans, tests](contexts-and-environments-for-testing/environments-and-plans/README.md)
-  * [Testing Contexts: Overview](contexts-and-environments-for-testing/environments-and-plans/testing-contexts-overview.md)
+  * [Testing Contexts: Overview](contexts-and-environments-for-testing/environments-and-plans/future-avenues.md)
 * [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
 * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
-  * [various trials - redacted](<README (1).md>)
-* [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world-oftw/README.md)
-  *
+  * [various trials - redacted]()
+* [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world/README.md)
+  * [various trials  - redacted]()
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
-  *
+  * [various trials  - redacted]()
 * [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
-  * [\[Trials in preparation - redacted()](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/trials-in-preparation-redacted.md)
+  * [Trials in preparation - redacted()
 * [Other orgs/approaches](contexts-and-environments-for-testing/other/README.md)
-  *
+  * [Redacted]()
+
 
 ## Methods and implementation discussion <a href="#methodological-discussion" id="methodological-discussion"></a>
 
@@ -63,7 +64,12 @@
 
 ## Project: Profiling and segmentation <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
-* [Previous work](profiling-and-segmentation/previous-work.md)
+* [Previous work/data](profiling-and-segmentation/previous-work.md)
+  * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
+  * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
+  * [Animal welfare attitudes: profiling/surveying](profiling-and-segmentation/previous-work/animal-welfare-attitudes-profiling-surveying.md)
+  * [Rethink Priorities work](profiling-and-segmentation/previous-work/rethink-priorities-work.md)
+  * [Other work and data](profiling-and-segmentation/previous-work/other-work-and-data.md)
 * [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
 * [(Profiling 'existing traffic')](profiling-and-segmentation/profiling-existing-traffic.md)
 * [(Surveys, focus groups, etc)](profiling-and-segmentation/surveys-focus-groups-etc.md)
@@ -80,9 +86,9 @@
 
 ## Grants, funding, reports, admin
 
-* [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving.md)
+* [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)
 * [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
 
 ## Self-aware-experiments-surveys
 
-* [Discussion: "Lab-esque" experiments/surveys](self-aware-experiments-surveys/discussion-lab-esque-experiments-surveys.md)
+* [Discussion: "Lab-esque" experiments/surveys](self-aware-experiments-surveys/lab-esque-experiments-and-surveys.md)
