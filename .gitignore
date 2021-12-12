@@ -16,3 +16,21 @@ _book
 *.pdf
 data_please_gitignore/*
 
+# content not for the public
+LICENSE
+SUMMARY.md
+
+!contexts-and-environments-for-testing
+contexts-and-environments-for-testing/*
+!contexts-and-environments-for-testing/adaptive-design-sampling-reinforcement-learning.md
+!contexts-and-environments-for-testing/ads-google-youtube....md
+!contexts-and-environments-for-testing/trial-reporting-template.md
+
+grants-funding-reports-admin/*
+legacies-bequests-exploring/*
+notes_to_integrate/*
+self-aware-experiments-surveys
+supplements-and-references
+tip-o-the-spear.md
+
+
