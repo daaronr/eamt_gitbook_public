@@ -1,17 +1,17 @@
 ---
-description: 'Airtable, Slack, etc.'
+description: Airtable, Slack, etc.
 ---
 
 # Other tech
 
 ## Airtable
 
-Airtable is an online database that is user-friendly and social. We are using the airtable ["GWWC+ testing/trial ideas"](https://airtable.com/invite/l?inviteId=invrYLQD6MCwj5tzF&inviteToken=756e551c2eb2be11add77811fa080f3ac80c5adc68b402c5dcbbc4a16684b836&utm_source=email)  
+Airtable is an online database that is user-friendly and social. We are using the airtable ["GWWC+ testing/trial ideas"](https://airtable.com/invite/l?inviteId=invrYLQD6MCwj5tzF\&inviteToken=756e551c2eb2be11add77811fa080f3ac80c5adc68b402c5dcbbc4a16684b836)\
 to keep a simple listing of key elements and structured information; in conjunction with this Gitbook.
 
-The first table in the airtable \(picture below\) explains all the other tables
+The first table in the airtable (picture below) explains all the other tables
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 {% hint style="info" %}
 A good way of starting with Airtable/databases is to think
@@ -23,4 +23,3 @@ A good way of starting with Airtable/databases is to think
 * Cool, sheet B now has a column indicating where it has been entered into sheet A
 * Hmm, sheet A has stuff on it that is not relevant for our partner; let me create a simpler ‘view’ of sheet A filtering out rows hiding columns that are not relevant to our partner
 {% endhint %}
-
