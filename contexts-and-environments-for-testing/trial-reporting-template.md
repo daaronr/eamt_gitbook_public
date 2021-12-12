@@ -18,32 +18,32 @@ Please keep your answers brief -- if you want to give more detail (which is not 
 
 ### **General idea, main 'hypothesis' (if there is one)**
 
-_Firstly, what is this promotion trying to do (e.g., 'encourage signups for giving pledges')?_&#x20;
+_Firstly, what is this promotion trying to do (e.g., 'encourage signups for giving pledges')?_
 
-_But more importantly, what are you trying to **learn** here...  What might you have a better understanding of after the trial than you did before the trial?_
+_But more importantly, what are you trying to **learn** here... What might you have a better understanding of after the trial than you did before the trial?_
 
-_E.g.,_&#x20;
+_E.g.,_
 
 > _Specifically:_
 >
-> * &#x20;_Does the opportunity we offer to sign up for an 'accountability partner' increase or decrease the rate at which people sign up for the GWWC giving pledge?_&#x20;
-> * _Does it lead to greater overall GWWC-linked donations per visitor over the next 1 year interval?_
+> * _Does the opportunity we offer to sign up for an 'accountability partner' increase or decrease the rate at which people DO XXX activity?_
+> * _Does it lead to greater overall XXXlinked donations per visitor over the next 1 year interval?_
 >
-> _Generally:_&#x20;
+> _Generally:_
 >
-> * _Does 'social accountability' help to encourage giving and other-regarding pledges and the fulfillment of these? Does the 'fear of being held accountable' discourage people from making commitments?_&#x20;
+> * _Does 'social accountability' help to encourage XXX activities and promises  and the fulfillment of these? Does the 'fear of being held accountable' discourage people from making commitments?_
 >
-> __
+> \_\_
 
 _(Optional: brief on background theory and previous evidence)_
 
 ### Point of contact (at organization running trial)
 
-_You can enter more than 1 person here, including an external organizer (like JS Winchell), but ideally, also someone inside the organization._&#x20;
+_You can enter more than 1 person here, including an external organizer (like JS Winchell), but ideally, also someone inside the organization._
 
-_Add  'academic/research lead' here if there is one_
+_Add 'academic/research lead' here if there is one_
 
-&#x20;__&#x20;
+\_\_
 
 ### Timing of trial (when will it/did it start and end, if known)
 
@@ -69,7 +69,7 @@ Description, link exact language/content if possible
 
 * At what level is it varied? (individual visitors, postal codes, days of the week, etc)
 * How are treatments assigned ('blocked randomization', 'adaptive/Thomson sampling', etc.)
-  * _If you are using a 'set Google, Facebook etc algorithm', just input the settings you used here, and/or link the (Google, FB, etc) explanation_&#x20;
+  * _If you are using a 'set Google, Facebook etc algorithm', just input the settings you used here, and/or link the (Google, FB, etc) explanation_
 * How many/what shares are assigned to each treatment?
 
 ***
