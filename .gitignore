@@ -20,7 +20,6 @@ data_please_gitignore/*
 LICENSE
 SUMMARY.md
 
-!contexts-and-environments-for-testing
 contexts-and-environments-for-testing/*
 !contexts-and-environments-for-testing/adaptive-design-sampling-reinforcement-learning.md
 !contexts-and-environments-for-testing/ads-google-youtube....md
