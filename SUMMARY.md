@@ -11,6 +11,7 @@
 * [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
   * [Overview: Posts and writings](organization-and-overview/our-team-and-resources/overview-ea-forum-post.md)
   * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
+  * [Sharing outside the group?](organization-and-overview/our-team-and-resources/sharing-outside-the-group.md)
 
 ## Background and existing evidence <a href="#background" id="background"></a>
 
