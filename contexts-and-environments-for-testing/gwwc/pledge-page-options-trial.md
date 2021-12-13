@@ -121,17 +121,15 @@ Equal likelihood assignment (initially or overall?)
 _Note_: Alternation or random sampling with/without replacement?
 
 {% hint style="info" %}
-DR: From the non-exact balance below, I suspect that there was either
+DR: It seems that the non-exact balance below is an imbalance in 'sessions' not an imbalance in 'participants'.
 
-1. 'pure randomization' (die roll each time)
-2. some observations (sessions) were dropped from the database.,
-3. or Google Analytics did some adaptive assignment.
-
-\_F\_or Google's help on 'create an A/B test' they state:
+Our analysis should focus on outcomes per _participant_; thus, the figures below may need some adjusting (although at first pass, the results go in the same direction).\
+\
+This doesn't seem to be adaptive assignment. In Google's help on 'create an A/B test' they state:
 
 > All variants are weighted equally by default in Optimize. A visitor who is included in your experiment has an equal chance of seeing any of your variants.
 
-Which suggests that "1" or "2" explains it
+
 {% endhint %}
 
 The version presented stayed constant according to an individual's IP cookie tracking.
@@ -152,16 +150,12 @@ One entry per page view over the interval, detailing
 
 * Whether pledged
 * Which pledge
-* Time and date of view
-* Time spent on page
-* Other clicks
-* Location of user
-* Any other information about user
+* Time and date of view, Time spent on page, Other clicks, Location of user, Any other information about user
 
 Most importantly:
 
 * Number of page views over the interval, by treatment
-* Number of pledges over the interval
+* Number of _pledges_ over the interval
   * by treatment
   * by type of pledge
 * Follow-up donations etc (if connectable)
@@ -176,10 +170,7 @@ See [google-a-b-optimize-analytics-interface.md](../../methodological-discussion
 
 ### Implementation and data collection
 
-1. _Did it go as planned? Any departures? (Timing, randomization, design changes, etc)_
-2. _How much/what data was collected? How many observations?_
-
-From shared image from Google Analytics:
+1. From shared image from Google Analytics:
 
 'Experiment sessions' (observations) by treatment (as labeled on Google Analytics shared image):
 
@@ -220,7 +211,7 @@ _Aside on stats:_
 
 DR: But this still doesn't tell us _what_ these priors are. There's a lot of sensitivity to this choice, in my experience.
 
-Dillon thoughts: there is possibly a more sophisticated approach to this than what Google is doing ... the better prior is an 'empirical bayes' appraoch (controversi
+Dillon thoughts: there is possibly a more sophisticated approach to this than what Google is doing ... the better prior is an 'empirical Bayes' approach (controversial?)
 {% endhint %}
 
 **The "Pledge Before Try giving" treatment** **performed substantially worse** than the original.
@@ -281,17 +272,4 @@ _Caveats:_
 
 _Further thoughts:_ We should try to focus more carefully on 'whether this is having any effect on ultimate pledge-taking and pledge-follow-through behavior'. I would be surprised if a moderate difference in the framing of a particular page should have such a large (2.69-1.71/1.71 = 57%) impact on the incidence of such a large life choice, involving at least tens of thousands of dollars. However, I still expect the incidence of 'click this button' to be _likely related_ to that ultimate outcome, thus I suspect these results are still informative and useful as they stand.
 
-**Further requested reporting (template)**
-
-1. "Partners and stakeholders opinions": were they happy with the trial? Did they seem to think it was a success?
-2. Simplest statement (e.g., "3% donated in the treatment versus 2.2% in the control, with an average amount raised of $4.3 in the treatment and $3.1 in the control')
-3. Preliminary interpretation, with statistical test if possible (e.g., 'google Optimize states an 80% chance that the treatment outperformed the control', a Fisher's exact test yields a p=0.06 that a positive donations was more likely in the treatment than the control)
-4. "Full analysis"
-   1. Who/what when will it be done?
-   2. Link to 'where' it will be done (both the 'follow up the pre-analysis plan, and the full write-up, if applicable)
-   3. Possibly: Briefly characterize the overall confusions/state of analysis here (state the date last updated)
-5. Feeding synthesis and meta-analysis
-   1. Which generalizable questions does this inform?
-   2. Is data sharable? Key comparable outcomes?
-   3. What other work/trials does this relate to?
-   4. State of meta-analysis
+**Further requested reporting: see template**
