@@ -36,15 +36,11 @@ He notes:
 Some salient example content\
 ![](<../../.gitbook/assets/image (3).png>)
 
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (6).png>)
-
 > These items correspond to the SOEP-IS surveys, which can be found here (use item names, like Q132, to search quickly
 >
 > 2017: https://paneldata.org/soep-is/inst/soep-is-2017-f
 >
 > 2018: https://paneldata.org/soep-is/inst/soep-is-2018-f
->
->
 >
 > These links also mention that individuals with preexisting data access can apply for expanded access. I \[Thomas] have access to SOEP-core version 36 (1984-2020 surveys),..
 
@@ -56,7 +52,7 @@ Q380: What you value in your work likerts ... includes "Having much influence" a
 
 Q160: Optimism/pessimism about the future
 
-Q162: ... bunch of Likerts on "attitudes towards life and the future" (e.g., 'The options that I have in life are determined by social circumstances.')&#x20;
+Q162: ... bunch of Likerts on "attitudes towards life and the future" (e.g., 'The options that I have in life are determined by social circumstances.')
 
 From 2019
 
