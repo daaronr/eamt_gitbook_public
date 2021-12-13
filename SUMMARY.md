@@ -36,17 +36,14 @@
 * [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
 * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
-  * [various trials - redacted](README.md)
+  *
 * [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world-oftw/README.md)
-  *
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
-  *
 * [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
   * [\[Trials in preparation - redacted()](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/trials-in-preparation-redacted.md)
 * [Other orgs/approaches](contexts-and-environments-for-testing/other/README.md)
-  *
 
 ## Methods and implementation discussion <a href="#methodological-discussion" id="methodological-discussion"></a>
 
@@ -68,7 +65,7 @@
   * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
   * [Animal welfare attitudes: profiling/surveying](profiling-and-segmentation/previous-work/animal-welfare-attitudes-profiling-surveying.md)
   * [Rethink Priorities work](profiling-and-segmentation/previous-work/rethink-priorities-work.md)
-  * [Other work and data](profiling-and-segmentation/previous-work/other-work-and-data.md)
+  * [Fehr/SOEP, other data](profiling-and-segmentation/previous-work/other-work-and-data.md)
 * [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
 * [(Profiling 'existing traffic')](profiling-and-segmentation/profiling-existing-traffic.md)
 * [(Surveys, focus groups, etc)](profiling-and-segmentation/surveys-focus-groups-etc.md)
