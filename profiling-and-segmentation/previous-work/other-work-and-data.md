@@ -62,7 +62,28 @@ From 2019
 
 ... they seem to collect genetic data
 
->
+
+
+#### 15 Dec 2021 notes Had a good meeting. I think this project has ‘legs’.
+
+I think we might see positive responses to the Fehr et al questions and donation choices as ‘necessary but not sufficient' for people to become effective givers or even EAs. If (especially in spite of the de-biasing) people still don’t support international redistribution, international orgs, and don’t opt to give from the lottery earnings to the global poor person … I think they are very unlikely to be susceptible to an EA appeal. \
+\
+_But_, _as a check on this_, it might be good to try to ask these same questions on a sample of actual EA’s and effective givers, and a comparison group!).
+
+
+
+I envision two related projects on the same data: 1. Building a 'portable' model for prediction to aid targeting and 2. Building a 'deeper' model to aid understanding
+
+1. &#x20;I’m hoping that looking for predictors of (or ‘coherent factors explaining’) these responses in the SOEP data would prove useful for orgs like GWWC to consider ‘which groups to target in doing outreach’ (and perhaps especially ‘which groups to rule out’)&#x20;
+
+* I hope we can do a sort of ‘leak-proof validated predictive ML model for this’
+* perhaps especially relevant for the German/EU context&#x20;
+
+2\.  An (exploratory model) to help understand key factors that might be driving EA-adjacent attitudes and behaviors, offering insight into ‘what drives people towards or away from this mindset’.
+
+* Here we could engage the richer set of SOEP variables and consider latent factors
+
+
 
 ## Who gives effectively? Unique characteristics of those who have taken the Giving What We Can Pledge
 
