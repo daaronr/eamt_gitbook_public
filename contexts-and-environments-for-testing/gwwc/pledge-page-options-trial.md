@@ -53,27 +53,21 @@ The version presented stayed constant according to an individual's IP cookie tra
 
 ### Point of contact
 
-Julian Hazell (julian.hazell@givingwhatwecan.org)
-
-Luke Freeman
+Julian Hazell (julian.hazell@givingwhatwecan.org), Luke Freeman
 
 **'Academic' contact:** David Reinstein, and perhaps others.
 
 ### Timing of trial (when will it/did it start and end, if known)
 
-Start: 19 April 2021 (or 21 April)? End: 10 July 2021
-
-(From Google Analytics screenshot)
+Start: 19 April 2021 (or 21 April)? End: 10 July 2021 (Source: Google Analytics)
 
 ### Digital location where project 'lives'
 
 _(Planning, material, data)_
 
-Unknown. Statistics should be available on Google Analytics/Optimizely,
-
-Reinstein trying to gain access.
-
-Only known writeup is in the present document.
+* Statistics  available on Google Analytics/Optimizely,
+  * Reinstein has access, planning to input into R for more detailed analysis&#x20;
+* Present document = Only known writeup&#x20;
 
 ### Environment/context for trial
 
@@ -81,9 +75,8 @@ https://www.givingwhatwecan.org/pledge/ ... see above
 
 ### **Participant universe and sample size**
 
-Everyone going to the above page within the above time duration.
-
-'People interested in GWWC pledges'
+* Everyone going to the above page within the above time duration.
+* People interested in GWWC pledges'
 
 Sample size: see below, from Google Analytics
 
@@ -114,11 +107,10 @@ _Needs some clarification:_
 
 ### Treatment assignment procedure
 
-Three versions of this page were randomly presented between `daterange`
+* Three versions of this page were randomly presented between `daterange`
+* Equal likelihood of assignment
 
-Equal likelihood assignment (initially or overall?)
-
-_Note_: Alternation or random sampling with/without replacement?
+_Minor note_: Alternation or random sampling with/without replacement?
 
 {% hint style="info" %}
 DR: It seems that the non-exact balance below is an imbalance in 'sessions' not an imbalance in 'participants'.
@@ -138,14 +130,18 @@ The version presented stayed constant according to an individual's IP cookie tra
 
 _Uncertain location, status, access, needs some discussion_
 
-Statistics should be available on Google Analytics, Reinstein trying to gain access.
+Statistics on Google Analytics
 
-_Update: Luke suggests it might only be recording 'pressed any button' (any pledge) as the successful outcome._
-
-\_\_
+_NOTE: It seems to have recorded only 'pressed any button' (any pledge) as the successful outcome._
 
 **Ideally**:
 
+{% tabs %}
+{% tab title="First Tab" %}
+Ideally, this would include (see next tab)
+{% endtab %}
+
+{% tab title="Desired outcomes" %}
 One entry per page view over the interval, detailing
 
 * Whether pledged
@@ -159,6 +155,10 @@ Most importantly:
   * by treatment
   * by type of pledge
 * Follow-up donations etc (if connectable)
+{% endtab %}
+{% endtabs %}
+
+
 
 ### **Optional/suggested additions**
 
@@ -182,7 +182,7 @@ Separate Block for Other Pledges: 2718
 
 **Total: 7992 sessions** (=2588+2686+2718)
 
-\_\_
+
 
 _3. Where is the data stored (also link/adjust the above), who has it, and under what conditions?_
 
@@ -194,7 +194,7 @@ _3. Where is the data stored (also link/adjust the above), who has it, and under
 
 **Reinstein quick interpretation** _(if I am understanding what is what)_
 
-See mobile device looks different ! half of users are mobile.
+Note: Mobile device view looks different! Half of users are mobile.
 
 The **"separate block for other pledges" seems to have been the most successful,** with an 0.49% higher (percentage point) incidence rate than the 'Original', i.e., a 22% higher rate of pledging (2.69 vs 2.20).
 

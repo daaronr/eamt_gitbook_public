@@ -67,10 +67,10 @@ We've been running the YT remarketing for 3 weeks so wanted to send you an updat
 \
 2\. 10% of the time people watched the full video!\
 ![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.2\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ-cfbGoRTUjeXUVWj7KrfwlgOXv-aaI7hKW\_V2TMOS4hHs6FSFxZAvV5UhT25gbw-mOVAVPUjPwhfOhlBaKGMIymL73JqKK7YvjWh4A\_95d6oaHonjEKyFAHk8\&disp=emb\&realattid=ii\_ks33a1z92)\
-\\
+
 
 * You can see this data by video if you are interested to control for video length
-* E.g. \_5% of people chose to watch the entire 13 minutes of \_[_this video_](https://www.youtube.com/watch?v=41tlWqyD094)
+* E.g., 5% of people chose to watch the entire 13 minutes of \_[_this video_](https://www.youtube.com/watch?v=41tlWqyD094)
 
 \
 3\. Your best video had a view rate (% of time people choose to watch >30s) twice as good as your worst video![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.3\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ\_Ax\_VUEXUHn1\_WZXK-af52waOROoud5baKCg316S\_tsoS2hLprlCb9FgQDDWPB9pXlKQxvPRIqr1kLRDj5AMZkHCo4-Lz1wNsabKNpKn\_d4pdNKuapBvwjchY\&disp=emb\&realattid=ii\_ks33e7h74)\
@@ -84,4 +84,3 @@ We've been running the YT remarketing for 3 weeks so wanted to send you an updat
 
 * Could add "similar audiences" which is when we let Google use machine learning to find people similar to your website visitors and also show ads to them
 * Could walk David Reinstein and Joshua Lewis through the UI so they can get a sense of the metrics/reporting available and how it could be used for research
-
