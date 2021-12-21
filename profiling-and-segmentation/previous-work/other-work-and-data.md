@@ -100,7 +100,13 @@ Feldman, Ronsky, Lown\
 
 mturk + qualtrics
 
-ended up manipulating whether aid was government or charity, and domestic vs foreig; thought those would be moderated by MITE depending on their ideology/attitude?
+ended up manipulating whether aid was government or charity, and domestic vs foreig; thought those would be moderated by MITE depending on their ideology/attitude?\
+\
+Also consider ... Empathy Regulation and Close-Mindedness Leonie Huddy, Stanley Feldman, Romeo Gray, Julie Wronski, Patrick Lown, and Elizabeth Connors\
+\
+Also asked about domestic welfare and foreign aid attitudes...
+
+sample fairly large ... 1100 or so?
 
 
 
