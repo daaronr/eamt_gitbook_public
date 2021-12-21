@@ -192,3 +192,12 @@ DR:  My conception was _maximizing_ + _cosmopolitanism_ + _altruism + willing-to
 
 
 
+* Includes real donation choice question(s), rich survey and psychometric data, including 'mind in the eyes' empathy judgements
+* Students and nonstudents (local town population)
+
+Consider Lown and XX paper... MITE empathy moderates the impact of political attitude, or something ... dissonance resolution\
+Feldman, Ronsky, Lown\
+[https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12620](https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12620)&#x20;
+
+mturk + qualtrics
+
