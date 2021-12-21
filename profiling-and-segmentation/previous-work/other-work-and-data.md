@@ -100,3 +100,7 @@ Feldman, Ronsky, Lown\
 
 mturk + qualtrics
 
+ended up manipulating whether aid was government or charity, and domestic vs foreig; thought those would be moderated by MITE depending on their ideology/attitude?
+
+
+
