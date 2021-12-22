@@ -11,15 +11,10 @@ description: >-
 
 Various survey projects ongoing
 
-
-
 ## EA Attitudes and Longtermist Attitudes
-
-
 
 * Developing measures of attitudes towards EA/Longtermism
 * Conducting large national surveys looking at predictors of these attitudes (including differences across groups)
 * Standard ‘message testing’ (what arguments/framings work best for outreach (including differences across groups)
 
-__
-
+\_\_
