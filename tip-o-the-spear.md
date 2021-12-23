@@ -6,6 +6,14 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ## Team/Organizational updates
 
+1. Scheduling second meeting and agenda -- please [fill out the Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc)
+2. Agenda in progress
+3. New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")&#x20;
+
+
+
+_Previous updates_
+
 1. First of proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt)s (1 hour standing meeting with agenda) held for December 1, 7pm New York (recorded [HERE](tip-o-the-spear.md#team-organizational-updates))
 2. Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-time
 
@@ -22,7 +30,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
-* [<mark style="background-color:green;"><mark style="color:blue;background-color:orange;">Giving-season email campaign for 'additional donation'<mark style="color:blue;background-color:orange;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)[ <mark style="background-color:green;"><mark style="color:blue;background-color:orange;">\[link\]<mark style="color:blue;background-color:orange;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing) _<mark style="background-color:green;"><mark style="color:blue;background-color:orange;">(underway)<mark style="color:blue;background-color:orange;"></mark>_
+* [<mark style="color:blue;background-color:orange;"><mark style="background-color:green;">Giving-season email campaign for 'additional donation'<mark style="background-color:green;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)[ <mark style="color:blue;background-color:orange;"><mark style="background-color:green;">\[link\]<mark style="background-color:green;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing) _<mark style="color:blue;background-color:orange;"><mark style="background-color:green;">(underway)<mark style="background-color:green;"></mark>_
 * "Upselling" YouTube marketing (casual lift test, or trials?); working with JS
 * [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments)
 
@@ -48,14 +56,12 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 [(Slack thread on this)](https://givingexperiments.slack.com/archives/C0298MCQK4G/p1640277221038700)
 
-
-
 ### December 1 2021 (7-8pm EST)
 
-_Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)&#x20;
+_Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)
 
 * _first hour= general meeting,_
-* _last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland.md](contexts-and-environments-for-testing/tlycs/advisor-signup-portland.md "mention") _trial in the Gitbook with the_ [trial-reporting-template.md](contexts-and-environments-for-testing/trial-reporting-template.md "mention")&#x20;
+* _last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland.md](contexts-and-environments-for-testing/tlycs/advisor-signup-portland.md "mention") _trial in the Gitbook with the_ [trial-reporting-template.md](contexts-and-environments-for-testing/trial-reporting-template.md "mention")
 
 1. **Introductions** (5 min; just a 'hello and here's a quick thing you might not know about me/ thing I'm excited about')
 2. **Questions/comments** on our 'Market Testing team', our tools (esp. this gitbook), and the monthly meeting/agenda (5-10 min)
