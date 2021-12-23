@@ -79,15 +79,15 @@
 
 ## Project: Profiling and segmentation <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
+* [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
 * [Previous work/data](profiling-and-segmentation/previous-work.md)
   * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
   * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
   * [Animal welfare attitudes: profiling/surveying](profiling-and-segmentation/previous-work/animal-welfare-attitudes-profiling-surveying.md)
-  * [Rethink Priorities work](profiling-and-segmentation/previous-work/rethink-priorities-work.md)
-  * [Fehr/SOEP, other data](profiling-and-segmentation/previous-work/other-work-and-data.md)
-* [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
+  * [Other data](profiling-and-segmentation/previous-work/other-data.md)
+* [Fehr/SOEP, followup](profiling-and-segmentation/previous-work/other-work-and-data.md)
+* [Rethink Priorities work](profiling-and-segmentation/previous-work/rethink-priorities-work.md)
 * [(Profiling 'existing traffic')](profiling-and-segmentation/profiling-existing-traffic.md)
-* [(Surveys, focus groups, etc)](profiling-and-segmentation/surveys-focus-groups-etc.md)
 
 ## Supplements and references
 

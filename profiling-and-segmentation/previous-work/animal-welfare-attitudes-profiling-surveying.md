@@ -6,9 +6,9 @@ description: A brief outline and links to what has been done across organization
 
 ## Farmed/overall <a href="#docs-internal-guid-27f8c7c0-7fff-c020-7e9f-76104cf897d6" id="docs-internal-guid-27f8c7c0-7fff-c020-7e9f-76104cf897d6"></a>
 
-### Faunalytics&#x20;
+### Faunalytics
 
-This is possibly the best meta-resource as well as a source of original research&#x20;
+This is possibly the best meta-resource as well as a source of original research
 
 {% embed url="https://faunalytics.org/research-in-progress" %}
 
@@ -24,7 +24,7 @@ Some replication work on the above
 
 _Various work including_
 
-__\
+\_\_\
 _DR: I'm awaiting permission to share the list._
 
 ## Paper: The moral standing of animals
