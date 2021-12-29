@@ -20,7 +20,7 @@ description: >-
     * touch base with us again on possible email variants
     * contact JS on youtube marketing (sharing emails etc), keep us in the loop
 
-    (see [_meeting notes_](./)\_ below)\_\\
+    (see [_meeting notes_](./) below)
 
 ## Background on OftW
 
@@ -31,7 +31,7 @@ _What is OftW and how does it differ from others in this space?_
 * David: 1% is 'more manageable' as a starting point perhaps
 *   Luke: Narrow focus on type of charities: global health and poverty
 
-    \_\_
+
 
 OFTW has a donor base of \~700 active donors, \~1650 pledged donors (who pledged but haven't started donating yet) and \~2000 lapsed donors.
 
@@ -70,7 +70,7 @@ They focus on donations to GiveWell charities ... but technically OftW pledgers 
 ### **Goals/actions**
 
 * 'Activating' Pledgers as donors (pledged but not donated)
-* \*\* \*\*Active donors
+* Active donors
   * Retain
   * Upsell (maybe only to the second tier?)
 * Acquiring pledges, perhaps from a 'pledge-curious group'
@@ -161,7 +161,7 @@ Both emails come from Jack as Executive Director. We hope that people who get th
 
 For all donors who are due to reach a donation milestone next month - that is, their 6th, 12th or 24th monthly donation - we are randomly sending them either:
 
-length of time for feedback is a challenge
+Length of time for feedback is a challenge...
 
 1. a control email saying 'thank you for pledging'
 2. a treatment email saying 'thank you for pledging - do you plan to donate $x again next month, or would you like to update your donation? Click here to keep the current amount / click here to update your donation amount'

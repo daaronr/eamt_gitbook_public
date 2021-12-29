@@ -44,8 +44,7 @@ Emails\
 
 ### **Participant universe and sample size**
 
-Roughly 4000 participants, as described\
-
+Roughly 4000 participants, as described\\
 
 A series of three campaign emails will be sent out by OftW to their regular email lists, to roughly 4000 participants, as described
 
@@ -96,8 +95,66 @@ Pre-registered on OSF in 'AsPredicted' format, content incorporated here [prereg
 
 ## Preliminary results
 
-_(From message from Chloe; description of experiment intagrated above)_
+_(From message from Chloe; description of experiment integrated above)_
 
 > Preliminary analysis shows that even with the one high-performing outlier removed from the dataset, **those emails that appealed to emotional storytelling performed better (higher in-email click rate) than those that were impact-focused**.
 
 > Further analysis that details the way that different contact demographics interacted with each email treatment type will also be done, as well as an analysis of clicks converted to completed donations.
+>
+>
+
+### **Evidence on donations**&#x20;
+
+_(preliminary; we are awaiting further donations in the giving season) ..._&#x20;
+
+{% hint style="info" %}
+_This is 'hard-coded' below. I intend to replace this with a link or embed of a dynamic document (Rmarkdown)._\
+__\
+_The quantitative analysis itself, stripped of any context and connection to OftW, is hosted_ [_HERE_ ](https://rethinkpriorities.github.io/methodology-statistics-design/inference-and-rough-equivalence-testing-with-binomial-outcomes.html#how-likely-are-proportions-this-similar-under-different-size-true-effect-sizes)__
+{% endhint %}
+
+{% embed url="https://rethinkpriorities.github.io/methodology-statistics-design/inference-and-rough-equivalence-testing-with-binomial-outcomes.html#how-likely-are-proportions-this-similar-under-different-size-true-effect-sizes" %}
+_the analysis as a 'methodological example'; all context removed_
+{% endembed %}
+
+**Treatment 1 (Impact)**:  We record
+
+* 8 unique emails donating, 26 donations in total,
+* &#x20;worth $5200  in total
+* &#x20;1345 unique emails listed as getting  ‘control’ treatment 1
+
+**Treatment 2 (Emotional storytelling):**
+
+* 6 unique emails donating, 28 donations so far
+* worth $7500 in total.
+* &#x20;1190 unique emails listed for treatment 2
+
+(If I believe my ‘unique emails count’) that implies
+
+* an 0.59% ‘conversion’ rate for T1 - Control
+* a 0.50% conversion rate for T2 - Emotion/Story\
+
+
+&#x20;**‘Initial impressions of preliminary outcomes’**
+
+* The conversion rates are rather low (0.5%) … but maybe high enough to justify sending these emails? I’m not sure.
+* The rates are similar across the treatments
+* Given the low conversion rates we don’t have too much power to rule out ‘proportionally large’ differences in conversion rates (or average amounts raised) between treatments … &#x20;
+
+![](<../../../.gitbook/assets/image (3).png>)
+
+
+
+The figure above seems like a good summary of the ‘results so far’ on ‘what we can infer about relative incidence rates’,  presuming I understand the situation correctly …I plot\
+\
+Y-axis: ’how likely would a difference in donations ‘as small or smaller in magnitude’” than we see in the data between the incidence (8 vs 6 people donating) be” … against\
+\
+X-axis: if the “true difference in incidence rates” were of these magnitudes_Takeaway:_
+
+* our data is consistent with ‘no difference’ (of course) … but it's also consistent with ‘a fairly large difference in incidence’
+* E.g., even if one treatment truly lead to ‘twice as many donations as the other’, we still have a 20% chance of seeing a difference as small as the one we see (of 8 versus 6)
+* We can reasonably ‘rule out’ differences of maybe 2.5x or greater
+* Main point: given the rareness of donations in this context, our sample size doesn’t let us make very strong conclusions in either direction … at least not yet. I hope that combined with other evidence, we will be able to infer more
+
+
+
