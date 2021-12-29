@@ -24,8 +24,8 @@ _Previous updates_
 *   <mark style="background-color:green;">"</mark>[<mark style="background-color:green;">Pledge page" split-test</mark>](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#general-idea-main-hypothesis)<mark style="background-color:green;">; vary presentations of pledge options (tied to cookies/IP addresses)</mark>
 
     _<mark style="background-color:yellow;">We have</mark>_ [some results](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
-* [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
-* [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email.
+* [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)&#x20;
+* [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email. ... (what themes?)
 * Collecting ideas: aiming for testing at multiple points in the funnel ([Airtable](https://airtable.com/shrUGJuhyxrKGMEUm), Gdoc)
 
 ### [One for the World](tip-o-the-spear.md#oftw)
@@ -55,6 +55,13 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 ### Planning meeting for early January
 
 [(Slack thread on this)](https://givingexperiments.slack.com/archives/C0298MCQK4G/p1640277221038700)
+
+* what everyone is up to
+* debrief on results of studies we've been running (other than the GWWC pledge page, as in previous)
+* discuss testing objectives (?)
+* introduce Fitz/Momentum
+* the 'public version'/public reporting of trial results
+* we can give -- analysis of data, put in context with other data, meta-analysis&#x20;
 
 ### December 1 2021 (7-8pm EST)
 
