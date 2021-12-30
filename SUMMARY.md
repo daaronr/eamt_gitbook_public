@@ -36,7 +36,6 @@
 * [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
 * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
-  *
 * [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world-oftw/README.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
 * [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
