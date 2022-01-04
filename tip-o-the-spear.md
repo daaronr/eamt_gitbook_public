@@ -7,14 +7,14 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 ## Team/Organizational updates
 
 1. Scheduling second meeting and agenda -- please [fill out the Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc)
-2. Agenda in progress
+2. [Agenda in progress](tip-o-the-spear.md#planning-meeting-for-early-january)
 3. New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")&#x20;
 
 
 
 _Previous updates_
 
-1. First of proposed [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt)s (1 hour standing meeting with agenda) held for December 1, 7pm New York (recorded [HERE](tip-o-the-spear.md#team-organizational-updates))
+1. First [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda), December 1, 7pm New York (recorded [HERE](tip-o-the-spear.md#team-organizational-updates))
 2. Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-time
 
 ## Latest/coolest campaigns, trials, initiatives
@@ -56,12 +56,15 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 [(Slack thread on this)](https://givingexperiments.slack.com/archives/C0298MCQK4G/p1640277221038700)
 
-* what everyone is up to
-* debrief on results of studies we've been running (other than the GWWC pledge page, as in previous)
+* What we're all up to; debrief results of studies we've run (other than those covered before)
 * discuss testing objectives (?)
-* introduce Fitz/Momentum
-* the 'public version'/public reporting of trial results
-* we can give -- analysis of data, put in context with other data, meta-analysis&#x20;
+* Introduce new people/orgs/projects
+  * Bella @ 80k
+  * Fitz/Momentum
+  * Ptashnik and profiling
+  * New people/meets: Bilal@TLYCS, Grace@GWWC, others?&#x20;
+* Discuss: the 'public version'/public reporting of trial results, 'newsletter'
+* Why report and share?: Academics/researchers can do analysis of data, put in context with other data, meta-analysis&#x20;
 
 ### December 1 2021 (7-8pm EST)
 
