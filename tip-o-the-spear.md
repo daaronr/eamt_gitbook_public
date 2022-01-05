@@ -64,15 +64,22 @@ Please don’t feel compelled to come to both, but try to come to one. We will h
 
 **Agenda**
 
-1. What we're all up to; debrief results of studies we've run (other than those covered before)
-2. discuss testing objectives (?)
-3. Introduce new people/orgs/projects
+What we're all up to; debrief results of studies we've run (other than those covered before)
+
+1. discuss testing objectives (?)
+2. Introduce new people/orgs/projects
    * Bella @ 80k
    * Fitz/Momentum
    * Ptashnik and profiling
    * New people/meets: Bilal@TLYCS, Grace@GWWC, others?&#x20;
-4. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
-5. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template.md))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis&#x20;
+3. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
+4. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template.md))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis&#x20;
+
+Jan 7: OftW (Chloe), possibly 80k (Bella) present
+
+Jan 9: GWWC (Grace), TLYCS (Bilal), possibly 80k (Bella) present
+
+[doodle responses](https://doodle.com/poll/zbkiiikfia99bbtc)
 
 ### December 1 2021 (7-8pm EST)
 
