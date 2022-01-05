@@ -75,9 +75,9 @@ What we're all up to; debrief results of studies we've run (other than those cov
 3. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
 4. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template.md))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis&#x20;
 
-Jan 7: OftW (Chloe), possibly 80k (Bella) present
+Jan 7 (Friday): OftW (Chloe), possibly 80k (Bella) present
 
-Jan 9: GWWC (Grace), TLYCS (Bilal), possibly 80k (Bella) present
+Jan 9 (Sun): GWWC (Grace), TLYCS (Bilal), possibly 80k (Bella) present; also JS Winchell
 
 [doodle responses](https://doodle.com/poll/zbkiiikfia99bbtc)
 
