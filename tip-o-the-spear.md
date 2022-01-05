@@ -52,19 +52,27 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 ## Meeting agendas and recordings
 
-### Planning meeting for early January
+### Planned meeting(s) for early January
 
-[(Slack thread on this)](https://givingexperiments.slack.com/archives/C0298MCQK4G/p1640277221038700)
+_As we cannot all make a time, I propose two meetings, which should allow at least 1 person from each org to make a meeting_ \
+**Friday, Jan 7, 3-4pm New York,**\
+**Sunday, Jan 9, 9:00-10pm New York**
 
-* What we're all up to; debrief results of studies we've run (other than those covered before)
-* discuss testing objectives (?)
-* Introduce new people/orgs/projects
-  * Bella @ 80k
-  * Fitz/Momentum
-  * Ptashnik and profiling
-  * New people/meets: Bilal@TLYCS, Grace@GWWC, others?&#x20;
-* Discuss: the 'public version'/public reporting of trial results, 'newsletter'
-* Why report and share?: Academics/researchers can do analysis of data, put in context with other data, meta-analysis&#x20;
+Please don’t feel compelled to come to both, but try to come to one. We will have an agenda for each, and record and take notes on each.
+
+****[(Slack thread on this)](https://givingexperiments.slack.com/archives/C0298MCQK4G/p1640277221038700)
+
+**Agenda**
+
+1. What we're all up to; debrief results of studies we've run (other than those covered before)
+2. discuss testing objectives (?)
+3. Introduce new people/orgs/projects
+   * Bella @ 80k
+   * Fitz/Momentum
+   * Ptashnik and profiling
+   * New people/meets: Bilal@TLYCS, Grace@GWWC, others?&#x20;
+4. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
+5. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template.md))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis&#x20;
 
 ### December 1 2021 (7-8pm EST)
 
