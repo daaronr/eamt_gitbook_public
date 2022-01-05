@@ -6,7 +6,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ## Team/Organizational updates
 
-1. Scheduling second meeting and agenda -- please [fill out the Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc)
+1. Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results)
 2. [Agenda in progress](tip-o-the-spear.md#planning-meeting-for-early-january)
 3. New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")&#x20;
 
