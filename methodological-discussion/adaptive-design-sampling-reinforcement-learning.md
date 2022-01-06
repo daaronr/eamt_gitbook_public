@@ -1,5 +1,13 @@
 # Adaptive design/sampling, reinforcement learning
 
+##
+
+{% hint style="info" %}
+**Dillon writes: I've run some very promising MTurk pilots using my adaptive experimentation software.** Compared to traditional random assignment, it increases statistical power, identifies higher-value treatments, and results in more precise estimates of the effectiveness of top-performing treatments. From simulations, I estimate that the gains from adaptive experimentation are approximately **equivalent to increasing your sample size by 2x-8x** (depending on the distribution of effect sizes).
+
+This would allow us to run studies like Eric Schwitzgebel + Fiery Cushman's study on philosophical arguments to increase charitable giving much more effectively
+{% endhint %}
+
 ## Overview: conversation with DB
 
 Dillon Bowen: End of 3rd year of decision processes in Wharton Phd.
@@ -10,7 +18,7 @@ Here is a stats package for estimating effect sizes in multi-armed experiments. 
 
 ...running experiments with many arms and winnowing out the 'best ones' to learn the most/best.
 
-* See: adaptive design, adaptive sampling, dynamic design, reinforcement learning,  exploration sampling, Thompson's sampling, Bayesian adaptive inference, multifactor experiment
+* See: adaptive design, adaptive sampling, dynamic design, reinforcement learning, exploration sampling, Thompson's sampling, Bayesian adaptive inference, multifactor experiment
 
 ### Treatment space
 
@@ -37,7 +45,7 @@ Dillon (?): has a paper on traditional statistical inference after an adaptive d
 Goals what kinds of inference:
 
 1. The arm you using relative to (? the average arm?)
-2. Which factors matter/joint distribution ….. Bayesian models 
+2. Which factors matter/joint distribution ….. Bayesian models
 
 ### Implementing adaptive design
 
