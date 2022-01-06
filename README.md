@@ -8,8 +8,8 @@ description: >-
 # PUBLIC: Effective Giving & Action: Market testing & Synthesis
 
 {% hint style="info" %}
-**This version is being prepared for public sharing**: All confidential or private details should have been removed!\
-This will be fed from a 'fork' (currently a branch) of the  private repo, key pages will be merged in to the GH repo. However, we will do a careful check on this after every pull to make sure no private content is added.
+**This version is public, but unlisted.** All confidential or private details should have been removed!\
+This will be fed from a 'fork' (currently a branch) of the private repo, key pages will be merged in to the GH repo. However, we will do a careful check on this after every pull to make sure no private content is added.
 {% endhint %}
 
 ## Goal
