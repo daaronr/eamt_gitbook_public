@@ -37,7 +37,7 @@ _Previous updates_
 ### [The Life You Can Save](contexts-and-environments-for-testing/tlycs/)
 
 * Considering a '[funds recommendations trial'](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md) with different options and 'prompted consideration'
-* Various trials with JS, including [advisor-signup-portland.md](contexts-and-environments-for-testing/tlycs/advisor-signup-portland.md "mention") city-level Youtube test
+* Various trials with JS, including [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") city-level Youtube test
 
 ### Reinstein & Co
 
@@ -86,7 +86,7 @@ Jan 9 (Sun): GWWC (Grace), TLYCS (Bilal), possibly 80k (Bella) present; also JS 
 _Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)
 
 * _first hour= general meeting,_
-* _last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland.md](contexts-and-environments-for-testing/tlycs/advisor-signup-portland.md "mention") _trial in the Gitbook with the_ [trial-reporting-template.md](contexts-and-environments-for-testing/trial-reporting-template.md "mention")
+* _last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template.md](contexts-and-environments-for-testing/trial-reporting-template.md "mention")
 
 1. **Introductions** (5 min; just a 'hello and here's a quick thing you might not know about me/ thing I'm excited about')
 2. **Questions/comments** on our 'Market Testing team', our tools (esp. this gitbook), and the monthly meeting/agenda (5-10 min)

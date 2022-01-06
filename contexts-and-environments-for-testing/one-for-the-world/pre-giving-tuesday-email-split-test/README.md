@@ -141,7 +141,7 @@ _the analysis as a 'methodological example'; all context removed_
 * The rates are similar across the treatments
 * Given the low conversion rates we don’t have too much power to rule out ‘proportionally large’ differences in conversion rates (or average amounts raised) between treatments … &#x20;
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 
 
