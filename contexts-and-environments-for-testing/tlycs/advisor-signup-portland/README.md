@@ -4,9 +4,11 @@ description: TLYCS ran a campaign in single city involving 'donation advice'
 
 # Advisor signup (Portland) (+)
 
+{% hint style="info" %}
 Filling out using [trial-reporting-template.md](../../trial-reporting-template.md "mention") format
 
 (Reinstein working with JS Winchell, incorporating [his notes](https://docs.google.com/document/d/1eIt4cXfNqIHr2HiGcb8Mf06BOqR2Pgcga8In-VcLTPA/edit))
+{% endhint %}
 
 ### **General idea, main 'hypothesis' (if there is one)**
 
@@ -15,7 +17,7 @@ _Specific goal of promotion:_ Get people to click in the ad go to the 'landing p
 1. Can we get people to sign up for donation advice using videos in YouTube Ads?
    1. How many sign up and what sorts of people?
 2. Do these ads boost engagement with TLYCS in net? (E.g. donations, website activity, book downloads)
-   * "Lift test" on Portland market; analyze with difference-in-difference relative to other markets)
+   * "Lift test" on Portland market (analyze with difference-in-difference relative to other markets)
 3. Which ads are best at this? (These ads differ in substance as well as in style)
 
 ### Point of contact (at organization running trial)\*
@@ -26,15 +28,17 @@ Chantal Johnson - TLYCS
 
 Johnstuart Winchell - Google/YouTube (j.s.winchell@gmail.com)
 
-### Timing of trial (when will it/did it start and end, if known)
+### Timing of trial (when will it/did it start/end, if known)
 
 Launch date: December 3
 
-End date: December 31 (planned)
+End date: December 31&#x20;
 
 ### Digital location where project 'lives' (planning, material, data)
 
-Nothing has been organized yet. This interface is the best summary atm. Google/YouTube Ads interface will have the data.(Email conversations with JS and TLYCS has some content.
+Nothing has been organized yet. This interface is the best summary atm. Google/YouTube Ads interface will have the data.(Email conversations with JS and TLYCS has some content)
+
+_Update: other data is on TLYCS Google Analytics_
 
 ### Environment/context for trial
 
@@ -46,15 +50,13 @@ Location: Portland, OR
 
 Audience: Top 10% household income
 
-People living in Portland Oregon in the top 10% of household income (approximated by Google) will get an in-stream ad (ad plays before the video that the user intended to watch)
+People living in Portland, Oregon in the top 10% of household income (approximated by Google) will get an in-stream ad (ad plays before video user intended to watch)
 
 ### Key treatment(s)
 
-Exposure to a sequence of nine versions of YouTube ad videos
+Exposure to a sequence of nine versions of YouTube ad videos. Frequency cap: 6/weeks&#x20;
 
-Frequency cap: 6/week ...
-
-**Three main 'theme/header' variations (but these seem similar, just slightly different phrasings)**
+**Three main 'theme/header' variations (similar, slightly different phrasings)**
 
 _interacted with..._
 
@@ -65,7 +67,7 @@ _interacted with..._
 3. **"I want to do good":** Colorful puppets (with some cartoons) sing (British accents) about how good it feels to give up things they don't need and to donate to save lives, and counter common arguments about this 'breeding dependency', fear of administrative waste, etc.
 
 {% hint style="info" %}
-The videos I could see didn't actually link the 'advisor landing page' in the video or on the bottom. (One actually went to a dead link -- shall we doublecheck this doesn't happen on the real ads?!) [Johnstuart Winchell](https://app.gitbook.com/u/6XKoliSY0eVGn9imHc6orCLb5532 "mention"); looking at your notes, I guess (?) these come in pop-up things in the 'real context' on Youtube, e.g., as in...
+The videos I could see didn't actually link the 'advisor landing page' in the video or on the bottom. Looking at your notes, I guess (?) these come in pop-up things in the 'real context' on Youtube, e.g., as in...
 
 ![](<../../../.gitbook/assets/image (13).png>)
 {% endhint %}
@@ -82,9 +84,7 @@ Uses a YouTube/Google optimization algorithm.
 
 Optimizing for: Advisor form fills (maximizing the probability that a user fills out the linked form)
 
-DR: Presumably this targets videos initially by random draw, and then serves videos more that performed better, perhaps interacting this learning with the user demography etc.
-
-***
+DR: Presumably  targets videos initially by random draw, and then serves videos more that performed better, perhaps interacting this learning with user demography etc.
 
 ### **Outcome data**
 
