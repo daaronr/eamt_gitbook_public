@@ -13,22 +13,19 @@
   * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
   * [Sharing outside the group?](organization-and-overview/our-team-and-resources/sharing-outside-the-group.md)
 
-## Background and existing evidence <a href="#background" id="background"></a>
+## Background, evidence, framework <a href="#background" id="background"></a>
 
 * [The challenge: drivers of effective/ineffective giving](background-and-existing-evidence/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background-and-existing-evidence/models-theories-psychological-norms.md)
-* [Tools/interventions: principles](background-and-existing-evidence/tools-interventions-principles.md)
-
-## Tools and trials <a href="#proposed-tools-for-motivating-effective-giving" id="proposed-tools-for-motivating-effective-giving"></a>
-
-* [Tools and trials: overview](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview/README.md)
-  * [Academic Paper Ideas](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview/academic-paper-ideas.md)
-* [(Outcome: Effective gift/consider impact)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
-  * [(Effectiveness information and its presentation)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
-  * [(Outcome: Pledge, give substantially (& effectively))](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/README.md)
-    * [(Moral duty (of well-off))](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
-    * [Give if you win/ conditional pledge](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
-    * [(Accountability partners)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/accountability-partners.md)
+* [Tools and trials: overview](background/tools-and-trials-overview/README.md)
+  * [Tools/interventions: principles](background/tools-and-trials-overview/tools-interventions-principles.md)
+  * [Outcomes: Effective gift/consider impact)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/README.md)
+    * [(Effectiveness information and its presentation)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
+    * [(Outcome: Pledge, give substantially (& effectively))](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/README.md)
+      * [(Moral duty (of well-off))](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
+      * [Give if you win/ conditional pledge](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
+      * [(Accountability partners)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/accountability-partners.md)
+  * [Academic Paper Ideas](background/tools-and-trials-overview/academic-paper-ideas.md)
 
 ## Contexts-environments-plans-tests <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 

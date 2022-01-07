@@ -6,7 +6,7 @@ description: >-
 
 # Academic Paper Ideas
 
-_Why list these here?_By identifying specific hypotheses (for an academic paper), it will help:
+_Why list these here?_ By identifying specific hypotheses (for an academic paper), it will help:
 
 1. Generate ideas for non-profits to test
 2. Avoid indecision about what ideas to try
