@@ -8,6 +8,8 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 1. Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
 2. New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")&#x20;
+3. Considering "Public version" of gitbook, sharing; project management
+4. [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV)
 
 
 
@@ -30,7 +32,7 @@ _Previous updates: see tabs_
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
-* [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") [#preliminary-results](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/#preliminary-results "mention")
+* <mark style="background-color:green;">Impact vs emotion:</mark> [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") [#preliminary-results](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/#preliminary-results "mention")
 * "Upselling" YouTube marketing (casual lift test, or trials?); working with JS
 * [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments)
 
@@ -40,10 +42,10 @@ _Previous updates: see tabs_
 
     _<mark style="background-color:yellow;">We have</mark>_ [some results](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
 
-    * _<mark style="background-color:yellow;">Next steps: more detailed analysis and write-up (check/replicate/extend Google optimize Bayseian analysis in code)</mark>_
+    * _<mark style="background-color:yellow;">Next steps: more detailed analysis and write-up (check/replicate/extend Google optimize Bayesian analysis in code)</mark>_
 * [YouTube remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md).&#x20;
   * V prelim results: benchmarks on cost per view, relative performance of best/worst videos &#x20;
-  * Next steps: DR and JL (& others?) to liaise with JS to extract more insight, including about giving outcomes
+  * <mark style="background-color:orange;">Next steps</mark>: DR and JL (& others?) to liaise with JS to extract more insight, including about giving outcomes
 * [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email. ... (what themes?)
   * _?Status?_
 * Collecting ideas: aiming for testing at multiple points in the funnel ([Airtable](https://airtable.com/shrUGJuhyxrKGMEUm), Gdoc)
