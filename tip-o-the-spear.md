@@ -101,6 +101,9 @@ _Overview below --_ [_see Google doc details/discussion space HERE for more deta
 3. What we're all up to; debrief results of studies we've run (other than those covered before) -- see [#latest-best-campaigns-trials-initiatives](tip-o-the-spear.md#latest-best-campaigns-trials-initiatives "mention")
 4. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
 5. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template.md))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis&#x20;
+6. ‘Task management’: who does what and how do we organize it? Do we need other sources of funding for time? (see discussion in Gdoc)
+
+
 
 Jan 7 (Friday): OftW (Chloe), possibly 80k (Bella) present
 
