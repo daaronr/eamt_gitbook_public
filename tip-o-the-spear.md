@@ -92,16 +92,15 @@ Please don’t feel compelled to come to both, but try to come to one. We will h
 
 _Overview below --_ [_see Google doc details/discussion space HERE for more details and interaction_](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit?usp=sharing)__
 
-What we're all up to; debrief results of studies we've run (other than those covered before)
-
-1. discuss testing objectives (?)
-2. Introduce new people/orgs/projects
+1. Introduce new people/orgs/projects
    * Bella @ 80k
    * Fitz/Momentum
    * Ptashnik and profiling
    * New people/meets: Bilal@TLYCS, Grace@GWWC, others?&#x20;
-3. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
-4. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template.md))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis&#x20;
+2. discuss testing objectives (?)
+3. What we're all up to; debrief results of studies we've run (other than those covered before) -- see [#latest-best-campaigns-trials-initiatives](tip-o-the-spear.md#latest-best-campaigns-trials-initiatives "mention")
+4. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
+5. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template.md))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis&#x20;
 
 Jan 7 (Friday): OftW (Chloe), possibly 80k (Bella) present
 
