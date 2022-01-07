@@ -6,9 +6,8 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ## Team/Organizational updates
 
-1. Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results)
-2. [Agenda in progress](tip-o-the-spear.md#planning-meeting-for-early-january)
-3. New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")&#x20;
+1. Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
+2. New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")&#x20;
 
 
 
@@ -23,28 +22,33 @@ _Previous updates: see tabs_
 
 
 * First [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda), December 1, 7pm New York (recorded [HERE](tip-o-the-spear.md#team-organizational-updates))
-* Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-tim
+* Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-time
 {% endtab %}
 {% endtabs %}
 
-
-
 ## Latest/best campaigns, trials, initiatives
-
-### [GWWC](tip-o-the-spear.md#gwwc)
-
-*   <mark style="background-color:green;">"</mark>[<mark style="background-color:green;">Pledge page" split-test</mark>](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#general-idea-main-hypothesis)<mark style="background-color:green;">; vary presentations of pledge options (tied to cookies/IP addresses)</mark>
-
-    _<mark style="background-color:yellow;">We have</mark>_ [some results](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
-* [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)&#x20;
-* [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email. ... (what themes?)
-* Collecting ideas: aiming for testing at multiple points in the funnel ([Airtable](https://airtable.com/shrUGJuhyxrKGMEUm), Gdoc)
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
-* [<mark style="color:blue;background-color:orange;"><mark style="background-color:green;">Giving-season email campaign for 'additional donation'<mark style="background-color:green;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)[ <mark style="color:blue;background-color:orange;"><mark style="background-color:green;">\[link\]<mark style="background-color:green;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing) _<mark style="color:blue;background-color:orange;"><mark style="background-color:green;">(underway)<mark style="background-color:green;"></mark>_
+* [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") [#preliminary-results](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/#preliminary-results "mention")
 * "Upselling" YouTube marketing (casual lift test, or trials?); working with JS
 * [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments)
+
+### [GWWC](tip-o-the-spear.md#gwwc)
+
+*   "[Pledge page" split-test](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#general-idea-main-hypothesis); vary presentations of pledge options (tied to cookies/IP addresses)
+
+    _<mark style="background-color:yellow;">We have</mark>_ [some results](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
+
+    * _<mark style="background-color:yellow;">Next steps: more detailed analysis and write-up (check/replicate/extend Google optimize Bayseian analysis in code)</mark>_
+* [YouTube remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md).&#x20;
+  * V prelim results: benchmarks on cost per view, relative performance of best/worst videos &#x20;
+  * Next steps: DR and JL (& others?) to liaise with JS to extract more insight, including about giving outcomes
+* [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email. ... (what themes?)
+  * _?Status?_
+* Collecting ideas: aiming for testing at multiple points in the funnel ([Airtable](https://airtable.com/shrUGJuhyxrKGMEUm), Gdoc)
+
+###
 
 ### [The Life You Can Save](contexts-and-environments-for-testing/tlycs/)
 
@@ -93,16 +97,25 @@ Jan 9 (Sun): GWWC (Grace), TLYCS (Bilal), possibly 80k (Bella) present; also JS 
 
 [doodle responses](https://doodle.com/poll/zbkiiikfia99bbtc)
 
-### December 1 2021 (7-8pm EST)
+
+
+### Previous meetings, agendas, recordings (see tab)
+
+{% tabs %}
+{% tab title="Meeting reports (tabs)" %}
+
+{% endtab %}
+
+{% tab title="Dec 2021" %}
+**December 1 2021 (7-8pm EST)**
 
 _Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)
 
 * _first hour= general meeting,_
 * _last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template.md](contexts-and-environments-for-testing/trial-reporting-template.md "mention")
-
-1. **Introductions** (5 min; just a 'hello and here's a quick thing you might not know about me/ thing I'm excited about')
-2. **Questions/comments** on our 'Market Testing team', our tools (esp. this gitbook), and the monthly meeting/agenda (5-10 min)
-3.  **Recent & upcoming trials** -- let's "show and tell" (2 min intro)
+* **Introductions** (5 min; just a 'hello and here's a quick thing you might not know about me/ thing I'm excited about')
+* **Questions/comments** on our 'Market Testing team', our tools (esp. this gitbook), and the monthly meeting/agenda (5-10 min)
+*   **Recent & upcoming trials** -- let's "show and tell" (2 min intro)
 
     * Description: who (researchers, participants), when, what, why (key questions)
     * (Where) can we currently access the 'plans, content, and data'?
@@ -114,16 +127,28 @@ _Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CK
     B. at [one-for-the-world](contexts-and-environments-for-testing/one-for-the-world/ "mention"), especially [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") (8-12 min)
 
     C. at [#the-life-you-can-save](tip-o-the-spear.md#the-life-you-can-save "mention") (8-12 min if Neela is present, otherwise Reinstein summarizes in 1-2 min)
-4. **JS Winchell**: what he's been up to, considering funding/grants for his time (5-10 min)
-5. Time-permitting: "Our most interesting questions and issues"
+* **JS Winchell**: what he's been up to, considering funding/grants for his time (5-10 min)
+* Time-permitting: "Our most interesting questions and issues"
 
 Strict 1-hour deadline; will announce end after 1 hour. But you are free to stick around later. E.g., (David Reinstein) will be available to talk through the Gitbook.
 
 {% hint style="info" %}
 _We have recorded this meeting and shared it with the group_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_. Please do not share outside the group (except by mutual agreement of all present)_
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
-\_\_
+#### December 1 2021 (7-8pm EST)
+
+_Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_, see tab above for full agenda and details_&#x20;
+
+* _Recording: first hour= general meeting, last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template.md](contexts-and-environments-for-testing/trial-reporting-template.md "mention")
+
+{% hint style="info" %}
+_We have recorded this meeting and shared it with the group_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_. Please do not share outside the group (except by mutual agreement of all present)_
+{% endhint %}
+
+
 
 ## Other recent meetings
 
