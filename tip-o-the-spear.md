@@ -12,12 +12,24 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 
 
-_Previous updates_
+_Previous updates: see tabs_
 
-1. First [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda), December 1, 7pm New York (recorded [HERE](tip-o-the-spear.md#team-organizational-updates))
-2. Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-time
+{% tabs %}
+{% tab title="Prev. update: tabs" %}
 
-## Latest/coolest campaigns, trials, initiatives
+{% endtab %}
+
+{% tab title="Dec '20" %}
+
+
+* First [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda), December 1, 7pm New York (recorded [HERE](tip-o-the-spear.md#team-organizational-updates))
+* Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-tim
+{% endtab %}
+{% endtabs %}
+
+
+
+## Latest/best campaigns, trials, initiatives
 
 ### [GWWC](tip-o-the-spear.md#gwwc)
 
@@ -54,15 +66,15 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 ### Planned meeting(s) for early January
 
-_As we cannot all make a time, I propose two meetings, which should allow at least 1 person from each org to make a meeting_ \
+_DR: As we cannot all make a time, I propose two meetings; which should allow at least 1 person from each org to make a meeting_  [(Slack thread on this)](https://givingexperiments.slack.com/archives/C0298MCQK4G/p1640277221038700)\
 **Friday, Jan 7, 3-4pm New York,**\
 **Sunday, Jan 9, 9:00-10pm New York**
 
 Please don’t feel compelled to come to both, but try to come to one. We will have an agenda for each, and record and take notes on each.
 
-****[(Slack thread on this)](https://givingexperiments.slack.com/archives/C0298MCQK4G/p1640277221038700)
+#### **Agenda**
 
-**Agenda**
+_Overview below --_ [_see Google doc details/discussion space HERE for more details and interaction_](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit?usp=sharing)__
 
 What we're all up to; debrief results of studies we've run (other than those covered before)
 
