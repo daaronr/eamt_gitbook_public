@@ -27,8 +27,6 @@ _Previous updates: see tabs_
 {% endtab %}
 {% endtabs %}
 
-
-
 ## Latest/best campaigns, trials, initiatives
 
 ### [GWWC](tip-o-the-spear.md#gwwc)
@@ -36,13 +34,18 @@ _Previous updates: see tabs_
 *   <mark style="background-color:green;">"</mark>[<mark style="background-color:green;">Pledge page" split-test</mark>](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#general-idea-main-hypothesis)<mark style="background-color:green;">; vary presentations of pledge options (tied to cookies/IP addresses)</mark>
 
     _<mark style="background-color:yellow;">We have</mark>_ [some results](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
-* [YouTube remarketing (single arm or multiple arms?)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)&#x20;
+
+    * _<mark style="background-color:yellow;">Next steps: more detailed analysis and write-up</mark>_
+* [YouTube remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md).&#x20;
+  * V prelim results: benchmarks on cost per view, relative performance of best/worst videos &#x20;
+  * Next steps: DR and JL (& others?) to liaise with JS to extract more insight, including about giving outcomes
 * [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email. ... (what themes?)
+  * _?Status?_
 * Collecting ideas: aiming for testing at multiple points in the funnel ([Airtable](https://airtable.com/shrUGJuhyxrKGMEUm), Gdoc)
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
-* [<mark style="color:blue;background-color:orange;"><mark style="background-color:green;">Giving-season email campaign for 'additional donation'<mark style="background-color:green;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)[ <mark style="color:blue;background-color:orange;"><mark style="background-color:green;">\[link\]<mark style="background-color:green;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing) _<mark style="color:blue;background-color:orange;"><mark style="background-color:green;">(underway)<mark style="background-color:green;"></mark>_
+* [<mark style="color:blue;background-color:orange;"><mark style="background-color:green;">Giving-season email campaign for 'additional donation'<mark style="background-color:green;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)[ <mark style="color:blue;background-color:orange;"><mark style="background-color:green;">\[link\]<mark style="background-color:green;"></mark>](https://docs.google.com/document/d/1VyAtfJ2bFaQBfQVlflIdsN29Otr7g8YjjihXVfBv7UM/edit?usp=sharing)&#x20;
 * "Upselling" YouTube marketing (casual lift test, or trials?); working with JS
 * [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments)
 
