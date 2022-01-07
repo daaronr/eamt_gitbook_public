@@ -2,7 +2,7 @@
 
 ### Overview: conversation with DB
 
-Dillon Bowen: End of 3rd year of decision processes in Wharton PHd.
+Dillon Bowen: End of 3rd year of decision processes in Wharton PhD.
 
 > Here is a stats package for estimating effect sizes in multi-armed experiments. [https://dsbowen.gitlab.io/conditional-inference/](https://dsbowen.gitlab.io/conditional-inference/)
 
