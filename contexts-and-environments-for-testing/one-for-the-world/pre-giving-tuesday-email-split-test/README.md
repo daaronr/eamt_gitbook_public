@@ -60,8 +60,6 @@ See [#treatment-specifics-i.e.-experimental-conditions](preregistration\_oftw\_p
 
 ### Treatment assignment procedure
 
-.
-
 See [#4-how-many-and-which-conditions-will-participants-be-assigned-to](preregistration\_oftw\_pre\_gt.md#4-how-many-and-which-conditions-will-participants-be-assigned-to "mention")
 
 ### **Outcome data**
@@ -149,7 +147,9 @@ The figure above seems like a good summary of the ‘results so far’ on ‘wha
 \
 Y-axis: ’how likely would a difference in donations ‘as small or smaller in magnitude’” than we see in the data between the incidence (8 vs 6 people donating) be” … against\
 \
-X-axis: if the “true difference in incidence rates” were of these magnitudes_Takeaway:_
+X-axis: if the “true difference in incidence rates” were of these magnitudes
+
+_Takeaway:_
 
 * our data is consistent with ‘no difference’ (of course) … but it's also consistent with ‘a fairly large difference in incidence’
 * E.g., even if one treatment truly lead to ‘twice as many donations as the other’, we still have a 20% chance of seeing a difference as small as the one we see (of 8 versus 6)
