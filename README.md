@@ -9,11 +9,18 @@ description: >-
 
 ## Goal
 
-The “EA Market Testing Team” represents a small group of researchers and practitioners interested in promoting effective altruism and effective charitable giving, and learning more about what motivates this. To the best of our knowledge, this is the first organized collaboration of its kind. We aim to:
+The “EA Market Testing Team” is a group of researchers and practitioners interested in &#x20;
+
+* promoting effective charitable giving,
+* building awareness and understanding of ideas associated with effective altruism,&#x20;
+* fostering involvement in the EA movement and associated groups,
+* &#x20;and learning more about what motivates this.
+
+To the best of our knowledge, this is the first such organized collaboration of its kind. We aim to:
 
 * Coalesce our understanding and evidence on barriers and facilitators of effective altruism/effective giving/effective action
-* Run a broad set of powerful trials and experiments (esp. in large-scale settings), gathering evidence on ‘what works best to promote meaningful actions (donations and commitments) in specific cases as well as general principles and approaches
-* Conduct [profiling, survey, and segmentation activities and trials](profiling-and-segmentation/profiling-discussion.md), building evidence on which types of people are most responsive to effective giving messages and appeals
+* Run a broad set of powerful trials and experiments (esp. in large-scale settings), gathering evidence on ‘what works best' to promote meaningful actions (donations and commitments) in specific cases, as well as evdc on general principles and approaches
+* Conduct [profiling, survey, and segmentation activities and trials](profiling-and-segmentation/profiling-discussion.md), building evidence on which 'types of people' are most responsive to effective giving messages and appeals
 * Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics
 
 ## **Quick links**
