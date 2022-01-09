@@ -66,16 +66,17 @@ We've been running the YT remarketing for 3 weeks so wanted to send you an updat
 ![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.1\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ\_hDVdViEQapoi8ScvrQmqLSdETS8dJizmkF2nCh-yiZNjV-Lgmyu3ltc45oKsT-3wa6VLhF1HDDlGbLcKG7\_84nFMhLqFMqxtQsHev77tBlSsXMcNqmJxUO1s\&disp=emb\&realattid=ii\_ks32th160)\
 \
 2\. 10% of the time people watched the full video!\
-![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.2\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ-cfbGoRTUjeXUVWj7KrfwlgOXv-aaI7hKW\_V2TMOS4hHs6FSFxZAvV5UhT25gbw-mOVAVPUjPwhfOhlBaKGMIymL73JqKK7YvjWh4A\_95d6oaHonjEKyFAHk8\&disp=emb\&realattid=ii\_ks33a1z92)\
-
+![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.2\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ-cfbGoRTUjeXUVWj7KrfwlgOXv-aaI7hKW\_V2TMOS4hHs6FSFxZAvV5UhT25gbw-mOVAVPUjPwhfOhlBaKGMIymL73JqKK7YvjWh4A\_95d6oaHonjEKyFAHk8\&disp=emb\&realattid=ii\_ks33a1z92)\\
 
 * You can see this data by video if you are interested to control for video length
 * E.g., 5% of people chose to watch the entire 13 minutes of \_[_this video_](https://www.youtube.com/watch?v=41tlWqyD094)
 
 \
-3\. Your best video had a view rate (% of time people choose to watch >30s) twice as good as your worst video![image.png](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.3\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ\_Ax\_VUEXUHn1\_WZXK-af52waOROoud5baKCg316S\_tsoS2hLprlCb9FgQDDWPB9pXlKQxvPRIqr1kLRDj5AMZkHCo4-Lz1wNsabKNpKn\_d4pdNKuapBvwjchY\&disp=emb\&realattid=ii\_ks33e7h74)\
+3\. Your best video had a view rate (% of time people choose to watch >30s) twice as good as your worst video\
 \
 4\. You can see view rate by age, gender, and device in the "Analytics" tab
+
+![](https://mail.google.com/mail/u/0?ui=2\&ik=afc4baae80\&attid=0.3\&permmsgid=msg-f:1707524504229278164\&th=17b2587d5fdc71d4\&view=fimg\&sz=s0-l75-ft\&attbid=ANGjdJ\_Ax\_VUEXUHn1\_WZXK-af52waOROoud5baKCg316S\_tsoS2hLprlCb9FgQDDWPB9pXlKQxvPRIqr1kLRDj5AMZkHCo4-Lz1wNsabKNpKn\_d4pdNKuapBvwjchY\&disp=emb\&realattid=ii\_ks33e7h74)
 
 * For the [13m video](https://www.youtube.com/watch?v=sdo8m7aVB6I\&t=108s), older people and men were more likely to choose to continue watching
 
