@@ -49,7 +49,11 @@ _Previous updates: see tabs_
   * <mark style="background-color:orange;">Next steps</mark>: DR and JL (& others?) to liaise with JS to extract more insight, including about giving outcomes
 * [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email. ... (what themes?)
   * _<mark style="background-color:purple;">Status?</mark>_
+    * _GA: Think this should be put on hold while we continue Giving Guide tests, and then use results to inform this test later._
 * Collecting ideas: aiming for testing at multiple points in the funnel ([Airtable](https://airtable.com/shrUGJuhyxrKGMEUm), Gdoc)
+* Multivariate testing for CTA on the How Rich Am I? Calculator
+  * Test options like: Download giving guide, make a donation, sign up to newsletter, pledge, share calculator, read more
+  * Want to understand what is a good hook to keep new visitors exploring and learning
 
 ### [The Life You Can Save](contexts-and-environments-for-testing/tlycs/)
 
