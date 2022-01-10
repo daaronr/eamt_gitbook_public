@@ -33,7 +33,6 @@
   * [Testing Contexts: Overview](contexts-and-environments-for-testing/environments-and-plans/future-avenues.md)
 * [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template/README.md)
   * [("All the data")](contexts-and-environments-for-testing/trial-reporting-template/all-the-data.md)
-* [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Pledge page (options trial) (+)](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md)
   * [Home page header versions (+)](contexts-and-environments-for-testing/gwwc/home-page-header-versions-+.md)
@@ -62,6 +61,10 @@
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
   * [Chatbot (deferred)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
+
+***
+
+* [(Ads (Google, Youtube...))](ads-google-youtube....md)
 
 ## Methods and implementation discussion <a href="#methodological-discussion" id="methodological-discussion"></a>
 
