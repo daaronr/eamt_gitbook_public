@@ -31,7 +31,8 @@
 
 * [Environments, plans, tests](contexts-and-environments-for-testing/environments-and-plans/README.md)
   * [Testing Contexts: Overview](contexts-and-environments-for-testing/environments-and-plans/future-avenues.md)
-* [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
+* [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template/README.md)
+  * [("All the data")](contexts-and-environments-for-testing/trial-reporting-template/all-the-data.md)
 * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Pledge page (options trial) (+)](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md)

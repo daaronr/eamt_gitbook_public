@@ -6,7 +6,7 @@ description: >-
 
 # Trial reporting template
 
-_For each proposed/ongoing/past trial, we should report the following minimal details, with links (proposed template)._&#x20;
+_For each proposed/ongoing/past trial, we should report the following minimal details, with links (proposed template)._
 
 If you don't have time and you have another clear presentation of most of this, please link or embed it.
 
@@ -58,8 +58,6 @@ The present Gitbook/and a nested Github repo folder could be ideal. Please give 
 * (Somewhat optional) How many people (or 'units') do you expect to be involved (median guess)?
 * (Optional): How many do you expect will have a 'positive outcome' (e.g., a 'conversion')?
 
-
-
 ### Key treatment(s)
 
 Description, link exact language/content if possible
@@ -76,6 +74,10 @@ Description, link exact language/content if possible
 * What measures (outcomes, other features) will be collected?
 * When and how
 * **Crucial: Where will the data be stored and who will have access?**
+
+{% hint style="info" %}
+What do we mean by "the data" or "all the raw data"? We (will) describe this, with examples,  in the  [all-the-data.md](all-the-data.md "mention") section below.
+{% endhint %}
 
 ### **Optional/suggested additions**
 

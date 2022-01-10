@@ -1,6 +1,6 @@
 # pre-giving-tuesday-email split test (+)
 
-_24 Nov 2021 -- adapting this to the_ [trial-reporting-template.md](../../trial-reporting-template.md "mention") _... incorporating the_ [preregistration\_oftw\_pre\_gt.md](preregistration\_oftw\_pre\_gt.md "mention") _and the internal plan notes (below)_
+_24 Nov 2021 -- adapting this to the_ [trial-reporting-template](../../trial-reporting-template/ "mention") _... incorporating the_ [preregistration\_oftw\_pre\_gt.md](preregistration\_oftw\_pre\_gt.md "mention") _and the internal plan notes (below)_
 
 _Note: Some of the below overlaps the content in_ [preregistration\_oftw\_pre\_gt.md](preregistration\_oftw\_pre\_gt.md "mention")\_\_
 

@@ -18,7 +18,7 @@ description: How the gitbook sections are organized; we can discuss this
    2. By each organization
       1. Background on the organization and the environments within
       2. Plans and progress on trials within each
-   3. T[emplate for reporting](../contexts-and-environments-for-testing/trial-reporting-template.md#concise-reporting-template) trials and progress
+   3. T[emplate for reporting](../contexts-and-environments-for-testing/trial-reporting-template/#concise-reporting-template) trials and progress
 6.  [Methods](broken-reference/): discuss issues of methodology & '[how to implement](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/contexts-and-environments-for-testing/implementation-and-collecting-data-issues/README.md) tricky things right'
 
     _(Let's link to this in other sections not rehash each debate in multiple places)_

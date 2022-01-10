@@ -7,7 +7,7 @@ description: >-
 
 # Pledge page (options trial) (+)
 
-[**Following**](../trial-reporting-template.md)**:** [trial-reporting-template.md](../trial-reporting-template.md "mention")
+[**Following**](../trial-reporting-template/)**:** [trial-reporting-template](../trial-reporting-template/ "mention")
 
 ## General idea, main 'hypothesis'
 
@@ -65,9 +65,9 @@ Start: 19 April 2021 (or 21 April)? End: 10 July 2021 (Source: Google Analytics)
 
 _(Planning, material, data)_
 
-* Statistics  available on Google Analytics/Optimizely,
-  * Reinstein has access, planning to input into R for more detailed analysis&#x20;
-* Present document = Only known writeup&#x20;
+* Statistics available on Google Analytics/Optimizely,
+  * Reinstein has access, planning to input into R for more detailed analysis
+* Present document = Only known writeup
 
 ### Environment/context for trial
 
@@ -120,8 +120,6 @@ Our analysis should focus on outcomes per _participant_; thus, the figures below
 This doesn't seem to be adaptive assignment. In Google's help on 'create an A/B test' they state:
 
 > All variants are weighted equally by default in Optimize. A visitor who is included in your experiment has an equal chance of seeing any of your variants.
-
-
 {% endhint %}
 
 The version presented stayed constant according to an individual's IP cookie tracking.
@@ -158,8 +156,6 @@ Most importantly:
 {% endtab %}
 {% endtabs %}
 
-
-
 ### **Optional/suggested additions**
 
 _Consider_: Planned analysis methods, preregistration link, IRB link, connection to other projects and promotions
@@ -181,8 +177,6 @@ Pledge before Try Giving: 2686
 Separate Block for Other Pledges: 2718
 
 **Total: 7992 sessions** (=2588+2686+2718)
-
-
 
 _3. Where is the data stored (also link/adjust the above), who has it, and under what conditions?_
 

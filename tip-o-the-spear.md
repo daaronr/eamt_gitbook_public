@@ -108,7 +108,7 @@ _Overview below --_ [_see Google doc details/discussion space HERE for more deta
 2. discuss testing objectives (?)
 3. What we're all up to; debrief results of studies we've run (other than those covered before) -- see [#latest-best-campaigns-trials-initiatives](tip-o-the-spear.md#latest-best-campaigns-trials-initiatives "mention")
 4. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
-5. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template.md))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis&#x20;
+5. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template/))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis&#x20;
 6. ‘Task management’: who does what and how do we organize it? Do we need other sources of funding for time? (see discussion in [Gdoc](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#))
 
 
@@ -134,7 +134,7 @@ Jan 9 (Sun): GWWC (Grace), TLYCS (Bilal), possibly 80k (Bella) present; also JS 
 _Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)
 
 * _first hour= general meeting,_
-* _last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template.md](contexts-and-environments-for-testing/trial-reporting-template.md "mention")
+* _last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template](contexts-and-environments-for-testing/trial-reporting-template/ "mention")
 * **Introductions** (5 min; just a 'hello and here's a quick thing you might not know about me/ thing I'm excited about')
 * **Questions/comments** on our 'Market Testing team', our tools (esp. this gitbook), and the monthly meeting/agenda (5-10 min)
 *   **Recent & upcoming trials** -- let's "show and tell" (2 min intro)
@@ -164,7 +164,7 @@ _We have recorded this meeting and shared it with the group_ [_HERE_](https://ny
 
 _Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_, see tab above for full agenda and details_&#x20;
 
-* _Recording: first hour= general meeting, last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template.md](contexts-and-environments-for-testing/trial-reporting-template.md "mention")
+* _Recording: first hour= general meeting, last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template](contexts-and-environments-for-testing/trial-reporting-template/ "mention")
 
 {% hint style="info" %}
 _We have recorded this meeting and shared it with the group_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_. Please do not share outside the group (except by mutual agreement of all present)_
