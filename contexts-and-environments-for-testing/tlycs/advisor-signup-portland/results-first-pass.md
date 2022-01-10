@@ -40,3 +40,7 @@ DR: Yes, if we are interested in the page views, IMO this is the next approach w
 \
 I suggest we outline/link the 'go-to approaches for each analysis  situation' in the (new) [analysis-statistical-approaches.md](../../../methodological-discussion/analysis-statistical-approaches.md "mention") section. (Which should link to Rethink Priority's public methods notes, IMO)
 
+
+
+Notes, JS: We want to know more about the impact on _sessions ('lift test'), how much it costs to get page views,_ to get a sense of the ROI.&#x20;
+
