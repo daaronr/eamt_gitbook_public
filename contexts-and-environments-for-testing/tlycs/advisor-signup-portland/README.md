@@ -15,7 +15,7 @@ Filling out using [trial-reporting-template](../../trial-reporting-template/ "me
 _Specific goal of promotion:_ Get people to click in the ad go to the 'landing page' fill out [a form](https://www.thelifeyoucansave.org/advisor/) to request an appointment with a donation advisor while simultaneously raising awareness for TLYCS
 
 1. Can we get people to sign up for donation advice using videos in YouTube Ads?
-   1. How many sign up and what sorts of people?
+   * How many sign-up and what sorts of people?
 2. Do these ads boost engagement with TLYCS in net? (E.g. donations, website activity, book downloads)
    * "Lift test" on Portland market (analyze with difference-in-difference relative to other markets)
 3. Which ads are best at this? (These ads differ in substance as well as in style)
