@@ -10,6 +10,8 @@ See also the cross-organization [notes on advertising, google, youtube, etc](../
 
 JS: I wanted to let you know that GWWC just launched a YouTube remarketing campaign. That means that when someone goes to the GWWC website, leaves, and then goes to YouTube we show them one of the following videos:
 
+Algorithm decides which video to present to people.
+
 * [Example 1](https://www.youtube.com/watch?v=GYeDfRx8U7k\&t=12s)
 * [Example 2](https://www.youtube.com/c/GivingWhatWeCanCommunity/videos)
 * [Example 3](https://www.youtube.com/watch?v=sdo8m7aVB6I)
