@@ -6,12 +6,9 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ## Team/Organizational updates
 
-1. Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
-2. New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")&#x20;
-3. Considering "Public version" of gitbook, sharing; project management
-4. [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV)
-
-
+* Post-Jan meeting: TLCYS, OftW, 80k I need your approval on ['what can be publicly shared'](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#heading=h.cg90o34wlpye)
+* [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV) -- need to followup
+* Looking for more 'hands on deck' to help with the analysis and communication
 
 _Previous updates: see tabs_
 
@@ -20,11 +17,17 @@ _Previous updates: see tabs_
 
 {% endtab %}
 
-{% tab title="Dec '20" %}
+{% tab title="Dec '21" %}
+* Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
+* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")&#x20;
+* Considering "Public version" of gitbook, sharing; project management
+* [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV)
+{% endtab %}
 
-
-* First [monthly meeting](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) (1 hour standing meeting with agenda), December 1, 7pm New York (recorded [HERE](tip-o-the-spear.md#team-organizational-updates))
-* Considering [how to fund JS](https://docs.google.com/document/d/1pIU9QFOw7QO1D16UAxOf6qjvQz6Hnt3uOxnEahUF9fg/edit#heading=h.31ssdq6stkkt) to help market and market-test EA full-time
+{% tab title="Jan '22" %}
+* Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
+* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")&#x20;
+* Considering "Public version" of gitbook, sharing; project management
 {% endtab %}
 {% endtabs %}
 
