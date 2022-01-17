@@ -35,11 +35,6 @@ Targeted dates: November 10, November 18, November 23, all in 2021, but these ma
 
 Present Gitbook, Google doc linked below, preregistration (OSF), and ??
 
-Data:&#x20;
-
-* Donations: pulled down (somehow") into [Gsheet: November GivingTuesday Email Series Test\_opened\_contacts](./#key-treatment-s), password access only
-* Email opens/clicks/etc: A series of Mailchimp reports shared in a private group by kennan@1fortheworld.org
-
 ### Environment/context for trial
 
 Emails\

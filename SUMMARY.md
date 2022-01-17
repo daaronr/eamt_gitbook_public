@@ -56,6 +56,8 @@
   * [(Social influence - JustGiving)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/social-influence-justgiving.md)
   * [FB birthday trial - brief](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md)
 * [Other orgs/approaches](contexts-and-environments-for-testing/other/README.md)
+  * [EA university groups](contexts-and-environments-for-testing/other/ea-university-groups.md)
+  * [Schools/young people/education](contexts-and-environments-for-testing/other/schools-young-people-education.md)
   * [(FLI (adjacent))](contexts-and-environments-for-testing/other/fli-adjacent.md)
   * [(Founders Pledge)](contexts-and-environments-for-testing/other/founders-pledge.md)
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)

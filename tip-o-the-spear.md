@@ -46,7 +46,7 @@ _Previous updates: see tabs_
 
     _<mark style="background-color:yellow;">We have</mark>_ [some results](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
 
-    * _<mark style="background-color:yellow;">Next steps: more detailed analysis and write-up (check/replicate/extend Google optimize Bayesian analysis in code)</mark>_
+    * <mark style="background-color:orange;">Next steps</mark>_<mark style="background-color:yellow;">: more detailed analysis and write-up (check/replicate/extend Google optimize Bayesian analysis in code)</mark>_
 * [YouTube remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md).&#x20;
   * V prelim results: benchmarks on cost per view, relative performance of best/worst videos &#x20;
   * <mark style="background-color:orange;">Next steps</mark>: DR and JL (& others?) to liaise with JS to extract more insight, including about giving outcomes
@@ -60,9 +60,9 @@ _Previous updates: see tabs_
 
 ### [The Life You Can Save](contexts-and-environments-for-testing/tlycs/)
 
-* Considering a '[funds recommendations trial'](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md) with different options and 'prompted consideration'. <mark style="background-color:purple;">Status?</mark>
 * Various trials with JS, including [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") city-level Youtube test;&#x20;
   * Preliminary results: very low 'advisor signup' response, underpowered; <mark style="background-color:orange;">Next steps</mark>: difference in difference in difference analysis of how many sessions (by pre/post, year-to-year, Portland vs other), to see if the ad lead to clicks
+* Considering a '[funds recommendations trial'](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md) with different options and 'prompted consideration'. <mark style="background-color:purple;">Status?</mark>
 
 ### 80000 hours
 
@@ -73,8 +73,6 @@ Bella's goals and interests:&#x20;
 * optimize WoM channels, referral campaign
 * sponsorships (sponsor a podcast, youtube)&#x20;
 * 80k and Tim Ferris (a bit confounded with different CtA) ...&#x20;
-
-There was something else in the works, but I'm forgetting
 
 
 
