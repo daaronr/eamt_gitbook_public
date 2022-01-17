@@ -40,7 +40,46 @@ DR: Yes, if we are interested in the page views, IMO this is the next approach w
 \
 I suggest we outline/link the 'go-to approaches for each analysis  situation' in the (new) [analysis-statistical-approaches.md](../../../methodological-discussion/analysis-statistical-approaches.md "mention") section. (Which should link to Rethink Priority's public methods notes, IMO)
 
-
-
 Notes, JS: We want to know more about the impact on _sessions ('lift test'), how much it costs to get page views,_ to get a sense of the ROI.&#x20;
+
+
+
+#### _DR: a proposed modeling approach_&#x20;
+
+_(work on, compare to literature, move to statistical approaches section)_
+
+_$Y = visits/day = constant + (city\_constants) + (year\_dummies) + (month\_dummies) +  B\*D\_treated + ‘white noise’_
+
+_(There's a way to do maths but I can't figure it out atm)_
+
+$$
+f(x) = x * e^{2 pi i \xi x}
+$$
+
+_D\_treated:_ Whether I’m in a city in a ‘treated month’ (of which we have only one atm, Portland in December)…\
+\
+&#x20;We should be able to ‘run the model’ and estimate _B_, the coefficient of interest here.I suspect the unbiased (but not necessarily lowest-variance) point estimate will be …\
+\
+Let the ‘Nov to Dec difference in Y in city j  in a year t’…\
+&#x20;be _\Delta\_m(Y\_j\_t)_\
+__\
+__ for Portland (PL) 2021 (21) , this is\
+_\Delta\_m(Y\_PL\_21)  = (Y\_PL\_Dec\_21 - Y\_PL\_Nov\_21)_\
+__\
+__\
+__Let the year-to year difference in something be _\Delta\_y(something)_… so\
+_\Delta\_t(\Delta\_m(Y\_PL\_21))_  = _\Delta\_m(Y\_PL\_21)  - \Delta\_m(Y\_PL\_20) =  (Y\_PL\_Dec\_21 - Y\_PL\_Nov\_21) -  (Y\_PL\_Dec\_20 - Y\_PL\_Nov\_20)_\
+__\
+__Finally, consider an ‘appropriately weighted bundle of comparison cities’  CC, and consider averages across this bundle of comparison cities.\
+\
+I think the estimator we want may be:\
+_\hat(B(PL, 21) = \Delta\_t(\Delta\_m(Y\_PL\_21)) - \Delta\_t(\Delta\_m(Y\_CC\_21))._ I believe this has EV equal to the B in the above.\
+__\
+__We could then compute this object and do some simulation tests on it (as well as robustness to other comparison cities).
+
+E.g., we can simulate the distribution of _\hat(B)_ by randomly choosing any of the (untreated) cities X and computing the comparable \\_hat(B(X, 21) …_ and seeing how rare it is to get a value as extreme as the one we get for _\hat(B(PL, 21)._&#x20;
+
+
+
+Of course,  there _are_ more grounded approaches than simulation we could use, such as a random-effects (regression) model, and various things that come under "difference in difference in ..." and "multi-way fixed  effects"
 
