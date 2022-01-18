@@ -34,7 +34,7 @@ _**Update**_: as of 15 Oct 2021 Gitbook has changed its protocols. You now need 
 
 ![](<../../.gitbook/assets/image (1) (1).png>)
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 Give it a try. Once you 'submit', you, or someone else can 'merge' it in.
 
@@ -68,7 +68,36 @@ This Gitbook is connected to the private [github-hosted repo here](https://githu
 https://github.com/daaronr/effective_giving_market_testing
 ```
 
-It 'backs up' nicely to a set of easy-to-follow markdown files and folders. If you prefer to work offline, in nice 'raw text formats' (rather than via the web interface)... you should be able to edit those files in any interface and push/merge the content in. (If you are familiar with git and Github.
+It 'backs up' nicely to a set of easy-to-follow markdown files and folders. If you prefer to work offline, in nice 'raw text formats' (rather than via the web interface)... you should be able to edit those files in any interface and push/merge the content in. (If you are familiar with git and Github.\
+\
+The markdown and project organization syntax is a little bit distinct from others I've used, such as Rmd/bookdown. \
+
+
+The folders have meaning for the structure of sections, I think, but the SUMMARY.md file seems to govern most of it. \
+
+
+![](<../../.gitbook/assets/image (3).png>)
+
+
+
+There is a particular dash-separated 'description' section at the top of each .md\
+And there are some special code elements like
+
+`{% ="URL HERE" %}`
+
+for embedded content (esp. Google docs), \
+\
+... multi-tab tab elements:\
+![](../../.gitbook/assets/image.png)\
+\
+..And callout boxes, including 'hints'\
+
+
+`{% hint style="info" %}`\
+`Hint content here`\
+`{% endhint %}`
+
+>
 
 ## [Other tech](other-tech.md)
 

@@ -8,7 +8,7 @@ description: >-
 
 Mapping the key non-obvious features of running and analyzing these A/B trials using the Google analytics/optimize system.
 
-Reporting and considering this in the context of the  \[redacted]
+Reporting and considering this in the context of the \[redacted]
 
 _**CONTENT/IMAGES redacted below**_
 
@@ -43,7 +43,7 @@ The overall start/end and 'sessions' are given first. What are "sessions"? _The 
 
 #### Relative conversion rates, analysis
 
-Above, the 'REDACTED seems to be the best performing treatment. Google calculates a 2.69% conversion rate for this&#x20;
+Above, the 'REDACTED seems to be the best performing treatment. Google calculates a 2.69% conversion rate for this
 
 Considering the Analysis, Google Optimize "uses Bayesian inference to generate its reports._.._ \[and] chooses its priors to be quite uninformed." The exact priors are not specified (we should try to clarify this).
 
@@ -89,7 +89,7 @@ We can also combine intervals, to make statements like ...
 * a 50% chance of being 4-36% better
 * a 50% chance of being 20-76% better
 
-We report on this further, for this particular case, under&#x20;
+We report on this further, for this particular case, under
 
 REDACTED
 
@@ -108,7 +108,7 @@ Why? As far as I (DR) understand,
 
 The final section gives the day to day breakdown of the performance of each treatment, presumably, along with confidence intervals. This seems relevant for 'learning and improving while doing' but possibly less relevant for our overall comparison of the pages/treatments.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 #### Download (top right)
 
