@@ -14,7 +14,7 @@ _Rather than chains of disconnected emails and many unlinked Google docs, I (Dav
 ## Who has access/how to gain access?
 
 {% hint style="info" %}
-This is a PRIVATE site, only accessible to members. As we are conducting trials, we cannot have this accessible to the whole world, including participants. However, we hope to make most of this public in due time, in line with information sharing and open science.
+This version is currently PUBLIC but unlisted. It doesn't contain information on on our trials or marketing activities (as of 18 Jan 2022), but we hope to be adding and integrating some details soon. We hope to make most of this public in due time, in line with information sharing and open science.
 {% endhint %}
 
 ## What do the sections and groups mean?
@@ -27,16 +27,16 @@ This is a PRIVATE site, only accessible to members. As we are conducting trials,
 
 If you have 'write (Editor) access' ....
 
-_**Update**_: as of 15 Oct 2021 Gitbook has changed their protocols. You now need to
+_**Update**_: as of 15 Oct 2021 Gitbook has changed its protocols. You now need to
 
-* &#x20;click the icon in the upper right to 'start a change request',&#x20;
-* and then 'submit' this request when you are ready (ideally, with a brief informative message explaining what you have done.&#x20;
+* click the icon in the upper right to 'start a change request',
+* and then 'submit' this request when you are ready (ideally, with a brief informative message explaining what you have done.
 
 ![](<../../.gitbook/assets/image (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
-Give it a try. Once you 'submit', you, or someone else can 'merge' it in.&#x20;
+Give it a try. Once you 'submit', you, or someone else can 'merge' it in.
 
 {% hint style="info" %}
 In newly created blocks/elements "command-slash" (on mac) brings up a lot of cool options (scroll down)
@@ -68,7 +68,7 @@ This Gitbook is connected to the private [github-hosted repo here](https://githu
 https://github.com/daaronr/effective_giving_market_testing
 ```
 
-It 'backs up' nicely to a set of easy-to-follow markdown files and folders. If you prefer to work offline, in nice 'raw text formats' (rather than via the web interface)...  you should be able to edit those files in any interface and push/merge the content in.  (If you are familiar with git and Github.
+It 'backs up' nicely to a set of easy-to-follow markdown files and folders. If you prefer to work offline, in nice 'raw text formats' (rather than via the web interface)... you should be able to edit those files in any interface and push/merge the content in. (If you are familiar with git and Github.
 
 ## [Other tech](other-tech.md)
 
