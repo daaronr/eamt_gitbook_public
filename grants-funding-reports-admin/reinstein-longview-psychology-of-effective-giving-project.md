@@ -110,3 +110,10 @@ Additional content in EA Survey donation report [informs 'do GWWC people fulfill
 * [Reinstein original proposal, key details - linked Gdoc](https://docs.google.com/document/d/1JVy1uK1x5vCAJTwwCJdUPvYAZBJeLBpfEMY9Tqx1-MY/edit#), embedded below
 
 {% embed url="https://docs.google.com/document/d/1JVy1uK1x5vCAJTwwCJdUPvYAZBJeLBpfEMY9Tqx1-MY/edit#" %}
+
+## Quick reports
+
+[Quick update report (for RP correspondence):](https://docs.google.com/document/d/1dc\_NAZT8sBG7kcX0Z38hvSB\_6dnOjXdfHLx0AWvvT\_I/edit)\
+
+
+{% embed url="https://docs.google.com/document/d/1dc_NAZT8sBG7kcX0Z38hvSB_6dnOjXdfHLx0AWvvT_I/edit" %}
