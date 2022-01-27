@@ -1,7 +1,7 @@
 # Table of contents
 
 * [PUBLIC: Effective Giving & Action: Market testing & Synthesis](README.md)
-* [Tip-o-the-spear](tip-o-the-spear/README.md)
+* [Tip-o-the-spear](tip-o-the-spear.md)
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
 
