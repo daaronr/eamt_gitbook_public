@@ -10,8 +10,15 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
-* Large trial involving messaging to existing OftW pledgers/participants (details redacted, data being analyzed and awaiting permission to share preliminary results on click-through and giving outcomes)
-* Finalizing trials at select universities
+
+
+* <mark style="background-color:green;">Impact vs emotion:</mark> [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") [#preliminary-results](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/#preliminary-results "mention")
+    * Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
+    * Preliminary results: little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
+    * <mark style="background-color:orange;">Next steps</mark>: update with further donations, write-up, get feedback
+
+
+* Outreach: Finalizing trials at select universities
 
 ### [GWWC](tip-o-the-spear.md#gwwc)
 
