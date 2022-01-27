@@ -20,9 +20,11 @@ Barriers project (Reinstein)
 Barriers project (Reinstein)
 {% endembed %}
 
-_Redacted_:\
-Gdoc: "GWWC/Effective Giving Open Research Questions and Experiments to Run"\
-Airtable classification of this
+{% embed url="https://docs.google.com/document/d/1Sps58H0LKvoLvzSSa2Yav3kFO1vDSVzsYXoYyWzvol0/edit#" %}
+GWWC brainstorming
+{% endembed %}
+
+As well as
 
 {% embed url="https://airtable.com/shrUGJuhyxrKGMEUm" %}
 
