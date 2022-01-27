@@ -14,7 +14,7 @@
 
 ## Background, evidence, framework <a href="#background" id="background"></a>
 
-* [The challenge: drivers of effective/ineffective giving](background-and-existing-evidence/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
+* [The challenge: drivers of effective/ineffective giving](background/the-challenge-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background-and-existing-evidence/models-theories-psychological-norms.md)
 * [Tools and trials: overview](background/tools-and-trials-overview/README.md)
   * [Tools/interventions: principles](background/tools-and-trials-overview/tools-interventions-principles.md)
@@ -34,23 +34,23 @@
 * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Pledge page (options trial) (+)](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md)
-  * [YouTube Remarketing (+)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
-  - Other trials in progress: Home page, giving guides, advertising
+  * [YouTube Remarketing (+)](contexts-and-environments-for-testing/gwwc/youtube-remarketing-+.md)
+  * [Other trials in progress: Home page, giving guides, advertising](contexts-and-environments-for-testing/gwwc/other-trials-in-progress-home-page-giving-guides-advertising.md)
 * [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world-oftw/README.md)
-  * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
+  * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
-  * [Advisor signup (advertising trial in one city) (+)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/README.md)
+  * [Advisor signup (advertising trial in one city) (+)](contexts-and-environments-for-testing/tlycs/advisor-signup-advertising-trial-in-one-city-+.md)
 * [80000 hours](contexts-and-environments-for-testing/80000-hours/README.md)
-  * YouTube awareness at university (redacted)
+  * [YouTube awareness at university (redacted)](contexts-and-environments-for-testing/80000-hours/youtube-awareness-at-university-redacted.md)
 * [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
-  * [\[Social media and social giving trials in preparation - redacted()](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/trials-in-preparation-redacted.md)
+  * [\[Social media and social giving trials in preparation - redacted\]](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/trials-in-preparation-redacted.md)
 * [Other orgs/approaches in progress](contexts-and-environments-for-testing/other/README.md)
-  * EA university groups
-  * Schools/young people/education; see 'Charity Elections' project
-  - Adjacent orgs: FLI, Founders' pledge, Animal Charity Evaluators
-  - GiveWell
+  * [EA university groups](contexts-and-environments-for-testing/other/ea-university-groups.md)
+  * [Schools/young people/education; see 'Charity Elections' project](contexts-and-environments-for-testing/other/schools-young-people-education-see-charity-elections-project.md)
+  * [Adjacent orgs: FLI, Founders' pledge, Animal Charity Evaluators](contexts-and-environments-for-testing/other/adjacent-orgs-fli-founders-pledge-animal-charity-evaluators.md)
+  * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
 
 ***
 
@@ -61,7 +61,7 @@
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
 * ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
   * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
-* [(Analysis: Statistical  approaches)](methodological-discussion/analysis-statistical-approaches.md)
+* [(Analysis: Statistical approaches)](methodological-discussion/analysis-statistical-approaches.md)
 * [Implementation and collecting data: Issues](methodological-discussion/implementation-and-collecting-data-issues/README.md)
   * [Survey and marketing platforms](methodological-discussion/implementation-and-collecting-data-issues/survey-and-marketing-platforms.md)
   * ["Doing and funding ads"](methodological-discussion/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
