@@ -8,7 +8,13 @@ description: What can be shared outside the group? Discussion
 
 We discussed 'what can be shared outside the group' at [#planned-meeting-s-for-early-january](../../tip-o-the-spear.md#planned-meeting-s-for-early-january "mention") See google [discussion  doc here](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit).
 
-> GWWC/Luke:   GWWC: Basically OK to share, with some sensitivities. Luke: generally happy to share things. Data: only personal data is sensitive, and we rarely come across it; also consider ‘optics issues’; we want to be careful about that. Avoid discussing cost and spends on ads.
+#### GWWC/Luke:
+
+Basically OK to share, with some sensitivities. Luke: generally happy to share things. Data: only personal data is sensitive, and we rarely come across it; also consider ‘optics issues’; we want to be careful about that. Avoid discussing cost and spends on ads.
+
+#### OftW Jack Lewars
+
+> Fine for you to share everything in anonymised format David, thanks - as in, as long as all participant data is anonymised. You can say you were working with us.&#x20;
 
 
 
