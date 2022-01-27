@@ -10,17 +10,15 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
+1. [pre-giving-tuesday-email-split-test-+.md](contexts-and-environments-for-testing/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+.md "mention")
 
+* Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
+* Preliminary results: little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
+* <mark style="background-color:orange;">Next steps</mark>: update with further donations, write-up, get feedback
 
-* <mark style="background-color:green;">Impact vs emotion:</mark> [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") [#preliminary-results](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/#preliminary-results "mention")
-    * Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
-    * Preliminary results: little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
-    * <mark style="background-color:orange;">Next steps</mark>: update with further donations, write-up, get feedback
+**2. Outreach: Finalizing trials at select universities**
 
-
-* Outreach: Finalizing trials at select universities
-
-### [GWWC](tip-o-the-spear.md#gwwc)
+### ****[GWWC](tip-o-the-spear.md#gwwc)
 
 *   "[Pledge page" split-test](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#general-idea-main-hypothesis); vary presentations of pledge options (tied to cookies/IP addresses)
 
