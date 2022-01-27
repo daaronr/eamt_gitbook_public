@@ -12,22 +12,19 @@
 * [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
   * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
 
-## Background and existing evidence <a href="#background" id="background"></a>
+## Background, evidence, framework <a href="#background" id="background"></a>
 
 * [The challenge: drivers of effective/ineffective giving](background-and-existing-evidence/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background-and-existing-evidence/models-theories-psychological-norms.md)
-* [Tools/interventions: principles](background-and-existing-evidence/tools-interventions-principles.md)
-
-## Tools and trials <a href="#proposed-tools-for-motivating-effective-giving" id="proposed-tools-for-motivating-effective-giving"></a>
-
-* [Tools and trials: overview](proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md)
-* [Academic Paper Ideas](proposed-tools-for-motivating-effective-giving/academic-paper-ideas.md)
-* [(Outcome: Effective gift/consider impact)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/README.md)
-  * [(Effectiveness information and its presentation)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
-  * [(Outcome: Pledge, give substantially (& effectively))](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/README.md)
-    * [(Moral duty (of well-off))](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
-    * [Give if you win/ conditional pledge](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
-    * [(Accountability partners)](proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/accountability-partners.md)
+* [Tools and trials: overview](background/tools-and-trials-overview/README.md)
+  * [Tools/interventions: principles](background/tools-and-trials-overview/tools-interventions-principles.md)
+  * [Outcomes: Effective gift/consider impact)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/README.md)
+    * [(Effectiveness information and its presentation)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
+    * [(Outcome: Pledge, give substantially (& effectively))](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/README.md)
+      * [(Moral duty (of well-off))](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
+    * [Give if you win/ conditional pledge](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
+      * [(Accountability partners)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/accountability-partners.md)
+  * [Academic Paper Ideas](background/tools-and-trials-overview/academic-paper-ideas.md)
 
 ## Contexts-environments-plans-tests <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
@@ -36,19 +33,35 @@
 * [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
 * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
+  * [Pledge page (options trial) (+)](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md)
+  * [YouTube Remarketing (+)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
+  - Other trials in progress: Home page, giving guides, advertising
 * [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world-oftw/README.md)
+  * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
+  * [Advisor signup (advertising trial in one city) (+)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/README.md)
+* [80000 hours](contexts-and-environments-for-testing/80000-hours/README.md)
+  * YouTube awareness at university (redacted)
 * [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
-  * [\[Trials in preparation - redacted()](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/trials-in-preparation-redacted.md)
-* [Other orgs/approaches](contexts-and-environments-for-testing/other/README.md)
+  * [\[Social media and social giving trials in preparation - redacted()](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/trials-in-preparation-redacted.md)
+* [Other orgs/approaches in progress](contexts-and-environments-for-testing/other/README.md)
+  * EA university groups
+  * Schools/young people/education; see 'Charity Elections' project
+  - Adjacent orgs: FLI, Founders' pledge, Animal Charity Evaluators
+  - GiveWell
+
+***
+
+* [(Ads (Google, Youtube...))](ads-google-youtube....md)
 
 ## Methods and implementation discussion <a href="#methodological-discussion" id="methodological-discussion"></a>
 
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
 * ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
   * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
+* [(Analysis: Statistical  approaches)](methodological-discussion/analysis-statistical-approaches.md)
 * [Implementation and collecting data: Issues](methodological-discussion/implementation-and-collecting-data-issues/README.md)
   * [Survey and marketing platforms](methodological-discussion/implementation-and-collecting-data-issues/survey-and-marketing-platforms.md)
   * ["Doing and funding ads"](methodological-discussion/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
