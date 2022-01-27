@@ -35,10 +35,20 @@ _Previous updates: see tabs_
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
+
 * <mark style="background-color:green;">Impact vs emotion:</mark> [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") [#preliminary-results](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/#preliminary-results "mention")
-  * <mark style="background-color:orange;">Next steps</mark>: update with further donations, write-up, get feedback
-* "Upselling" YouTube marketing (casual lift test, or trials?); working with JS _<mark style="background-color:purple;">Status?</mark>_
+
+
+
+* <mark style="background-color:green;">Impact vs emotion:</mark> [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") [#preliminary-results](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/#preliminary-results "mention")
+    * Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
+    * Preliminary results: little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
+    * <mark style="background-color:orange;">Next steps</mark>: update with further donations, write-up, get feedback
+
 * [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments); _<mark style="background-color:purple;">Status? Not started yet.</mark>_&#x20;
+
+
+* "Upselling" YouTube marketing (casual lift test, or trials?); working with JS _<mark style="background-color:purple;">Status?</mark>_
 
 ### [GWWC](tip-o-the-spear.md#gwwc)
 
