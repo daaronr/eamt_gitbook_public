@@ -11,7 +11,7 @@ to keep a simple listing of key elements and structured information; in conjunct
 
 The first table in the airtable (picture below) explains all the other tables
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 {% hint style="info" %}
 A good way of starting with Airtable/databases is to think

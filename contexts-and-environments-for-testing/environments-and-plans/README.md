@@ -9,11 +9,6 @@ description: >-
 
 See [trial-reporting-template.md](../trial-reporting-template.md "mention")
 
-[future-avenues.md](future-avenues.md "mention") (this is for GWWC but it applies more generally)
+See "future avenues" (recover link)
 
-
-
-{% hint style="info" %}
 In the pages below the "(+)" header indicates that the trial has definitely taken place (or is underway)
-{% endhint %}
-

@@ -11,8 +11,8 @@ description: How the gitbook sections are organized; we can discuss this
 3. "Background:
    * [What we're trying to do and why](broken-reference/),
    * [What is known/models of effective giving](../background-and-existing-evidence/models-theories-psychological-norms.md),
-   * P[rinciples and theories behind potential trials](../background-and-existing-evidence/tools-interventions-principles.md)
-4. [Tools and trials](../proposed-tools-for-motivating-effective-giving/tools-and-trials-overview.md): specific things we want to do/test; (partly) grouped by 'outcomes' (esp. [effectiveness](../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/) & [commitment](../proposed-tools-for-motivating-effective-giving/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/))
+   * P[rinciples and theories behind potential trials](../background/tools-and-trials-overview/tools-interventions-principles.md)
+4. [Tools and trials](broken-reference): specific things we want to do/test; (partly) grouped by 'outcomes' (esp. [effectiveness](broken-reference) & [commitment](broken-reference))
 5. Contexts/environments, specific plans for trials in these contexts
    1. Cross-organization plans
    2. By each organization
