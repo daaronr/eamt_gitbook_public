@@ -29,14 +29,14 @@ If you have 'write (Editor) access' ....
 
 _**Update**_: as of 15 Oct 2021 Gitbook has changed their protocols. You now need to
 
-* &#x20;click the icon in the upper right to 'start a change request',&#x20;
-* and then 'submit' this request when you are ready (ideally, with a brief informative message explaining what you have done.&#x20;
+* click the icon in the upper right to 'start a change request',
+* and then 'submit' this request when you are ready (ideally, with a brief informative message explaining what you have done.
 
 ![](<../../.gitbook/assets/image (1) (1).png>)
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
-Give it a try. Once you 'submit', you, or someone else can 'merge' it in.&#x20;
+Give it a try. Once you 'submit', you, or someone else can 'merge' it in.
 
 {% hint style="info" %}
 In newly created blocks/elements "command-slash" (on mac) brings up a lot of cool options (scroll down)
@@ -68,7 +68,7 @@ This Gitbook is connected to the private [github-hosted repo here](https://githu
 https://github.com/daaronr/effective_giving_market_testing
 ```
 
-It 'backs up' nicely to a set of easy-to-follow markdown files and folders. If you prefer to work offline, in nice 'raw text formats' (rather than via the web interface)...  you should be able to edit those files in any interface and push/merge the content in.  (If you are familiar with git and Github.
+It 'backs up' nicely to a set of easy-to-follow markdown files and folders. If you prefer to work offline, in nice 'raw text formats' (rather than via the web interface)... you should be able to edit those files in any interface and push/merge the content in. (If you are familiar with git and Github.
 
 ## [Other tech](other-tech.md)
 

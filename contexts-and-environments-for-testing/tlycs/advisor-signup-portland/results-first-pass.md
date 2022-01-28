@@ -18,20 +18,26 @@
 
 _Guiding assumption: a counterfactual 0 visits from Portland in season_ &#x20;
 
-* 389 Portland site visits in relevant 2021 period. &#x20;
-* If these were _all_ driven by the advertisement (and counterfactual was 0 visits), this is +389 &#x20;
+* 306 Portland Users (389 Portland site visits) in relevant 2021 period. &#x20;
+* If these were _all_ driven by the advertisement (and counterfactual was 0 visits), this is +306 Users and +389 &#x20;
 * Cost $4k (sensitive info?)
-* \--> Lower bound cost $10.28 per visit\
+* \--> Lower bound cost $13.07 per user ($10.28 per visit)
+
+\
 
 
 **YoY (maybe reasonable) upper bound**
 
 _Guiding assumption: a counterfactual 'same visits as last year' in Portland_
 
-* &#x20;__ 389 Portland site visits in ... 2021
-* 189 Portland site visits in ... 2020
-* \--> (389-189) = +200 visits uptick
-* \--> $4k/200 = Lower bound cost $20 per visit
+* 306 Portland Users (389 Portland site visits) in relevant 2021 period.&#x20;
+* 144 Portland Users (189 Portland site visits) in relevant 2020 period.&#x20;
+* \--> 306-144 =162 users uptick,&#x20;
+  * (389-189 = 200 visits uptick)
+* \--> $4k/162 = $24.69 Lower bound cost per user&#x20;
+  * ($4k/200 =  $20 per visit)
+
+
 
 
 
@@ -45,7 +51,7 @@ _Guiding assumptions:_
 
 Thus
 
-* 106% uptick (YoY) for Portland in 2020
+* 106% visits uptick (YoY) for Portland in 2020
 * Unweighted average of above upticks (excluding Portland and Coffeyville) = (181+65+55+55+47+41+21)/7 = 66(%)
 * &#x20;66%\*189 = 124.7 'comparison uptick' for Portland
 * 200-124.7 = 75.3 'uptick relative to comparison'
@@ -59,7 +65,7 @@ DR: I took a quick look through Google Analytics on this. I saved a data snapsho
 1. There are very few signups for concierge advising service. Only about 16 in December 2021 globally, only 1 of which was from Portland
 2. Eyeballing it, while the number of sessions is higher for the Dec 2021 period than for the Dec 2020 period, this increase is pretty common across cities, Portland doesn’t seem to be an exception.
 3. If it’s important I could try to quantify ‘statistical bounds on the maximum size of the size of the impact of this promotion on site traffic from Portland’ … but I doubt this is worth doing
-4. Google Analytics is a bit annoying; do you know if there is a way to ‘just get the raw data’?
+4. Google Analytics is a bit annoying; do you know if there is a way to ‘just get the raw data’? (DR: I found a partial fix (see [#getting-the-data](../../../methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md#getting-the-data "mention")), and now I can 'get all the data' ... will analyze soon
 
 ![](<../../../.gitbook/assets/image (3).png>)
 
@@ -130,3 +136,18 @@ _\hat(B(PL, 21) = \Delta\_t(\Delta\_m(Y\_PL\_21)) - \Delta\_t(\Delta\_m(Y\_CC\_2
 E.g., we can simulate the distribution of _\hat(B)_ by randomly choosing any of the (untreated) cities X and computing the comparable \\_hat(B(X, 21) …_ and seeing how rare it is to get a value as extreme as the one we get for _\hat(B(PL, 21)._
 
 Of course, there _are_ more grounded approaches than simulation we could use, such as a random-effects (regression) model, and various things that come under "difference in difference in ..." and "multi-way fixed effects"
+
+
+
+## Scratch work on Google Analytics
+
+Here are some graphs of the relevant period vs the same period in the previous year ![](<../../../.gitbook/assets/image (21).png>)
+
+![](<../../../.gitbook/assets/image (18).png>)
+
+
+
+I figured out (at least a hacky way) of getting 'all the data from Google Analytics'.    See [google-analytics-interface.md](../../../methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md "mention").
+
+
+

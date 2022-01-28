@@ -4,7 +4,7 @@ description: >-
   Pledge page trial as first context
 ---
 
-# Google A/B, optimize, analytics interface
+# Google A/B, optimize interface
 
 Mapping the key non-obvious features of running and analyzing these A/B trials using the Google analytics/optimize system.
 
@@ -18,7 +18,7 @@ Reporting and considering this in the context of the GWWC [pledge-page-options-t
 
 #### Page and audience targeting
 
-![GWWC pledge "Details" as archived](<../../.gitbook/assets/image (15) (1).png>)
+![GWWC pledge "Details" as archived](<../../.gitbook/assets/image (15) (1) (1).png>)
 
 #### Objectives: The things you are trying to measure and improve
 
@@ -26,13 +26,13 @@ Reporting and considering this in the context of the GWWC [pledge-page-options-t
 
 ## "Activity": Trials created/started/changed/ended/archive
 
-![](<../../.gitbook/assets/image (18) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1).png>)
 
 ## Viewing results and Google's analysis
 
 Clicking on a particular 'experience' in the 'container'...
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 (if you have been granted _read and analyze permission),_ will open the useful 'Optimize Report' (which Google explains [here](https://support.google.com/optimize/answer/6218117#pvr-too-high))
 
@@ -65,13 +65,13 @@ But if we take this seriously, we might say something like ...
 
 Google also gives confidence intervals for the conversion rates for each treatment, with boxplots and (95%) credible interval statistics:
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)
 
 The grey bar for the baseline is mirrored in all rows. The 95% CI for the 'improvement over the baseline' is given on the right. But this is a rather wide interval. More informatively, if we hover over the image, we are given more useful breakdowns:
 
-![](<../../.gitbook/assets/image (18).png>) ![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (18) (1).png>) ![](<../../.gitbook/assets/image (25) (1).png>)
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 Although this does not exactly tell us the 50% interval 'improvement over the baseline' (this would need a separate computation), we can approximately infer this.
 
@@ -124,7 +124,7 @@ The final section gives the day to day breakdown of the performance of each trea
 
 The 'Analytics data' gives us _sessions_ and _conversions_ by day and by treatment.
 
-![](<../../.gitbook/assets/image (14) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (1).png>)
 
 (Where no session occurs in a day for a treatment, it is coded as blank).
 
