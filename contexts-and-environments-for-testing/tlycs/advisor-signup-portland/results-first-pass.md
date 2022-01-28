@@ -3,7 +3,7 @@
 {% hint style="info" %}
 
 
-(DR): **A first pass and upper bound on impact and cost/session**
+(DR): **A first pass and upper bound on impact and (lower bound on) cost/session**
 
 \
 **Assumptions/data interpretations (worth checking)**
@@ -14,14 +14,14 @@
 
 
 
-**Maximum (unrealistic) upper bound**
+**Maximum (unrealistic) bound**
 
 _Guiding assumption: a counterfactual 0 visits from Portland in season_ &#x20;
 
 * 389 Portland site visits in relevant 2021 period. &#x20;
 * If these were _all_ driven by the advertisement (and counterfactual was 0 visits), this is +389 &#x20;
 * Cost $4k (sensitive info?)
-* \--> Upper bound cost $10.28 per visit\
+* \--> Lower bound cost $10.28 per visit\
 
 
 **YoY (maybe reasonable) upper bound**
@@ -31,7 +31,7 @@ _Guiding assumption: a counterfactual 'same visits as last year' in Portland_
 * &#x20;__ 389 Portland site visits in ... 2021
 * 189 Portland site visits in ... 2020
 * \--> (389-189) = +200 visits uptick
-* \--> $4k/200 = Upper bound cost $20 per visit
+* \--> $4k/200 = Lower bound cost $20 per visit
 
 
 
