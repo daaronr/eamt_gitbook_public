@@ -1,0 +1,430 @@
+# TLYCS Portland trial: background, data input, brief report
+
+## The trial
+
+In December 2021, TLYCS ran a YouTube advertising campaign in single city, involving 'donation advice'. The top 10% household income households were targeted with (one of?) three categories of videos.
+
+The details are presented in our (currently private) gitbook [HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/contexts-and-environments-for-testing/tlycs/advisor-signup-portland)
+
+
+ The Life You Can See details in
+
+
+
+## Code and data setup
+
+```{block2,  type='note'}
+
+Focusing on 'impact information here', rather than the suggested donations (at least firstly)
+
+```
+
+
+## Links to experiment source, description, data characterization (ICRC Donor's voice experiments: all input and description) {.unnumbered}
+
+## Discussion of  input, clean, mutate {.unnumbered}
+
+```{block2,  type='note'}
+
+The 'input and cleaning' (currently from stata dta) is now done in `icrc_input_clean.R`, which is run in `main_all.R`
+
+We give some description of this process below.
+```
+
+Unfold details of data files
+
+```{block2,  type='fold'}
+
+Our charity partner (ICRC) gave us the file:  `List to be sent to deborah (2).xls` (and a few others I don't think we're using).
+\
+
+*Work done in Stata:*
+
+`stata_do_files_linked/0_cleaning.do`:  Input from Excel file(s?) provided by ICRC. Cleaning, labelling, and scaling variables...
+
+Note this also merges with earlier data on the giving behavior of these participants (input and cleaned elsewhere ... todo: recover that code)
+
+That work outputs `data_grid_experiment_clean.dta`, which is hardlinked or auto-mirrored here (locally only, not shared in github public repo!)
+
+(14 Dec 2021 note:  hardlinks do not work as intended when we have shared folders. Will need to find another solution. )
+
+```
+\
+
+*Import to R:*
+
+`icrc <-  readstata13::read.dta13` ... convert dates, various factor options
+
+```{r}
+
+icrc <- readRDS(here("data_icrc","edited_data","icrc"))
+
+```
+
+
+### Set (and also get) names of key variables and objects to model{.unnumbered}
+
+```{r}
+
+treatments_all <- levels(icrc$treatment)
+treatments_impact <- c("Cost", "Cost_Sug_50", "Cost_Sug_150")
+treatments_sug <- c("Cost", "Cost_Sug_50", "Cost_Sug_150")
+
+outcomes <- c("d_don", "don_amt")
+
+bin_outcomes  <- c("d_don")
+cont_outcomes <- c("don_amt")
+
+
+# TODO -- set of 'columns coded for meta-analysis' ... same across studies, if possible
+
+
+```
+
+## Description/depiction/codebook of (summary) data {.unnumbered}
+
+
+### Key descriptives {.unnumbered}
+
+**Treatments:** `treatments`
+
+
+**Donation incidence:**
+
+
+```{r}
+
+(
+  don_shares <- icrc %>%
+    tabyl(treatment, d_don) %>%
+    tabylstuff()
+)
+
+
+icrc %>%
+  group_by(d_impact, sug_amt) %>%
+  summarise(n =n(), `Pct. donating` = op(mean(d_don)*100, d=3))
+
+```
+
+Donation rates are `r op(mean(icrc$d_don*100))`% overall, and, as shown in the table above, very similar across treatments.
+
+
+\
+
+
+Below, we plot smoothed density plots of donations overall, focusing on positive donations. The graphs below do not show  the zero-donation responses, which, as noted above constitute the vast majority of the population. However, the rates presented are as a share of all households, including non-donors.
+
+
+```{r dv-histo, eval=TRUE, echo=FALSE, results='hide'}
+
+smalltext <- element_text(size = 7)
+
+require(scales)
+
+don_breaks <- c(10, 25, 30, 40, 50, 100, 150, 200, 300, 500,  1000, 2500, 5000, 10000, 25000, 50000, 100000, 250000, 500000, 1000000, 2500000)
+
+
+
+scales_theme <- list(
+  scale_x_continuous(
+                     trans = pseudo_log_trans(base=10), breaks=don_breaks),
+  coord_cartesian(ylim=c(0, 0.2), xlim=c(10, 2500)),
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+               )
+
+don_hist_label <- labs(title="Smoothed histogram of Donations, excluding 0's", x="Donation, bottom-coded at 10", y = "Group share, including 0's")
+
+icrc %<>%
+  mutate(don_amt_bc10 = if_else(don_amt>0 & don_amt<=10, 10, don_amt))
+
+
+(
+icrc_hist_treat <- icrc %>%
+    ggplot() +
+     geom_density(aes(x=don_amt_bc10, y = after_stat(density)), n=2000) +
+    scales_theme +
+   don_hist_label
+)
+
+```
+
+Next, we break this up by whether a 'cost per impact' measure was presented, pooling across suggested donation categories.  Again, although the graphs do not show non-donors, the rates presented are as a share of all households in each grouping, including non-donors.
+
+```{r icrc_hist_treat_impact}
+
+(
+icrc_hist_treat_impact <- icrc %>%
+    ggplot() +
+     geom_density(aes(x=don_amt_bc10, y = after_stat(density), colour=d_impact)) +
+        scales_theme +
+   don_hist_label
+)
+
+
+```
+
+There is little apparent difference in the donation patterns by the presentation of this information. We return to this more formally later.
+
+```{r}
+(
+icrc_hist_treat_sug <- icrc %>%
+    ggplot() +
+     geom_density(aes(x=don_amt_bc10, y = after_stat(density), colour=sug_amt)) +
+        scales_theme +
+   don_hist_label
+)
+
+```
+
+Here, we see some apparently stronger patterns. Unsurprisingly those offered a suggested donation of 50 seem, relatively and absolutrly, more likely to donate 50, and similarly for those suggested 150.
+
+This bears a closer inspection and formal analysis. We will do this elsewhere, as it is not the focus of the current project (although it was a one of the two pre-registered focuses of this particular experiment.)
+
+\
+
+
+
+
+```{r}
+
+odd_dons <- sum(icrc$don_amt %nin% names(sort(table(icrc$don_amt), decreasing=TRUE)[1:11]), na.rm=TRUE)
+
+tot_dons <-  sum(icrc$d_don)
+```
+
+
+Note that most donations are 'round numbers'. As percentages  of the `r length(icrc$don_amt)` households, the 11 most frequent donation amounts are:
+
+`r op(sort(table(icrc$don_amt), decreasing=TRUE)[1:11]*100/length(icrc$don_amt), d=1)`.
+
+
+All other donation amounts account for only `r odd_dons` donations, only `r op(odd_dons/tot_dons*100)`% of all donations.
+
+
+
+## ICRC 'impact information' treatments: Questions and tests
+
+Rather than poetically characterizing our results, we try to keep the narrative short to let the data and statistical measures speak for themselves. The tests below follow from the [questions asked](#prereg_qn) and [procedures proposed in our pregistration](#keyanal).
+
+::: {.marginnote}
+In the preregistration we say ...
+:::
+
+
+We supplement this with exploratory work and robustness considerations.
+
+This is followed by Bayesian inference probing the 'tight bounds' of the null effect.
+
+This naturally leads connects to the (arguably, most important)  section, [conducting meta-analysis across related experiments.](#meta)\*
+
+<div class="marginnote">
+\* For now, I am conducting that meta analysis in the present "ICRC" repository because we may not have full permission to share the data in the other (public) repository.
+
+I can mirror (hard link) the data and code putting together "those other experiments" here to make this more cohesive.
+</div>
+
+
+
+```{=html}
+<!--
+focus on **Fisher's exact test (for incidence)** and the **standard rank sum and t-tests for the donation amounts.** If the aforementioned results are not statistically significant at the p=0.05 level or better, we do not plan to include statistical controls nor to do any interactions/differentiation of our results. We will report confidence intervals on our estimates, and make inferences on reasonable bounds on our effect, even if it is a 'null effect'.
+-->
+```
+<!-- consider G-test -->
+
+
+
+
+## Preregistered tests
+
+Note: these have (mainly/entirely) been done in  `1_analysis_pap.do` in the  Dropbox folder `Dropbox/ICRC_Fundraising/ICRC Grids Output Experiment/build_and_analysis/analysis/1_analysis_pap.do`.
+
+We may re-do some of these here for completeness.
+
+## Exploratory analysis
+
+## Bayesian intervals, equivalence tests, probing the 'tight null effect'
+
+<!-- incorporating from dv_input_anal.Rmd -->
+
+\
+
+### Bayesian Test of Difference in Proportions {#bayes_prop_icrc .unnumbered}
+
+#### Calibrating an 'informative but centered prior' over (independent) donation probabilities {-}
+
+In addition to a 'flat (uniform) prior' we consider a Beta prior that is centered roughly at the observed rate of donating, but allows what seems like a reasonable amount of dispersion.\*
+
+<div class="marginnote">
+\*  We consider only priors that use the same distribution for the treatment and control groups, and (at least for now) assumes these are independent. Thus, our prior is not 'baking in a likely effect in either direction'.
+</div>
+
+
+We give some calculations to get reasonable parameters for the beta distribution over the priors. We use the [prevalence package](https://rdrr.io/cran/prevalence/man/betaExpert.html), considering what seems a reasonable best-guess equal to the observed mean incidence, and 80 percent confidence it is between 1/3 of this and 3 times this.
+
+```{r prevalence}
+
+p_load(prevalence)
+
+Mu_i <- mean(icrc$d_don)
+
+beta_params_expert_i <- betaExpert(Mu_i, Mu_i/3, Mu_i*3, p = 0.80, method = "mode")
+
+a_e_i <- beta_params_expert_i$alpha
+b_e_i <- beta_params_expert_i$beta
+
+```
+
+This generates an alpha of about `r op(beta_params_expert$alpha)` and a beta of about `r op(beta_params_expert$beta)`. This distribution has a mode exactly matching the empirical incidence rate of `r op(Mu_i*100)`%, and a mean and median just a few percentage points above it. The standrard deviation is nearly the same as the mode. We plot this density below
+
+
+```{r set_priors, eval = FALSE}
+
+beta_example_inf  <- data.frame(rbeta(10000, a_e_i, b_e_i)) %>% setnames("inf")
+beta_example_inf_d <- density(beta_example_inf$inf) ##CHECK -- this seems to have negative values?
+
+
+ggplot(beta_example_inf, aes(x = inf)) +  geom_density(n=10000)  +
+  xlab("Value") +
+  ylab("Density") +
+  labs(title = "Beta Density (Informative for ICRC)") +
+  theme(
+    plot.title = element_text(hjust = 0.5),
+    axis.text.y = element_blank(),
+    axis.ticks.y = element_blank()
+  ) +
+  geom_vline(xintercept = beta_example_inf_d$x[beta_example_inf_d$y == max(beta_example_inf_d$y)],
+             col = "red",
+             size = 0.2) +
+  coord_cartesian(xlim = c(0, .35))
+
+```
+
+
+We can consider what this implies for the prior over the absolute and proportional *differences* in the incidence rates:
+
+```{r prior_rel_incidence}
+
+beta_inf_compare_i  <- data.frame(control= rbeta(10000, a_e_i, b_e_i), treat = rbeta(10000, a_e, b_e)) %>%
+  as.tibble() %>%
+  mutate(
+  abs_dif = control-treat,
+  scaled_dif = (control-treat)/mean(control)
+)
+
+beta_unif_compare_i  <- data.frame(control= rbeta(10000, 1, 1), treat = rbeta(10000, 1, 1)) %>%
+  as.tibble() %>%
+  mutate(
+  abs_dif = control-treat,
+  scaled_dif = (control-treat)/mean(control)
+)
+
+
+ggplot() +
+  geom_density(aes(x=scaled_dif, fill = "Informed"), alpha=0.2, data=beta_inf_compare_i) +
+  labs(title="Differences as share of mean incidence, comparing two densities") +
+  geom_density(aes(x=scaled_dif, fill = "Uniform"), alpha=0.2, data=beta_unif_compare_i) +
+  theme(plot.title=element_text(hjust=0.5)) +
+   coord_cartesian(xlim=c(-5, 5)) +
+    scale_fill_manual(name = "dataset", values = c(Informed = "red", Uniform = "green"))
+
+
+```
+
+
+
+
+### Comparison of Posterior Probabilities {.unnumbered}
+
+
+```{r bayesian_test_me_icrc, eval = FALSE}
+
+bayesian_test_me_by_x(icrc, "d_impact")
+
+bayesian_test_me_by_x <- function(df, colname ="d_impact", outcome="d_don", priora, priorb) {
+  g1 <-  sum(df[[colname]] == 0)
+  g1pos <-  sum((df[[colname]] == 0)*df[[outcome]])
+  g2 <-  sum(df[[colname]] == 1)
+  g2pos <-  sum((df[[colname]] == 1)*df[[outcome]])
+  bayesian_test_me(g1, g1pos,
+                 g2, g2pos,
+                 priora, priorb)
+  }
+
+icrc_bayes_impact_unif <- bayesian_test_me_by_x(icrc, "d_impact", "d_don", 1, 1)
+icrc_bayes_impact_inf <- bayesian_test_me_by_x(icrc, "d_impact", "d_don", a_e_i, b_e_i)
+
+
+#make this into a function
+den_icrc_bayes_impact_unif <- density(icrc_bayes_impact_unif$Differences, bw = 0.15, na.rm = TRUE)
+
+denmax_icrc_bayes_impact_unif <- den_icrc_bayes_impact_unif$x[den_icrc_bayes_impact_unif$y == max(den_icrc_bayes_impact_unif$y)]
+
+den_icrc_bayes_impact_inf <-
+density(icrc_bayes_impact_inf$Differences, bw = 0.15, na.rm = TRUE)
+
+denmax_icrc_bayes_impact_inf <- den_icrc_bayes_impact_inf$x[den_icrc_bayes_impact_inf$y == max(den_icrc_bayes_impact_inf$y)]
+
+
+```
+
+
+See details and discussion of this test [in our discussion of the Donor Voice trial here ](#bayes_prop)
+
+#### Posterior: Bounds on true difference {-}
+
+```{r}
+(
+bounds_icrc <- data.frame(
+        Prior = c('Uniform','' , 'Informative',''),
+        `Base rate` = c(Mu_icrc)*100,
+        MAP = c(op(denmax_icrc_bayes_impact_unif*100), "", op(denmax_icrc_bayes_impact_inf*100),""),
+        Bound = c(rep(c("lower","upper"),2)),
+        `Dfc. 99pct CI` = c(icrc_bayes_impact_unif$`99LB`, icrc_bayes_impact_unif$`99UB`, icrc_bayes_impact_inf$`99LB`,  icrc_bayes_impact_inf$`99UB`)*100,
+        `Dfc. 95pct CI` = c(icrc_bayes_impact_unif$`95LB`, icrc_bayes_impact_unif$`95UB`, icrc_bayes_impact_inf$`95LB`,  icrc_bayes_impact_inf$`95UB`)*100,
+        `Dfc. 90pct CI` = c(icrc_bayes_impact_unif$`90LB`, icrc_bayes_impact_unif$`90UB`, icrc_bayes_impact_inf$`90LB`,  icrc_bayes_impact_inf$`90UB`)*100,
+ `Dfc. 80pct CI` = c(icrc_bayes_impact_unif$`80LB`, icrc_bayes_impact_unif$`80UB`, icrc_bayes_impact_inf$`80LB`,  icrc_bayes_impact_inf$`80UB`)*100
+      ) %>%
+  as_tibble() %>%
+  .kable(digits=3, caption= "Incidence per 100: Base rate, and bounds (and MAP) on difference by treatment") %>%
+  .kable_styling()
+)
+
+```
+
+
+The table above gives the Bayesian 'maximum a posteriori' estimates, and 99, 95, 90, and 80 percent bounds on credible intervals for (differences in) donation incidence. All figures are given 'per 100' individuals.  We give this both under a completely flat prior (over the baseline incidence rate), and under the informative prior described above. The results are similar for either prior, and bound the effect very tightly around zero. Even under the widest (99 percent) bound, the more extreme bound on the difference is less than ten percent of the base rate of donation (which is `r op(Mu_icrc*100)` per 100 individuals.)
+
+```{r}
+
+#icrc_bayes_impact_unif[!names(icrc_bayes_impact_unif)=="Differences"]
+
+# #forestplot_icrc_ip <- ggplot() +
+#   aes(x=value, y=`Credible Intervals`) +
+#   geom_point(colour="#4271AE") +
+#   geom_line(colour="#4271AE") +
+#   facet_grid(rows=vars(Experiment), labeller = label_wrap_gen(multi_line=TRUE, width=2)) +
+#   theme(panel.spacing=unit(1,"lines"),plot.title=element_text(hjust=0.5)) +
+#   geom_vline(xintercept = 0,size=0.25) +
+#   geom_vline(data=forestTableInf$forest_table2, aes(xintercept = `Base rate (conv. per 10k)`, colour = "`Base rate (conv. per 10k)`"),size=0.25 , linetype = "dashed") +
+#   geom_vline(data=forestTableInf$forest_table2, aes(xintercept = `MAP Estimate per 10000`, colour = "MAP Estimate"),size=0.25, linetype = "dashed") +
+#   labs(x="Delta") +
+#   xlim(-10,30) +
+#   ggtitle("Credible Intervals by Subset: Informative prior") +
+#   scale_colour_manual(name = "Key", values = c("`Base rate (conv. per 10k)`" = "darkblue", "MAP Estimate" = "darkred"))
+
+
+```
+
+## Q: Does including impact information affect the amount raised?
+
+### Hypothesis tests and inference: Rank-sum and t-tests, confidence/credible intervals {.unnumbered}
+
+**Rank sum tests**
+
+
+#Ranksum test - include zeroes
+
+`wilcox.test(rev_rank ~ treatment, data = ., exact = FALSE, conf.int=TRUE)`
+
