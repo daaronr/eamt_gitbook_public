@@ -9,8 +9,9 @@
 **Assumptions/data interpretations (worth checking)**
 
 1. The numbers below/[snapshot here](https://www.dropbox.com/s/lquhw7a2jq8s3pz/portland%20vs%20comparison%20citiesAnalytics%20TLYCS%20-%20all%20domains%20portland%20another%20try%2020211203-20220102%2020201203-20210102.xlsx?dl=0) are meaningful sessions from unique users
+   1. Update: I now have a more complete data set (N. American cities)
 2. The 'date range' is the relevant one for being affected by the advertisements of interest&#x20;
-3. The 'comparison cities' are approximately randomly selected above (NOTE: this may not be so, its looking like these are ranked by hits; will doublecheck
+3. The 'comparison cities' are approximately randomly selected above (Improving this)
 
 
 
@@ -45,17 +46,22 @@ _Guiding assumption: a counterfactual 'same visits as last year' in Portland_
 
 _Guiding assumptions:_
 
-* the cities above (other than Coffeyville) are fairly representative
+* the cities used are fairly representative
 * 'uptick as a percentage' is unrelated to city size/visits last year
-* all the above cities are 'equally informative comparison groups'
+* all the cities in the comparison group are 'equally informative to the counterfactual'
+  * Updated version 'informative in proportion to totals'
 
 Thus
 
 * 106% visits uptick (YoY) for Portland in 2020
 * Unweighted average of above upticks (excluding Portland and Coffeyville) = (181+65+55+55+47+41+21)/7 = 66(%)
-* &#x20;66%\*189 = 124.7 'comparison uptick' for Portland
-* 200-124.7 = 75.3 'uptick relative to comparison'
-* $4k/75.3 = Realistic (or possibly overstated, see above data concern) $53.12 cost per visit
+  * Better -- For 'all cities other than Portland with positive 2021 users'\*: Mean 12.86 users, the average is 4.38 users in the 2020 period and 6.26 users in the 2021 period, an uptick of (6.26-4.38)/4.38 = about 43%.  &#x20;
+* &#x20;43%\*189 = 81.3 'comparison uptick' for Portland
+* 200-81.3 = 118.7 'uptick relative to comparison'
+* $4k/118.7 = Realistic (but may be better to focus on a narrower comparison group) $33.7 cost per visit
+
+\
+(\* Caveat: the data should be filtered based on the number of 2020 users only for a more fair comparison. This should slightly overstate the average YoY increase.  But I don't expect this to make a huge difference as we are likely only cutting cities with very few users.)
 {% endhint %}
 
 
