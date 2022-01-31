@@ -178,3 +178,55 @@ Thomas: In psychology, altruism captures this notion. Prosociality is a concept 
 > It would also be pretty nice to have a behavioral/incentivized measure of ‘maximizing in an altruistic context’ …If Fehr ea had asked them to (e.g.) allocate giving _among_ a German poor person, an African poor person, and themselves, this might have been a decent measure.
 >
 > (We have this choice in some other contexts though … not as rich data but maybe worth digging into). Why might that choice have been better (in some ways) than a hypothetical choice? Because I imagine in a hypothetical choice some people would be like “OK they obviously want me to say support the poor person in Africa, and I see the maximization arguments, so, fine.'But when it involves real money, and even their own money, I expect that for some people, other motives will outweigh the ‘maximizing motive’…“wait, I’d rather keep the money than give it to an African who will waste it”“wait, if this is _real_, I’d rather help someone _local”._
+
+### Analysis Plan, sample, and variables under consideration (01/31/22)
+
+#### Analysis plan
+
+Lasso regression to identify the most salient cluster of predictors for effective giving
+
+I will use k-fold cross-validation to compare a lasso model with ridge regression and OLS to confirm it is the best method for handling our data
+
+There is now a Bayesian form of lasso, but the R packages to run this analysis are in their infancy and the results between the methods are strikingly similar (Steorts, 2015). So, on the first pass I will just use one of the methods above but may rerun the analysis time-permitting to check my assumption that results won’t change.
+
+Similarly, there is latent lasso regression, but most of our constructs have only one indicator and the R package for this analysis also appears to be at a nascent stage.·      Analysis plan
+
+#### Sample
+
+To start, I’m just considering the 2017 survey and the control group (i.e., those who weren’t notified of their position in the national and global income distribution (\~700 individuals). We can expand to the 2018 survey and the treatment group in future analyses using the same method (although some items may not be included across surveys).
+
+#### Outcome Variable
+
+Q280 and 281 in the SOEP-IS dataset developed by Fehr et al. (2019)
+
+“You were paired with another household in Kenya or Uganda. This household belongs to the poorest 10 percent of households worldwide. Now, you have 50 EUR at your disposal and can split this amount between the other household and you in any way you want. If this task is selected for payout, you will receive the amount you decided to keep at the end of the interview. The amount you want to give the other household will be given in full to the other household (without transaction costs) at the end of the field period by Heidelberg University via a charitable organization. In full means that every given euro will be received by the other household 1:1. A leaflet with information about the donations will be given to you after you have made your decision. I ask you to make this decision alone now.”
+
+“How much of the 50 EUR do you want to keep and how much do you want to give the other household?”
+
+2017 survey questions: [https://paneldata.org/soep-is/inst/soep-is-2017-f](https://paneldata.org/soep-is/inst/soep-is-2017-f)
+
+#### Variables Under Consideration
+
+Below I list variables below in terms of what the intended construct I’m trying to get at and the proxy measures that are available within the SOEP dataset.
+
+Theoretical rationale for these constructs comes from the most comprehensive review on predictors of charitable giving I could find (Bekkers & Wiepking, 2007; also see Bekkers & Wiepking, 2011 and Wiepking & Bekkers, 2012 for follow-ups on this review). These reviews seem like a reasonable starting point because they are cross-disciplinary and only consider studies that involve real money to real charitable organizations. There were a surprising number of what I think of as common-sense variables that weren’t included in these reviews that I add in the table below (i.e., those without an asterix).
+
+There were several variables omitted because I did not think they were relevant or other constructs exist that better get at the underlying effect. I briefly outline these below.
+
+**Home ownership:** Appears to just be an indicator of wealth, so using income is preferrable.
+
+**Perceived financial position:** Bivariate studies (Bennet & Kottasz; Havens et al., 2007) conclude those who perceive their financial situation as more positive are more generous donors. However, Fehr et al. (2019)—which has a more robust design—reports that “we find no evidence that perceived rank in the global income distribution affects support for global redistribution, donations to the global poor, globalization or immigration. If anything, when thinking about these policy preferences, it matters more how one compares to other people nationally than to others around the globe.” Given these findings and the fact that we are using the same data, it is probably sensible to omit this variable. Although studies have found confidence in the economy (Okunade, 1996), so an interesting pivot could be to measure optimism (both domain-specific and general forms).
+
+**Place of residence and years of residence:** Mixed findings and it appears to be a weak predictor regardless.
+
+**Immigration and citizenship status:** Better captured by other variables. “Osili and Du (2005) found that immigrants in the United States are less likely to give to charitable organizations and also give less, but that these differences are due to differences in racial background, lower levels of income, and education” (Bekkers & Wiepking, 2007: 15).
+
+**Youth participation:** Impacts donations through socialization, which is better captured through parental background. It also strengthens social bonds of the children in the community, making them less likely to make effective donations over local causes.
+
+**Volunteering**: In simple bivariate analysis, volunteers are usually found to donate more to charity. However, differences between volunteers and non-volunteers often vanish in multiple regression analyses controlling for joint determinants of giving and volunteering (Bekkers, 2002, Bekkers, 2006a, Wiepking & Maas, 2006). Given SOEP only asks about time spent volunteering and does not categorize where one volunteers, this variable seems like a blunt tool that is likely to be insignificant.
+
+**Awareness of need:** A strong predictor of general philanthropy, but Fehr et al. (2019) did not find significant effects for effective giving.
+
+Variables held constant by the survey design (see Bekkers & Wiepking 2007 for detailed explanation): Solicitation, benefits, reputation, and efficacy.
+
+&#x20;
