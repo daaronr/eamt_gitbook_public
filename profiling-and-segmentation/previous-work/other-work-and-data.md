@@ -179,17 +179,19 @@ Thomas: In psychology, altruism captures this notion. Prosociality is a concept 
 >
 > (We have this choice in some other contexts though … not as rich data but maybe worth digging into). Why might that choice have been better (in some ways) than a hypothetical choice? Because I imagine in a hypothetical choice some people would be like “OK they obviously want me to say support the poor person in Africa, and I see the maximization arguments, so, fine.'But when it involves real money, and even their own money, I expect that for some people, other motives will outweigh the ‘maximizing motive’…“wait, I’d rather keep the money than give it to an African who will waste it”“wait, if this is _real_, I’d rather help someone _local”._
 
-### Analysis Plan, sample, and variables under consideration (01/31/22)
+### Analysis Plan, sample, and variables under consideration (01/31/22, Ptashnik)
+
+DR: See sidebar comments &#x20;
 
 #### Analysis plan
 
-Lasso regression to identify the most salient cluster of predictors for effective giving
+Lasso regression to identify the <mark style="background-color:orange;">most salient cluster</mark> of predictors for effective giving
 
-I will use k-fold cross-validation to compare a lasso model with ridge regression and OLS to confirm it is the best method for handling our data
+I will use k-fold cross-validation to compare a lasso model with ridge regression and OLS to <mark style="background-color:orange;">confirm it is the best method for handling our data</mark>
 
 There is now a Bayesian form of lasso, but the R packages to run this analysis are in their infancy and the results between the methods are strikingly similar (Steorts, 2015). So, on the first pass I will just use one of the methods above but may rerun the analysis time-permitting to check my assumption that results won’t change.
 
-Similarly, there is latent lasso regression, but most of our constructs have only one indicator and the R package for this analysis also appears to be at a nascent stage.·      Analysis plan
+Similarly, there is latent lasso regression, but most of our constructs have only one indicator and the R package for this analysis also appears to be at a nascent stage.·     &#x20;
 
 #### Sample
 
@@ -199,7 +201,7 @@ To start, I’m just considering the 2017 survey and the control group (i.e., th
 
 Q280 and 281 in the SOEP-IS dataset developed by Fehr et al. (2019)
 
-“You were paired with another household in Kenya or Uganda. This household belongs to the poorest 10 percent of households worldwide. Now, you have 50 EUR at your disposal and can split this amount between the other household and you in any way you want. If this task is selected for payout, you will receive the amount you decided to keep at the end of the interview. The amount you want to give the other household will be given in full to the other household (without transaction costs) at the end of the field period by Heidelberg University via a charitable organization. In full means that every given euro will be received by the other household 1:1. A leaflet with information about the donations will be given to you after you have made your decision. I ask you to make this decision alone now.”
+> You were paired with another household in Kenya or Uganda. This household belongs to the poorest 10 percent of households worldwide. Now, you have 50 EUR at your disposal and can split this amount between the other household and you in any way you want. If this task is selected for payout, you will receive the amount you decided to keep at the end of the interview. The amount you want to give the other household will be given in full to the other household (without transaction costs) at the end of the field period by Heidelberg University via a charitable organization. In full means that every given euro will be received by the other household 1:1. A leaflet with information about the donations will be given to you after you have made your decision. I ask you to make this decision alone now.”
 
 “How much of the 50 EUR do you want to keep and how much do you want to give the other household?”
 
