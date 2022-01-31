@@ -17,6 +17,7 @@ Report:
 
 - 3-31 December 2021 vs prior year, same dates
 - All North American cities with 1 or more user
+    - TODO: fix to make it 1+ user for 2020 not 2021
 - Counts: Users, sessions, certain types of conversions (see below)
 
 I downloaded this as an Excel spreadsheet
@@ -54,3 +55,17 @@ Create 'differences across years' features
 ## Exploratory analysis
 
 ## Casual/simple 'uptick' analysis
+
+```{r}
+tl21 %>% sumtab(Users, year)
+tl21 %>% filter(!City=="Portland") %>% sumtab(Users, year)
+
+tl21 %>% filter(Users>20) %>% sumtab(Users, year) #Fix -- filter on over 20 users for 2020 ONLY
+
+tl21 %>% sumtab(Sessions, year)
+
+```
+
+
+
+

@@ -62,7 +62,6 @@ knitr::write_bib(
 here::i_am("SUMMARY.md") #define root for 'here'
 
 
-
 {
   options(knitr.duplicate.label = "allow")
   rmarkdown::render_site(output_format = 'bookdown::gitbook', encoding = 'UTF-8')
