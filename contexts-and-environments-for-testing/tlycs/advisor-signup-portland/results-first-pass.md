@@ -42,16 +42,13 @@ _Guiding assumptions:_
 _Thus_
 
 * 106% visits uptick (YoY) for Portland in 2020
-* For 'all cities other than Portland with positive 2021 users'\*: Mean 12.86 users, the average is 4.38 users in the 2020 period and 6.26 users in the 2021 period, an uptick of (6.26-4.38)/4.38 = about 43%.
-* 43%\*189 = 81.3 'counterfactual uptic' users for Portland
-* 200-81.3 = 118.7 'uptick relative to counterfactual'
-* <mark style="background-color:green;">$4k/118.7 =</mark> <mark style="background-color:green;">**$33.7**</mark> <mark style="background-color:green;">cost per User</mark>
+* For 'all North American cities other than Portland (with positive users in either year): The average is 3.68 users in the 2020 period and 4.66 users in the 2021 period, an uptick of (4.66-3.68)/3.68 = about 27%.
+* 27%\*189 = 51.03 'counterfactual uptic' users for Portland
+* 200-51.03 = 148.97 'uptick relative to counterfactual'
+* <mark style="background-color:green;"><mark style="background-color:green;">$4k/<mark style="background-color:green;"></mark><mark style="background-color:green;">148.97</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="background-color:green;">=<mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="background-color:green;">**$26.85**<mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="background-color:green;">cost per User<mark style="background-color:green;"></mark>
 * Seems realistic at a first-pass (but it may be better to focus on a narrower comparison group)
 
-\
-_\* Caveat: the data should be filtered based on the number of 2020 users only for a more fair comparison. This should slightly overstate the average YoY increase. But I don't expect this to make a huge difference as we are likely only cutting cities with very few users._
 
-\_\_
 
 ## Other outcomes (quick look)
 
