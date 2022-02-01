@@ -16,7 +16,7 @@ _(DR): **A first pass and upper bound on impact and (lower bound on) cost/sessio
 _Guiding assumption: a counterfactual 0 visits from Portland in season_
 
 * 306 Portland Users (389 Portland site visits) in relevant 2021 period.
-* If these were _all_ driven by the advertisement (and counterfactual was 0 visits), this is +306 Users and +389
+* If these were _all_ driven by the advertisement (and counterfactual was 0 visits), this is +306 Users and +389 visits
 * Cost $4k (sensitive info?)
 * <mark style="background-color:green;">--> Lower bound on cost of</mark> <mark style="background-color:green;">**$13.07**</mark> <mark style="background-color:green;">per user ($10.28 per visit)</mark>\\
 
@@ -43,10 +43,14 @@ _Thus_
 
 * 106% visits uptick (YoY) for Portland in 2020
 * For 'all North American cities other than Portland (with positive users in either year): The average is 3.68 users in the 2020 period and 4.66 users in the 2021 period, an uptick of (4.66-3.68)/3.68 = about 27%.
-* 27%\*189 = 51.03 'counterfactual uptic' users for Portland
-* 200-51.03 = 148.97 'uptick relative to counterfactual'
-* <mark style="background-color:green;"><mark style="background-color:green;">$4k/<mark style="background-color:green;"></mark><mark style="background-color:green;">148.97</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="background-color:green;">=<mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="background-color:green;">**$26.85**<mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="background-color:green;">cost per User<mark style="background-color:green;"></mark>
+* 27%\*144 = 38.5 'counterfactual uptic' users for Portland
+* 162-38.5= 123.5  'uptick in users relative to counterfactual'
+* <mark style="background-color:green;"><mark style="background-color:green;">$4k/<mark style="background-color:green;"></mark>123.5 <mark style="background-color:green;"><mark style="background-color:green;">=<mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="background-color:green;">**$32.4**<mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="background-color:green;">cost per User<mark style="background-color:green;"></mark>
 * Seems realistic at a first-pass (but it may be better to focus on a narrower comparison group)
+
+{% hint style="info" %}
+These calculations are precisely computed from the data in the bookdown -- all code will be shared soon.
+{% endhint %}
 
 
 
