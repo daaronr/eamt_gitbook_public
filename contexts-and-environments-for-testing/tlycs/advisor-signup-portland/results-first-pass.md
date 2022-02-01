@@ -116,18 +116,21 @@ For Portland (PL) 2021 (21) , this is\\
 
 $$\Delta_m(Y_{PL,21}) = (Y_{PL,Dec,21} - Y_{PL,Nov,21})$$
 
-Let the year-to year difference in something be $$\Delta\y(something)$$
+Let the year-to year difference in any variable X be $$\Delta_y(X)$$
 
-so $$\Delta\t(\Delta\m(Y_PL_21)) = \Delta_m(Y_PL_21) - \Delta_m(Y_PL_20)$$ \\$$= (Y_{PL}_{Dec}_21 - Y_PL_Nov_21) - (Y_PL_Dec_20 - Y_PL_Nov_20)$$
+so $$\Delta_t(\Delta_m(Y_{PL,21}) = \Delta_m(Y_{PL,21}) - \Delta_m(Y_{PL,20})$$ \\
+$$= (Y_{PL,Dec,21} - Y_{PL,Nov,21}) - (Y_{PL,Dec,20} - Y_{PL,Nov,20})$$
 
 Finally, consider an ‘appropriately weighted bundle of comparison cities’ CC, and consider averages across this bundle of comparison cities.\
 \
 I think the estimator we want may be:\
-_\hat(B(PL, 21) = \Delta\_t(\Delta\_m(Y\_PL\_21)) - \Delta\_t(\Delta\_m(Y\_CC\_21))._ I believe this has EV equal to the B in the above.\
-\
-\_We could then compute this object and do some simulation tests on it (as well as robustness to other comparison cities).
+$$\hat(B(PL, 21) = \Delta_t(\Delta_m(Y_{PL,21})) - \Delta_t(\Delta_m(Y_{CC,21}))$$.
 
-E.g., we can simulate the distribution of $$\hat(B)$$ by randomly choosing any of the (untreated) cities X and computing the comparable $$\hat(B(X, 21)$$ and seeing how rare it is to get a value as extreme as the one we get for $$\hat(B(PL, 21)$$.\_
+I believe this has EV equal to the B in the above.\
+\
+We could then compute this object and do some simulation tests on it (as well as robustness to other comparison cities).
+
+E.g., we can simulate the distribution of $$\hat(B)$$ by randomly choosing any of the (untreated) cities X and computing the comparable $$\hat(B(X, 21)$$ and seeing how rare it is to get a value as extreme as the one we get for $$\hat(B(PL, 21)$$.
 
 Of course, there _are_ more grounded approaches than simulation we could use, such as a random-effects (regression) model, and various things that come under "difference in difference in ..." and "multi-way fixed effects"
 
