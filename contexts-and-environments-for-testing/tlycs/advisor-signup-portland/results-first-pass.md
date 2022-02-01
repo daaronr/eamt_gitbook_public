@@ -1,33 +1,28 @@
 # Results (first-pass)
 
-{% hint style="info" %}
+## Cost per user (first-pass)
 
-
-(DR): **A first pass and upper bound on impact and (lower bound on) cost/session**
+_(DR): **A first pass and upper bound on impact and (lower bound on) cost/session**_
 
 \
 **Assumptions/data interpretations (worth checking)**
 
-1. The numbers below/[snapshot here](https://www.dropbox.com/s/lquhw7a2jq8s3pz/portland%20vs%20comparison%20citiesAnalytics%20TLYCS%20-%20all%20domains%20portland%20another%20try%2020211203-20220102%2020201203-20210102.xlsx?dl=0) are meaningful sessions from unique users
-   1. Update: I now have a more complete data set (N. American cities)
+1. The numbers used in our data come from  meaningful sessions from unique users
 2. The 'date range' is the relevant one for being affected by the advertisements of interest&#x20;
-3. The 'comparison cities' are approximately randomly selected above (Improving this)
+3. The 'comparison cities' are approximately randomly selected
 
 
 
-**Maximum (unrealistic) bound**
+**Most optimistic (unrealistic) bound**&#x20;
 
 _Guiding assumption: a counterfactual 0 visits from Portland in season_ &#x20;
 
 * 306 Portland Users (389 Portland site visits) in relevant 2021 period. &#x20;
 * If these were _all_ driven by the advertisement (and counterfactual was 0 visits), this is +306 Users and +389 &#x20;
 * Cost $4k (sensitive info?)
-* \--> Lower bound cost $13.07 per user ($10.28 per visit)
+* <mark style="background-color:green;">--> Lower bound on cost of</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">**$13.07**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">per user ($10.28 per visit)</mark>\ <mark style="background-color:green;"></mark>
 
-\
-
-
-**YoY (maybe reasonable) upper bound**
+**YoY (maybe reasonable) optimistic bound**
 
 _Guiding assumption: a counterfactual 'same visits as last year' in Portland_
 
@@ -35,51 +30,57 @@ _Guiding assumption: a counterfactual 'same visits as last year' in Portland_
 * 144 Portland Users (189 Portland site visits) in relevant 2020 period.&#x20;
 * \--> 306-144 =162 users uptick,&#x20;
   * (389-189 = 200 visits uptick)
-* \--> $4k/162 = $24.69 Lower bound cost per user&#x20;
+* <mark style="background-color:green;">--> $4k/162 =</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">**$24.69**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">Lower bound on cost per user</mark>&#x20;
   * ($4k/200 =  $20 per visit)
 
 
 
-
-
-**DiD comparison to city groups above**
+**Difference in Differences comparison to other cities**
 
 _Guiding assumptions:_
 
 * the cities used are fairly representative
 * 'uptick as a percentage' is unrelated to city size/visits last year
-* all the cities in the comparison group are 'equally informative to the counterfactual'
-  * Updated version 'informative in proportion to totals'
+* all the cities in the comparison group are 'informative to the counterfactual' in proportion to their total number of sessions\
 
-Thus
+
+_Thus_
 
 * 106% visits uptick (YoY) for Portland in 2020
-* Unweighted average of above upticks (excluding Portland and Coffeyville) = (181+65+55+55+47+41+21)/7 = 66(%)
-  * Better -- For 'all cities other than Portland with positive 2021 users'\*: Mean 12.86 users, the average is 4.38 users in the 2020 period and 6.26 users in the 2021 period, an uptick of (6.26-4.38)/4.38 = about 43%.  &#x20;
-* &#x20;43%\*189 = 81.3 'comparison uptick' for Portland
-* 200-81.3 = 118.7 'uptick relative to comparison'
-* $4k/118.7 = Realistic (but may be better to focus on a narrower comparison group) $33.7 cost per visit
+* For 'all cities other than Portland with positive 2021 users'\*: Mean 12.86 users, the average is 4.38 users in the 2020 period and 6.26 users in the 2021 period, an uptick of (6.26-4.38)/4.38 = about 43%.  &#x20;
+* &#x20;43%\*189 = 81.3 'counterfactual uptic' users  for Portland
+* 200-81.3 = 118.7 'uptick relative to counterfactual'
+* <mark style="background-color:green;">$4k/118.7 =</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">**$33.7**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">cost per User</mark>
+* Seems realistic at a first-pass (but it may be better to focus on a narrower comparison group)&#x20;
 
 \
-(\* Caveat: the data should be filtered based on the number of 2020 users only for a more fair comparison. This should slightly overstate the average YoY increase.  But I don't expect this to make a huge difference as we are likely only cutting cities with very few users.)
+_\* Caveat: the data should be filtered based on the number of 2020 users only for a more fair comparison. This should slightly overstate the average YoY increase.  But I don't expect this to make a huge difference as we are likely only cutting cities with very few users._
+
+__
+
+## Other outcomes (quick look)
+
+_DR: I took a quick look through Google Analytics on this. A few quick results:_
+
+1. There are very few signups for the concierge advising service. Only about 16 in December 2021 globally, only 1 of which was from Portland
+2. Eyeballing it, while the number of sessions is higher for the Dec 2021 period than for the Dec 2020 period, this increase is pretty common across cities, Portland doesn’t seem to be an exception.
+3. If it’s important I could try to quantify ‘statistical bounds on the maximum size of the size of the impact of this promotion on site traffic from Portland’ … but I doubt this is worth doing
+
+
+
+## The data (access, quick peeks)
+
+{% hint style="info" %}
+Google Analytics is a bit annoying; do you know if there is a way to ‘just get the raw data’? (DR: I found a partial fix (see [#getting-the-data](../../../methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md#getting-the-data "mention")), and now I can 'get all the data' ... will analyze soon
 {% endhint %}
 
 
 
-DR: I took a quick look through Google Analytics on this. I saved a data snapshot [here](https://www.dropbox.com/s/lquhw7a2jq8s3pz/portland%20vs%20comparison%20citiesAnalytics%20TLYCS%20-%20all%20domains%20portland%20another%20try%2020211203-20220102%2020201203-20210102.xlsx?dl=0) (see 'dataset 1), shared only with JS. I hope this is OK. A few quick results:
-
-1. There are very few signups for concierge advising service. Only about 16 in December 2021 globally, only 1 of which was from Portland
-2. Eyeballing it, while the number of sessions is higher for the Dec 2021 period than for the Dec 2020 period, this increase is pretty common across cities, Portland doesn’t seem to be an exception.
-3. If it’s important I could try to quantify ‘statistical bounds on the maximum size of the size of the impact of this promotion on site traffic from Portland’ … but I doubt this is worth doing
-4. Google Analytics is a bit annoying; do you know if there is a way to ‘just get the raw data’? (DR: I found a partial fix (see [#getting-the-data](../../../methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md#getting-the-data "mention")), and now I can 'get all the data' ... will analyze soon
+**A quick look: Cities with most sessions in 2022**
 
 ![](<../../../.gitbook/assets/image (3).png>)
 
-### Next steps
-
-#### JS: suggests we focus on sessions, YoY growth, and a pre-post (maybe a 'difference in difference' or even 'DiDiD' model)
-
-> Of the 10 geos in your screenshot, it looks like Portland stacked up alright, although we don't know what caused this.
+**Among the 'strongest 2021 cities', how did sessions change from year to year?**
 
 | DMA           | YoY session growth (%) | YoY session growth (#) |
 | ------------- | ---------------------- | ---------------------- |
@@ -93,6 +94,12 @@ DR: I took a quick look through Google Analytics on this. I saved a data snapsho
 | San Francisco | 41%                    | 118                    |
 | Chicago       | 21%                    | 81                     |
 | (not set)     | 11%                    | 87                     |
+
+
+
+### Next steps&#x20;
+
+JS: suggests we focus on sessions, YoY growth, and a pre-post (maybe a 'difference in difference' or even 'DiDiD' model)
 
 > To get another view, what if we do a pre/post view to see if there was any increase after launch compared to the other cities, possibly something like was done in [this publication](https://research.google/pubs/pub45950/)?. Below is an example of the kind of thing that analysts on my team might present to an advertiser
 
@@ -112,12 +119,6 @@ _(work on, compare to literature, move to statistical approaches section)_
 
 _$Y = visits/day = constant + (city\_constants) + (year\_dummies) + (month\_dummies) + B\*D\_treated + ‘white noise’_
 
-_(There's a way to do maths but I can't figure it out atm)_
-
-$$
-f(x) = x * e^{2 pi i \xi x}
-$$
-
 _D\_treated:_ Whether I’m in a city in a ‘treated month’ (of which we have only one atm, Portland in December)…\
 \
 We should be able to ‘run the model’ and estimate _B_, the coefficient of interest here.I suspect the unbiased (but not necessarily lowest-variance) point estimate will be …\
@@ -136,8 +137,8 @@ _\Delta\_t(\Delta\_m(Y\_PL\_21))_ = _\Delta\_m(Y\_PL\_21) - \Delta\_m(Y\_PL\_20)
 \
 I think the estimator we want may be:\
 _\hat(B(PL, 21) = \Delta\_t(\Delta\_m(Y\_PL\_21)) - \Delta\_t(\Delta\_m(Y\_CC\_21))._ I believe this has EV equal to the B in the above.\
-\_\_\
-\_\_We could then compute this object and do some simulation tests on it (as well as robustness to other comparison cities).
+\
+\_We could then compute this object and do some simulation tests on it (as well as robustness to other comparison cities).
 
 E.g., we can simulate the distribution of _\hat(B)_ by randomly choosing any of the (untreated) cities X and computing the comparable \\_hat(B(X, 21) …_ and seeing how rare it is to get a value as extreme as the one we get for _\hat(B(PL, 21)._
 
