@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>1 TLYCS Portland trial: background, data input, brief report | EA Market testing data analysis</title>
+  <meta name="description" content="Analysing marketing trials, experiments, and more" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="1 TLYCS Portland trial: background, data input, brief report | EA Market testing data analysis" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Analysing marketing trials, experiments, and more" />
+  <meta name="github-repo" content="daaronr/effective_giving_market_testing" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="1 TLYCS Portland trial: background, data input, brief report | EA Market testing data analysis" />
+  
+  <meta name="twitter:description" content="Analysing marketing trials, experiments, and more" />
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="index.html"/>
+
+<script src="libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+<script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+<header>
+  <script src="assets/js/bigfoot.min.js"></script>
+  <script>
+    function toggleAllCode() {
+      // Find all the r class elements
+      const elements = document.getElementsByClassName("r")
+      console.log(elements)
+      
+      // Loop over the elements and toggle the 'hidden' class if the element
+      // is a div
+      for (let element of elements) {
+        console.log(element)
+        if (element.style.display === "block") {
+          element.style.display = "none"
+        } else {
+          element.style.display = "block"
+        }
+      }
+    }
+
+    function toggleText() {
+      // Find the foldable div this button belongs to
+      const div = this.parentNode;
+
+      // Loop over the elements and 
+      for (child of div.children) {
+        if (child.style.display === "block") {
+          child.style.display = "none"
+        } else {
+          child.style.display = "block"
+        }
+      }
+
+      // Toggle the text of the button
+      const button = this
+      if (button.textContent == "Show me less") {
+        button.textContent = "Show me more"
+      } else {
+        button.textContent = "Show me less"
+      }
+    }
+
+    window.onload = function() {
+      // Check if there are any code sections on the page
+      const codeBlocks = document.getElementsByClassName("sourceCode")
+      
+      // Add toggle code button, but only if there are code blocks
+      if (codeBlocks.length > 0) {
+        // Find the book header at the top of the page
+        const header = document.getElementsByClassName("book-header").item(0)
+        
+        // Create a link element
+        const link = document.createElement("a")
+        link.className = "btn pull-left js-toolbar-action"
+        link.title = "Toggle code"
+        link.onclick = toggleAllCode
+        
+        // Create an icon element
+        const icon = document.createElement("i")
+        icon.className = "fa fa-code"
+        
+        // Add the icon to the link
+        link.appendChild(icon)
+      
+        // Add the link to the header
+        header.appendChild(link)
+      }
+      
+      // Find all foldable sections
+      const foldBlocks = document.getElementsByClassName("foldable")
+      
+      if (foldBlocks.length > 0) {
+        // Loop over the fold blocks, check if there is a button, if so, add the
+        // fold text function
+        for (block of foldBlocks) {
+          const button = block.getElementsByClassName("fold-button").item(0)
+          
+          if (button) button.onclick = toggleText
+        }
+      }
+      
+      // Initiate bigfoot to add popover footnotes
+      $.bigfoot(
+        {
+            activateOnHover: true,
+            deleteOnUnhover: true
+        }
+      )
+    }
+  </script>
+</header>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+<link rel="stylesheet" href="assets/css/bigfoot-default.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>About</a>
+<ul>
+<li class="chapter" data-level="0.1" data-path="index.html"><a href="index.html#tech-and-collophon"><i class="fa fa-check"></i><b>0.1</b> Tech and collophon</a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html"><i class="fa fa-check"></i><b>1</b> TLYCS Portland trial: background, data input, brief report</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#the-trial"><i class="fa fa-check"></i><b>1.1</b> The trial</a></li>
+<li class="chapter" data-level="1.2" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#capturing-data"><i class="fa fa-check"></i><b>1.2</b> Capturing data</a></li>
+<li class="chapter" data-level="1.3" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#input-and-clean-data"><i class="fa fa-check"></i><b>1.3</b> Input and clean data</a></li>
+<li class="chapter" data-level="1.4" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#exploratory-analysis"><i class="fa fa-check"></i><b>1.4</b> Exploratory analysis</a></li>
+<li class="chapter" data-level="1.5" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#casualsimple-uptick-analysis"><i class="fa fa-check"></i><b>1.5</b> Casual/simple ‘uptick’ analysis</a>
+<ul>
+<li class="chapter" data-level="1.5.1" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#difference-in-differences-comparison-to-other-cities"><i class="fa fa-check"></i><b>1.5.1</b> Difference in Differences comparison to other cities</a></li>
+</ul></li>
+</ul></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">EA Market testing data analysis</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="tlycs-portland-trial-background-data-input-brief-report" class="section level1" number="1">
+<h1><span class="header-section-number">1</span> TLYCS Portland trial: background, data input, brief report</h1>
+<div id="the-trial" class="section level2" number="1.1">
+<h2><span class="header-section-number">1.1</span> The trial</h2>
+<p>In December 2021, TLYCS ran a YouTube advertising campaign in single city, involving ‘donation advice’. The top 10% household income households were targeted with (one of?) three categories of videos.</p>
+<p>The details are presented in our (currently private) gitbook <a href="https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/contexts-and-environments-for-testing/tlycs/advisor-signup-portland">HERE</a></p>
+</div>
+<div id="capturing-data" class="section level2" number="1.2">
+<h2><span class="header-section-number">1.2</span> Capturing data</h2>
+<p>I (David Reinstein) did a manual ‘create report and download’ in TLYCS google analytics, basically as described <a href="https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface">here</a></p>
+<p>The report and it’s parameters can be accessed <a href="https://analytics.google.com/analytics/web/#/my-reports/mmZsQ-HMSbCwiG5hjQhWhQ/a10056556w22050110p185278310/_u.date00=20211203&amp;_u.date01=20211231&amp;_u.date10=20201203&amp;_u.date11=20201231&amp;197-table.advFilter=%5B%5B1,%22analytics.totalVisitors%22,%22GT%22,%220%22,0%5D%5D&amp;197-table.plotKeys=%5B%5D&amp;197-table.rowCount=5000&amp;197-table-dataTable.sortColumnName=analytics.totalVisitors&amp;197-table-dataTable.sortDescending=false&amp;197-graphOptions.primaryConcept=analytics.totalVisitors&amp;197-graphOptions.compareConcept=analytics.visits">here</a>, if you have access.</p>
+<p>Report:</p>
+<ul>
+<li>3-31 December 2021 vs prior year, same dates</li>
+<li>All North American cities with 1 or more user
+<ul>
+<li>TODO: fix to make it 1+ user for 2020 not 2021</li>
+</ul></li>
+<li>Counts: Users, sessions, certain types of conversions (see below)</li>
+</ul>
+<p>I downloaded this as an Excel spreadsheet</p>
+<p><code>effective_giving_market_testing/data_do_not_commit/tlycs/tlycs_dec_2021_vs_2020_by_city_n_america_pos_users.xlsx</code></p>
+<p>(This is gitignored so it won’t be ‘committed’ to our repo, at least for now)</p>
+</div>
+<div id="input-and-clean-data" class="section level2" number="1.3">
+<h2><span class="header-section-number">1.3</span> Input and clean data</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#tl21 &lt;- read_excel(here::here(&quot;data_do_not_commit&quot;, &quot;tlycs&quot;, &quot;tlycs_dec_2021_vs_2020_by_city_n_america.xlsx&quot;), sheet = &quot;Dataset1&quot;) #this should have worked?</span></span>
+<span id="cb1-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb1-3" aria-hidden="true" tabindex="-1"></a>tl21 <span class="ot">&lt;-</span> readxl<span class="sc">::</span><span class="fu">read_excel</span>(<span class="st">&quot;~/githubs/effective_giving_market_testing/data_do_not_commit/tlycs/tlycs_dec_2021_vs_2020_by_city_n_america.xlsx&quot;</span>,  <span class="at">sheet =</span> <span class="st">&quot;Dataset1&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb1-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">as_tibble</span>()</span></code></pre></div>
+<p>Create ‘year’ feature</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> <span class="fu">mutate</span>(</span>
+<span id="cb2-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">year =</span> <span class="fu">case_when</span>(</span>
+<span id="cb2-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-3" aria-hidden="true" tabindex="-1"></a>    <span class="fu">str_detect</span>(<span class="st">`</span><span class="at">Date Range</span><span class="st">`</span>, <span class="st">&quot;2021&quot;</span>) <span class="sc">==</span> <span class="cn">TRUE</span> <span class="sc">~</span> <span class="dv">2021</span>,</span>
+<span id="cb2-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-4" aria-hidden="true" tabindex="-1"></a>    <span class="fu">str_detect</span>(<span class="st">`</span><span class="at">Date Range</span><span class="st">`</span>, <span class="st">&quot;2020&quot;</span>) <span class="sc">==</span> <span class="cn">TRUE</span> <span class="sc">~</span> <span class="dv">2020</span></span>
+<span id="cb2-5"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-5" aria-hidden="true" tabindex="-1"></a>  )</span>
+<span id="cb2-6"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-6" aria-hidden="true" tabindex="-1"></a>)</span></code></pre></div>
+<p>Create ‘differences across years’ features.</p>
+<p>Need to re-label the ‘correct’ Portland (we think), as this is a common city name, and there are two other ‘Portlands’, each with a small number of sessions</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb3-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland&quot;</span>) <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">select</span>(City, year, Users)</span></code></pre></div>
+<pre><code>## # A tibble: 6 × 3
+##   City      year Users
+##   &lt;chr&gt;    &lt;dbl&gt; &lt;dbl&gt;
+## 1 Portland  2021     1
+## 2 Portland  2020     0
+## 3 Portland  2021     8
+## 4 Portland  2020     6
+## 5 Portland  2021   306
+## 6 Portland  2020   144</code></pre>
+<p>Presumably the largest one is Portland Oregon, and we’ll relable it as such.</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span></span>
+<span id="cb5-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb5-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-3" aria-hidden="true" tabindex="-1"></a>    <span class="at">City =</span> <span class="fu">case_when</span>(City<span class="sc">==</span><span class="st">&quot;Portland&quot;</span> <span class="sc">&amp;</span> Users<span class="sc">&gt;</span><span class="dv">20</span> <span class="sc">~</span> <span class="st">&quot;Portland_OR&quot;</span>,</span>
+<span id="cb5-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-4" aria-hidden="true" tabindex="-1"></a>              City<span class="sc">==</span><span class="st">&quot;Portland&quot;</span> <span class="sc">~</span> <span class="st">&quot;Other_Portland&quot;</span>,</span>
+<span id="cb5-5"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-5" aria-hidden="true" tabindex="-1"></a>              <span class="cn">TRUE</span> <span class="sc">~</span> City)</span>
+<span id="cb5-6"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-6" aria-hidden="true" tabindex="-1"></a>  )</span></code></pre></div>
+</div>
+<div id="exploratory-analysis" class="section level2" number="1.4">
+<h2><span class="header-section-number">1.4</span> Exploratory analysis</h2>
+</div>
+<div id="casualsimple-uptick-analysis" class="section level2" number="1.5">
+<h2><span class="header-section-number">1.5</span> Casual/simple ‘uptick’ analysis</h2>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb6-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year)</span></code></pre></div>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:TRUE">Table 1.1: </span>
+</caption>
+<thead>
+<tr>
+<th style="text-align:right;">
+year
+</th>
+<th style="text-align:right;">
+N
+</th>
+<th style="text-align:right;">
+share &gt; 0
+</th>
+<th style="text-align:right;">
+Mean
+</th>
+<th style="text-align:right;">
+Median
+</th>
+<th style="text-align:right;">
+P80
+</th>
+<th style="text-align:left;">
+Std.dev.
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+2020
+</td>
+<td style="text-align:right;">
+4923
+</td>
+<td style="text-align:right;">
+0.701
+</td>
+<td style="text-align:right;">
+7.42
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+(260.96)
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2021
+</td>
+<td style="text-align:right;">
+4923
+</td>
+<td style="text-align:right;">
+0.745
+</td>
+<td style="text-align:right;">
+9.45
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:left;">
+(332.7)
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb7-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(<span class="sc">!</span>City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span>) <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year)</span></code></pre></div>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:TRUE">Table 1.1: </span>
+</caption>
+<thead>
+<tr>
+<th style="text-align:right;">
+year
+</th>
+<th style="text-align:right;">
+N
+</th>
+<th style="text-align:right;">
+share &gt; 0
+</th>
+<th style="text-align:right;">
+Mean
+</th>
+<th style="text-align:right;">
+Median
+</th>
+<th style="text-align:right;">
+P80
+</th>
+<th style="text-align:left;">
+Std.dev.
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+2020
+</td>
+<td style="text-align:right;">
+4921
+</td>
+<td style="text-align:right;">
+0.701
+</td>
+<td style="text-align:right;">
+3.68
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+(20.94)
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2021
+</td>
+<td style="text-align:right;">
+4921
+</td>
+<td style="text-align:right;">
+0.745
+</td>
+<td style="text-align:right;">
+4.66
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:left;">
+(28.22)
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb8-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(Users<span class="sc">&gt;</span><span class="dv">20</span>) <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year) <span class="co">#Fix -- filter on over 20 users for 2020 ONLY]</span></span></code></pre></div>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:TRUE">Table 1.1: </span>
+</caption>
+<thead>
+<tr>
+<th style="text-align:right;">
+year
+</th>
+<th style="text-align:right;">
+N
+</th>
+<th style="text-align:right;">
+share &gt; 0
+</th>
+<th style="text-align:right;">
+Mean
+</th>
+<th style="text-align:right;">
+Median
+</th>
+<th style="text-align:right;">
+P80
+</th>
+<th style="text-align:left;">
+Std.dev.
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+2020
+</td>
+<td style="text-align:right;">
+111
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+242.86
+</td>
+<td style="text-align:right;">
+42.0
+</td>
+<td style="text-align:right;">
+111.0
+</td>
+<td style="text-align:left;">
+(1729.02)
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2021
+</td>
+<td style="text-align:right;">
+140
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+259.26
+</td>
+<td style="text-align:right;">
+42.5
+</td>
+<td style="text-align:right;">
+113.4
+</td>
+<td style="text-align:left;">
+(1963.27)
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb9-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Sessions, year)</span></code></pre></div>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<caption>
+<span id="tab:TRUE">Table 1.1: </span>
+</caption>
+<thead>
+<tr>
+<th style="text-align:right;">
+year
+</th>
+<th style="text-align:right;">
+N
+</th>
+<th style="text-align:right;">
+share &gt; 0
+</th>
+<th style="text-align:right;">
+Mean
+</th>
+<th style="text-align:right;">
+Median
+</th>
+<th style="text-align:right;">
+P80
+</th>
+<th style="text-align:left;">
+Std.dev.
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+2020
+</td>
+<td style="text-align:right;">
+4923
+</td>
+<td style="text-align:right;">
+0.701
+</td>
+<td style="text-align:right;">
+9.25
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:left;">
+(325.58)
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2021
+</td>
+<td style="text-align:right;">
+4923
+</td>
+<td style="text-align:right;">
+0.745
+</td>
+<td style="text-align:right;">
+11.75
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:left;">
+(413.48)
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-1" aria-hidden="true" tabindex="-1"></a>OR_users_21 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span> <span class="sc">&amp;</span> year<span class="sc">==</span><span class="dv">2021</span>) <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="st">&#39;Users&#39;</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>() </span>
+<span id="cb10-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-3" aria-hidden="true" tabindex="-1"></a>OR_users_20 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span> <span class="sc">&amp;</span> year<span class="sc">==</span><span class="dv">2020</span>) <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="st">&#39;Users&#39;</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>() </span>
+<span id="cb10-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-5"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-5" aria-hidden="true" tabindex="-1"></a>OR_uptick <span class="ot">&lt;-</span> OR_users_21 <span class="sc">-</span> OR_users_20</span>
+<span id="cb10-6"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-7"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-7" aria-hidden="true" tabindex="-1"></a>nonOR  <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">filter</span>(City<span class="sc">!=</span><span class="st">&quot;Portland_OR&quot;</span>) <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="st">&#39;Users&#39;</span>, year) </span>
+<span id="cb10-8"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-9"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-9" aria-hidden="true" tabindex="-1"></a>nonOR_users_21 <span class="ot">&lt;-</span> <span class="fu">mean</span>(nonOR<span class="sc">$</span>Users[nonOR<span class="sc">$</span>year<span class="sc">==</span><span class="dv">2021</span>])</span>
+<span id="cb10-10"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-10" aria-hidden="true" tabindex="-1"></a>nonOR_users_20 <span class="ot">&lt;-</span> <span class="fu">mean</span>(nonOR<span class="sc">$</span>Users[nonOR<span class="sc">$</span>year<span class="sc">==</span><span class="dv">2020</span>])</span>
+<span id="cb10-11"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-12"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-13"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-13" aria-hidden="true" tabindex="-1"></a>nonOR_uptick <span class="ot">&lt;-</span> (nonOR_users_21 <span class="sc">-</span> nonOR_users_20)<span class="sc">/</span>nonOR_users_20</span></code></pre></div>
+<p>(As in interactive Gitbook)</p>
+<div id="difference-in-differences-comparison-to-other-cities" class="section level3" number="1.5.1">
+<h3><span class="header-section-number">1.5.1</span> Difference in Differences comparison to other cities</h3>
+<p>Guiding assumptions:</p>
+<ul>
+<li><p>the cities used are fairly representative</p></li>
+<li><p>‘uptick as a percentage’ is unrelated to city size/visits last year
+all the cities in the comparison group are ‘informative to the counterfactual’ in proportion to their total number of sessions (I’m waving the hands a bit here)</p></li>
+</ul>
+<p>Thus</p>
+<p>112.5% visits uptick (YoY) for Portland in 2020</p>
+<p>For ’all North American cities other than Portland (with positive users in either year):</p>
+<p>The average is 3.68 users in the 2020 period and 4.66 users in the 2021 period, an uptick of 4.66
+- 3.68)/3.68 = about 26.8%.</p>
+<p>26.8% uptick <span class="math inline">\(\times\)</span> 144 = 38.5 ‘counterfactual uptic’ in users for Portland</p>
+<p>162 -38.5 = 123 ‘uptick relative to counterfactual’</p>
+<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb11-1" aria-hidden="true" tabindex="-1"></a>or_uptick_vs_cfl <span class="ot">&lt;-</span> OR_users_21 <span class="sc">-</span> OR_users_20 <span class="sc">-</span> nonOR_uptick<span class="sc">*</span>OR_users_20</span></code></pre></div>
+<p>USD 4000 /123 = USD 32.4 cost per user</p>
+<p>This seems realistic at a first-pass (but it may be better to focus on a narrower comparison group)</p>
+
+</div>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="index.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": false,
+"twitter": false,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": false
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"theme": {
+"primary": "#0d6efd",
+"danger": "#dc3545",
+"success": "#198754"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

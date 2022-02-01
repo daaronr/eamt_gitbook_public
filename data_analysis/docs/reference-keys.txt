@@ -1,0 +1,9 @@
+tab:TRUE
+tech-and-collophon
+tlycs-portland-trial-background-data-input-brief-report
+the-trial
+capturing-data
+input-and-clean-data
+exploratory-analysis
+casualsimple-uptick-analysis
+difference-in-differences-comparison-to-other-cities

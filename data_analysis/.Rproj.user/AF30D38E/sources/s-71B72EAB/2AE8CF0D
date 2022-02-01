@@ -1,0 +1,27 @@
+{
+    "id": "2AE8CF0D",
+    "path": "~/githubs/effective_giving_market_testing/data_analysis/main.R",
+    "project_path": "main.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1643754633654.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "61,28",
+        "scrollLine": "47",
+        "marks": "<:10,7\n>:10,7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1643758282,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1643758282902,
+    "read_only": false,
+    "read_only_alternatives": []
+}

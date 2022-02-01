@@ -1,0 +1,27 @@
+{
+    "id": "05453A09",
+    "path": "~/githubs/effective_giving_market_testing/data_analysis/tlycs_portland_trial_2021/input_simple_analysis.Rmd",
+    "project_path": "tlycs_portland_trial_2021/input_simple_analysis.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1643754673162.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "130,47",
+        "scrollLine": "124",
+        "marks": "<:93,0\n>:93,11"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1643758423,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1643758423748,
+    "read_only": false,
+    "read_only_alternatives": []
+}

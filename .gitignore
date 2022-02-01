@@ -14,12 +14,8 @@ _book
 *.epub
 *.mobi
 *.pdf
-data_please_gitignore/*
-data_do_not_commit/*
 
-data_do_not_commit/tlycs/Analytics TLYCS - all domains y2y Advisor (Portland+) users and sessions 20211203-20211231 20201203-20201231 (1).xlsx
-data_do_not_commit/tlycs/Analytics TLYCS - all domains y2y Advisor (Portland+) users and sessions 20211203-20211231 20201203-20201231 second_half.xlsx
-data_do_not_commit/tlycs/tlycs_dec_21_vs_20_cities_positive_1.xlsx
-data_do_not_commit/tlycs/tlycs_dec_21_vs_20_cities_positive_2.xlsx
-data_do_not_commit/tlycs/~$Analytics TLYCS - all domains y2y Advisor (Portland+) users and sessions 20211203-20211231 20201203-20201231 (1).xlsx
-.Rproj.user
+
+data_do_not_commit/tlycs/*
+
+
