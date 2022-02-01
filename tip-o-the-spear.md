@@ -13,20 +13,16 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 _Previous updates: see tabs_
 
 {% tabs %}
-{% tab title="Prev. update: tabs" %}
-
-{% endtab %}
-
-{% tab title="Dec '21" %}
+{% tab title="Dec " %}
 * Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
-* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")&#x20;
+* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [broken-reference](broken-reference/ "mention")
 * Considering "Public version" of gitbook, sharing; project management
 * [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV)
 {% endtab %}
 
-{% tab title="Jan '22" %}
+{% tab title="Jan " %}
 * Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
-* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")&#x20;
+* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [broken-reference](broken-reference/ "mention")
 * Considering "Public version" of gitbook, sharing; project management
 {% endtab %}
 {% endtabs %}
@@ -35,19 +31,11 @@ _Previous updates: see tabs_
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
-
 * <mark style="background-color:green;">Impact vs emotion:</mark> [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") [#preliminary-results](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/#preliminary-results "mention")
-
-
-
-* <mark style="background-color:green;">Impact vs emotion:</mark> [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") [#preliminary-results](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/#preliminary-results "mention")
-    * Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
-    * Preliminary results: little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
-    * <mark style="background-color:orange;">Next steps</mark>: update with further donations, write-up, get feedback
-
-* [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments); _<mark style="background-color:purple;">Status? Not started yet.</mark>_&#x20;
-
-
+  * Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
+  * Preliminary results: little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
+  * <mark style="background-color:orange;">Next steps</mark>: update with further donations, write-up, get feedback
+* [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments); _<mark style="background-color:purple;">Status? Not started yet.</mark>_
 * "Upselling" YouTube marketing (casual lift test, or trials?); working with JS _<mark style="background-color:purple;">Status?</mark>_
 
 ### [GWWC](tip-o-the-spear.md#gwwc)
@@ -57,8 +45,8 @@ _Previous updates: see tabs_
     _<mark style="background-color:yellow;">We have</mark>_ [some results](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
 
     * <mark style="background-color:orange;">Next steps</mark>_<mark style="background-color:yellow;">: more detailed analysis and write-up (check/replicate/extend Google optimize Bayesian analysis in code)</mark>_
-* [YouTube remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md).&#x20;
-  * V prelim results: benchmarks on cost per view, relative performance of best/worst videos &#x20;
+* [YouTube remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md).
+  * V prelim results: benchmarks on cost per view, relative performance of best/worst videos
   * <mark style="background-color:orange;">Next steps</mark>: DR and JL (& others?) to liaise with JS to extract more insight, including about giving outcomes
 * [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email. ... (what themes?)
   * _<mark style="background-color:purple;">Status?</mark>_
@@ -70,21 +58,19 @@ _Previous updates: see tabs_
 
 ### [The Life You Can Save](contexts-and-environments-for-testing/tlycs/)
 
-* Various trials with JS, including [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") city-level Youtube test;&#x20;
+* Various trials with JS, including [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") city-level Youtube test;
   * Preliminary results: very low 'advisor signup' response, underpowered; <mark style="background-color:orange;">Next steps</mark>: difference in difference in difference analysis of how many sessions (by pre/post, year-to-year, Portland vs other), to see if the ad lead to clicks
 * Considering a '[funds recommendations trial'](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md) with different options and 'prompted consideration'. <mark style="background-color:purple;">Status?</mark>
 
 ### 80000 hours
 
-* [youtube-awareness-upenn-+.md](contexts-and-environments-for-testing/80000-hours/youtube-awareness-upenn-+.md "mention") Results? <mark style="background-color:purple;">Status?: holdup with the ads, need to deal with a legislative thing</mark> &#x20;
+* [youtube-awareness-upenn-+.md](contexts-and-environments-for-testing/80000-hours/youtube-awareness-upenn-+.md "mention") Results? <mark style="background-color:purple;">Status?: holdup with the ads, need to deal with a legislative thing</mark>
 
-Bella's goals and interests:&#x20;
+Bella's goals and interests:
 
 * optimize WoM channels, referral campaign
-* sponsorships (sponsor a podcast, youtube)&#x20;
-* 80k and Tim Ferris (a bit confounded with different CtA) ...&#x20;
-
-
+* sponsorships (sponsor a podcast, youtube)
+* 80k and Tim Ferris (a bit confounded with different CtA) ...
 
 ### Reinstein & Co
 
@@ -101,7 +87,7 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 ### Planned meeting(s) for early January
 
-_DR: As we cannot all make a time, I propose two meetings; which should allow at least 1 person from each org to make a meeting_  [(Slack thread on this)](https://givingexperiments.slack.com/archives/C0298MCQK4G/p1640277221038700)\
+_DR: As we cannot all make a time, I propose two meetings; which should allow at least 1 person from each org to make a meeting_ [(Slack thread on this)](https://givingexperiments.slack.com/archives/C0298MCQK4G/p1640277221038700)\
 **Friday, Jan 7, 3-4pm New York,**\
 **Sunday, Jan 9, 9:00-10pm New York**
 
@@ -109,20 +95,18 @@ Please don’t feel compelled to come to both, but try to come to one. We will h
 
 #### **Agenda**
 
-_Overview below --_ [_see Google doc details/discussion space HERE for more details and interaction_](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit?usp=sharing)__
+_Overview below --_ [_see Google doc details/discussion space HERE for more details and interaction_](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit?usp=sharing)\_\_
 
 1. Introduce new people/orgs/projects
    * Bella @ 80k
    * Fitz/Momentum
    * Ptashnik and profiling
-   * New people/meets: Bilal@TLYCS, Grace@GWWC, others?&#x20;
+   * New people/meets: Bilal@TLYCS, Grace@GWWC, others?
 2. discuss testing objectives (?)
 3. What we're all up to; debrief results of studies we've run (other than those covered before) -- see [#latest-best-campaigns-trials-initiatives](tip-o-the-spear.md#latest-best-campaigns-trials-initiatives "mention")
 4. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
-5. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template/))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis&#x20;
+5. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template/))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis
 6. ‘Task management’: who does what and how do we organize it? Do we need other sources of funding for time? (see discussion in [Gdoc](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#))
-
-
 
 Jan 7 (Friday): OftW (Chloe), possibly 80k (Bella) present
 
@@ -130,15 +114,9 @@ Jan 9 (Sun): GWWC (Grace), TLYCS (Bilal), possibly 80k (Bella) present; also JS 
 
 [doodle responses](https://doodle.com/poll/zbkiiikfia99bbtc)
 
-
-
 ### Previous meetings, agendas, recordings (see tab)
 
 {% tabs %}
-{% tab title="Meeting reports (tabs)" %}
-
-{% endtab %}
-
 {% tab title="Dec 2021" %}
 **December 1 2021 (7-8pm EST)**
 
@@ -173,15 +151,13 @@ _We have recorded this meeting and shared it with the group_ [_HERE_](https://ny
 
 #### December 1 2021 (7-8pm EST)
 
-_Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_, see tab above for full agenda and details_&#x20;
+_Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_, see tab above for full agenda and details_
 
 * _Recording: first hour= general meeting, last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template](contexts-and-environments-for-testing/trial-reporting-template/ "mention")
 
 {% hint style="info" %}
 _We have recorded this meeting and shared it with the group_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_. Please do not share outside the group (except by mutual agreement of all present)_
 {% endhint %}
-
-
 
 ## Other recent meetings
 
