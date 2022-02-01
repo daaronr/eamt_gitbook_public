@@ -102,7 +102,9 @@ I suggest we outline/link the 'go-to approaches for each analysis situation' in 
 
 Notes, JS: We want to know more about the impact on _sessions ('lift test'), how much it costs to get page views,_ to get a sense of the ROI.
 
-#### _DR: a proposed modeling approach_
+#### __
+
+### _DR: a proposed modeling approach_
 
 _(work on, compare to literature, move to statistical approaches section)_
 
@@ -110,9 +112,10 @@ $$Y = visits/day$$ $$= constant + (D_{city}) + (D_{year}) + (D_{month}) + B D_{t
 
 $$D_{treated}$$: Whether I’m in a city in a ‘treated month’ (of which we have only one atm, Portland in December)\
 We should be able to ‘run the model’ and estimate B, the coefficient of interest here.I suspect the unbiased (but not necessarily lowest-variance) point estimate will be\
-Let the "Nov to Dec difference in Y in city j in a year t" be $$\Delta_m(Y_{jt})$$
+Let the "Nov to Dec difference in Y in city j in a year t" be $$\Delta_m(Y_{jt})$$\
 
-For Portland (PL) 2021 (21) , this is\\
+
+For Portland (PL) 2021 (21) , this is
 
 $$\Delta_m(Y_{PL,21}) = (Y_{PL,Dec,21} - Y_{PL,Nov,21})$$
 
