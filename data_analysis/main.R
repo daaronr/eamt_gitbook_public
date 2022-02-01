@@ -13,10 +13,6 @@ p_load(devtools)
 
 source_url("https://raw.githubusercontent.com/daaronr/dr-rstuff/master/functions/baseoptions.R")
 
-source(here("code", "plotting_functions_parameters_eas.R"))
-
-source(here("code", "modeling_functions.R")) #TODO - incorporate rest of these into RP r package
-
 devtools::install_github("rethinkpriorities/rp-r-package")
 library(rethinkpriorities)
 
@@ -46,10 +42,8 @@ if (d_styleupdate=="Y") {
                here::here("assets", "js", "bigfoot.min.js"))
 }
 
-
 ### Source local model-building tools/functions ####
 #source(here::here("code", "hypothesis_test.R")) #this is being moved to the rethinkpriorities r package
-
 
 
 knitr::write_bib(
@@ -58,7 +52,6 @@ knitr::write_bib(
 )
 
 # For a list of 'rethink packages' and common packages we install, see: LINK HERE ####
-
 here::i_am("SUMMARY.md") #define root for 'here'
 
 

@@ -30,8 +30,7 @@ I downloaded this as an Excel spreadsheet
 
 ```{r}
 
-
-tl21 <- read_excel(here("data_do_not_commit","tlycs", "tlycs_dec_2021_vs_2020_by_city_n_america_pos_users.xlsx"), sheet = "Dataset1") %>% 
+tl21 <- read_excel(here("data_do_not_commit","tlycs", "tlycs_dec_2021_vs_2020_by_city_n_america.xlsx"), sheet = "Dataset1") %>% 
   as_tibble()
 
 ```
