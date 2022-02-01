@@ -117,9 +117,19 @@ Notes, JS: We want to know more about the impact on _sessions ('lift test'), how
 
 _(work on, compare to literature, move to statistical approaches section)_
 
+$$
+(y  +A) = mx  + b +A
+
+\\
+x+5 \\
+42
+$$
+
+__
+
 _$Y = visits/day = constant + (city\_constants) + (year\_dummies) + (month\_dummies) + B\*D\_treated + ‘white noise’_
 
-_D\_treated:_ Whether I’m in a city in a ‘treated month’ (of which we have only one atm, Portland in December)…\
+_D\_treated:_ Whether I’m in a city in a ‘treated month’ (of which we have only one atm, Portland in December)…_\`_\
 \
 We should be able to ‘run the model’ and estimate _B_, the coefficient of interest here.I suspect the unbiased (but not necessarily lowest-variance) point estimate will be …\
 \
