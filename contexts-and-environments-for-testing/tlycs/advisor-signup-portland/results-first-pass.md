@@ -117,40 +117,38 @@ Notes, JS: We want to know more about the impact on _sessions ('lift test'), how
 
 _(work on, compare to literature, move to statistical approaches section)_
 
-$$
-(y  +A) = mx  + b +A
 
-\\
-x+5 \\
-42
-$$
 
-__
+$$Y = visits/day$$ \\
+$$= constant + (D_{city}) + (D_{year}) + (D_{month}) + B D_{treated} + noise$$ \\
 
-_$Y = visits/day = constant + (city\_constants) + (year\_dummies) + (month\_dummies) + B\*D\_treated + ‘white noise’_
-
-_D\_treated:_ Whether I’m in a city in a ‘treated month’ (of which we have only one atm, Portland in December)…_\`_\
+$$D_treated$$: Whether I’m in a city in a ‘treated month’ (of which we have only one atm, Portland in December)
 \
-We should be able to ‘run the model’ and estimate _B_, the coefficient of interest here.I suspect the unbiased (but not necessarily lowest-variance) point estimate will be …\
+We should be able to ‘run the model’ and estimate B, the coefficient of interest here.I suspect the unbiased (but not necessarily lowest-variance) point estimate will be
 \
-Let the ‘Nov to Dec difference in Y in city j in a year t’…\
-be _\Delta\_m(Y\_j\_t)_\
-\_\_\
-\_\_ for Portland (PL) 2021 (21) , this is\
-_\Delta\_m(Y\_PL\_21) = (Y\_PL\_Dec\_21 - Y\_PL\_Nov\_21)_\
-\_\_\
-\_\_\
-\_\_Let the year-to year difference in something be _\Delta\_y(something)_… so\
-_\Delta\_t(\Delta\_m(Y\_PL\_21))_ = _\Delta\_m(Y\_PL\_21) - \Delta\_m(Y\_PL\_20) = (Y\_PL\_Dec\_21 - Y\_PL\_Nov\_21) - (Y\_PL\_Dec\_20 - Y\_PL\_Nov\_20)_\
-\_\_\
-\_\_Finally, consider an ‘appropriately weighted bundle of comparison cities’ CC, and consider averages across this bundle of comparison cities.\
+Let the ‘Nov to Dec difference in Y in city j in a year t’
+be $$\Delta_m(Y_j_t)$$
+
+
+For Portland (PL) 2021 (21) , this is\
+
+$$\Delta_m(Y_PL_21) = (Y_PL_Dec_21 - Y_PL_Nov_21)$$
+
+Let the year-to year difference in something be $$\Delta\y(something)$$
+
+so
+$$\Delta\t(\Delta\m(Y_PL_21)) = \Delta_m(Y_PL_21) - \Delta_m(Y_PL_20)$$ \\
+
+$$= (Y_{PL}_{Dec}_21 - Y_PL_Nov_21) - (Y_PL_Dec_20 - Y_PL_Nov_20)$$
+
+Finally, consider an ‘appropriately weighted bundle of comparison cities’ CC, and consider averages across this bundle of comparison cities.\
 \
 I think the estimator we want may be:\
 _\hat(B(PL, 21) = \Delta\_t(\Delta\_m(Y\_PL\_21)) - \Delta\_t(\Delta\_m(Y\_CC\_21))._ I believe this has EV equal to the B in the above.\
 \
 \_We could then compute this object and do some simulation tests on it (as well as robustness to other comparison cities).
 
-E.g., we can simulate the distribution of _\hat(B)_ by randomly choosing any of the (untreated) cities X and computing the comparable \\_hat(B(X, 21) …_ and seeing how rare it is to get a value as extreme as the one we get for _\hat(B(PL, 21)._
+E.g., we can simulate the distribution of $$\hat(B)$$ by randomly choosing any of the (untreated) cities X and computing the comparable $$\hat(B(X, 21)$$  and seeing how rare it is to get a value as extreme as the one we get for $$\hat(B(PL, 21)$$._
 
 Of course, there _are_ more grounded approaches than simulation we could use, such as a random-effects (regression) model, and various things that come under "difference in difference in ..." and "multi-way fixed effects"
 
