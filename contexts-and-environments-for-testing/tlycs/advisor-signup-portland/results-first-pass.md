@@ -106,7 +106,7 @@ Notes, JS: We want to know more about the impact on _sessions ('lift test'), how
 
 _(work on, compare to literature, move to statistical approaches section)_
 
-$$Y = visits/day$$  $$= constant + (D_{city}) + (D_{year}) + (D_{month}) + B D_{treated} + noise$$&#x20;
+$$Y = visits/day$$ $$= constant + (D_{city}) + (D_{year}) + (D_{month}) + B D_{treated} + noise$$
 
 $$D_{treated}$$: Whether I’m in a city in a ‘treated month’ (of which we have only one atm, Portland in December)\
 We should be able to ‘run the model’ and estimate B, the coefficient of interest here.I suspect the unbiased (but not necessarily lowest-variance) point estimate will be\
@@ -118,13 +118,12 @@ $$\Delta_m(Y_{PL,21}) = (Y_{PL,Dec,21} - Y_{PL,Nov,21})$$
 
 Let the year-to year difference in any variable X be $$\Delta_y(X)$$
 
-so $$\Delta_t(\Delta_m(Y_{PL,21}) = \Delta_m(Y_{PL,21}) - \Delta_m(Y_{PL,20})$$ \\
-$$= (Y_{PL,Dec,21} - Y_{PL,Nov,21}) - (Y_{PL,Dec,20} - Y_{PL,Nov,20})$$
+so $$\Delta_t(\Delta_m(Y_{PL,21}) = \Delta_m(Y_{PL,21}) - \Delta_m(Y_{PL,20})$$ \ $$= (Y_{PL,Dec,21} - Y_{PL,Nov,21}) - (Y_{PL,Dec,20} - Y_{PL,Nov,20})$$
 
 Finally, consider an ‘appropriately weighted bundle of comparison cities’ CC, and consider averages across this bundle of comparison cities.\
 \
 I think the estimator we want may be:\
-$$\hat(B(PL, 21) = \Delta_t(\Delta_m(Y_{PL,21})) - \Delta_t(\Delta_m(Y_{CC,21}))$$.
+$$\hat{B}(PL, 21) = \Delta_t(\Delta_m(Y_{PL,21})) - \Delta_t(\Delta_m(Y_{CC,21}))$$.
 
 I believe this has EV equal to the B in the above.\
 \
