@@ -32,13 +32,13 @@ Johnstuart Winchell - Google/YouTube (j.s.winchell@gmail.com)
 
 Launch date: December 3
 
-End date: December 31&#x20;
+End date: December 31
 
 ### Digital location where project 'lives' (planning, material, data)
 
-Nothing has been organized yet. This interface is the best summary atm. Google/YouTube Ads interface will have the data.(Email conversations with JS and TLYCS has some content)
+Nothing has been organized yet. This interface is the best summary atm. Google/YouTube Ads interface will have the data. (Email conversations with JS and TLYCS has some content)
 
-_Update: other data is on TLYCS Google Analytics_
+_Update: other data is on TLYCS Google Analytics._
 
 ### Environment/context for trial
 
@@ -54,7 +54,7 @@ People living in Portland, Oregon in the top 10% of household income (approximat
 
 ### Key treatment(s)
 
-Exposure to a sequence of nine versions of YouTube ad videos. Frequency cap: 6/weeks&#x20;
+Exposure to a sequence of nine versions of YouTube ad videos. Frequency cap: 6/weeks
 
 **Three main 'theme/header' variations (similar, slightly different phrasings)**
 
@@ -67,14 +67,13 @@ _interacted with..._
 3. **"I want to do good":** Colorful puppets (with some cartoons) sing (British accents) about how good it feels to give up things they don't need and to donate to save lives, and counter common arguments about this 'breeding dependency', fear of administrative waste, etc.
 
 {% hint style="info" %}
-The videos I could see didn't actually link the 'advisor landing page' in the video or on the bottom. Looking at your notes, I guess (?) these come in pop-up things in the 'real context' on Youtube, e.g., as in...
-
-![](<../../../.gitbook/assets/image (13).png>)
+**Note/limitation:** \
+****It seems we cannot track 'which video got more clicks'? [Johnstuart Winchell](https://app.gitbook.com/u/6XKoliSY0eVGn9imHc6orCLb5532 "mention")?
 {% endhint %}
 
 These are organized and linked [**here**](https://docs.google.com/document/d/1NIXQNZH8O8XajXBpKocpbZ1yT3hblIv8E0vMfNg1J14/edit?pli=1)**.**
 
-Each video comes with the (same?) sitelink extension with a Call to Action:
+Each video comes with the (same?) site-link extension with a Call to Action:
 
 ![](https://lh5.googleusercontent.com/vE-xSY0cH9Y\_L\_4SOGicVc0BM2LJX5V3TPGcRV22EMil6goxm6MtPClHIay083ToIspDmPlNXG0\_8wqSxc6D1UPP0yHHynX5hLsclj6JzfK56Ffa4z5-h6nP6ziymxsS41J\_sxwu)
 
@@ -84,7 +83,7 @@ Uses a YouTube/Google optimization algorithm.
 
 Optimizing for: Advisor form fills (maximizing the probability that a user fills out the linked form)
 
-DR: Presumably  targets videos initially by random draw, and then serves videos more that performed better, perhaps interacting this learning with user demography etc.
+DR: Presumably targets videos initially by random draw, and then serves videos more that performed better, perhaps interacting this learning with user demography etc.
 
 ### **Outcome data**
 
