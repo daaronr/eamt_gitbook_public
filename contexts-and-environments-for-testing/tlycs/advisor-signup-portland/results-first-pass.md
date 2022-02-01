@@ -7,33 +7,29 @@ _(DR): **A first pass and upper bound on impact and (lower bound on) cost/sessio
 \
 **Assumptions/data interpretations (worth checking)**
 
-1. The numbers used in our data come from  meaningful sessions from unique users
-2. The 'date range' is the relevant one for being affected by the advertisements of interest&#x20;
+1. The numbers used in our data come from meaningful sessions from unique users
+2. The 'date range' is the relevant one for being affected by the advertisements of interest
 3. The 'comparison cities' are approximately randomly selected
 
+**Most optimistic (unrealistic) bound**
 
+_Guiding assumption: a counterfactual 0 visits from Portland in season_
 
-**Most optimistic (unrealistic) bound**&#x20;
-
-_Guiding assumption: a counterfactual 0 visits from Portland in season_ &#x20;
-
-* 306 Portland Users (389 Portland site visits) in relevant 2021 period. &#x20;
-* If these were _all_ driven by the advertisement (and counterfactual was 0 visits), this is +306 Users and +389 &#x20;
+* 306 Portland Users (389 Portland site visits) in relevant 2021 period.
+* If these were _all_ driven by the advertisement (and counterfactual was 0 visits), this is +306 Users and +389
 * Cost $4k (sensitive info?)
-* <mark style="background-color:green;">--> Lower bound on cost of</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">**$13.07**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">per user ($10.28 per visit)</mark>\ <mark style="background-color:green;"></mark>
+* <mark style="background-color:green;">--> Lower bound on cost of</mark> <mark style="background-color:green;">**$13.07**</mark> <mark style="background-color:green;">per user ($10.28 per visit)</mark>\\
 
 **YoY (maybe reasonable) optimistic bound**
 
 _Guiding assumption: a counterfactual 'same visits as last year' in Portland_
 
-* 306 Portland Users (389 Portland site visits) in relevant 2021 period.&#x20;
-* 144 Portland Users (189 Portland site visits) in relevant 2020 period.&#x20;
-* \--> 306-144 =162 users uptick,&#x20;
+* 306 Portland Users (389 Portland site visits) in relevant 2021 period.
+* 144 Portland Users (189 Portland site visits) in relevant 2020 period.
+* \--> 306-144 =162 users uptick,
   * (389-189 = 200 visits uptick)
-* <mark style="background-color:green;">--> $4k/162 =</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">**$24.69**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">Lower bound on cost per user</mark>&#x20;
-  * ($4k/200 =  $20 per visit)
-
-
+* <mark style="background-color:green;">--> $4k/162 =</mark> <mark style="background-color:green;">**$24.69**</mark> <mark style="background-color:green;">Lower bound on cost per user</mark>
+  * ($4k/200 = $20 per visit)
 
 **Difference in Differences comparison to other cities**
 
@@ -41,22 +37,21 @@ _Guiding assumptions:_
 
 * the cities used are fairly representative
 * 'uptick as a percentage' is unrelated to city size/visits last year
-* all the cities in the comparison group are 'informative to the counterfactual' in proportion to their total number of sessions\
-
+* all the cities in the comparison group are 'informative to the counterfactual' in proportion to their total number of sessions\\
 
 _Thus_
 
 * 106% visits uptick (YoY) for Portland in 2020
-* For 'all cities other than Portland with positive 2021 users'\*: Mean 12.86 users, the average is 4.38 users in the 2020 period and 6.26 users in the 2021 period, an uptick of (6.26-4.38)/4.38 = about 43%.  &#x20;
-* &#x20;43%\*189 = 81.3 'counterfactual uptic' users  for Portland
+* For 'all cities other than Portland with positive 2021 users'\*: Mean 12.86 users, the average is 4.38 users in the 2020 period and 6.26 users in the 2021 period, an uptick of (6.26-4.38)/4.38 = about 43%.
+* 43%\*189 = 81.3 'counterfactual uptic' users for Portland
 * 200-81.3 = 118.7 'uptick relative to counterfactual'
-* <mark style="background-color:green;">$4k/118.7 =</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">**$33.7**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">cost per User</mark>
-* Seems realistic at a first-pass (but it may be better to focus on a narrower comparison group)&#x20;
+* <mark style="background-color:green;">$4k/118.7 =</mark> <mark style="background-color:green;">**$33.7**</mark> <mark style="background-color:green;">cost per User</mark>
+* Seems realistic at a first-pass (but it may be better to focus on a narrower comparison group)
 
 \
-_\* Caveat: the data should be filtered based on the number of 2020 users only for a more fair comparison. This should slightly overstate the average YoY increase.  But I don't expect this to make a huge difference as we are likely only cutting cities with very few users._
+_\* Caveat: the data should be filtered based on the number of 2020 users only for a more fair comparison. This should slightly overstate the average YoY increase. But I don't expect this to make a huge difference as we are likely only cutting cities with very few users._
 
-__
+\_\_
 
 ## Other outcomes (quick look)
 
@@ -66,15 +61,11 @@ _DR: I took a quick look through Google Analytics on this. A few quick results:_
 2. Eyeballing it, while the number of sessions is higher for the Dec 2021 period than for the Dec 2020 period, this increase is pretty common across cities, Portland doesn’t seem to be an exception.
 3. If it’s important I could try to quantify ‘statistical bounds on the maximum size of the size of the impact of this promotion on site traffic from Portland’ … but I doubt this is worth doing
 
-
-
 ## The data (access, quick peeks)
 
 {% hint style="info" %}
 Google Analytics is a bit annoying; do you know if there is a way to ‘just get the raw data’? (DR: I found a partial fix (see [#getting-the-data](../../../methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md#getting-the-data "mention")), and now I can 'get all the data' ... will analyze soon
 {% endhint %}
-
-
 
 **A quick look: Cities with most sessions in 2022**
 
@@ -95,9 +86,7 @@ Google Analytics is a bit annoying; do you know if there is a way to ‘just get
 | Chicago       | 21%                    | 81                     |
 | (not set)     | 11%                    | 87                     |
 
-
-
-### Next steps&#x20;
+### Next steps
 
 JS: suggests we focus on sessions, YoY growth, and a pre-post (maybe a 'difference in difference' or even 'DiDiD' model)
 
@@ -117,29 +106,19 @@ Notes, JS: We want to know more about the impact on _sessions ('lift test'), how
 
 _(work on, compare to literature, move to statistical approaches section)_
 
+$$Y = visits/day$$  $$= constant + (D_{city}) + (D_{year}) + (D_{month}) + B D_{treated} + noise$$&#x20;
 
+$$D_{treated}$$: Whether I’m in a city in a ‘treated month’ (of which we have only one atm, Portland in December)\
+We should be able to ‘run the model’ and estimate B, the coefficient of interest here.I suspect the unbiased (but not necessarily lowest-variance) point estimate will be\
+Let the "Nov to Dec difference in Y in city j in a year t" be $$\Delta_m(Y_{jt})$$
 
-$$Y = visits/day$$ \\
-$$= constant + (D_{city}) + (D_{year}) + (D_{month}) + B D_{treated} + noise$$ \\
+For Portland (PL) 2021 (21) , this is\\
 
-$$D_treated$$: Whether I’m in a city in a ‘treated month’ (of which we have only one atm, Portland in December)
-\
-We should be able to ‘run the model’ and estimate B, the coefficient of interest here.I suspect the unbiased (but not necessarily lowest-variance) point estimate will be
-\
-Let the ‘Nov to Dec difference in Y in city j in a year t’
-be $$\Delta_m(Y_j_t)$$
-
-
-For Portland (PL) 2021 (21) , this is\
-
-$$\Delta_m(Y_PL_21) = (Y_PL_Dec_21 - Y_PL_Nov_21)$$
+$$\Delta_m(Y_{PL,21}) = (Y_{PL,Dec,21} - Y_{PL,Nov,21})$$
 
 Let the year-to year difference in something be $$\Delta\y(something)$$
 
-so
-$$\Delta\t(\Delta\m(Y_PL_21)) = \Delta_m(Y_PL_21) - \Delta_m(Y_PL_20)$$ \\
-
-$$= (Y_{PL}_{Dec}_21 - Y_PL_Nov_21) - (Y_PL_Dec_20 - Y_PL_Nov_20)$$
+so $$\Delta\t(\Delta\m(Y_PL_21)) = \Delta_m(Y_PL_21) - \Delta_m(Y_PL_20)$$ \\$$= (Y_{PL}_{Dec}_21 - Y_PL_Nov_21) - (Y_PL_Dec_20 - Y_PL_Nov_20)$$
 
 Finally, consider an ‘appropriately weighted bundle of comparison cities’ CC, and consider averages across this bundle of comparison cities.\
 \
@@ -148,11 +127,9 @@ _\hat(B(PL, 21) = \Delta\_t(\Delta\_m(Y\_PL\_21)) - \Delta\_t(\Delta\_m(Y\_CC\_2
 \
 \_We could then compute this object and do some simulation tests on it (as well as robustness to other comparison cities).
 
-E.g., we can simulate the distribution of $$\hat(B)$$ by randomly choosing any of the (untreated) cities X and computing the comparable $$\hat(B(X, 21)$$  and seeing how rare it is to get a value as extreme as the one we get for $$\hat(B(PL, 21)$$._
+E.g., we can simulate the distribution of $$\hat(B)$$ by randomly choosing any of the (untreated) cities X and computing the comparable $$\hat(B(X, 21)$$ and seeing how rare it is to get a value as extreme as the one we get for $$\hat(B(PL, 21)$$.\_
 
 Of course, there _are_ more grounded approaches than simulation we could use, such as a random-effects (regression) model, and various things that come under "difference in difference in ..." and "multi-way fixed effects"
-
-
 
 ## Scratch work on Google Analytics
 
@@ -160,9 +137,4 @@ Here are some graphs of the relevant period vs the same period in the previous y
 
 ![](<../../../.gitbook/assets/image (18).png>)
 
-
-
-I figured out (at least a hacky way) of getting 'all the data from Google Analytics'.    See [google-analytics-interface.md](../../../methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md "mention").
-
-
-
+I figured out (at least a hacky way) of getting 'all the data from Google Analytics'. See [google-analytics-interface.md](../../../methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md "mention").
