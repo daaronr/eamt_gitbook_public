@@ -20,3 +20,4 @@ data_please_gitignore/*
 LICENSE
 SUMMARY.md
 
+data_do_not_commit/*
