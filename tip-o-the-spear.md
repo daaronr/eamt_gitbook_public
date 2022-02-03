@@ -6,7 +6,10 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ## Team/Organizational updates
 
-* Post-Jan meeting: TLCYS, OftW, 80k I need your approval on ['what can be publicly shared'](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#heading=h.cg90o34wlpye)
+* [Next meeting: Feb 11 & 13 (pick one)](tip-o-the-spear.md#next-planned-meeting)
+* New team member: Erin Morrissey
+* Possible new orgs: "Charity Elections" group, University of Chicago EA group&#x20;
+* Post-Jan meeting: (TLCYS I need your approval on ['what can be publicly shared'](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#heading=h.cg90o34wlpye))
 * [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV) -- need to followup
 * Looking for more 'hands on deck' to help with the analysis and communication
 
