@@ -15,7 +15,7 @@ _Previous updates: see tabs_
 {% tabs %}
 {% tab title="Dec " %}
 * Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
-* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [broken-reference](broken-reference/ "mention")
+* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [other-work-and-data.md](profiling-and-segmentation/previous-work/other-work-and-data.md "mention")
 * Considering "Public version" of gitbook, sharing; project management
 * [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV)
 {% endtab %}
@@ -85,13 +85,31 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 ## Meeting agendas and recordings
 
-### Planned meeting(s) for early January
-
-_DR: As we cannot all make a time, I propose two meetings; which should allow at least 1 person from each org to make a meeting_ [(Slack thread on this)](https://givingexperiments.slack.com/archives/C0298MCQK4G/p1640277221038700)\
-**Friday, Jan 7, 3-4pm New York,**\
-**Sunday, Jan 9, 9:00-10pm New York**
+### Next (planned) meeting&#x20;
 
 Please don’t feel compelled to come to both, but try to come to one. We will have an agenda for each, and record and take notes on each.
+
+1. **Friday February 11, 2pm New York time**
+2. **Sunday Feb 13, 9pm New York**
+
+#### **Agenda (proposal in progress)**
+
+1. Introduce new people/orgs/projects
+2. Presentation "what have we learned so far? What is coming"
+3. Updates on trials and new proposals
+4. Testing objectives: Open discussion of 'what messages should we be testing'&#x20;
+5. Organizational issues:&#x20;
+   1. Sources of funding
+   2. Institutional time commitments? Possible funding for Ops/Comms person
+   3. Gitbook: 'De-duplicating' private and public versions
+   4. How/Should we bring in...?
+      * "Charity Elections" people&#x20;
+      * University of Chicago EA group&#x20;
+6. Possible presentation: Nick Fitz of Momentum &#x20;
+
+###
+
+### Early January
 
 #### **Agenda**
 
