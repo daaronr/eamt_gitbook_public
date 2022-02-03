@@ -22,7 +22,7 @@ _Previous updates: see tabs_
 
 {% tab title="Jan " %}
 * Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
-* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [broken-reference](broken-reference/ "mention")
+* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [other-work-and-data.md](profiling-and-segmentation/previous-work/other-work-and-data.md "mention")
 * Considering "Public version" of gitbook, sharing; project management
 {% endtab %}
 {% endtabs %}
@@ -95,7 +95,7 @@ Please don’t feel compelled to come to both, but try to come to one. We will h
 #### **Agenda (proposal in progress)**
 
 1. Introduce new people/orgs/projects
-2. Presentation "what have we learned so far? What is coming"
+2. Presentation and discussion "What have we learned so far? What is going well? What can we improve? What is coming"
 3. Updates on trials and new proposals
 4. Testing objectives: Open discussion of 'what messages should we be testing'&#x20;
 5. Organizational issues:&#x20;
@@ -105,36 +105,15 @@ Please don’t feel compelled to come to both, but try to come to one. We will h
    4. How/Should we bring in...?
       * "Charity Elections" people&#x20;
       * University of Chicago EA group&#x20;
-6. Possible presentation: Nick Fitz of Momentum &#x20;
-
-###
-
-### Early January
-
-#### **Agenda**
-
-_Overview below --_ [_see Google doc details/discussion space HERE for more details and interaction_](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit?usp=sharing)\_\_
-
-1. Introduce new people/orgs/projects
-   * Bella @ 80k
-   * Fitz/Momentum
-   * Ptashnik and profiling
-   * New people/meets: Bilal@TLYCS, Grace@GWWC, others?
-2. discuss testing objectives (?)
-3. What we're all up to; debrief results of studies we've run (other than those covered before) -- see [#latest-best-campaigns-trials-initiatives](tip-o-the-spear.md#latest-best-campaigns-trials-initiatives "mention")
-4. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
-5. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template/))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis
-6. ‘Task management’: who does what and how do we organize it? Do we need other sources of funding for time? (see discussion in [Gdoc](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#))
-
-Jan 7 (Friday): OftW (Chloe), possibly 80k (Bella) present
-
-Jan 9 (Sun): GWWC (Grace), TLYCS (Bilal), possibly 80k (Bella) present; also JS Winchell
-
-[doodle responses](https://doodle.com/poll/zbkiiikfia99bbtc)
+6. Possible presentation: Nick Fitz of Momentum App&#x20;
 
 ### Previous meetings, agendas, recordings (see tab)
 
 {% tabs %}
+{% tab title="Tabs: meeting notes & links" %}
+See tabs to the right
+{% endtab %}
+
 {% tab title="Dec 2021" %}
 **December 1 2021 (7-8pm EST)**
 
@@ -165,7 +144,36 @@ Strict 1-hour deadline; will announce end after 1 hour. But you are free to stic
 _We have recorded this meeting and shared it with the group_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_. Please do not share outside the group (except by mutual agreement of all present)_
 {% endhint %}
 {% endtab %}
+
+{% tab title="Jan 2022" %}
+_Overview below --_ [_see Google doc details/discussion space HERE for more details and interaction_](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit?usp=sharing)
+
+1. Introduce new people/orgs/projects
+   * Bella @ 80k
+   * Fitz/Momentum
+   * Ptashnik and profiling
+   * New people/meets: Bilal@TLYCS, Grace@GWWC, others?
+2. discuss testing objectives (?)
+3. What we're all up to; debrief results of studies we've run (other than those covered before) -- see [#latest-best-campaigns-trials-initiatives](tip-o-the-spear.md#latest-best-campaigns-trials-initiatives "mention")
+4. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
+5. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template/))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis
+6. ‘Task management’: who does what and how do we organize it? Do we need other sources of funding for time? (see discussion in [Gdoc](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#))
+
+Jan 7 (Friday): OftW (Chloe), possibly 80k (Bella) present
+
+Jan 9 (Sun): GWWC (Grace), TLYCS (Bilal), possibly 80k (Bella) present; also JS Winchell
+
+[doodle responses](https://doodle.com/poll/zbkiiikfia99bbtc)
+{% endtab %}
 {% endtabs %}
+
+#### Jan 2022
+
+See agenda and links to notes in tab above... \
+Recordings:&#x20;
+
+* [Friday](https://nyu.zoom.us/rec/share/HTpY34RFRj5cVWWCK-nq2QYzxUvv0pwnxO3MQpt-RX7Bw--2jRCYwM\_h24s45BIx.fJMpTzG4Cm02SISC)
+* [Sunday](https://nyu.zoom.us/rec/share/Xwkik6oy-OD2s60pGLbUQBYFeD\_0Nqc\_QL4htJTB3jYiC-FP5YtVlow3k5mesp7L.dD9l-f77nw0neZCI) (includes extra discussion of GWWC FB lead generation trial)&#x20;
 
 #### December 1 2021 (7-8pm EST)
 
