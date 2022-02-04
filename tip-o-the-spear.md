@@ -177,6 +177,7 @@ Recordings:&#x20;
 
 * [Friday](https://nyu.zoom.us/rec/share/HTpY34RFRj5cVWWCK-nq2QYzxUvv0pwnxO3MQpt-RX7Bw--2jRCYwM\_h24s45BIx.fJMpTzG4Cm02SISC)
 * [Sunday](https://nyu.zoom.us/rec/share/Xwkik6oy-OD2s60pGLbUQBYFeD\_0Nqc\_QL4htJTB3jYiC-FP5YtVlow3k5mesp7L.dD9l-f77nw0neZCI) (includes extra discussion of GWWC FB lead generation trial)&#x20;
+  * Tech/recording failure? ![](<.gitbook/assets/image (1).png>)
 
 #### December 1 2021 (7-8pm EST)
 
