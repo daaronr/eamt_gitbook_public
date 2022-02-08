@@ -77,6 +77,7 @@
 * [Implementing ads, messages, and designs](methodological-discussion/implementation-and-collecting-data-issues/README.md)
   * ["Doing and funding ads"](methodological-discussion/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
   * [Video ads/Best-practice guidelines](methodological-discussion/implementation-and-collecting-data-issues/best-practice-guidelines.md)
+  * [Targeted ad on FB, with variations: setup](methodological-discussion/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
   * [Facebook split-testing etc](methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md)
   * [Geographic segmentation/blocked randomization](methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
 * [Collecting data/trial outcomes](methodological-discussion/collecting-data-trial-outcomes/README.md)
