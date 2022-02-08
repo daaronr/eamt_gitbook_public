@@ -9,12 +9,16 @@ description: >-
 
 ## Goal
 
-The “EA Market Testing Team” is a group of researchers and practitioners interested in &#x20;
+{% hint style="info" %}
+This section will be  duplicated in the public and private versions. However, fore most content, we want it in only one of the two, and linked in the other.
+{% endhint %}
+
+The “EA Market Testing Team” is a group of researchers and practitioners interested in
 
 * promoting effective charitable giving,
-* building awareness and understanding of ideas associated with effective altruism,&#x20;
+* building awareness and understanding of ideas associated with effective altruism,
 * fostering involvement in the EA movement and associated groups,
-* &#x20;and learning more about what motivates this.
+* and learning more about what motivates this.
 
 To the best of our knowledge, this is the first such organized collaboration of its kind. We aim to:
 

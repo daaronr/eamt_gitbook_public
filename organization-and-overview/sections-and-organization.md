@@ -4,27 +4,65 @@ description: How the gitbook sections are organized; we can discuss this
 
 # Sections and organization
 
-**Overview of grouped sections ... the basic idea:**
+### **Overview of grouped sections ... the basic idea:**
 
-1. [Preamble](../)
-2. Explain [organization](sections-and-organization.md) of the [team](our-team-and-resources/) and [our tools](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)
-3. "Background:
-   * [What we're trying to do and why](broken-reference/),
-   * [What is known/models of effective giving](../background-and-existing-evidence/models-theories-psychological-norms.md),
-   * P[rinciples and theories behind potential trials](../background/tools-and-trials-overview/tools-interventions-principles.md)
-4. [Tools and trials](../background/tools-and-trials-overview/): specific things we want to do/test; (partly) grouped by 'outcomes' (esp. [effectiveness](../background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/) & [commitment](../background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/))
-5. Contexts/environments, specific plans for trials in these contexts
-   1. Cross-organization plans
-   2. By each organization
-      1. Background on the organization and the environments within
-      2. Plans and progress on trials within each
-   3. T[emplate for reporting](../contexts-and-environments-for-testing/trial-reporting-template/#concise-reporting-template) trials and progress
-6.  [Methods](broken-reference/): discuss issues of methodology & '[how to implement](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/contexts-and-environments-for-testing/implementation-and-collecting-data-issues/README.md) tricky things right'
+#### _Organization_
 
-    _(Let's link to this in other sections not rehash each debate in multiple places)_
+* [Preamble](../)
+* Explain [organization](sections-and-organization.md) of the [team](our-team-and-resources/) and [our tools](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)
 
-    * \_\_[Qualitative design issues](../methodological-discussion/qualitative-design-issues.md)
-    * [Quantitative design and method issues](../methodological-discussion/experimental-design-methods-issues.md)
-    * [Implementation issues](../methodological-discussion/implementation-and-collecting-data-issues/), 'practical' issues
-7. [Project: Profiling 'whom to target'](../profiling-and-segmentation/profiling-discussion.md)
-8. [Supplements and references](broken-reference/): Useful discussions and spinoff conversations I didn't know where else to put
+_Almost all of this could be made public? Move/link some of this to public-only_
+
+__
+
+#### _"Background...":_
+
+* __[What we're trying to do and why](broken-reference/),
+* [What is known/models of effective giving](../background-and-existing-evidence/models-theories-psychological-norms.md),
+* [Principles and theories behind potential trials](../background/tools-and-trials-overview/tools-interventions-principles.md)
+* [Tools and trials](../background/tools-and-trials-overview/): specific things we want to do/test; (partly) grouped by 'outcomes' (esp. [effectiveness](../background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/) & [commitment](../background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/))
+
+_Almost all of this could be made public? Move/link most of this to public-only_
+
+__
+
+#### _"Contexts/environments, specific plans for trials in these contexts"_
+
+* [Overview of contexts](../contexts-and-environments-for-testing/environments-and-plans/future-avenues.md) _(public?)_
+* T[emplate for reporting](../contexts-and-environments-for-testing/trial-reporting-template/#concise-reporting-template) trials and progress (_public, but make it prominently linked in private version)_
+* Cross-organization plans (private?)
+*   By each organization
+
+    * Background on the organization and the environments within _(mix of private/public)_
+    * Plans and progress on trials within each _(mostly private)_
+
+
+
+#### [Methods](broken-reference/): discuss issues of methodology & '[how to implement](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/contexts-and-environments-for-testing/implementation-and-collecting-data-issues/README.md) tricky things right'
+
+_This section is important, so that we can link to this in other sections not rehash each debate in multiple places!_
+
+_Make this (nearly) all public and remove it from the private version (keeping links only).  But be sure to remove or confidentialize any internal details or details of ongoing designs_ _(those cannot be made public.)  Some specific contextual private details may be maintained in the section on the private side.  But for the most part we will move the whole thing over._&#x20;
+
+* [Qualitative design issues](../methodological-discussion/qualitative-design-issues.md)
+* [Quantitative design and method issues](../methodological-discussion/experimental-design-methods-issues.md)
+* [Implementating ads etc](../methodological-discussion/implementation-and-collecting-data-issues/), 'practical' issues
+* [Collecting data from Google analytics etc](../methodological-discussion/collecting-data-trial-outcomes/)
+
+#### [Project: Profiling 'whom to target'](../profiling-and-segmentation/profiling-discussion.md)
+
+_Make public-only, just link here_
+
+__
+
+#### __[_Supplements and references_](sections-and-organization.md#undefined)__
+
+Mostly move public, except where it's too boring for public audiences perhaps?
+
+#### __[_Grants, Funding_](sections-and-organization.md#grants-funding)__
+
+Mainly private-only
+
+__
+
+[Supplements and references](broken-reference/): Useful discussions and spinoff conversations I didn't know where else to put

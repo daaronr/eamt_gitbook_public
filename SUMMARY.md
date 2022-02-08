@@ -80,9 +80,9 @@
   * [Facebook split-testing etc](methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md)
   * [Geographic segmentation/blocked randomization](methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
 * [Collecting data/trial outcomes](methodological-discussion/collecting-data-trial-outcomes/README.md)
-  * [Issues: tracking and observing outcomes](methodological-discussion/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
-  * [Google A/B, optimize interface](methodological-discussion/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
-  * [Google analytics interface](methodological-discussion/collecting-data-trial-outcomes/google-analytics-interface.md)
+  * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
+  * [Google A/B, optimize interface](methodological-discussion/implementation-and-collecting-data-issues/google-a-b-optimize-analytics-interface.md)
+  * [Google analytics interface](methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md)
 
 ## Project: Profiling and segmentation <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
@@ -105,12 +105,9 @@
 
 * [Legacies/bequests (exploring)](legacies-bequests-exploring/README.md)
   * [Research: motivating bequest/legate giving](legacies-bequests-exploring/research-motivating-bequest-legate-giving.md)
+* [Discussion: "Lab-esque" experiments/surveys](lab-esque-experiments-and-surveys.md)
 
 ## Grants, funding, reports, admin
 
 * [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)
 * [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
-
-## Further discussions
-
-* [Discussion: "Lab-esque" experiments/surveys](further-discussions/lab-esque-experiments-and-surveys.md)

@@ -162,7 +162,7 @@ _Consider_: Planned analysis methods, preregistration link, IRB link, connection
 
 ## Ex-post: Reporting results (brief)
 
-See [google-a-b-optimize-analytics-interface.md](../../methodological-discussion/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md "mention") for notes, questions, and discussion of how this is documented and reported (and implemented).
+See [google-a-b-optimize-analytics-interface.md](../../methodological-discussion/implementation-and-collecting-data-issues/google-a-b-optimize-analytics-interface.md "mention") for notes, questions, and discussion of how this is documented and reported (and implemented).
 
 ### Implementation and data collection
 
