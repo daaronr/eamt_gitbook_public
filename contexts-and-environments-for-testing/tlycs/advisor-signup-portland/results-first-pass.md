@@ -65,7 +65,7 @@ _DR: I took a quick look through Google Analytics on this. A few quick results:_
 ## The data (access, quick peeks)
 
 {% hint style="info" %}
-Google Analytics is a bit annoying; do you know if there is a way to ‘just get the raw data’? (DR: I found a partial fix (see [#getting-the-data](../../../methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md#getting-the-data "mention")), and now I can 'get all the data' ... will analyze soon
+Google Analytics is a bit annoying; do you know if there is a way to ‘just get the raw data’? (DR: I found a partial fix (see [#getting-the-data](../../../methodological-discussion/collecting-data-trial-outcomes/google-analytics-interface.md#getting-the-data "mention")), and now I can 'get all the data' ... will analyze soon
 {% endhint %}
 
 **A quick look: Cities with most sessions in 2022**
@@ -143,4 +143,4 @@ Here are some graphs of the relevant period vs the same period in the previous y
 
 ![](<../../../.gitbook/assets/image (18).png>)
 
-I figured out (at least a hacky way) of getting 'all the data from Google Analytics'. See [google-analytics-interface.md](../../../methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md "mention").
+I figured out (at least a hacky way) of getting 'all the data from Google Analytics'. See [google-analytics-interface.md](../../../methodological-discussion/collecting-data-trial-outcomes/google-analytics-interface.md "mention").
