@@ -70,26 +70,32 @@ _My next steps_: Write up these results specifically, and [in synthesis (meta-an
 
 Purpose: Investigate 'impact of early contributions (and messages)' to inform 'whether EAs should donate on social media'.
 
+_This text updated_ 9 Feb 2022
+
 \[Placeholder link: [social-influence-justgiving.md](../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/social-influence-justgiving.md "mention")]
 
-* Scoped out feasible design and power calculations for small-stakes pilot and later 'effectiveness trial'; sufficient pages exist.
-* Worked with Oska Fentem (Bristol MRes); built 'donation-seeding bot'; needs stress-testing.
-* Aim to run self-funded pilot for upcoming 2020-21 giving season.
-* Conversations and advising from Dillon Bowen on adaptive design, reinforcement and Bayesian learning extensions
+* Scoped out feasible design and power calculations for small-stakes pilot and later 'effectiveness trial'; sufficient pages exist.&#x20;
+  * Conversations and advising from Dillon Bowen on adaptive design, reinforcement and Bayesian learning extensions
+* Worked with Oska Fentem (Bristol MRes) and Toby Jolly (UK Cabinet), built API tool to pull down relevant lists of ongoing fundraisers
+* Built 'donation-seeding bot' with Peter Roensby -- tested to work, needs stress-testing and integration with API tool. Gained (Linode) server access to maintain this.&#x20;
+* Aim to run self-funded pilot for early to mid 2022  (pushed back); possible larger run in 2022-23 giving season
 
-_My next steps:_ Gaining server access and 'tech support' to enable this automation, finish outlining and re-registering, run PoC (but also informative) pilots (first 'small seeds' for mainstream charities, then 'large and small seeds' for effective charities)
+_My next steps:_ Tech steps given in project board [here](https://github.com/daaronr/sponsorship\_design\_analysis/projects/1), mainly linking API and donation seeding bot.  Reprise outline, pre-registration, power analysis. Run PoC (but also informative) pilots (first 'small seeds' for mainstream charities, then 'large and small seeds' for effective charities)
 
 ### 4. [Facebook fundraising trial](reinstein-longview-psychology-of-effective-giving-project.md#4.-facebook-fundraising-trial-with-paul-smeets-dean-karlan-and-janek-kretschmer) (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
 
 **Trial incentivizing FB users to start birthday fundraisers for effective charities,** investigating how this behavior (and amounts raised) **responds to effectiveness and rating information** and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
 
-* Tech delays: Failed to obtain FB Fundraiser API access; thus revised design
-  * However, we may be able to work _with_ Facebook on this, and API access is on the table again; we now have a partner co-author within Facebook
-*   Hiring another web dev to build this and support our automation (suitable person identified and interviewed, an EA-aligned web developer, finalizing details)
+_This text updated_ 9 Feb 2022
 
-    * Aim to run in early (Feb.?) 2022
+* Tech delays: Failed to obtain FB Fundraiser API access; thus revised design, but we may be able to work _with_ Facebook on this, and API access is on the table again; we now have a partner co-author within Facebook
+* meanwhile, we have a design that does not require API access
+* Hired Peter Roensby (EA aligned developer), whom we are working with to finish the
+  * build of web interface for trial encouraging birthday fundraisers (85% done 9 Feb 202)
+  * bot to collect data on fundraisers
+* Aim to run PoC pilot by end of Februaru 2022
 
-    _My next steps:_ finalizing 'state of FB support and API access', hiring developer (1-2 weeks design work for simple design), running POC
+_My next steps:_ Finalizing and checking web site, queing advertisements and their parameters, funding and running  Pilot
 
 ### 5. Barriers synthesis
 
@@ -97,7 +103,7 @@ _My next steps:_ Gaining server access and 'tech support' to enable this automat
 
 * Updates and additions, some reorganization.
 * particularly incorporating recent syntheses (Caviola et al "The many obstacles to effective giving", Noetel et al "What Works..."; [Jaeger and Vugt "Psychological Barriers..." ](https://www.sciencedirect.com/science/article/pii/S2352250X21001779))
-  * In light of these papers, renewed focus on '_careful_ e\_vidence-base\_ _on key operationalized claims_' over broad 'literature review'
+  * In light of these papers, renewed focus on '_careful_ evidence-base _on key operationalized claims_' over broad 'literature review'
 
 ### 6. Other
 
@@ -113,7 +119,6 @@ Additional content in EA Survey donation report [informs 'do GWWC people fulfill
 
 ## Quick reports
 
-[Quick update report (for RP correspondence):](https://docs.google.com/document/d/1dc\_NAZT8sBG7kcX0Z38hvSB\_6dnOjXdfHLx0AWvvT\_I/edit)\
-
+[Quick update report (for RP correspondence):](https://docs.google.com/document/d/1dc\_NAZT8sBG7kcX0Z38hvSB\_6dnOjXdfHLx0AWvvT\_I/edit)\\
 
 {% embed url="https://docs.google.com/document/d/1dc_NAZT8sBG7kcX0Z38hvSB_6dnOjXdfHLx0AWvvT_I/edit" %}
