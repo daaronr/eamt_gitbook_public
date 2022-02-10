@@ -11,6 +11,8 @@ p_load(pryr)
 p_load(stringr)
 p_load(kableExtra)
 p_load(devtools)
+p_load(googlesheets4)
+
 
 #source(here("code", "packages.R")) # Install and load packages used in build and analysis (note: these could be cleaned)
 
