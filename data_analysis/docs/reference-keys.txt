@@ -7,3 +7,11 @@ input-and-clean-data
 exploratory-analysis
 casualsimple-uptick-analysis
 difference-in-differences-comparison-to-other-cities
+oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion
+the-trial-1
+capturing-data-1
+input-and-clean-data-1
+descriptives-and-exploratory-analysis
+basic-tests-donation-incidence-and-amounts
+basic-tests-clicks-and-retention-outcomes
+equivalence-testing-with-randomization-inferencesimulation

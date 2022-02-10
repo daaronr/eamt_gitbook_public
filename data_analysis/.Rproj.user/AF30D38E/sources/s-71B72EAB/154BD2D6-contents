@@ -1,3 +1,0 @@
-delete_merged_file: TRUE
-output_dir: "docs"
-rmd_files: ["index.Rmd", "tlycs_portland_trial_2021/input_simple_analysis.Rmd"]

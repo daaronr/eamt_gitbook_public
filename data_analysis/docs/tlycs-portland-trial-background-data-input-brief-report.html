@@ -2,156 +2,38 @@
 <html lang="" xml:lang="">
 <head>
 
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>1 TLYCS Portland trial: background, data input, brief report | EA Market testing data analysis</title>
-  <meta name="description" content="Analysing marketing trials, experiments, and more" />
-  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="1 TLYCS Portland trial: background, data input, brief report | EA Market testing data analysis" />
+<meta property="og:type" content="book" />
 
-  <meta property="og:title" content="1 TLYCS Portland trial: background, data input, brief report | EA Market testing data analysis" />
-  <meta property="og:type" content="book" />
-  
-  
-  <meta property="og:description" content="Analysing marketing trials, experiments, and more" />
-  <meta name="github-repo" content="daaronr/effective_giving_market_testing" />
 
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="1 TLYCS Portland trial: background, data input, brief report | EA Market testing data analysis" />
-  
-  <meta name="twitter:description" content="Analysing marketing trials, experiments, and more" />
-  
+<meta property="og:description" content="Analysing marketing trials, experiments, and more" />
+<meta name="github-repo" content="daaronr/effective_giving_market_testing" />
 
 
 
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-  
-  
-<link rel="prev" href="index.html"/>
+<meta name="description" content="Analysing marketing trials, experiments, and more">
 
-<script src="libs/header-attrs-2.11/header-attrs.js"></script>
-<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
-<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+<title>1 TLYCS Portland trial: background, data input, brief report | EA Market testing data analysis</title>
 
 
-
-
-
-
-
-
-<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
-<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
-<script src="libs/kePrint-0.0.1/kePrint.js"></script>
-<link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
-<header>
-  <script src="assets/js/bigfoot.min.js"></script>
-  <script>
-    function toggleAllCode() {
-      // Find all the r class elements
-      const elements = document.getElementsByClassName("r")
-      console.log(elements)
-      
-      // Loop over the elements and toggle the 'hidden' class if the element
-      // is a div
-      for (let element of elements) {
-        console.log(element)
-        if (element.style.display === "block") {
-          element.style.display = "none"
-        } else {
-          element.style.display = "block"
-        }
-      }
-    }
-
-    function toggleText() {
-      // Find the foldable div this button belongs to
-      const div = this.parentNode;
-
-      // Loop over the elements and 
-      for (child of div.children) {
-        if (child.style.display === "block") {
-          child.style.display = "none"
-        } else {
-          child.style.display = "block"
-        }
-      }
-
-      // Toggle the text of the button
-      const button = this
-      if (button.textContent == "Show me less") {
-        button.textContent = "Show me more"
-      } else {
-        button.textContent = "Show me less"
-      }
-    }
-
-    window.onload = function() {
-      // Check if there are any code sections on the page
-      const codeBlocks = document.getElementsByClassName("sourceCode")
-      
-      // Add toggle code button, but only if there are code blocks
-      if (codeBlocks.length > 0) {
-        // Find the book header at the top of the page
-        const header = document.getElementsByClassName("book-header").item(0)
-        
-        // Create a link element
-        const link = document.createElement("a")
-        link.className = "btn pull-left js-toolbar-action"
-        link.title = "Toggle code"
-        link.onclick = toggleAllCode
-        
-        // Create an icon element
-        const icon = document.createElement("i")
-        icon.className = "fa fa-code"
-        
-        // Add the icon to the link
-        link.appendChild(icon)
-      
-        // Add the link to the header
-        header.appendChild(link)
-      }
-      
-      // Find all foldable sections
-      const foldBlocks = document.getElementsByClassName("foldable")
-      
-      if (foldBlocks.length > 0) {
-        // Loop over the fold blocks, check if there is a button, if so, add the
-        // fold text function
-        for (block of foldBlocks) {
-          const button = block.getElementsByClassName("fold-button").item(0)
-          
-          if (button) button.onclick = toggleText
-        }
-      }
-      
-      // Initiate bigfoot to add popover footnotes
-      $.bigfoot(
-        {
-            activateOnHover: true,
-            deleteOnUnhover: true
-        }
-      )
-    }
-  </script>
-</header>
-
-
+<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
@@ -212,52 +94,120 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </style>
 
 
-<link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-<link rel="stylesheet" href="assets/css/bigfoot-default.css" type="text/css" />
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css">
+
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
+/>
+
+  <script src="libs/header-attrs-2.11/header-attrs.js"></script>
+  <link href="libs/book-1.0.0/style.css" rel="stylesheet" />
+  <script src="libs/book-1.0.0/littlefoot.js"></script>
+  <link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+  <script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+  <script src="libs/kePrint-0.0.1/kePrint.js"></script>
+  <link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+  
 </head>
 
 <body>
+  <div class="d-flex" id="wrapper">
+    
 
-
-
-  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
-
-    <div class="book-summary">
-      <nav role="navigation">
-
-<ul class="summary">
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>About</a>
-<ul>
-<li class="chapter" data-level="0.1" data-path="index.html"><a href="index.html#tech-and-collophon"><i class="fa fa-check"></i><b>0.1</b> Tech and collophon</a></li>
-</ul></li>
-<li class="chapter" data-level="1" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html"><i class="fa fa-check"></i><b>1</b> TLYCS Portland trial: background, data input, brief report</a>
-<ul>
-<li class="chapter" data-level="1.1" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#the-trial"><i class="fa fa-check"></i><b>1.1</b> The trial</a></li>
-<li class="chapter" data-level="1.2" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#capturing-data"><i class="fa fa-check"></i><b>1.2</b> Capturing data</a></li>
-<li class="chapter" data-level="1.3" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#input-and-clean-data"><i class="fa fa-check"></i><b>1.3</b> Input and clean data</a></li>
-<li class="chapter" data-level="1.4" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#exploratory-analysis"><i class="fa fa-check"></i><b>1.4</b> Exploratory analysis</a></li>
-<li class="chapter" data-level="1.5" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#casualsimple-uptick-analysis"><i class="fa fa-check"></i><b>1.5</b> Casual/simple ‘uptick’ analysis</a>
-<ul>
-<li class="chapter" data-level="1.5.1" data-path="tlycs-portland-trial-background-data-input-brief-report.html"><a href="tlycs-portland-trial-background-data-input-brief-report.html#difference-in-differences-comparison-to-other-cities"><i class="fa fa-check"></i><b>1.5.1</b> Difference in Differences comparison to other cities</a></li>
-</ul></li>
-</ul></li>
-</ul>
-
-      </nav>
-    </div>
-
-    <div class="book-body">
-      <div class="body-inner">
-        <div class="book-header" role="navigation">
-          <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">EA Market testing data analysis</a>
-          </h1>
+<div class="border-end bg-white" id="sidebar-wrapper">
+  <div id="sidebar-heading" class="border-bottom bg-light">
+    <img src="" width="25px" height="25px"/>
+    <span class="text-nowrap">EA Market testing data analysis</span>
+  </div>
+  <div id="TOC" class="list-group list-group-flush">
+  <a id="item-about" class="list-group-item" href="index.html#about">About</a>
+  <div class="list-group list-group-flush list-subgroup">
+  <a id="item-tech-and-collophon" class="list-group-item" href="index.html#tech-and-collophon"><span class="toc-section-number">0.1</span><span>Tech and collophon</a>
+  </div>
+  <a id="item-tlycs-portland-trial-background-data-input-brief-report" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#tlycs-portland-trial-background-data-input-brief-report"><span class="toc-section-number">1</span><span>TLYCS Portland trial: background, data input, brief report</a>
+  <div class="list-group list-group-flush list-subgroup">
+  <a id="item-the-trial" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#the-trial"><span class="toc-section-number">1.1</span><span>The trial</a>
+  <a id="item-capturing-data" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#capturing-data"><span class="toc-section-number">1.2</span><span>Capturing data</a>
+  <a id="item-input-and-clean-data" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#input-and-clean-data"><span class="toc-section-number">1.3</span><span>Input and clean data</a>
+  <a id="item-exploratory-analysis" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#exploratory-analysis"><span class="toc-section-number">1.4</span><span>Exploratory analysis</a>
+  <a id="item-casualsimple-uptick-analysis" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#casualsimple-uptick-analysis"><span class="toc-section-number">1.5</span><span>Casual/simple ‘uptick’ analysis</a>
+  <div class="list-group list-group-flush list-subgroup">
+  <a id="item-difference-in-differences-comparison-to-other-cities" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#difference-in-differences-comparison-to-other-cities"><span class="toc-section-number">1.5.1</span><span>Difference in Differences comparison to other cities</a>
+  </div>
+  </div>
+  <a id="item-oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion" class="list-group-item" href="oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion.html#oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion"><span class="toc-section-number">2</span><span>OftW pre-giving-tuesday-email upselling split test (impact vs emotion’</a>
+  <div class="list-group list-group-flush list-subgroup">
+  <a id="item-the-trial-1" class="list-group-item" href="oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion.html#the-trial-1"><span class="toc-section-number">2.1</span><span>The trial</a>
+  <a id="item-capturing-data-1" class="list-group-item" href="oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion.html#capturing-data-1"><span class="toc-section-number">2.2</span><span>Capturing data</a>
+  <a id="item-input-and-clean-data-1" class="list-group-item" href="oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion.html#input-and-clean-data-1"><span class="toc-section-number">2.3</span><span>Input and clean data</a>
+  <a id="item-descriptives-and-exploratory-analysis" class="list-group-item" href="oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion.html#descriptives-and-exploratory-analysis"><span class="toc-section-number">2.4</span><span>Descriptives and exploratory analysis</a>
+  <a id="item-basic-tests-donation-incidence-and-amounts" class="list-group-item" href="oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion.html#basic-tests-donation-incidence-and-amounts"><span class="toc-section-number">2.5</span><span>Basic tests: Donation incidence and amounts</a>
+  <a id="item-basic-tests-clicks-and-retention-outcomes" class="list-group-item" href="oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion.html#basic-tests-clicks-and-retention-outcomes"><span class="toc-section-number">2.6</span><span>Basic tests: Clicks and retention outcomes</a>
+  <a id="item-equivalence-testing-with-randomization-inferencesimulation" class="list-group-item" href="oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion.html#equivalence-testing-with-randomization-inferencesimulation"><span class="toc-section-number">2.7</span><span>“Equivalence testing” with randomization inference/simulation</a>
+  </div>
+  </div>
+</div>
+<!-- Page content wrapper-->
+    <div id="page-content-wrapper">
+<!-- Top navigation-->
+    <nav 
+      id="navbar" 
+      class="navbar navbar-expand-lg navbar-light bg-light border-bottom"
+    >
+      <div class="container-fluid">
+        <button class="btn btn-primary p-1" id="sidebarToggle">
+          <svg 
+            xmlns="http://www.w3.org/2000/svg" 
+            width="26" 
+            height="26" 
+            fill="currentColor" 
+            class="bi bi-list" viewBox="0 0 16 16"
+          >
+            <path 
+              fill-rule="evenodd" 
+              d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+          </svg>
+        </button>
+        <button 
+          class="navbar-toggler" 
+          type="button" 
+          data-bs-toggle="collapse" 
+          data-bs-target="#navbarContent" 
+          aria-controls="navbarContent" 
+          aria-expanded="false" 
+          aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarContent">
+          <ul class="navbar-nav ms-auto mt-2 mt-lg-0">
+            <li class="nav-item dropdown">
+              <a 
+                class="nav-link dropdown-toggle" 
+                id="navbarDropdown" 
+                href="#" 
+                role="button" 
+                data-bs-toggle="dropdown" 
+                aria-haspopup="true" 
+                aria-expanded="false">
+                  Settings
+              </a>
+              <div 
+                class="dropdown-menu dropdown-menu-end" 
+                aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="#!">Toggle code</a>
+              </div>
+            </li>
+          </ul>
         </div>
-
-        <div class="page-wrapper" tabindex="-1" role="main">
-          <div class="page-inner">
-
-            <section class="normal" id="section-">
+      </div>
+    </nav>
+<!-- Page content-->
+    <div id="main-container" class="container-fluid">
+<main>
 <div id="tlycs-portland-trial-background-data-input-brief-report" class="section level1" number="1">
 <h1><span class="header-section-number">1</span> TLYCS Portland trial: background, data input, brief report</h1>
 <div id="the-trial" class="section level2" number="1.1">
@@ -272,10 +222,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>Report:</p>
 <ul>
 <li>3-31 December 2021 vs prior year, same dates</li>
-<li>All North American cities with 1 or more user
-<ul>
-<li>TODO: fix to make it 1+ user for 2020 not 2021</li>
-</ul></li>
+<li>All North American cities with 1 or more user</li>
 <li>Counts: Users, sessions, certain types of conversions (see below)</li>
 </ul>
 <p>I downloaded this as an Excel spreadsheet</p>
@@ -296,7 +243,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb2-5"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-5" aria-hidden="true" tabindex="-1"></a>  )</span>
 <span id="cb2-6"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-6" aria-hidden="true" tabindex="-1"></a>)</span></code></pre></div>
 <p>Create ‘differences across years’ features.</p>
-<p>Need to re-label the ‘correct’ Portland (we think), as this is a common city name, and there are two other ‘Portlands’, each with a small number of sessions</p>
+<p>Need to re-label the ‘correct’ Portland (we think), as this is a common city name.<a href="oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion.html#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
 <div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb3-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland&quot;</span>) <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">select</span>(City, year, Users)</span></code></pre></div>
 <pre><code>## # A tibble: 6 × 3
 ##   City      year Users
@@ -321,7 +268,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div id="casualsimple-uptick-analysis" class="section level2" number="1.5">
 <h2><span class="header-section-number">1.5</span> Casual/simple ‘uptick’ analysis</h2>
 <div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb6-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year)</span></code></pre></div>
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<div class="table-container overflow-auto"><table class="table" class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 <span id="tab:TRUE">Table 1.1: </span>
 </caption>
@@ -398,9 +345,9 @@ Std.dev.
 </td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb7-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(<span class="sc">!</span>City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span>) <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year)</span></code></pre></div>
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<div class="table-container overflow-auto"><table class="table" class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 <span id="tab:TRUE">Table 1.1: </span>
 </caption>
@@ -477,9 +424,9 @@ Std.dev.
 </td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb8-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(Users<span class="sc">&gt;</span><span class="dv">20</span>) <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year) <span class="co">#Fix -- filter on over 20 users for 2020 ONLY]</span></span></code></pre></div>
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<div class="table-container overflow-auto"><table class="table" class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 <span id="tab:TRUE">Table 1.1: </span>
 </caption>
@@ -556,9 +503,9 @@ Std.dev.
 </td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb9-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Sessions, year)</span></code></pre></div>
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<div class="table-container overflow-auto"><table class="table" class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
 <span id="tab:TRUE">Table 1.1: </span>
 </caption>
@@ -635,7 +582,7 @@ Std.dev.
 </td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-1" aria-hidden="true" tabindex="-1"></a>OR_users_21 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span> <span class="sc">&amp;</span> year<span class="sc">==</span><span class="dv">2021</span>) <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="st">&#39;Users&#39;</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>() </span>
 <span id="cb10-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb10-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-3" aria-hidden="true" tabindex="-1"></a>OR_users_20 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span> <span class="sc">&amp;</span> year<span class="sc">==</span><span class="dv">2020</span>) <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="st">&#39;Users&#39;</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>() </span>
@@ -672,82 +619,81 @@ all the cities in the comparison group are ‘informative to the counterfactual�
 </div>
 </div>
 </div>
-            </section>
+<div class="text-center m-3">
+<a href="index.html"><button class="btn btn-secondary">Previous</button></a>
+<a href="oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion.html"><button class="btn btn-secondary">Next</button></a>
+</div>
+</main>
+</div>
+</div>
 
-          </div>
-        </div>
-      </div>
-<a href="index.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
 
-    </div>
-  </div>
-<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
-<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
-<script>
-gitbook.require(["gitbook"], function(gitbook) {
-gitbook.start({
-"sharing": {
-"github": false,
-"facebook": false,
-"twitter": false,
-"linkedin": false,
-"weibo": false,
-"instapaper": false,
-"vk": false,
-"whatsapp": false,
-"all": false
-},
-"fontsettings": {
-"theme": "white",
-"family": "sans",
-"size": 2
-},
-"edit": {
-"link": null,
-"text": null
-},
-"history": {
-"link": null,
-"text": null
-},
-"view": {
-"link": null,
-"text": null
-},
-"download": null,
-"search": {
-"engine": "fuse",
-"options": null
-},
-"theme": {
-"primary": "#0d6efd",
-"danger": "#dc3545",
-"success": "#198754"
-}
-});
-});
+</div>
+
+<!-- Bootstrap Bundle with Popper -->
+<script 
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" 
+  integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" 
+  crossorigin="anonymous">
 </script>
 
-<!-- dynamically load mathjax for compatibility with self-contained -->
+<!-- Littlefoot -->
+<script type="application/javascript">
+  littlefoot.littlefoot()
+</script>
+
+<script>
+// Set the current page to be active in the TOC
+const id = document.getElementsByClassName("level1").item(0).id
+const item = document.getElementById("item-" + id)
+item.classList.toggle("active")
+
+// Add foldable sections
+const foldables = document.getElementsByClassName("foldable")
+
+for (foldable of foldables) {
+  const a = foldable.firstChild
+  console.log(a)
+  
+  a.href = "#"
+  a.onclick = function() {
+    const bsCollapse = new bootstrap.Collapse(a.nextSibling, {
+      toggle: true
+    })
+  }
+}
+
+</script>
+
+<script src="https://unpkg.com/vh-check/dist/vh-check.min.js"></script>
 <script>
   (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    var src = "true";
-    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
-    if (location.protocol !== "file:")
-      if (/^https?:/.test(src))
-        src = src.replace(/^https?:/, '');
-    script.src = src;
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
+    // initialize the test
+    var test = vhCheck();
+  }());
 </script>
-</body>
 
+<script>
+// Add sidebar toggle functionality
+window.addEventListener('DOMContentLoaded', event => {
+  // Toggle the side navigation
+  const sidebarToggle = document.body.querySelector('#sidebarToggle');
+  if (sidebarToggle) {
+    
+    if (localStorage.getItem('sb|sidebar-toggle') === 'true') {
+      document.body.classList.toggle('sb-sidenav-toggled');
+    }
+    sidebarToggle.addEventListener('click', event => {
+      event.preventDefault();
+      document.body.classList.toggle('sb-sidenav-toggled');
+      localStorage.setItem(
+        'sb|sidebar-toggle', 
+        document.body.classList.contains('sb-sidenav-toggled')
+      );
+    });
+  }
+});
+</script>
+
+</body>
 </html>

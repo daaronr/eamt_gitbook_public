@@ -368,10 +368,10 @@
     },
     "gower": {
       "Package": "gower",
-      "Version": "0.2.2",
+      "Version": "1.0.0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "be6a2b3529928bd803d1c437d1d43152"
+      "Hash": "e30deda901954a80e035ad2e972ba7fd"
     },
     "gtable": {
       "Package": "gtable",
@@ -541,6 +541,13 @@
       "Repository": "CRAN",
       "Hash": "0bde42ee282efb18c7c4e63822f5b4f7"
     },
+    "lobstr": {
+      "Package": "lobstr",
+      "Version": "1.1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "3354c874f6008f7f1e418526df8ecd8a"
+    },
     "lubridate": {
       "Package": "lubridate",
       "Version": "1.8.0",
@@ -695,6 +702,13 @@
       "Repository": "CRAN",
       "Hash": "7df448f5ae46ab0a1af0fb619349d3fd"
     },
+    "pryr": {
+      "Package": "pryr",
+      "Version": "0.1.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "3fb39bed6e21e21cdb79a3203c6a198e"
+    },
     "ps": {
       "Package": "ps",
       "Version": "1.6.0",
@@ -781,15 +795,15 @@
       "RemoteRepo": "rp-r-package",
       "RemoteUsername": "rethinkpriorities",
       "RemoteRef": "HEAD",
-      "RemoteSha": "ba61cc00b04b9ff5bc6bd89db0adda041f11972d",
-      "Hash": "5afd561ebadc1574078e93e08c215098"
+      "RemoteSha": "2cc95ebbf50c47a1ebb5f7a7125c8e761c151431",
+      "Hash": "dcc76270c06e7a064977f55345d5f581"
     },
     "rlang": {
       "Package": "rlang",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "ec923a35ba44bc86fbf95dacaccf65da"
+      "Hash": "3bf0219f19d9f5b3c682acbb3546a151"
     },
     "rmarkdown": {
       "Package": "rmarkdown",
@@ -924,10 +938,10 @@
     },
     "svglite": {
       "Package": "svglite",
-      "Version": "2.0.0",
+      "Version": "2.1.0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "8fb6188960bf0f90996ce52f9c2106ac"
+      "Hash": "68dfdf211af6aa4e5f050f064f64d401"
     },
     "sys": {
       "Package": "sys",
@@ -959,10 +973,10 @@
     },
     "tidyr": {
       "Package": "tidyr",
-      "Version": "1.1.4",
+      "Version": "1.2.0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "c8fbdbd9fcac223d6c6fe8e406f368e1"
+      "Hash": "d8b95b7fee945d7da6888cf7eb71a49c"
     },
     "tidyselect": {
       "Package": "tidyselect",

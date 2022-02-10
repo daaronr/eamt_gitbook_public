@@ -1,6 +1,0 @@
-"0","#tl21 <- read_excel(here::here(""data_do_not_commit"", ""tlycs"", ""tlycs_dec_2021_vs_2020_by_city_n_america.xlsx""), sheet = ""Dataset1"") 
-tl21 <- readxl::read_excel(""/githubs/effective_giving_market_testing/data_do_not_commit/tlycs/tlycs_dec_2021_vs_2020_by_city_n_america.xlsx"") %>% 
-as_tibble()
-"
-"2","Error: `path` does not exist: ‘/githubs/effective_giving_market_testing/data_do_not_commit/tlycs/tlycs_dec_2021_vs_2020_by_city_n_america.xlsx’
-"

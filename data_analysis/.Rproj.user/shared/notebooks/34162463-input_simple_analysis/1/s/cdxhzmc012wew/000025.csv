@@ -1,7 +1,0 @@
-"0"," tl21 %>% dplyr::filter(City==""Portland_OR"") %>% select('Users') %>% pull() 
-"
-"1","[1]"
-"1"," 306"
-"1"," 144"
-"1","
-"

@@ -17,7 +17,6 @@ Report:
 
 - 3-31 December 2021 vs prior year, same dates
 - All North American cities with 1 or more user
-    - TODO: fix to make it 1+ user for 2020 not 2021
 - Counts: Users, sessions, certain types of conversions (see below)
 
 I downloaded this as an Excel spreadsheet
@@ -58,7 +57,8 @@ Create 'differences across years' features.
 ```
 
 
-Need to re-label the 'correct' Portland (we think), as this is a common city name, and there are two other 'Portlands', each with a small number of sessions
+Need to re-label the 'correct' Portland (we think), as this is a common city name.^[And there are two other 'Portlands', each with a small number of sessions]
+
 ```{r}
 
 tl21 %>% filter(City=="Portland") %>% dplyr::select(City, year, Users)
@@ -118,7 +118,6 @@ Guiding assumptions:
 all the cities in the comparison group are 'informative to the counterfactual' in proportion to their total number of sessions (I'm waving the hands a bit here)
 
 Thus
-
 
 `r 100*(OR_users_21 - OR_users_20)/OR_users_20`% visits uptick (YoY) for Portland in 2020
 

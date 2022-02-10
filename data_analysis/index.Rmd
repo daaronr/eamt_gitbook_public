@@ -2,22 +2,22 @@
 title: "EA Market testing data analysis"
 bibliography: ["assets/bib/book.bib"]
 always_allow_html: yes
-link-citations: yes
+link-citations: true
 github-repo: daaronr/effective_giving_market_testing
 description: "Analysing marketing trials, experiments, and more"
 site: bookdown::bookdown_site
+output: rethinkpriorities::book
 ---
 
 
 # About {.unnumbered}
-
 
 See ['Effective Giving & Action: Market testing & Synthesis' - public](https://effective-giving-marketing.gitbook.io/untitled/) and [private version](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/)
 
 
 ## Tech and collophon
 
-This is styled based on the Rethink Priorities '[Bookdown template](https://github.com/rethinkpriorities/bookdown-template)' ...  and you may wish to manually update from there
+This is styled based on the Rethink Priorities '[Bookdown template](https://rethinkpriorities.github.io/bookdown-template)' ...  and you may wish to manually update from there
 
 Note that this is a 'bookdown site in the gitbook style'. However, we're not sure yet if and how it can be integrated with the `https://app.gitbook.com/`.
 
