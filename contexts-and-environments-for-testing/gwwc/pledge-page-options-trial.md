@@ -88,7 +88,7 @@ Sample size: see below, from Google Analytics
 
     \_\_
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 2\. "**Pledge before TryGiving**" ... as above but with Try Giving and The Pledge swapped, and Try Giving highlighted
 

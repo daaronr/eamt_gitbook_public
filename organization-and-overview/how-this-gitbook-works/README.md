@@ -32,7 +32,7 @@ _**Update**_: as of 15 Oct 2021 Gitbook has changed their protocols. You now nee
 * click the icon in the upper right to 'start a change request',
 * and then 'submit' this request when you are ready (ideally, with a brief informative message explaining what you have done.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 

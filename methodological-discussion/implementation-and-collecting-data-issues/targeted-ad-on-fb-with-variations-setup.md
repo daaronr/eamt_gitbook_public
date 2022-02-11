@@ -10,15 +10,25 @@ __[facebook-split-testing-etc.md](../experimental-design-methods-issues/splits-r
 
 [#videos-facebook](best-practice-guidelines.md#videos-facebook "mention")
 
-__
-
 > DR, [j.kretschmer](https://app.gitbook.com/u/T0Eky9RThRdyh7B6fmiNEjPxMxf2 "mention") What is the 'starting link' that gets you here?
 
 __
 
+### Getting started
+
+If you have a Facebook Business account (term?), you should have a "Meta Business Suite":
+
+![](<../../.gitbook/assets/image (7).png>)
+
+Next click on "Ads", "Create Ad", and then you have options...
+
+Here, I chose "Get more website Visitors". ...  Then "Edit Audience" ... But I wanted to target it more closely, so I ended up clicking "Ads Manager".&#x20;
+
+
+
 ### **Budget optimization**
 
-When creating a new ~~traffic~~ campaign there are a lot of options to help you optimize your delivery while minimizing your expenses.&#x20;
+When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE](https://www.bigcommerce.com/blog/create-facebook-ad-campaigns/#undefined)) there are a lot of options to help you optimize your delivery while minimizing your expenses.&#x20;
 
 You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager."
 
