@@ -14,12 +14,8 @@ ALTERNATIVE tests and concerns: compare sales funnel or open-response interactio
 
 * Q: Will this do worse relative to human interaction? To what extent will recommending or pushing the bot make people feel less listened-to?
 
-
-
 See updates on page -- advising is already being introduced
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)
 
-
-
-Should they give options  ... a  'foot in the door' option?
+Should they give options ... a 'foot in the door' option?

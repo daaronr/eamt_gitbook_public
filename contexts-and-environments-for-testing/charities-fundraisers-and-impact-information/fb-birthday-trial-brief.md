@@ -25,4 +25,4 @@ Field experiment: incentivize birthday Facebook fundraisers
 
 Measured outcomes: 1. do 'people who click the ad' start a fundraising page, 2. How much/many donations do these pages raise?, 3. (if API) Which messages do they choose?, 4. Other messages/discussion on their fundraising page
 
-![](<../../.gitbook/assets/image (15) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)

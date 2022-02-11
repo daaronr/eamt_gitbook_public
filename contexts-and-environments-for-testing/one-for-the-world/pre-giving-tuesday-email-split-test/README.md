@@ -136,7 +136,7 @@ _the analysis as a 'methodological example'; all context removed_
 * The rates are similar across the treatments
 * Given the low conversion rates we don’t have too much power to rule out ‘proportionally large’ differences in conversion rates (or average amounts raised) between treatments …
 
-![](<../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
 The figure above seems like a good summary of the ‘results so far’ on ‘what we can infer about relative incidence rates’, presuming I understand the situation correctly …I plot\
 \

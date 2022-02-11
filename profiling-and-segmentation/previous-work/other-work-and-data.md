@@ -34,9 +34,9 @@ He notes:
 > If you want to get a better sense of the questions available to us, here's the link to the Fehr appendix that contains the survey items they created (starting at Appendix B on page 33).
 
 Some salient example content:\
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
-![](<../../.gitbook/assets/image (2) (1).png>) ![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>) ![](<../../.gitbook/assets/image (6).png>)
 
 > These items correspond to the SOEP-IS surveys, which can be found here (use item names, like Q132, to search quickly
 >
