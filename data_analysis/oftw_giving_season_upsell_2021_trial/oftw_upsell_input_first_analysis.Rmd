@@ -1,30 +1,88 @@
-# OftW pre-giving-tuesday-email upselling split test (impact vs emotion'
+# OftW pre-giving-tuesday-email upselling split test (impact vs emotion)
 
 ## The trial
 
-In December 2021, OftW  sent out a sequence of emails to existing OftW pledgers/participants asking them for an additional donation. There were two 'treatment variants'; an emotional email and a standard impact-based email. The treatment was constant by individual (the same person always got emails with the same theme.
-
+In December 2021, OftW sent out a sequence of emails to existing OftW pledgers/participants asking them for an additional donation. There were two 'treatment variants'; an emotional email and a standard impact-based email. The treatment was constant by individual (the same person always got emails with the same theme.
 
 The details are presented in our (currently private) gitbook [HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test) and in the linked pre-registration (also on OSF).
 
 ## Capturing data
 
+Kennan and Chloe captured the data and Metadata from
+
+1. The OFTW database
+2. SurveyMonkey
+
+Putting this into the (private) Google sheet linked [HERE](https://docs.google.com/spreadsheets/d/1iUKXkEqoadBgtUG_epBzUzCgA_J5mdWWstcXtpAdNJs/edit#gid=521638649)
+
+We added some metadata/explainers to that data, and downloaded it as an Excel sheet.^[Todo -- more direct input through API tools.]
+
 ...
 
-(This is gitignored so it won't be 'committed' to our repo, at least for now)
+<!-- (This is gitignored so it won't be 'committed' to our repo, at least for now)
 
-Quick note here on how Kennan put the (different types of) data together in that Gsheet. We probably should use the api tool to import it directly here.
+Quick note here on how Kennan put the (different types of) data together in that Gsheet. We probably should use the API tool to import it directly here. -->
+
 
 
 ## Input and clean data
 
 
-Using the API tool to grab data from Gsheet...
+```{r}
+
+gs4_auth(scope = "https://www.googleapis.com/auth/drive")
+drive_auth(token = gs4_token())
+
+oftw_ppl_don_21_22 <- read_sheet("https://docs.google.com/spreadsheets/d/1iUKXkEqoadBgtUG_epBzUzCgA_J5mdWWstcXtpAdNJs/edit#gid=521638649", sheet="Raw data (Mailchimp)")  %>% 
+  select(-`Treatment group`) #remove an un-useful repeated name column
+
+oftw_ppl_don_21_22 %>% names() %>% paste(collapse=", ")
+
+```
 
 ...
 
-Labeling and cleaning (and make a codebook?)
+### Labeling and cleaning 
 
+
+Make names snake_case, use original names as labels:
+
+```{r}
+
+labelled::var_label(oftw_ppl_don_21_22) <- names(oftw_ppl_don_21_22) 
+
+names(oftw_ppl_don_21_22) <- snakecase::to_snake_case(names(oftw_ppl_don_21_22)) 
+
+```
+
+
+<!--Todo: Remove useless columns -->
+
+
+
+Separate second row (descriptors) from tibble:
+
+```{r}
+
+oftw_ppl_don_21_22_col_descriptors <- oftw_ppl_don_21_22[1,]
+
+oftw_ppl_don_21_22 <- oftw_ppl_don_21_22[-c(1),] 
+
+```
+
+
+Anonymize it:
+
+```{r}
+
+oftw_ppl_don_21_22 <- oftw_ppl_don_21_22 %>%
+  dplyr::select(-first_name, -last_name) %>%
+  mutate(email_address= salt(.seed = 42, email_address) %>% hash(.algo = "crc32"),
+         school_string= salt(.seed = 43, school_string) %>% hash(.algo = "crc32"),
+         employer= salt(.seed = 44, employer) %>% hash(.algo = "crc32")
+  )
+  
+```
 
 ## Descriptives and exploratory analysis
 
@@ -37,4 +95,3 @@ Labeling and cleaning (and make a codebook?)
 ## "Equivalence testing" with randomization inference/simulation
 
 (Reprise/merge in analysis done [HERE](https://rethinkpriorities.github.io/methodology-statistics-design/inference-and-rough-equivalence-testing-with-binomial-outcomes.html#how-likely-are-proportions-this-similar-under-different-size-true-effect-sizes))
-
