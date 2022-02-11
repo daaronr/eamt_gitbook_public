@@ -17,13 +17,13 @@ description: >-
 
 ### Contexts for 'Immediate outcomes' (clicks etc)
 
-Facebook; But the targeting algorithm may frustrate randomization. (see [facebook-split-testing-etc.md](../../methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md "mention").) Can it be switched off?
+Facebook; But the targeting algorithm may frustrate randomization. (see [facebook-split-testing-etc.md](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md "mention").) Can it be switched off?
 
-### Contexts allowing [randomization by geograph](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md)
+### Contexts allowing [randomization by geograph](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md)
 
-See [geographic-segmentation-blocked-randomization.md](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md "mention")
+See [geographic-segmentation-blocked-randomization.md](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md "mention")
 
-This is helpful [for ease of attribution](../../methodological-discussion/implementation-and-collecting-data-issues/geographic-segmentation-blocked-randomization.md) if the **important outcomes** can be tracked by ZIP code/post code/address.
+This is helpful [for ease of attribution](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md) if the **important outcomes** can be tracked by ZIP code/post code/address.
 
 * Online display advertising
 * Google search

@@ -4,17 +4,33 @@ _Below, we give one example from a relevant context, illustrating (with screensh
 
 __
 
+_See also:_
+
+__[facebook-split-testing-etc.md](../experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md "mention") for a discussion/literature on the limitations of traditional randomization on FB
+
+[#videos-facebook](best-practice-guidelines.md#videos-facebook "mention")
+
 > DR, [j.kretschmer](https://app.gitbook.com/u/T0Eky9RThRdyh7B6fmiNEjPxMxf2 "mention") What is the 'starting link' that gets you here?
 
 __
 
+### Getting started
+
+If you have a Facebook Business account (term?), you should have a "Meta Business Suite":
+
+![](<../../.gitbook/assets/image (10) (1).png>)
+
+Next click on "Ads", "Create Ad", and then you have options...
+
+
+
 ### **Budget optimization**
 
-When creating a new ~~traffic~~ campaign there are a lot of options to help you optimize your delivery while minimizing your expenses.&#x20;
+When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE](https://www.bigcommerce.com/blog/create-facebook-ad-campaigns/#undefined)) there are a lot of options to help you optimize your delivery while minimizing your expenses.&#x20;
 
 You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager."
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
 
 _For our example case(_  [fb-birthday-trial-brief.md](../../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md "mention")) _we choose to (?) opt-in to each of these._&#x20;
 
@@ -27,6 +43,12 @@ Suppose we wish to create a targeted ad for a particular Facebook audience.  For
 
 * in the 'feed' of Americans whose birthday is coming up within the next week,
 * giving them a link to a page encouraging them to start a birthday fundraiser
+
+
+
+Here, I chose "Get more website Visitors". ...  Then "Edit Audience"
+
+
 
 Targeting for this audience leaves us with more than 4 million people (a more than sufficient pool size for our present consideration).
 
@@ -48,11 +70,45 @@ _But let's write down (here) what our plan is for the pilot_.
 
 
 
+#### Narrower targeting
+
+But you can target it more closely, you end up clicking "Ads Manager".&#x20;
+
+![](<../../.gitbook/assets/image (18).png>)
+
+If you don't  have an existing contact list or comparison group, you may prefer to simply specify characteristics. (And this may also be relevant for particular trials).  That is "Create a Saved Audience". \
+\
+For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
+
+![](<../../.gitbook/assets/image (11).png>)
+
+
+
+You can specify&#x20;
+
+1. Demographics
+2. Interests
+3. Behaviors
+
+![](<../../.gitbook/assets/image (19).png>)
+
+"Include" seems to be the default when specifying these ... it 'expands the audience'
+
+You can click 'narrow further' to constrain the audience.
+
+\
+During this process, you can see a concise statement of your choices, and the estimated audience size further up on the page:\
+\
+![](<../../.gitbook/assets/image (12).png>)\
+
+
+
+
 ### **Traffic choice**
 
 The next big choice is 'where do you want to drive traffic?'. You'll enter more details about the destination later.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 Since we want people to click our web app, we chose "website".
 
@@ -115,7 +171,7 @@ Finally, you enter the third and last page of the ad creation process. Here you 
 \
 &#x20;The last step before publication is to specify the destination for your campaign.&#x20;
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 We chose a website and simply copy the URL into the mask to make sure the ad is linking people to the right destination.
 

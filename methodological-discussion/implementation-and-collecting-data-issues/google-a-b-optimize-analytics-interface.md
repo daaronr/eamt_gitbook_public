@@ -26,7 +26,7 @@ Reporting and considering this in the context of the GWWC [pledge-page-options-t
 
 ## "Activity": Trials created/started/changed/ended/archive
 
-![](<../../.gitbook/assets/image (18) (1) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1) (1).png>)
 
 ## Viewing results and Google's analysis
 
@@ -69,7 +69,7 @@ Google also gives confidence intervals for the conversion rates for each treatme
 
 The grey bar for the baseline is mirrored in all rows. The 95% CI for the 'improvement over the baseline' is given on the right. But this is a rather wide interval. More informatively, if we hover over the image, we are given more useful breakdowns:
 
-![](<../../.gitbook/assets/image (18) (1).png>) ![](<../../.gitbook/assets/image (25) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1).png>) ![](<../../.gitbook/assets/image (25) (1).png>)
 
 ![](<../../.gitbook/assets/image (15) (1) (1).png>)
 
@@ -116,7 +116,7 @@ Why? As far as I (DR) understand,
 
 The final section gives the day to day breakdown of the performance of each treatment, presumably, along with confidence intervals. This seems relevant for 'learning and improving while doing' but possibly less relevant for our overall comparison of the pages/treatments.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 #### Download (top right)
 

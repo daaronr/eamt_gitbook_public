@@ -17,13 +17,13 @@ After logging in and selecting 'all domains'...\
 
 \
 Select 'customization', 'custom reports', 'new custom report'\
-![](<../../.gitbook/assets/image (11) (1).png>)![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1).png>)![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 
 
 Then search and select your desired ‘metrics’ (outcomes) of interest. “Users” and “sessions” seem pretty important, for example.
 
-![](<../../.gitbook/assets/image (19) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1).png>)
 
 
 
