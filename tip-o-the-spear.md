@@ -6,12 +6,20 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ## Team/Organizational updates
 
+February:
+
 * [Next meeting: Feb 11 & 13 (pick one)](tip-o-the-spear.md#next-planned-meeting)
-* New team member: Erin Morrissey
-* Possible new orgs: "Charity Elections" group, University of Chicago EA group&#x20;
+* Putting together _clear, organized, reproduceable_ analysis and workdlow in 'bookdown in this repo' (will crosslink w/ present Gitbook)
+* _New/updated results_:&#x20;
+  * GWWC trial ([Joshua Lewis](https://app.gitbook.com/u/S0eUK2viBvheJQEdiOEkuksOpOu2 "mention") presents),&#x20;
+  * [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") (Reinstein presents, preliminary results on cost per click)
+* New team member(s):  Erin Morrissey (volunteer, applying for EAIF funds to be Ops+RA)
+* Reinstein et al's Facebook and Justgiving experiments: Progress on tech, feedback on 'running ads' in this gitboko
+* Possible new orgs:&#x20;
+  * "Charity Elections" group (big yes, need to onboard)
+  * &#x20;University of Chicago EA group (maybe, may wait until they link with other uni's)
 * Post-Jan meeting: (TLCYS I need your approval on ['what can be publicly shared'](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#heading=h.cg90o34wlpye))
-* [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV) -- need to followup
-* Looking for more 'hands on deck' to help with the analysis and communication
+* [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV) -- still need to followup
 
 _Previous updates: see tabs_
 
@@ -99,13 +107,17 @@ Please don’t feel compelled to come to both, but try to come to one. We will h
 
 1. Introduce new people/orgs/projects
 2. Presentation and discussion "What have we learned so far? What is going well? What can we improve? What is coming"
+   1. Josh on GWWC trial,
+   2. &#x20;Reinstein briefly on TLYCS, analysis environment, upcoming FB trial
+   3. Others?
 3. Updates on trials and new proposals
-4. Testing objectives: Open discussion of 'what messages should we be testing'&#x20;
+4. Testing objectives: Open discussion of 'what messages should we be testing'  (this was Bella's suggestion)
 5. Organizational issues:&#x20;
    1. Sources of funding
-   2. Institutional time commitments? Possible funding for Ops/Comms person
-   3. Gitbook: 'De-duplicating' private and public versions
-   4. How/Should we bring in...?
+   2. Institutional time commitments?&#x20;
+   3. Seeking funding for Ops/Comms/RA person (Erin)... possibly for a meta-analysis and comms person
+   4. Gitbook: 'De-duplicating' private and public versions
+   5. How/Should we bring in...?
       * "Charity Elections" people&#x20;
       * University of Chicago EA group&#x20;
 6. Possible presentation: Nick Fitz of Momentum App&#x20;
