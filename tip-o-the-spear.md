@@ -100,15 +100,15 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 Please don’t feel compelled to come to both, but try to come to one. We will have an agenda for each, and record and take notes on each.
 
-1. **Friday February 11, 2pm New York time**
-2. **Sunday Feb 13, 9pm New York**
+1. **Friday February 11, 2pm New York time:** Rsvp's: [@daaronr](https://givingexperiments.slack.com/team/U6M1J6W2Y) [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX) [~~@Bella Forristal~~](https://givingexperiments.slack.com/team/U02RDNTA2UX) ~~~~ [@Thomas Ptashnik](https://givingexperiments.slack.com/team/U02RM3745NC)  [@Chloë Cudaback](https://givingexperiments.slack.com/team/U02CTP3E4RM) [@Erin Morrissey](https://givingexperiments.slack.com/team/U0316A6R84S)
+2. **Sunday Feb 13, 9pm New York:** [@daaronr](https://givingexperiments.slack.com/team/U6M1J6W2Y) [@Grace Adams](https://givingexperiments.slack.com/team/U02MG1GV8BT) [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX) [@Luke Freeman](https://givingexperiments.slack.com/team/U028G1080DB) [@Erin Morrissey](https://givingexperiments.slack.com/team/U0316A6R84S)
 
-#### **Agenda (proposal in progress)**
+#### **Agenda**&#x20;
 
 1. Introduce new people/orgs/projects
 2. Presentation and discussion "What have we learned so far? What is going well? What can we improve? What is coming"
    1. Josh on GWWC trial,
-   2. &#x20;Reinstein briefly on TLYCS, analysis environment, upcoming FB trial
+   2. Reinstein briefly on TLYCS, analysis environment, upcoming FB trial
    3. Others?
 3. Updates on trials and new proposals
 4. Testing objectives: Open discussion of 'what messages should we be testing'  (this was Bella's suggestion)
