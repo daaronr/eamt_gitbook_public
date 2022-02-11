@@ -94,7 +94,7 @@ Sample size: see below, from Google Analytics
 
 3\. "**Separate Block for Other Pledges**" (see below)
 
-![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 DR: I'm in contact with [Julian Hazell](https://app.gitbook.com/u/5r4JrDxg4Gb3ZrYJYfN2YWU2v6H2 "mention") [Luke Freeman](https://app.gitbook.com/u/ljuM97uRtMeH7IhMq9MSN1kuPcC3 "mention") to doublecheck and verify all of the above, as well as the clarification questions below

@@ -18,7 +18,7 @@ __
 
 If you have a Facebook Business account (term?), you should have a "Meta Business Suite":
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 Next click on "Ads", "Create Ad", and then you have options...
 
@@ -30,7 +30,7 @@ When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE
 
 You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager."
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
 
 _For our example case(_  [fb-birthday-trial-brief.md](../../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md "mention")) _we choose to (?) opt-in to each of these._&#x20;
 
@@ -90,7 +90,19 @@ You can specify&#x20;
 2. Interests
 3. Behaviors
 
-> DR: I'm not yet sure how to do the “or” query (e.g., "Oxford _or_ Cambridge") here
+![](<../../.gitbook/assets/image (19).png>)
+
+"Include" seems to be the default when specifying these ... it 'expands the audience'
+
+You can click 'narrow further' to constrain the audience.
+
+\
+During this process, you can see a concise statement of your choices, and the estimated audience size further up on the page:\
+\
+![](<../../.gitbook/assets/image (12).png>)\
+
+
+
 
 ### **Traffic choice**
 
@@ -159,7 +171,7 @@ Finally, you enter the third and last page of the ad creation process. Here you 
 \
 &#x20;The last step before publication is to specify the destination for your campaign.&#x20;
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 We chose a website and simply copy the URL into the mask to make sure the ad is linking people to the right destination.
 
