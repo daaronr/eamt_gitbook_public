@@ -4,30 +4,35 @@ _Below, we give one example from a relevant context, illustrating (with screensh
 
 __
 
-**Budget optimization**
+### **Budget optimization**
 
-When creating a new traffic campaign there are a lot of options to optimized your delivery while minimizing your expenses. First of all, you have to choose to "go for" these opportunities by ticking "create A/B test" and "Budget Optimization" on the first page of your ad campaign manager.
+When creating a new ~~traffic~~ campaign there are a lot of options to help you optimize your delivery while minimizing your expenses.&#x20;
+
+You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager."
 
 ![](<../../.gitbook/assets/image (19).png>)
 
-Once these choices are made, you enter the second page of the ad-creating process.
+_For our example case(_  [fb-birthday-trial-brief.md](../../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md "mention")) _we choose to (?) opt-in to each of these._&#x20;
 
-**Targeted ad**
+Continuing to the next page of the process...\
+
+
+### **Targeted ad**
 
 Suppose we wish to create a targeted ad for a particular Facebook audience.  For example, we might wish to put an ad
 
 * in the 'feed' of Americans whose birthday is coming up within the next week,
 * giving them a link to a page encouraging them to start a birthday fundraiser
 
-Targeting for this audience leaves us with more than 4 million people, i.e. a more than sufficient pool size.
+Targeting for this audience leaves us with more than 4 million people (a more than sufficient pool size for our present consideration).
 
 ![](<../../.gitbook/assets/image (16).png>)
 
-Facebook estimates that spending the maximum of 315 euro (amount can be increased of some weeks of compliance) per day on the ad campaign will lead to 750 to 2.200 click-throughs.&#x20;
+Facebook estimates that spending the maximum of 315 euros/day ("amount can be increased of some weeks of compliance" \[?])  on the ad campaign will lead to 750 to 2200 click-throughs.&#x20;
 
 
 
-**Traffic Choose**
+### **Traffic choice**
 
 The next big choice is where you want to drive traffic. You'll enter more details about the destination later.
 
