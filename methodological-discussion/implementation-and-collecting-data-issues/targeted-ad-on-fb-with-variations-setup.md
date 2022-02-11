@@ -18,11 +18,9 @@ __
 
 If you have a Facebook Business account (term?), you should have a "Meta Business Suite":
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 Next click on "Ads", "Create Ad", and then you have options...
-
-Here, I chose "Get more website Visitors". ...  Then "Edit Audience" ... But I wanted to target it more closely, so I ended up clicking "Ads Manager".&#x20;
 
 
 
@@ -46,6 +44,12 @@ Suppose we wish to create a targeted ad for a particular Facebook audience.  For
 * in the 'feed' of Americans whose birthday is coming up within the next week,
 * giving them a link to a page encouraging them to start a birthday fundraiser
 
+
+
+Here, I chose "Get more website Visitors". ...  Then "Edit Audience"
+
+
+
 Targeting for this audience leaves us with more than 4 million people (a more than sufficient pool size for our present consideration).
 
 > [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") maybe we want to target a little narrower, perhaps rule out some particular unlikely groups? Or target people who also donated money to charity in past? Or people with incomes over some amount? Thoughts?
@@ -66,11 +70,33 @@ _But let's write down (here) what our plan is for the pilot_.
 
 
 
+#### Narrower targeting
+
+But you can target it more closely, you end up clicking "Ads Manager".&#x20;
+
+![](<../../.gitbook/assets/image (18).png>)
+
+If you don't  have an existing contact list or comparison group, you may prefer to simply specify characteristics. (And this may also be relevant for particular trials).  That is "Create a Saved Audience". \
+\
+For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
+
+![](<../../.gitbook/assets/image (11).png>)
+
+
+
+You can specify&#x20;
+
+1. Demographics
+2. Interests
+3. Behaviors
+
+> DR: I'm not yet sure how to do the “or” query (e.g., "Oxford _or_ Cambridge") here
+
 ### **Traffic choice**
 
 The next big choice is 'where do you want to drive traffic?'. You'll enter more details about the destination later.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 Since we want people to click our web app, we chose "website".
 

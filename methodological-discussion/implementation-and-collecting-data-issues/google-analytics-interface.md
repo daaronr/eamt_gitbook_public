@@ -17,7 +17,7 @@ After logging in and selecting 'all domains'...\
 
 \
 Select 'customization', 'custom reports', 'new custom report'\
-![](<../../.gitbook/assets/image (11) (1).png>)![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1).png>)![](<../../.gitbook/assets/image (12) (1).png>)
 
 
 
