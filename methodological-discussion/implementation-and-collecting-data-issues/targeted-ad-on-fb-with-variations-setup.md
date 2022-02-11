@@ -4,6 +4,14 @@ _Below, we give one example from a relevant context, illustrating (with screensh
 
 __
 
+_See also:_
+
+__[facebook-split-testing-etc.md](../experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md "mention") for a discussion/literature on the limitations of traditional randomization on FB
+
+[#videos-facebook](best-practice-guidelines.md#videos-facebook "mention")
+
+__
+
 > DR, [j.kretschmer](https://app.gitbook.com/u/T0Eky9RThRdyh7B6fmiNEjPxMxf2 "mention") What is the 'starting link' that gets you here?
 
 __
