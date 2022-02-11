@@ -2,9 +2,11 @@
 
 _Below, we give one example from a relevant context, illustrating (with screenshots) what choices you might make, what it would look like, and how to implement it._
 
+__
+
 **Budget optimization**
 
-When creating a new traffic campaign there are a lot of options to optimized your delivery while minimizing your expenses. First of all, you have to choose to "go for" these opportunitities by ticking "create A/B test" and "Budget Optimization" on the first page of your ad campaign manager.
+When creating a new traffic campaign there are a lot of options to optimized your delivery while minimizing your expenses. First of all, you have to choose to "go for" these opportunities by ticking "create A/B test" and "Budget Optimization" on the first page of your ad campaign manager.
 
 ![](<../../.gitbook/assets/image (19).png>)
 
