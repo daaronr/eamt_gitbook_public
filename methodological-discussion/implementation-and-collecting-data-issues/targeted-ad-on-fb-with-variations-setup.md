@@ -32,7 +32,7 @@ You need to opt-in to these tools by ticking "create A/B test" and "Budget Optim
 
 ![](<../../.gitbook/assets/image (19) (1).png>)
 
-_For our example case(_  [fb-birthday-trial-brief.md](../../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md "mention")) _we choose to (?) opt-in to each of these._&#x20;
+_For our example case (_[fb-birthday-trial-brief.md](../../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md "mention")) _we choose to (?) opt-in to each of these._&#x20;
 
 Continuing to the next page of the process...\
 
@@ -44,11 +44,7 @@ Suppose we wish to create a targeted ad for a particular Facebook audience.  For
 * in the 'feed' of Americans whose birthday is coming up within the next week,
 * giving them a link to a page encouraging them to start a birthday fundraiser
 
-
-
 Here, I chose "Get more website Visitors". ...  Then "Edit Audience"
-
-
 
 Targeting for this audience leaves us with more than 4 million people (a more than sufficient pool size for our present consideration).
 
@@ -59,9 +55,9 @@ Targeting for this audience leaves us with more than 4 million people (a more th
 Facebook estimates that spending the maximum of 315 euros/day ("amount can be increased of some weeks of compliance" \[?])  on the ad campaign will lead to 750 to 2200 click-throughs.&#x20;
 
 {% hint style="warning" %}
-DR: [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- I believe that for our pilot we are targeting only 800 click throughs.  Perhaps we want to stretch this out over a week, so that we can check in to see if anything is going wrong.
+DR: [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- I believe that for our pilot we are targeting only 800 click-throughs.  Perhaps we want to stretch this out over a week, so that we can check in to see if anything is going wrong.
 
-&#x20;This also suggests a lower budget for ads for the pilot than we may have thought. For some reason I thought we needed $1200 for 800 clickthroughs. This is much cheaper.
+This also suggests a lower budget for ads for the pilot than we may have thought. For some reason I thought we needed $1200 for 800 clickthroughs. This is much cheaper.
 
 
 
