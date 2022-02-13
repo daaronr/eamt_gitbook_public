@@ -108,8 +108,6 @@ The next big choice is 'where do you want to drive traffic?'. You'll enter more 
 
 Since we want people to click our web app, we chose "website".
 
-****
-
 ### **Version testing**
 
 We may have several versions of the ad we want to try out, and we want Facebook to iterate towards the one that is more successful using their algorithm. Ideally, we would like to learn **** as much as we can about 'which ads perform better on which audiences'**.**&#x20;
@@ -129,8 +127,6 @@ __
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention"): But to do this, do we need to provide all sorts of media?
 
 > DR, [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention"): Where do we actually specify, enter, and style our ad content?
->
->
 
 _Finally, we have to decide which delivery we want to optimize._
 
@@ -138,7 +134,7 @@ We may want the ad that gets the most "~~conversions~~ traffic to our page". The
 
 ![](<../../.gitbook/assets/image (3).png>)
 
-> DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- what were the other choices? Note 'conversions' usually involves some action _on our page, not just a click-through_
+> DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- what were the other choices? Note 'conversions' usually involves some action _on our page, not just a click-through ... we probably would want to optimize for 'click the final button to finish'_
 
 \
 However, we might instead want FB to optimize the ad presentation in terms of which ad not just leads to the most 'clickthroughs' but leads to the most "conversions" or some other action taken on our page  \
@@ -147,13 +143,13 @@ To do that we need to set up a "meta pixel".
 
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") How do we set up such a pixel?  Presumably something in our webpage also needs to integrate this so it knows what the "action on your page", to feed back to Facebook to optimize over.
 
-
-
 ### **Cost and cost controls**
 
 > DR: In my past experience, you ended up paying Facebook based on the number of "clicks" you got not simply on how long your ad was up. But it's probably a combination of these, and there are probably different pricing plans. You can tell Facebook to put a limit on either of these do not go "over budget". Facebook will aim to spend your entire budget and get the most link clicks using the lowest cost bid strategy.&#x20;
 
 ![](<../../.gitbook/assets/image (20).png>)
+
+Currently EUR 315 is the max for new users ... but for our present pilot we may want less than this (check: how much do we expect to pay for 800 clicks, let's split this up into ... first 100 clicks, next 300 clicks,.. to see if its going OK  )
 
 ### **Designing your ad**
 
@@ -161,7 +157,7 @@ Finally, you enter the third and last page of the ad creation process. Here you 
 
 
 
-> Dr [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention")Can you show how this design process would work? \
+> DR: [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention")Can you show how this design process would work? \
 >
 
 \
@@ -173,11 +169,9 @@ We chose a website and simply copy the URL into the mask to make sure the ad is 
 
 
 
-### Payment and monitoring
+### Payment (and monitoring)
 
 > [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention")how does the payment work? Are there any other checks we need to go through?
-
-
 
 
 
