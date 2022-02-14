@@ -14,7 +14,7 @@ February:
   * GWWC [Giving Guide  trial](contexts-and-environments-for-testing/gwwc/giving-guides-+/) ([Joshua Lewis](https://app.gitbook.com/u/S0eUK2viBvheJQEdiOEkuksOpOu2 "mention") presents),&#x20;
   * [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") (Reinstein presents, preliminary results on cost per click)
 * New team member(s):  Erin Morrissey (volunteer, applying for EAIF funds to be Ops+RA)
-* Reinstein et al's Facebook and Justgiving experiments: Progress on tech, feedback on 'running ads' in this gitboko
+* Reinstein et al's Facebook and Justgiving experiments: Progress on tech, feedback on 'running ads' in this gitbook
 * Possible new orgs:&#x20;
   * "Charity Elections" group (big yes, need to onboard)
   * &#x20;University of Chicago EA group (maybe, may wait until they link with other uni's)
