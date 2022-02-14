@@ -1,11 +1,11 @@
-# Giving guides (+)
+# Giving guides - Facebook(+)
 
 **Objective**: Test two different approaches (emotional and factual) in messaging in order to get people to download our Giving Guide.
 
 Worked with a creative agency to develop a set of animated video ads:
 
 {% hint style="info" %}
-DR: Where were these ads shown and to whom?
+DR: Where were these ads shown and to whom? FACEBOOK
 {% endhint %}
 
 * Factual (Single ad)
