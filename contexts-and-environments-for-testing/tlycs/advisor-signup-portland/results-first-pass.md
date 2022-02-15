@@ -70,7 +70,7 @@ Google Analytics is a bit annoying; do you know if there is a way to ‘just get
 
 **A quick look: Cities with most sessions in 2022**
 
-![](<../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
 **Among the 'strongest 2021 cities', how did sessions change from year to year?**
 

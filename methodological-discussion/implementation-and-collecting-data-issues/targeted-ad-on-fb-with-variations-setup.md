@@ -20,7 +20,17 @@ __
 
 ![](<../../.gitbook/assets/image (10) (1).png>)
 
-Next click on "Ads", "Create Ad", and then you have options...
+Next, click on "Ads." At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access of an existing page or Instagram account:
+
+![](<../../.gitbook/assets/image (3).png>)
+
+
+
+
+
+The next step is to select "Create Ad", and to choose a goal. In our case that is to advertise our web app.
+
+![](<../../.gitbook/assets/image (7).png>)
 
 
 
@@ -28,7 +38,7 @@ Next click on "Ads", "Create Ad", and then you have options...
 
 When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE](https://www.bigcommerce.com/blog/create-facebook-ad-campaigns/#undefined)) there are a lot of options to help you optimize your delivery while minimizing your expenses.&#x20;
 
-You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager." Since there is no downside (in fact we would even consider it valueable information to learn witch ad design works best) we decide to _opt-in to each of these._&#x20;
+You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager." Since there is no downside (we would even consider it valuable information to learn which ad design works best), we decide to _opt-in to each of these._&#x20;
 
 ![](<../../.gitbook/assets/image (19) (1).png>)
 
@@ -132,7 +142,7 @@ _Finally, we have to decide which delivery we want to optimize._
 
 We may want the ad that gets the most "~~conversions~~ traffic to our page". Therefore, we choose the option "link clicks".
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- what were the other choices? Note 'conversions' usually involves some action _on our page, not just a click-through ... we probably would want to optimize for 'click the final button to finish'_
 
