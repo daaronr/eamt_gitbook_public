@@ -16,7 +16,7 @@ __
 
 ### Getting started
 
-If you have a Facebook Business account (term?), you should have a "Meta Business Suite":
+"Meta Business Suite"([https://business.facebook.com/latest/settings/](https://business.facebook.com/latest/settings/)) is the starting point of your ad campaign. If you have a Facebook Business account, you should have a "Meta Business Suite":
 
 ![](<../../.gitbook/assets/image (10) (1).png>)
 
@@ -28,7 +28,7 @@ Next click on "Ads", "Create Ad", and then you have options...
 
 When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE](https://www.bigcommerce.com/blog/create-facebook-ad-campaigns/#undefined)) there are a lot of options to help you optimize your delivery while minimizing your expenses.&#x20;
 
-You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager."
+You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager." Since there is no downside (in fact we would even consider it valueable information to learn witch ad design works best) we decide to _opt-in to each of these._&#x20;
 
 ![](<../../.gitbook/assets/image (19) (1).png>)
 
