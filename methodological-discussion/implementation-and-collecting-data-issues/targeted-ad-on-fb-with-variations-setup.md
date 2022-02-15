@@ -18,7 +18,7 @@ __
 
 "Meta Business Suite"([https://business.facebook.com/latest/settings/](https://business.facebook.com/latest/settings/)) is the starting point of your ad campaign. If you have a Facebook Business account, you should have a "Meta Business Suite":
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 Next, click on "Ads." At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access of an existing page or Instagram account:
 
@@ -42,9 +42,7 @@ You need to opt-in to these tools by ticking "create A/B test" and "Budget Optim
 
 ![](<../../.gitbook/assets/image (19) (1).png>)
 
-_For our example case (_[fb-birthday-trial-brief.md](../../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md "mention")) _we choose to (?) opt-in to each of these._&#x20;
-
-Continuing to the next page of the process...\
+Budget optimization is closely related to the choice of the target group. In general, the larger the target group, the cheaper it becomes to reach a certain amount of "link clicks".\
 
 
 ### **Targeted ad**
@@ -56,13 +54,17 @@ Suppose we wish to create a targeted ad for a particular Facebook audience.  For
 
 Here, I chose "Get more website Visitors". ...  Then "Edit Audience"
 
-Targeting for this audience leaves us with more than 4 million people (a more than sufficient pool size for our present consideration).
+Targeting for this audience leaves us with more than 4 million people (a more than sufficient pool size for our present consideration).&#x20;
 
 > [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") maybe we want to target a little narrower, perhaps rule out some particular unlikely groups? Or target people who also donated money to charity in past? Or people with incomes over some amount? Thoughts?
 
 ![](<../../.gitbook/assets/image (16).png>)
 
 Facebook estimates that spending the maximum of 315 euros/day ("amount can be increased of some weeks of compliance" \[?])  on the ad campaign will lead to 750 to 2200 click-throughs.&#x20;
+
+
+
+
 
 {% hint style="warning" %}
 DR: [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- I believe that for our pilot we are targeting only 800 click-throughs.  Perhaps we want to stretch this out over a week, so that we can check in to see if anything is going wrong.
@@ -74,7 +76,9 @@ This also suggests a lower budget for ads for the pilot than we may have thought
 _But let's write down (here) what our plan is for the pilot_.
 {% endhint %}
 
+For our proof-of-concept pilot, we aim for 20 fundraisers started within a time frame of 5 days. We can use the "Schedule and duration" function not only to automate the timing of our campaign, but also to estimate its cost. For example, we assume that we need 800 participants to click-through to start the 20 fundraisers (i.e., a rate of 2.5%). Using the lower end of the estimate implies that we have to spend 10 euros per day, for five days to get to 800 click-throughs -> 0.06 euro per click-through.
 
+![](<../../.gitbook/assets/image (10).png>)
 
 #### Narrower targeting
 
