@@ -16,11 +16,21 @@ __
 
 ### Getting started
 
-If you have a Facebook Business account (term?), you should have a "Meta Business Suite":
+"Meta Business Suite"([https://business.facebook.com/latest/settings/](https://business.facebook.com/latest/settings/)) is the starting point of your ad campaign. If you have a Facebook Business account, you should have a "Meta Business Suite":
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
-Next click on "Ads", "Create Ad", and then you have options...
+Next, click on "Ads." At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access of an existing page or Instagram account:
+
+![](<../../.gitbook/assets/image (3).png>)
+
+
+
+
+
+The next step is to select "Create Ad", and to choose a goal. In our case that is to advertise our web app.
+
+![](<../../.gitbook/assets/image (7).png>)
 
 
 
@@ -28,13 +38,11 @@ Next click on "Ads", "Create Ad", and then you have options...
 
 When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE](https://www.bigcommerce.com/blog/create-facebook-ad-campaigns/#undefined)) there are a lot of options to help you optimize your delivery while minimizing your expenses.&#x20;
 
-You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager."
+You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager." Since there is no downside (we would even consider it valuable information to learn which ad design works best), we decide to _opt-in to each of these._&#x20;
 
 ![](<../../.gitbook/assets/image (19) (1).png>)
 
-_For our example case(_  [fb-birthday-trial-brief.md](../../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md "mention")) _we choose to (?) opt-in to each of these._&#x20;
-
-Continuing to the next page of the process...\
+Budget optimization is closely related to the choice of the target group. In general, the larger the target group, the cheaper it becomes to reach a certain amount of "link clicks".\
 
 
 ### **Targeted ad**
@@ -44,13 +52,9 @@ Suppose we wish to create a targeted ad for a particular Facebook audience.  For
 * in the 'feed' of Americans whose birthday is coming up within the next week,
 * giving them a link to a page encouraging them to start a birthday fundraiser
 
-
-
 Here, I chose "Get more website Visitors". ...  Then "Edit Audience"
 
-
-
-Targeting for this audience leaves us with more than 4 million people (a more than sufficient pool size for our present consideration).
+Targeting for this audience leaves us with more than 4 million people (a more than sufficient pool size for our present consideration).&#x20;
 
 > [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") maybe we want to target a little narrower, perhaps rule out some particular unlikely groups? Or target people who also donated money to charity in past? Or people with incomes over some amount? Thoughts?
 
@@ -58,17 +62,23 @@ Targeting for this audience leaves us with more than 4 million people (a more th
 
 Facebook estimates that spending the maximum of 315 euros/day ("amount can be increased of some weeks of compliance" \[?])  on the ad campaign will lead to 750 to 2200 click-throughs.&#x20;
 
-{% hint style="warning" %}
-DR: [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- I believe that for our pilot we are targeting only 800 click throughs.  Perhaps we want to stretch this out over a week, so that we can check in to see if anything is going wrong.
 
-&#x20;This also suggests a lower budget for ads for the pilot than we may have thought. For some reason I thought we needed $1200 for 800 clickthroughs. This is much cheaper.
+
+
+
+{% hint style="warning" %}
+DR: [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- I believe that for our pilot we are targeting only 800 click-throughs.  Perhaps we want to stretch this out over a week, so that we can check in to see if anything is going wrong.
+
+This also suggests a lower budget for ads for the pilot than we may have thought. For some reason I thought we needed $1200 for 800 clickthroughs. This is much cheaper.
 
 
 
 _But let's write down (here) what our plan is for the pilot_.
 {% endhint %}
 
+For our proof-of-concept pilot, we aim for 20 fundraisers started within a time frame of 5 days. We can use the "Schedule and duration" function not only to automate the timing of our campaign, but also to estimate its cost. For example, we assume that we need 800 participants to click-through to start the 20 fundraisers (i.e., a rate of 2.5%). Using the lower end of the estimate implies that we have to spend 10 euros per day, for five days to get to 800 click-throughs -> 0.06 euro per click-through.
 
+![](<../../.gitbook/assets/image (10).png>)
 
 #### Narrower targeting
 
@@ -112,8 +122,6 @@ The next big choice is 'where do you want to drive traffic?'. You'll enter more 
 
 Since we want people to click our web app, we chose "website".
 
-****
-
 ### **Version testing**
 
 We may have several versions of the ad we want to try out, and we want Facebook to iterate towards the one that is more successful using their algorithm. Ideally, we would like to learn **** as much as we can about 'which ads perform better on which audiences'**.**&#x20;
@@ -133,16 +141,14 @@ __
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention"): But to do this, do we need to provide all sorts of media?
 
 > DR, [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention"): Where do we actually specify, enter, and style our ad content?
->
->
 
 _Finally, we have to decide which delivery we want to optimize._
 
 We may want the ad that gets the most "~~conversions~~ traffic to our page". Therefore, we choose the option "link clicks".
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
-> DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- what were the other choices? Note 'conversions' usually involves some action _on our page, not just a click-through_
+> DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- what were the other choices? Note 'conversions' usually involves some action _on our page, not just a click-through ... we probably would want to optimize for 'click the final button to finish'_
 
 \
 However, we might instead want FB to optimize the ad presentation in terms of which ad not just leads to the most 'clickthroughs' but leads to the most "conversions" or some other action taken on our page  \
@@ -151,13 +157,13 @@ To do that we need to set up a "meta pixel".
 
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") How do we set up such a pixel?  Presumably something in our webpage also needs to integrate this so it knows what the "action on your page", to feed back to Facebook to optimize over.
 
-
-
 ### **Cost and cost controls**
 
 > DR: In my past experience, you ended up paying Facebook based on the number of "clicks" you got not simply on how long your ad was up. But it's probably a combination of these, and there are probably different pricing plans. You can tell Facebook to put a limit on either of these do not go "over budget". Facebook will aim to spend your entire budget and get the most link clicks using the lowest cost bid strategy.&#x20;
 
 ![](<../../.gitbook/assets/image (20).png>)
+
+Currently EUR 315 is the max for new users ... but for our present pilot we may want less than this (check: how much do we expect to pay for 800 clicks, let's split this up into ... first 100 clicks, next 300 clicks,.. to see if its going OK  )
 
 ### **Designing your ad**
 
@@ -165,7 +171,7 @@ Finally, you enter the third and last page of the ad creation process. Here you 
 
 
 
-> Dr [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention")Can you show how this design process would work? \
+> DR: [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention")Can you show how this design process would work? \
 >
 
 \
@@ -177,11 +183,9 @@ We chose a website and simply copy the URL into the mask to make sure the ad is 
 
 
 
-### Payment and monitoring
+### Payment (and monitoring)
 
 > [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention")how does the payment work? Are there any other checks we need to go through?
-
-
 
 
 
