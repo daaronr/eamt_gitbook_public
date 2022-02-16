@@ -1,2 +1,0 @@
-# Tip-o-the-spear
-

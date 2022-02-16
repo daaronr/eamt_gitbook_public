@@ -1,2 +1,0 @@
-# Legacies/bequests (exploring)
-

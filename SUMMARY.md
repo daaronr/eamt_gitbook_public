@@ -81,11 +81,9 @@
 * [Literature on animal advocacy messaging](supplements-and-references/literature-on-animal-advocacy-messaging.md)
 * [Charity ratings, rankings, messages](supplements-and-references/charity-ratings-rankings-messages.md)
 
-***
+* [Discussion: "Lab-esque" experiments/surveys](supplements-and-references/discussion-lab-esque-experiments-surveys.md)
 
 * [Legacies/bequests (exploring)](legacies-bequests-exploring/README.md)
   * [Research: motivating bequest/legate giving](legacies-bequests-exploring/research-motivating-bequest-legate-giving.md)
 
-## Supplements and references
 
-* [Discussion: "Lab-esque" experiments/surveys](supplements-and-references-1/discussion-lab-esque-experiments-surveys.md)
