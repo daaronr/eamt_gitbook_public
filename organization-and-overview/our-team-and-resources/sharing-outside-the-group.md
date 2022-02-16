@@ -6,7 +6,7 @@ description: What can be shared outside the group? Discussion
 
 ## Discussion and consensus
 
-We discussed 'what can be shared outside the group' at [#planned-meeting-s-for-early-january](../../../tip-o-the-spear.md#planned-meeting-s-for-early-january "mention") See google [discussion  doc here](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit).
+We discussed 'what can be shared outside the group' at [#planned-meeting-s-for-early-january](../../tip-o-the-spear.md#planned-meeting-s-for-early-january "mention") See google [discussion  doc here](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit).
 
 #### GWWC/Luke:
 
@@ -24,7 +24,7 @@ Basically OK to share, with some sensitivities. Luke: generally happy to share t
 The proposed 'public' versino of this gitbook, redacted, semi-automating integration
 {% endembed %}
 
-![](<../../../.gitbook/assets/image (14) (1).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 DR I was thinking we may want a version of our gitbook we can share publicly. Many of the tools we are building are not confidential (e.g., the methodology, the background, the tips on making ads). We may want to share these in the EA community and with academic and other partners, or even on the WWW, without having to share ’all the details of our ongoing trials.\\
 

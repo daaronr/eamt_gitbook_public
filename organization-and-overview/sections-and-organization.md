@@ -2,25 +2,32 @@
 description: How the gitbook sections are organized; we can discuss this
 ---
 
-# Sections, organization, links to public gitbook
+# Organization of sections
 
 ## **Overview of sections, key links**
 
-### _Organization and tech/tools_
+[Preamble](../)
 
-[Preamble](../), Explain [organization](sections-and-organization.md) of the [team](our-team-and-resources/) and [our tool](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)s. _Almost all of this could be made public? Move/link some of this to public-only_
+Organization:   Explain [organization](sections-and-organization.md) of the [team](our-team-and-resources/) and [our tool](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)s.&#x20;
+
+{% hint style="info" %}
+**Where** **did the content go? How do I use this?**
+
+Any shareable content (that has at least some public interest)  is being moved to the [public version of the gitbook](https://effective-giving-marketing.gitbook.io/untitled/). We try to link that content below and throughout, giving both the public links and the link to edit it. \
+\
+This includes some important tutorials and guides to our resources.
+{% endhint %}
 
 {% embed url="https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works" %}
 
 {% embed url="https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works/other-tech" %}
 
-[Edit link for the above sections in public gitbook](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/organization-and-overview/how-this-gitbook-works)
+__[_Edit link for the above sections in public gitbook_](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/organization-and-overview/how-this-gitbook-works)_​_
 
-
+__
 
 #### _"Background...":_&#x20;
 
-* __[What we're trying to do and why](broken-reference/),
 * [What is known/models of effective giving](../background-and-existing-evidence/models-theories-psychological-norms.md),
 * [Principles and theories behind potential trials](../background/tools-and-trials-overview/tools-interventions-principles.md)
 * [Tools and trials](../background/tools-and-trials-overview/): specific things we want to do/test; (partly) grouped by 'outcomes' (esp. [effectiveness](../background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/) & [commitment](../background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/))
