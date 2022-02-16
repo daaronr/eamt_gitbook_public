@@ -1,5 +1,6 @@
 ---
 title: "EA Market testing data analysis"
+logo: bulb.png
 bibliography: ["assets/bib/book.bib"]
 always_allow_html: yes
 link-citations: true
@@ -24,6 +25,27 @@ Note that this is a 'bookdown site in the gitbook style'. However, we're not sur
 Note this is currently in the same github repo as the related  `https://app.gitbook.com/` project linked above.
 
 
+```{r}
+library(pacman)
+p_load(dplyr, knitr, here, bookdown, install = FALSE)
+p_load(readxl)
+p_load(pryr)
+p_load(stringr)
+p_load(kableExtra)
+p_load(devtools)
+p_load(googledrive)
+p_load(googlesheets4)
+devtools::install_github("paulhendricks/anonymizer")
+library(anonymizer)
+
+
+devtools::install_github("rethinkpriorities/rp-r-package")
+library(rethinkpriorities)
+
+devtools::install_github("rethinkpriorities/r-noodling-package")
+library(rnoodling)
+
+```
 
 
 

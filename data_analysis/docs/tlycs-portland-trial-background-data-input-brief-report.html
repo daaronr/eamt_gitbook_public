@@ -120,7 +120,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 <div class="border-end bg-white" id="sidebar-wrapper">
   <div id="sidebar-heading" class="border-bottom bg-light">
-    <img src="" width="25px" height="25px"/>
+    <img src="bulb.png" width="25px" height="25px"/>
     <span class="text-nowrap">EA Market testing data analysis</span>
   </div>
   <div id="TOC" class="list-group list-group-flush">
@@ -136,7 +136,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <a id="item-exploratory-analysis" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#exploratory-analysis"><span class="toc-section-number">1.4</span><span>Exploratory analysis</a>
   <a id="item-casualsimple-uptick-analysis" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#casualsimple-uptick-analysis"><span class="toc-section-number">1.5</span><span>Casual/simple ‘uptick’ analysis</a>
   <div class="list-group list-group-flush list-subgroup">
-  <a id="item-difference-in-differences-comparison-to-other-cities" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#difference-in-differences-comparison-to-other-cities"><span class="toc-section-number">1.5.1</span><span>Difference in Differences comparison to other cities</a>
+  <a id="item-bound-maximum-impactminimum-cost-subject-to-random-variation" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#bound-maximum-impactminimum-cost-subject-to-random-variation"><span class="toc-section-number">1.5.1</span><span>Bound: Maximum impact/minimum cost (subject to random variation)</a>
+  <a id="item-difference-in-differences-comparison-to-other-cities" class="list-group-item" href="tlycs-portland-trial-background-data-input-brief-report.html#difference-in-differences-comparison-to-other-cities"><span class="toc-section-number">1.5.2</span><span>Difference in Differences comparison to other cities</a>
   </div>
   </div>
   <a id="item-oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion" class="list-group-item" href="oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion.html"><span class="toc-section-number">2</span><span>OftW pre-giving-tuesday-email upselling split test (impact vs emotion)</a>
@@ -234,20 +235,20 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </div>
 <div id="input-and-clean-data" class="section level2" number="1.3">
 <h2><span class="header-section-number">1.3</span> Input and clean data</h2>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb1-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#tl21 &lt;- read_excel(here::here(&quot;data_do_not_commit&quot;, &quot;tlycs&quot;, &quot;tlycs_dec_2021_vs_2020_by_city_n_america.xlsx&quot;), sheet = &quot;Dataset1&quot;) #this should have worked?</span></span>
-<span id="cb1-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb1-3" aria-hidden="true" tabindex="-1"></a>tl21 <span class="ot">&lt;-</span> readxl<span class="sc">::</span><span class="fu">read_excel</span>(<span class="st">&quot;~/githubs/effective_giving_market_testing/data_do_not_commit/tlycs/tlycs_dec_2021_vs_2020_by_city_n_america.xlsx&quot;</span>,  <span class="at">sheet =</span> <span class="st">&quot;Dataset1&quot;</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb1-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">as_tibble</span>()</span></code></div></pre></div>
+<div class="sourceCode" id="cb10"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb10-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="co">#tl21 &lt;- read_excel(here::here(&quot;data_do_not_commit&quot;, &quot;tlycs&quot;, &quot;tlycs_dec_2021_vs_2020_by_city_n_america.xlsx&quot;), sheet = &quot;Dataset1&quot;) #this should have worked?</span></span>
+<span id="cb10-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-3" aria-hidden="true" tabindex="-1"></a>tl21 <span class="ot">&lt;-</span> readxl<span class="sc">::</span><span class="fu">read_excel</span>(<span class="st">&quot;~/githubs/effective_giving_market_testing/data_do_not_commit/tlycs/tlycs_dec_2021_vs_2020_by_city_n_america.xlsx&quot;</span>,  <span class="at">sheet =</span> <span class="st">&quot;Dataset1&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb10-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-4" aria-hidden="true" tabindex="-1"></a><span class="fu">as_tibble</span>()</span></code></div></pre></div>
 <p>Create ‘year’ feature</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb2-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> <span class="fu">mutate</span>(</span>
-<span id="cb2-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">year =</span> <span class="fu">case_when</span>(</span>
-<span id="cb2-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-3" aria-hidden="true" tabindex="-1"></a>    <span class="fu">str_detect</span>(<span class="st">`</span><span class="at">Date Range</span><span class="st">`</span>, <span class="st">&quot;2021&quot;</span>) <span class="sc">==</span> <span class="cn">TRUE</span> <span class="sc">~</span> <span class="dv">2021</span>,</span>
-<span id="cb2-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-4" aria-hidden="true" tabindex="-1"></a>    <span class="fu">str_detect</span>(<span class="st">`</span><span class="at">Date Range</span><span class="st">`</span>, <span class="st">&quot;2020&quot;</span>) <span class="sc">==</span> <span class="cn">TRUE</span> <span class="sc">~</span> <span class="dv">2020</span></span>
-<span id="cb2-5"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-5" aria-hidden="true" tabindex="-1"></a>  )</span>
-<span id="cb2-6"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb2-6" aria-hidden="true" tabindex="-1"></a>)</span></code></div></pre></div>
+<div class="sourceCode" id="cb11"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb11-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb11-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> <span class="fu">mutate</span>(</span>
+<span id="cb11-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb11-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">year =</span> <span class="fu">case_when</span>(</span>
+<span id="cb11-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb11-3" aria-hidden="true" tabindex="-1"></a>    <span class="fu">str_detect</span>(<span class="st">`</span><span class="at">Date Range</span><span class="st">`</span>, <span class="st">&quot;2021&quot;</span>) <span class="sc">==</span> <span class="cn">TRUE</span> <span class="sc">~</span> <span class="dv">2021</span>,</span>
+<span id="cb11-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb11-4" aria-hidden="true" tabindex="-1"></a>    <span class="fu">str_detect</span>(<span class="st">`</span><span class="at">Date Range</span><span class="st">`</span>, <span class="st">&quot;2020&quot;</span>) <span class="sc">==</span> <span class="cn">TRUE</span> <span class="sc">~</span> <span class="dv">2020</span></span>
+<span id="cb11-5"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb11-5" aria-hidden="true" tabindex="-1"></a>  )</span>
+<span id="cb11-6"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb11-6" aria-hidden="true" tabindex="-1"></a>)</span></code></div></pre></div>
 <p>Create ‘differences across years’ features.</p>
 <p>Need to re-label the ‘correct’ Portland (we think), as this is a common city name.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb3-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb3-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland&quot;</span>) <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">select</span>(City, year, Users)</span></code></div></pre></div>
+<div class="sourceCode" id="cb12"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb12-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb12-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland&quot;</span>) <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">select</span>(City, year, Users)</span></code></div></pre></div>
 <pre><code>## # A tibble: 6 × 3
 ##   City      year Users
 ##   &lt;chr&gt;    &lt;dbl&gt; &lt;dbl&gt;
@@ -258,22 +259,23 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 ## 5 Portland  2021   306
 ## 6 Portland  2020   144</code></pre>
 <p>Presumably the largest one is Portland Oregon, and we’ll relable it as such.</p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb5-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span></span>
-<span id="cb5-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
-<span id="cb5-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-3" aria-hidden="true" tabindex="-1"></a>    <span class="at">City =</span> <span class="fu">case_when</span>(City<span class="sc">==</span><span class="st">&quot;Portland&quot;</span> <span class="sc">&amp;</span> Users<span class="sc">&gt;</span><span class="dv">20</span> <span class="sc">~</span> <span class="st">&quot;Portland_OR&quot;</span>,</span>
-<span id="cb5-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-4" aria-hidden="true" tabindex="-1"></a>              City<span class="sc">==</span><span class="st">&quot;Portland&quot;</span> <span class="sc">~</span> <span class="st">&quot;Other_Portland&quot;</span>,</span>
-<span id="cb5-5"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-5" aria-hidden="true" tabindex="-1"></a>              <span class="cn">TRUE</span> <span class="sc">~</span> City)</span>
-<span id="cb5-6"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb5-6" aria-hidden="true" tabindex="-1"></a>  )</span></code></div></pre></div>
+<div class="sourceCode" id="cb14"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb14-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb14-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span></span>
+<span id="cb14-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb14-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb14-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb14-3" aria-hidden="true" tabindex="-1"></a>    <span class="at">City =</span> <span class="fu">case_when</span>(City<span class="sc">==</span><span class="st">&quot;Portland&quot;</span> <span class="sc">&amp;</span> Users<span class="sc">&gt;</span><span class="dv">20</span> <span class="sc">~</span> <span class="st">&quot;Portland_OR&quot;</span>,</span>
+<span id="cb14-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb14-4" aria-hidden="true" tabindex="-1"></a>              City<span class="sc">==</span><span class="st">&quot;Portland&quot;</span> <span class="sc">~</span> <span class="st">&quot;Other_Portland&quot;</span>,</span>
+<span id="cb14-5"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb14-5" aria-hidden="true" tabindex="-1"></a>              <span class="cn">TRUE</span> <span class="sc">~</span> City)</span>
+<span id="cb14-6"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb14-6" aria-hidden="true" tabindex="-1"></a>  )</span></code></div></pre></div>
 </div>
 <div id="exploratory-analysis" class="section level2" number="1.4">
 <h2><span class="header-section-number">1.4</span> Exploratory analysis</h2>
 </div>
 <div id="casualsimple-uptick-analysis" class="section level2" number="1.5">
 <h2><span class="header-section-number">1.5</span> Casual/simple ‘uptick’ analysis</h2>
-<div class="sourceCode" id="cb6"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb6-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb6-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year)</span></code></div></pre></div>
+<p>Overall versus without Portland</p>
+<div class="sourceCode" id="cb15"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb15-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb15-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year, <span class="at">caption=</span><span class="st">&quot;All N. Amer. cities&quot;</span>)</span></code></div></pre></div>
 <div class="table-container overflow-auto"><table class="table" class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-<span id="tab:TRUE">Table 1.1: </span>
+<span id="tab:TRUE">Table 1.1: </span>All N. Amer. cities
 </caption>
 <thead>
 <tr>
@@ -349,10 +351,10 @@ Std.dev.
 </tr>
 </tbody>
 </table></div>
-<div class="sourceCode" id="cb7"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb7-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb7-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(<span class="sc">!</span>City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span>) <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year)</span></code></div></pre></div>
+<div class="sourceCode" id="cb16"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb16-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb16-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(<span class="sc">!</span>City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span>) <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year, <span class="at">caption=</span><span class="st">&quot;N. Amer. Cities other than Portland&quot;</span>)</span></code></div></pre></div>
 <div class="table-container overflow-auto"><table class="table" class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-<span id="tab:TRUE">Table 1.1: </span>
+<span id="tab:TRUE">Table 1.1: </span>N. Amer. Cities other than Portland
 </caption>
 <thead>
 <tr>
@@ -428,10 +430,10 @@ Std.dev.
 </tr>
 </tbody>
 </table></div>
-<div class="sourceCode" id="cb8"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb8-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb8-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(Users<span class="sc">&gt;</span><span class="dv">20</span>) <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year) <span class="co">#Fix -- filter on over 20 users for 2020 ONLY]</span></span></code></div></pre></div>
+<div class="sourceCode" id="cb17"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb17-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb17-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">filter</span>(Users<span class="sc">&gt;</span><span class="dv">20</span>) <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Users, year, <span class="at">caption=</span><span class="st">&quot;All N. Amer., where Users&gt;20&quot;</span>) <span class="co">#Fix -- filter on over 20 users for 2020 ONLY]</span></span></code></div></pre></div>
 <div class="table-container overflow-auto"><table class="table" class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-<span id="tab:TRUE">Table 1.1: </span>
+<span id="tab:TRUE">Table 1.1: </span>All N. Amer., where Users&gt;20
 </caption>
 <thead>
 <tr>
@@ -507,10 +509,10 @@ Std.dev.
 </tr>
 </tbody>
 </table></div>
-<div class="sourceCode" id="cb9"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb9-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb9-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Sessions, year)</span></code></div></pre></div>
+<div class="sourceCode" id="cb18"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb18-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb18-1" aria-hidden="true" tabindex="-1"></a>tl21 <span class="sc">%&gt;%</span> <span class="fu">sumtab</span>(Sessions, year, <span class="at">caption=</span><span class="st">&quot;Sessions by year, all&quot;</span>)</span></code></div></pre></div>
 <div class="table-container overflow-auto"><table class="table" class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
-<span id="tab:TRUE">Table 1.1: </span>
+<span id="tab:TRUE">Table 1.1: </span>Sessions by year, all
 </caption>
 <thead>
 <tr>
@@ -586,22 +588,28 @@ Std.dev.
 </tr>
 </tbody>
 </table></div>
-<div class="sourceCode" id="cb10"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb10-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-1" aria-hidden="true" tabindex="-1"></a>OR_users_21 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span> <span class="sc">&amp;</span> year<span class="sc">==</span><span class="dv">2021</span>) <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="st">&#39;Users&#39;</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>() </span>
-<span id="cb10-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-3" aria-hidden="true" tabindex="-1"></a>OR_users_20 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span> <span class="sc">&amp;</span> year<span class="sc">==</span><span class="dv">2020</span>) <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="st">&#39;Users&#39;</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>() </span>
-<span id="cb10-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-5"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-5" aria-hidden="true" tabindex="-1"></a>OR_uptick <span class="ot">&lt;-</span> OR_users_21 <span class="sc">-</span> OR_users_20</span>
-<span id="cb10-6"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-7"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-7" aria-hidden="true" tabindex="-1"></a>nonOR  <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">filter</span>(City<span class="sc">!=</span><span class="st">&quot;Portland_OR&quot;</span>) <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="st">&#39;Users&#39;</span>, year) </span>
-<span id="cb10-8"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-9"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-9" aria-hidden="true" tabindex="-1"></a>nonOR_users_21 <span class="ot">&lt;-</span> <span class="fu">mean</span>(nonOR<span class="sc">$</span>Users[nonOR<span class="sc">$</span>year<span class="sc">==</span><span class="dv">2021</span>])</span>
-<span id="cb10-10"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-10" aria-hidden="true" tabindex="-1"></a>nonOR_users_20 <span class="ot">&lt;-</span> <span class="fu">mean</span>(nonOR<span class="sc">$</span>Users[nonOR<span class="sc">$</span>year<span class="sc">==</span><span class="dv">2020</span>])</span>
-<span id="cb10-11"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-12"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-12" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-13"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb10-13" aria-hidden="true" tabindex="-1"></a>nonOR_uptick <span class="ot">&lt;-</span> (nonOR_users_21 <span class="sc">-</span> nonOR_users_20)<span class="sc">/</span>nonOR_users_20</span></code></div></pre></div>
+<div class="sourceCode" id="cb19"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb19-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-1" aria-hidden="true" tabindex="-1"></a>OR_users_21 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span> <span class="sc">&amp;</span> year<span class="sc">==</span><span class="dv">2021</span>) <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="st">&#39;Users&#39;</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>() </span>
+<span id="cb19-2"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-3"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-3" aria-hidden="true" tabindex="-1"></a>OR_users_20 <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">filter</span>(City<span class="sc">==</span><span class="st">&quot;Portland_OR&quot;</span> <span class="sc">&amp;</span> year<span class="sc">==</span><span class="dv">2020</span>) <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="st">&#39;Users&#39;</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>() </span>
+<span id="cb19-4"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-5"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-5" aria-hidden="true" tabindex="-1"></a>OR_uptick <span class="ot">&lt;-</span> OR_users_21 <span class="sc">-</span> OR_users_20</span>
+<span id="cb19-6"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-7"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-7" aria-hidden="true" tabindex="-1"></a>nonOR  <span class="ot">&lt;-</span> tl21 <span class="sc">%&gt;%</span> dplyr<span class="sc">::</span><span class="fu">filter</span>(City<span class="sc">!=</span><span class="st">&quot;Portland_OR&quot;</span>) <span class="sc">%&gt;%</span> <span class="fu">select</span>(<span class="st">&#39;Users&#39;</span>, year) </span>
+<span id="cb19-8"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-9"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-9" aria-hidden="true" tabindex="-1"></a>nonOR_users_21 <span class="ot">&lt;-</span> <span class="fu">mean</span>(nonOR<span class="sc">$</span>Users[nonOR<span class="sc">$</span>year<span class="sc">==</span><span class="dv">2021</span>])</span>
+<span id="cb19-10"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-10" aria-hidden="true" tabindex="-1"></a>nonOR_users_20 <span class="ot">&lt;-</span> <span class="fu">mean</span>(nonOR<span class="sc">$</span>Users[nonOR<span class="sc">$</span>year<span class="sc">==</span><span class="dv">2020</span>])</span>
+<span id="cb19-11"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-12"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb19-12" aria-hidden="true" tabindex="-1"></a>nonOR_uptick <span class="ot">&lt;-</span> (nonOR_users_21 <span class="sc">-</span> nonOR_users_20)<span class="sc">/</span>nonOR_users_20</span></code></div></pre></div>
 <p>(As in interactive Gitbook)</p>
-<div id="difference-in-differences-comparison-to-other-cities" class="section level3" number="1.5.1">
-<h3><span class="header-section-number">1.5.1</span> Difference in Differences comparison to other cities</h3>
+<div id="bound-maximum-impactminimum-cost-subject-to-random-variation" class="section level3" number="1.5.1">
+<h3><span class="header-section-number">1.5.1</span> Bound: Maximum impact/minimum cost (subject to random variation)</h3>
+<p>.. See (todo: integrate in) update hand-calculated results in Gitbook <a href="https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/contexts-and-environments-for-testing/tlycs/advisor-signup-portland/results-first-pass">HERE</a>)</p>
+<p>(Hand-input for now…)</p>
+<p>Lower bound on cost of $13.07 per user ($10.28 per visit) if all visits were generated by ad.</p>
+<p>$24.69 cost per user if Portland was ‘same as last year’</p>
+</div>
+<div id="difference-in-differences-comparison-to-other-cities" class="section level3" number="1.5.2">
+<h3><span class="header-section-number">1.5.2</span> Difference in Differences comparison to other cities</h3>
 <p>Guiding assumptions:</p>
 <ul>
 <li><p>the cities used are fairly representative</p></li>
@@ -615,7 +623,7 @@ all the cities in the comparison group are ‘informative to the counterfactual�
 - 3.68)/3.68 = about 26.8%.</p>
 <p>26.8% uptick <span class="math inline">\(\times\)</span> 144 = 38.5 ‘counterfactual uptic’ in users for Portland</p>
 <p>162 -38.5 = 123 ‘uptick relative to counterfactual’</p>
-<div class="sourceCode" id="cb11"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb11-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb11-1" aria-hidden="true" tabindex="-1"></a>or_uptick_vs_cfl <span class="ot">&lt;-</span> OR_users_21 <span class="sc">-</span> OR_users_20 <span class="sc">-</span> nonOR_uptick<span class="sc">*</span>OR_users_20</span></code></div></pre></div>
+<div class="sourceCode" id="cb20"><pre class="sourceCode r collapse"><div><code class="sourceCode r"><span id="cb20-1"><a href="tlycs-portland-trial-background-data-input-brief-report.html#cb20-1" aria-hidden="true" tabindex="-1"></a>or_uptick_vs_cfl <span class="ot">&lt;-</span> OR_users_21 <span class="sc">-</span> OR_users_20 <span class="sc">-</span> nonOR_uptick<span class="sc">*</span>OR_users_20</span></code></div></pre></div>
 <p>USD 4000 /123 = USD 32.4 cost per user</p>
 <p>This seems realistic at a first-pass (but it may be better to focus on a narrower comparison group)</p>
 

@@ -6,6 +6,7 @@ capturing-data
 input-and-clean-data
 exploratory-analysis
 casualsimple-uptick-analysis
+bound-maximum-impactminimum-cost-subject-to-random-variation
 difference-in-differences-comparison-to-other-cities
 oftw-pre-giving-tuesday-email-upselling-split-test-impact-vs-emotion
 the-trial-1

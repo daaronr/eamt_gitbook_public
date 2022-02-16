@@ -72,6 +72,18 @@
       "Repository": "CRAN",
       "Hash": "0cf10dab0d023d5b46a5a14387556891"
     },
+    "anonymizer": {
+      "Package": "anonymizer",
+      "Version": "0.2.2",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "anonymizer",
+      "RemoteUsername": "paulhendricks",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "80bc63420f643af7b0dbf33c1dcb0a25d355c3b9",
+      "Hash": "0256f9d0e74b0e596ba5dcd9dbea68db"
+    },
     "askpass": {
       "Package": "askpass",
       "Version": "1.1",
