@@ -1,9 +1,7 @@
-# Overview: Posts and writings
+# Our tech/tools (links)
 
-## EA Forum post
+{% embed url="https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works" %}
 
-{% embed url="https://forum.effectivealtruism.org/posts/HboobjbDwc5KgpNWi/ea-market-testing" %}
+{% embed url="https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works/other-tech" %}
 
-Drafted in the Gdoc  [HERE](https://docs.google.com/document/d/193btNaDiTUDltHydGtnS1iOWzWV4b8lxdajbkImLe3k/edit?usp=sharing) and embedded below (feel free to edit/ask/suggest there).
-
-{% embed url="https://docs.google.com/document/d/193btNaDiTUDltHydGtnS1iOWzWV4b8lxdajbkImLe3k/edit?usp=sharing" %}
+__[_Edit links to the above_](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/organization-and-overview/how-this-gitbook-works)__

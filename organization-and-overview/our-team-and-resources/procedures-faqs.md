@@ -16,7 +16,7 @@ description: >-
 I envision sharing the results in dynamic public documents like:
 
 * [“Impact of impact treatments on giving: field experiments and synthesis”](https://daaronr.github.io/dualprocess/index.html)
-* [Increasing effective charitable giving: The puzzle, what we know, what we need to know next](https://daaronr.github.io/ea_giving_barriers/eval-aversion.html)
+* [Increasing effective charitable giving: The puzzle, what we know, what we need to know next](https://daaronr.github.io/ea\_giving\_barriers/eval-aversion.html)
 * Or in somewhat slicker/more GUI-interfaced ‘Gitbooks’ \[like the present one)
 
 Data/code/materials should be stored/shared on OSF and Github.
