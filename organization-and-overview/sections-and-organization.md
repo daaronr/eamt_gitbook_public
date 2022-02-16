@@ -37,7 +37,7 @@ _Almost all of this could be made public? Move/link most of this to public-only_
 #### _"Contexts/environments, specific plans for trials in these contexts"_
 
 * [Overview of contexts](../contexts-and-environments-for-testing/environments-and-plans/future-avenues.md) _(public?)_
-* T[emplate for reporting](../contexts-and-environments-for-testing/trial-reporting-template/#concise-reporting-template) trials and progress (_public, but make it prominently linked in private version)_
+* T[emplate for reporting](trial-reporting-template/#concise-reporting-template) trials and progress (_public, but make it prominently linked in private version)_
 * Cross-organization plans (private?)
 *   By each organization
 
@@ -57,7 +57,7 @@ _Make this (nearly) all public and remove it from the private version (keeping l
 * [Implementating ads etc](../methodological-discussion/implementation-and-collecting-data-issues/), 'practical' issues
 * [Collecting data from Google analytics etc](../methodological-discussion/collecting-data-trial-outcomes/)
 
-#### [Project: Profiling 'whom to target'](../profiling-and-segmentation/profiling-discussion.md)
+#### [Project: Profiling 'whom to target'](broken-reference)
 
 _Make public-only, just link here_
 

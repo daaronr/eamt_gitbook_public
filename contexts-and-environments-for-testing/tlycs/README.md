@@ -49,7 +49,7 @@ relates to charity entrepreneurs and DPrize
   3. But seems that advertising to get people to website is best… and there are funds
 * "Obligation vs. supererogatory" (Neela)
   * Drowning child vs. burning building \[EXPLAIN]
-* [Profiling](../../profiling-and-segmentation/profiling-discussion.md)
+* [Profiling](broken-reference)
   * TLYCS are a little bit older / more female than Givewell/GWWC
   * Who is most likely to donate overseas? People who travel…
   * Neela mentioned ["Behavioral Insights To End Global Poverty" (Princeton report for TLYCS, Jan 2021)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0)

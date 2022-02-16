@@ -7,7 +7,7 @@ description: >-
 
 # Pledge page (options trial) (+)
 
-[**Following**](../trial-reporting-template/)**:** [trial-reporting-template](../trial-reporting-template/ "mention")
+[**Following**](../../organization-and-overview/trial-reporting-template/)**:** [trial-reporting-template](../../organization-and-overview/trial-reporting-template/ "mention")
 
 ## General idea, main 'hypothesis'
 

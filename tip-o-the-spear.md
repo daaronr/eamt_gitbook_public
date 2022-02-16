@@ -10,14 +10,14 @@ February:
 
 * [Next meeting: Feb 11 & 13 (pick one)](tip-o-the-spear.md#next-planned-meeting)
 * Putting together _clear, organized, reproduceable_ analysis and workdlow in 'bookdown in this repo' (will crosslink w/ present Gitbook)
-* _New/updated results_:&#x20;
-  * GWWC [Giving Guide  trial](contexts-and-environments-for-testing/gwwc/giving-guides-+/) ([Joshua Lewis](https://app.gitbook.com/u/S0eUK2viBvheJQEdiOEkuksOpOu2 "mention") presents),&#x20;
+* _New/updated results_:
+  * GWWC [Giving Guide trial](contexts-and-environments-for-testing/gwwc/giving-guides-+/) ([Joshua Lewis](https://app.gitbook.com/u/S0eUK2viBvheJQEdiOEkuksOpOu2 "mention") presents),
   * [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") (Reinstein presents, preliminary results on cost per click)
-* New team member(s):  Erin Morrissey (volunteer, applying for EAIF funds to be Ops+RA)
+* New team member(s): Erin Morrissey (volunteer, applying for EAIF funds to be Ops+RA)
 * Reinstein et al's Facebook and Justgiving experiments: Progress on tech, feedback on 'running ads' in this gitbook
-* Possible new orgs:&#x20;
+* Possible new orgs:
   * "Charity Elections" group (big yes, need to onboard)
-  * &#x20;University of Chicago EA group (maybe, may wait until they link with other uni's)
+  * University of Chicago EA group (maybe, may wait until they link with other uni's)
 * Post-Jan meeting: (TLCYS I need your approval on ['what can be publicly shared'](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#heading=h.cg90o34wlpye))
 * [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV) -- still need to followup
 
@@ -26,14 +26,14 @@ _Previous updates: see tabs_
 {% tabs %}
 {% tab title="Dec " %}
 * Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
-* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")
+* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [broken-reference](broken-reference/ "mention")
 * Considering "Public version" of gitbook, sharing; project management
 * [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV)
 {% endtab %}
 
 {% tab title="Jan " %}
 * Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
-* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")
+* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [broken-reference](broken-reference/ "mention")
 * Considering "Public version" of gitbook, sharing; project management
 {% endtab %}
 {% endtabs %}
@@ -97,14 +97,14 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 ## Meeting agendas and recordings
 
-### Next (planned) meeting&#x20;
+### Next (planned) meeting
 
 Please don’t feel compelled to come to both, but try to come to one. We will have an agenda for each, and record and take notes on each.
 
-1. **Friday February 11, 2pm New York time:** Rsvp's: [@daaronr](https://givingexperiments.slack.com/team/U6M1J6W2Y) [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX) [~~@Bella Forristal~~](https://givingexperiments.slack.com/team/U02RDNTA2UX) ~~~~ [@Thomas Ptashnik](https://givingexperiments.slack.com/team/U02RM3745NC)  [@Chloë Cudaback](https://givingexperiments.slack.com/team/U02CTP3E4RM) [@Erin Morrissey](https://givingexperiments.slack.com/team/U0316A6R84S)
+1. **Friday February 11, 2pm New York time:** Rsvp's: [@daaronr](https://givingexperiments.slack.com/team/U6M1J6W2Y) [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX) [~~@Bella Forristal~~](https://givingexperiments.slack.com/team/U02RDNTA2UX) \~\~\~\~ [@Thomas Ptashnik](https://givingexperiments.slack.com/team/U02RM3745NC) [@Chloë Cudaback](https://givingexperiments.slack.com/team/U02CTP3E4RM) [@Erin Morrissey](https://givingexperiments.slack.com/team/U0316A6R84S)
 2. **Sunday Feb 13, 9pm New York:** [@daaronr](https://givingexperiments.slack.com/team/U6M1J6W2Y) [@Grace Adams](https://givingexperiments.slack.com/team/U02MG1GV8BT) [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX) [@Luke Freeman](https://givingexperiments.slack.com/team/U028G1080DB) [@Erin Morrissey](https://givingexperiments.slack.com/team/U0316A6R84S)
 
-#### **Agenda**&#x20;
+#### **Agenda**
 
 1. Introduce new people/orgs/projects
 2. Presentation and discussion "What have we learned so far? What is going well? What can we improve? What is coming"
@@ -112,16 +112,16 @@ Please don’t feel compelled to come to both, but try to come to one. We will h
    2. Reinstein briefly on TLYCS, analysis environment, upcoming FB trial
    3. Others?
 3. Updates on trials and new proposals
-4. Testing objectives: Open discussion of 'what messages should we be testing'  (this was Bella's suggestion)
-5. Organizational issues:&#x20;
+4. Testing objectives: Open discussion of 'what messages should we be testing' (this was Bella's suggestion)
+5. Organizational issues:
    1. Sources of funding
-   2. Institutional time commitments?&#x20;
+   2. Institutional time commitments?
    3. Seeking funding for Ops/Comms/RA person (Erin)... possibly for a meta-analysis and comms person
    4. Gitbook: 'De-duplicating' private and public versions
    5. How/Should we bring in...?
-      * "Charity Elections" people&#x20;
-      * University of Chicago EA group&#x20;
-6. Possible presentation: Nick Fitz of Momentum App&#x20;
+      * "Charity Elections" people
+      * University of Chicago EA group
+6. Possible presentation: Nick Fitz of Momentum App
 
 ### Previous meetings, agendas, recordings (see tab)
 
@@ -136,7 +136,7 @@ See tabs to the right
 _Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)
 
 * _first hour= general meeting,_
-* _last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template](contexts-and-environments-for-testing/trial-reporting-template/ "mention")
+* _last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template](organization-and-overview/trial-reporting-template/ "mention")
 * **Introductions** (5 min; just a 'hello and here's a quick thing you might not know about me/ thing I'm excited about')
 * **Questions/comments** on our 'Market Testing team', our tools (esp. this gitbook), and the monthly meeting/agenda (5-10 min)
 *   **Recent & upcoming trials** -- let's "show and tell" (2 min intro)
@@ -172,7 +172,7 @@ _Overview below --_ [_see Google doc details/discussion space HERE for more deta
 2. discuss testing objectives (?)
 3. What we're all up to; debrief results of studies we've run (other than those covered before) -- see [#latest-best-campaigns-trials-initiatives](tip-o-the-spear.md#latest-best-campaigns-trials-initiatives "mention")
 4. Discuss: the 'public version'/public reporting of trial results, 'newsletter'
-5. "Why report and share (with the [template](contexts-and-environments-for-testing/trial-reporting-template/))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis
+5. "Why report and share (with the [template](organization-and-overview/trial-reporting-template/))?": If you do, academics/researchers will do analysis of data, put in context with other data, meta-analysis
 6. ‘Task management’: who does what and how do we organize it? Do we need other sources of funding for time? (see discussion in [Gdoc](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#))
 
 Jan 7 (Friday): OftW (Chloe), possibly 80k (Bella) present
@@ -185,18 +185,18 @@ Jan 9 (Sun): GWWC (Grace), TLYCS (Bilal), possibly 80k (Bella) present; also JS 
 
 #### Jan 2022
 
-See agenda and links to notes in tab above... \
-Recordings:&#x20;
+See agenda and links to notes in tab above...\
+Recordings:
 
 * [Friday](https://nyu.zoom.us/rec/share/HTpY34RFRj5cVWWCK-nq2QYzxUvv0pwnxO3MQpt-RX7Bw--2jRCYwM\_h24s45BIx.fJMpTzG4Cm02SISC)
-* [Sunday](https://nyu.zoom.us/rec/share/Xwkik6oy-OD2s60pGLbUQBYFeD\_0Nqc\_QL4htJTB3jYiC-FP5YtVlow3k5mesp7L.dD9l-f77nw0neZCI) (includes extra discussion of GWWC FB lead generation trial)&#x20;
+* [Sunday](https://nyu.zoom.us/rec/share/Xwkik6oy-OD2s60pGLbUQBYFeD\_0Nqc\_QL4htJTB3jYiC-FP5YtVlow3k5mesp7L.dD9l-f77nw0neZCI) (includes extra discussion of GWWC FB lead generation trial)
   * Tech/recording failure? ![](<.gitbook/assets/image (1) (1).png>)
 
 #### December 1 2021 (7-8pm EST)
 
 _Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_, see tab above for full agenda and details_
 
-* _Recording: first hour= general meeting, last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template](contexts-and-environments-for-testing/trial-reporting-template/ "mention")
+* _Recording: first hour= general meeting, last 30 min = Reinstein and Winchell talk through reporting_ [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") _trial in the Gitbook with the_ [trial-reporting-template](organization-and-overview/trial-reporting-template/ "mention")
 
 {% hint style="info" %}
 _We have recorded this meeting and shared it with the group_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CKCKd2SWWGmIl4Duxb-FI7hbHH7b9zf0Hn5Lin4CgbrziQmxm6cH.M\_-mpf5f1RqdllRG?continueMode=true&\_x\_zm\_rtaid=zhs6-QiBQMuTGxPiJh9ukg.1639069687216.0f026a7e1b647b6691cfacf39a2f9b56&\_x\_zm\_rhtaid=15)_. Please do not share outside the group (except by mutual agreement of all present)_

@@ -69,7 +69,7 @@ The 'mysterious sauce' ... JS knows about ([best-practice-guidelines.md](../../m
 
 ## **Targeting**
 
-_See also_ [_Profiling: Discussion_](../../profiling-and-segmentation/profiling-discussion.md)
+_See also_ [_Profiling: Discussion_](broken-reference)
 
 **Question:** If our aim is _to change the culture of giving in general_, what kind of people should we be targeting?
 

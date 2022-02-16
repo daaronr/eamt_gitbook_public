@@ -11,13 +11,13 @@
 * [Organization of sections](organization-and-overview/sections-and-organization.md)
 * [Our tech/tools (links)](organization-and-overview/our-team-and-resources/overview-ea-forum-post.md)
 * [Background, framework (links)](organization-and-overview/background-framework-links.md)
+* [Trial reporting template](organization-and-overview/trial-reporting-template/README.md)
+  * [("All the data")](organization-and-overview/trial-reporting-template/all-the-data.md)
 
 ## Contexts-environments-plans-tests <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
 * [Environments, plans, tests](contexts-and-environments-for-testing/environments-and-plans/README.md)
   * [Testing Contexts: Overview](contexts-and-environments-for-testing/environments-and-plans/future-avenues.md)
-* [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template/README.md)
-  * [("All the data")](contexts-and-environments-for-testing/trial-reporting-template/all-the-data.md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Pledge page (options trial) (+)](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md)
   * [Giving guides - Facebook(+)](contexts-and-environments-for-testing/gwwc/giving-guides-+/README.md)
@@ -74,7 +74,7 @@
 
 ## Project: Profiling and segmentation (linked) <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
-* [Profiling: Discussion, links](profiling-and-segmentation/profiling-discussion.md)
+* [Profiling: Discussion, links](profiling-and-segmentation/profiling-discussion-links.md)
 
 ## Supplements and references
 
