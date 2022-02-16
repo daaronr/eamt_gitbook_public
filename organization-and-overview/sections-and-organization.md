@@ -15,7 +15,7 @@ Organization:   Explain [organization](sections-and-organization.md) of the [tea
 
 Any shareable content (that has at least some public interest)  is being moved to the [public version of the gitbook](https://effective-giving-marketing.gitbook.io/untitled/). We try to link that content below and throughout, giving both the public links and the link to edit it. \
 \
-This includes some important tutorials and guides to our resources.
+This includes some important [tutorials and guides](our-team-and-resources/overview-ea-forum-post.md) to our resources.
 {% endhint %}
 
 {% embed url="https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works" %}
@@ -28,13 +28,11 @@ __
 
 #### _"Background...":_&#x20;
 
-* [What is known/models of effective giving](../background-and-existing-evidence/models-theories-psychological-norms.md),
-* [Principles and theories behind potential trials](../background/tools-and-trials-overview/tools-interventions-principles.md)
-* [Tools and trials](../background/tools-and-trials-overview/): specific things we want to do/test; (partly) grouped by 'outcomes' (esp. [effectiveness](../background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/) & [commitment](../background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/))
+* [What is known/models of effective giving](broken-reference),
+* [Principles and theories behind potential trials](broken-reference)
+* [Tools and trials](broken-reference): specific things we want to do/test; (partly) grouped by 'outcomes' (esp. [effectiveness](broken-reference) & [commitment](broken-reference))
 
 _Almost all of this could be made public? Move/link most of this to public-only_
-
-__
 
 #### _"Contexts/environments, specific plans for trials in these contexts"_
 
