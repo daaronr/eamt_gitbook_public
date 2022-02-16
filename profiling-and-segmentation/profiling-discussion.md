@@ -1,6 +1,17 @@
-# (Profiling: Discussion)
+---
+description: Moved to public bookdown
+---
 
-Who would be most amenable to effective giving (and pledging) ... and most susceptible to appeals?
+# Profiling: Discussion, links
 
-\
-People inside and interested: "Backing out willingness to give"
+**Links to public bookdown --** [_Editing link here_](broken-reference)__
+
+{% embed url="https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/profiling-discussion" %}
+
+{% embed url="https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/previous-work" %}
+
+{% embed url="https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/other-work-and-data" %}
+
+{% embed url="https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/rethink-priorities-work" %}
+
+{% embed url="https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/profiling-existing-traffic" %}

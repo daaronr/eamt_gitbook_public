@@ -26,14 +26,14 @@ _Previous updates: see tabs_
 {% tabs %}
 {% tab title="Dec " %}
 * Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
-* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [other-work-and-data.md](profiling-and-segmentation/previous-work/other-work-and-data.md "mention")
+* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")
 * Considering "Public version" of gitbook, sharing; project management
 * [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV)
 {% endtab %}
 
 {% tab title="Jan " %}
 * Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
-* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [other-work-and-data.md](profiling-and-segmentation/previous-work/other-work-and-data.md "mention")
+* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [Broken link](broken-reference "mention")
 * Considering "Public version" of gitbook, sharing; project management
 {% endtab %}
 {% endtabs %}

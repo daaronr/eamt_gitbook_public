@@ -72,17 +72,9 @@
   * [Google A/B, optimize interface](methodological-discussion/implementation-and-collecting-data-issues/google-a-b-optimize-analytics-interface.md)
   * [Google analytics interface](methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md)
 
-## Project: Profiling and segmentation <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
+## Project: Profiling and segmentation (linked) <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
-* [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
-* [Previous work/data](profiling-and-segmentation/previous-work.md)
-  * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
-  * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
-  * [Animal welfare attitudes: profiling/surveying](profiling-and-segmentation/previous-work/animal-welfare-attitudes-profiling-surveying.md)
-  * [Other data](profiling-and-segmentation/previous-work/other-data.md)
-* [Fehr/SOEP, followup](profiling-and-segmentation/previous-work/other-work-and-data.md)
-* [Rethink Priorities work](profiling-and-segmentation/previous-work/rethink-priorities-work.md)
-* [(Profiling 'existing traffic')](profiling-and-segmentation/profiling-existing-traffic.md)
+* [Profiling: Discussion, links](profiling-and-segmentation/profiling-discussion.md)
 
 ## Supplements and references
 
