@@ -2,20 +2,23 @@
 description: How the gitbook sections are organized; we can discuss this
 ---
 
-# Sections and organization
+# Sections, organization, links to public gitbook
 
-### **Overview of grouped sections ... the basic idea:**
+## **Overview of sections, key links**
 
-#### _Organization_
+### _Organization and tech/tools_
 
-* [Preamble](../)
-* Explain [organization](sections-and-organization.md) of the [team](our-team-and-resources/) and [our tools](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)
+[Preamble](../), Explain [organization](sections-and-organization.md) of the [team](our-team-and-resources/) and [our tool](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)s. _Almost all of this could be made public? Move/link some of this to public-only_
 
-_Almost all of this could be made public? Move/link some of this to public-only_
+{% embed url="https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works" %}
 
-__
+{% embed url="https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works/other-tech" %}
 
-#### _"Background...":_
+[Edit link for the above sections in public gitbook](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/organization-and-overview/how-this-gitbook-works)
+
+
+
+#### _"Background...":_&#x20;
 
 * __[What we're trying to do and why](broken-reference/),
 * [What is known/models of effective giving](../background-and-existing-evidence/models-theories-psychological-norms.md),

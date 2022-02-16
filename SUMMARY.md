@@ -5,13 +5,13 @@
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
 
-* [Sections and organization](organization-and-overview/sections-and-organization.md)
+* [Sections, organization, links to public gitbook](organization-and-overview/sections-and-organization.md)
 * [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
   * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
 * [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
-  * [Overview: Posts and writings](organization-and-overview/our-team-and-resources/overview-ea-forum-post.md)
-  * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
-  * [Sharing outside the group?](organization-and-overview/our-team-and-resources/sharing-outside-the-group.md)
+  * [Link: Overview --  Posts and writings](organization-and-overview/our-team-and-resources/overview-ea-forum-post.md)
+  * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs/README.md)
+    * [Sharing outside the group?](organization-and-overview/our-team-and-resources/procedures-faqs/sharing-outside-the-group.md)
 
 ## Background, evidence, framework <a href="#background" id="background"></a>
 
