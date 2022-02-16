@@ -10,7 +10,7 @@ description: >-
 ## Goal
 
 {% hint style="info" %}
-This section will be  duplicated in the public and private versions. However, fore most content, we want it in only one of the two, and linked in the other.
+This section will be  duplicated in the public and private versions. However, for most content, we want it in only one of the two, and linked in the other.
 {% endhint %}
 
 The “EA Market Testing Team” is a group of researchers and practitioners interested in
