@@ -7,7 +7,7 @@ description: >-
 
 # Environments, plans, tests
 
-See [trial-reporting-template.md](../trial-reporting-template.md "mention")
+See [trial-reporting-template.md](trial-reporting-template.md "mention")
 
 See "future avenues" (recover link)
 

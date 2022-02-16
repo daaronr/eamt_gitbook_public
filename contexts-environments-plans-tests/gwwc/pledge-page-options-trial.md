@@ -7,9 +7,7 @@ description: >-
 
 # Pledge page (options trial) (+)
 
-[**Following**](../trial-reporting-template/)**:** [trial-reporting-template](../trial-reporting-template/ "mention")
-
-## General idea, main 'hypothesis'
+[**Following**](../../contexts-and-environments-for-testing/trial-reporting-template/) **** [trial-reporting-template.md](../trial-reporting-template.md "mention")&#x20;
 
 **GWWC**: How can we present pledge options so as to maximize positive outcomes (pledges, fulfillment)?
 

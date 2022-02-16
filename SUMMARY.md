@@ -15,7 +15,7 @@
 ## Background, evidence, framework <a href="#background" id="background"></a>
 
 * [The challenge: drivers of effective/ineffective giving](background/the-challenge-drivers-of-effective-ineffective-giving.md)
-    * [How little we know...](background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
+  * [How little we know...](background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background/models-theories-psychological-norms.md)
 * [Tools and trials: overview](background/tools-and-trials-overview/README.md)
   * [Tools/interventions: principles](background/tools-and-trials-overview/tools-interventions-principles.md)
@@ -27,35 +27,26 @@
       * [(Accountability partners)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/accountability-partners.md)
   * [Academic Paper Ideas](background/tools-and-trials-overview/academic-paper-ideas.md)
 
-## Contexts-environments-plans-tests <a href="#contexts-/a>
+## Contexts-environments-plans-tests
 
-* [Environments, plans, tests](contexts-and-environments-for-testing/environments-and-plans/README.md)
-  * [Testing Contexts: Overview](contexts-and-environments-for-testing/environments-and-plans/testing-contexts-overview.md)
-* [Trial reporting template](contexts-and-environments-for-testing/trial-reporting-template.md)
-* [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/ads-google-youtube....md)
-* [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
-  * [Pledge page (options trial) (+)](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md)
-  * [YouTube Remarketing (+)](contexts-and-environments-for-testing/gwwc/youtube-remarketing-+.md)
-  * [Other trials in progress: Home page, giving guides, advertising](contexts-and-environments-for-testing/gwwc/other-trials-in-progress-home-page-giving-guides-advertising.md)
-* [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world-oftw/README.md)
-  * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+.md)
-* [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
-  * [Advisor signup (advertising trial in one city) (+)](contexts-and-environments-for-testing/tlycs/advisor-signup-advertising-trial-in-one-city-+.md)
-* [80000 hours](contexts-and-environments-for-testing/80000-hours/README.md)
-  * [YouTube awareness at university (redacted)](contexts-and-environments-for-testing/80000-hours/youtube-awareness-at-university-redacted.md)
-* [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
-  * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
-  * [CRS/DV: overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
-  * [\[Social media and social giving trials in preparation - redacted\]](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/trials-in-preparation-redacted.md)
-* [Other orgs/approaches in progress](contexts-and-environments-for-testing/other/README.md)
-  * [EA university groups](contexts-and-environments-for-testing/other/ea-university-groups.md)
-  * [Schools/young people/education; see 'Charity Elections' project](contexts-and-environments-for-testing/other/schools-young-people-education-see-charity-elections-project.md)
-  * [Adjacent orgs: FLI, Founders' pledge, Animal Charity Evaluators](contexts-and-environments-for-testing/other/adjacent-orgs-fli-founders-pledge-animal-charity-evaluators.md)
-  * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
-
-***
-
-* [(Ads (Google, Youtube...))](ads-google-youtube....md)
+* [Trial reporting template](contexts-environments-plans-tests/trial-reporting-template.md)
+* [Environments, plans, tests](contexts-environments-plans-tests/environments-and-plans.md)
+* [GWWC](contexts-environments-plans-tests/gwwc/README.md)
+  * [Pledge page (options trial) (+)](contexts-environments-plans-tests/gwwc/pledge-page-options-trial.md)
+  * [YouTube Remarketing (+)](contexts-environments-plans-tests/gwwc/youtube-remarketing-+.md)
+  * [Other trials in progress: Home page, giving guides, advertising](contexts-environments-plans-tests/gwwc/other-trials-in-progress-home-page-giving-guides-advertising.md)
+* [One For the World (OftW)](contexts-environments-plans-tests/one-for-the-world-oftw/README.md)
+  * [pre-giving-tuesday-email split test (+)](contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+.md)
+* [(TLYCS)](contexts-environments-plans-tests/tlycs.md)
+* [(80000 hours)](contexts-environments-plans-tests/80000-hours.md)
+* [Charities/fundraisers and impact information](contexts-environments-plans-tests/charities-fundraisers-and-impact-information/README.md)
+  * [ICRC - quick overview (+)](contexts-environments-plans-tests/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
+  * [CRS/DV: overview (+)](contexts-environments-plans-tests/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
+* [Other orgs/approaches in progress](contexts-environments-plans-tests/other/README.md)
+  * [(EA university groups)](contexts-environments-plans-tests/other/ea-university-groups.md)
+  * [(Schools/young people/education; see 'Charity Elections' project)](contexts-environments-plans-tests/other/schools-young-people-education-see-charity-elections-project.md)
+  * [(Adjacent orgs: FLI, Founders' pledge, Animal Charity Evaluators)](contexts-environments-plans-tests/other/adjacent-orgs-fli-founders-pledge-animal-charity-evaluators.md)
+  * [(GiveWell)](contexts-environments-plans-tests/other/givewell.md)
 
 ## Methods and implementation discussion <a href="#methodological-discussion" id="methodological-discussion"></a>
 
@@ -65,7 +56,7 @@
   * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * [(Analysis: Statistical approaches)](methodological-discussion/analysis-statistical-approaches.md)
 * [Implementation and collecting data: Issues](methodological-discussion/implementation-and-collecting-data-issues/README.md)
-  * [Survey and marketing platforms](methodological-discussion/implementation-and-collecting-data-issues/survey-and-marketing-platforms.md)
+  * [(Survey and marketing platforms)](methodological-discussion/implementation-and-collecting-data-issues/survey-and-marketing-platforms.md)
   * ["Doing and funding ads"](methodological-discussion/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
   * [Video ads/Best-practice guidelines](methodological-discussion/implementation-and-collecting-data-issues/best-practice-guidelines.md)
   * [Facebook split-testing etc](methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md)
@@ -95,11 +86,6 @@
 * [Legacies/bequests (exploring)](legacies-bequests-exploring/README.md)
   * [Research: motivating bequest/legate giving](legacies-bequests-exploring/research-motivating-bequest-legate-giving.md)
 
-## Grants, funding, reports, admin
+## Supplements and references
 
-* [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving.md)
-* [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
-
-## Self-aware-experiments-surveys
-
-* [Discussion: "Lab-esque" experiments/surveys](self-aware-experiments-surveys/discussion-lab-esque-experiments-surveys.md)
+* [Discussion: "Lab-esque" experiments/surveys](supplements-and-references-1/discussion-lab-esque-experiments-surveys.md)
