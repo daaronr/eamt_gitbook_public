@@ -6,6 +6,8 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ## Organizational updates (redacted)
 
+General meetings held: Dec 2021, Jan 2022, Feb. 2022
+
 ## Latest/best campaigns, trials, initiatives
 
 ### [One for the World](tip-o-the-spear.md#oftw)
@@ -13,7 +15,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 1. [pre-giving-tuesday-email-split-test-+.md](contexts-and-environments-for-testing/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+.md "mention")
 
 * Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
-* Preliminary results: little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
+  * Preliminary results: similar performance, but little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
 * <mark style="background-color:orange;">Next steps</mark>: update with further donations, write-up, get feedback
 
 **2. Outreach: Finalizing trials at select universities**
