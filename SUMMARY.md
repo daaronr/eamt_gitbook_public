@@ -18,13 +18,13 @@
 * [Models, theories, psychological norms](background-and-existing-evidence/models-theories-psychological-norms.md)
 * [Tools and trials: overview](background/tools-and-trials-overview/README.md)
   * [Tools/interventions: principles](background/tools-and-trials-overview/tools-interventions-principles.md)
+  * [Academic Paper Ideas](background/tools-and-trials-overview/academic-paper-ideas.md)
   * [Outcomes: Effective gift/consider impact)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/README.md)
     * [(Effectiveness information and its presentation)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/effectiveness-information-and-its-presentation.md)
-    * [(Outcome: Pledge, give substantially (& effectively))](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/README.md)
-      * [(Moral duty (of well-off))](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
-    * [Give if you win/ conditional pledge](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
-      * [(Accountability partners)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/accountability-partners.md)
-  * [Academic Paper Ideas](background/tools-and-trials-overview/academic-paper-ideas.md)
+  * [(Outcome: Pledge, give substantially (& effectively))](background/tools-and-trials-overview/moral-duty-of-well-off/README.md)
+    * [(Moral duty (of well-off))](background/tools-and-trials-overview/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
+    * [Give if you win/ conditional pledge](background/tools-and-trials-overview/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
+    * [(Accountability partners)](background/tools-and-trials-overview/moral-duty-of-well-off/accountability-partners.md)
 
 ## Contexts-environments-plans-tests <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
