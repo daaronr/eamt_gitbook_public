@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Effective Giving and Action: Market testing and Synthesis](README.md)
+  * [Overview: Posts and writings](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/overview-ea-forum-post)
 * [Tip-o-the-spear, meetings](tip-o-the-spear.md)
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
