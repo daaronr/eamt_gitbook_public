@@ -1,8 +1,8 @@
 # pre-giving-tuesday-email split test (+)
 
-_24 Nov 2021 -- adapting this to the_ [trial-reporting-template](../../../organization-and-overview/trial-reporting-template/ "mention") _... incorporating the_ [preregistration\_oftw\_pre\_gt.md](preregistration\_oftw\_pre\_gt.md "mention") _and the internal plan notes (below)_
+_24 Nov 2021 -- adapting this to the_ [trial-reporting-template](../../../organization-and-overview/trial-reporting-template/ "mention") _... incorporating the_ [Broken link](broken-reference "mention") _and the internal plan notes (below)_
 
-_Note: Some of the below overlaps the content in_ [preregistration\_oftw\_pre\_gt.md](preregistration\_oftw\_pre\_gt.md "mention")\_\_
+_Note: Some of the below overlaps the content in_ [Broken link](broken-reference "mention")\_\_
 
 ## General idea, main 'hypothesis' <a href="#general-idea-main-hypothesis" id="general-idea-main-hypothesis"></a>
 
@@ -56,15 +56,15 @@ Basically: (Chloe's description)
 * Treatment Group A received emails that were focused on the contact's impact
 * while Treatment Group B received emails that were focused on individual stories of beneficiaries
 
-See [#treatment-specifics-i.e.-experimental-conditions](preregistration\_oftw\_pre\_gt.md#treatment-specifics-i.e.-experimental-conditions "mention")
+See [Broken link](broken-reference "mention")
 
 ### Treatment assignment procedure
 
-See [#4-how-many-and-which-conditions-will-participants-be-assigned-to](preregistration\_oftw\_pre\_gt.md#4-how-many-and-which-conditions-will-participants-be-assigned-to "mention")
+See [Broken link](broken-reference "mention")
 
 ### **Outcome data**
 
-Targeting: Donation incidence and amount in the relevant 'giving season' and over the next year, specifically described in prereg under...[#3-describe-the-key-dependent-variable-s-specifying-how-they-will-be-measured.](preregistration\_oftw\_pre\_gt.md#3-describe-the-key-dependent-variable-s-specifying-how-they-will-be-measured. "mention")
+Targeting: Donation incidence and amount in the relevant 'giving season' and over the next year, specifically described in prereg under...[Broken link](broken-reference "mention")
 
 \
 **Data storage/form:**
@@ -74,7 +74,7 @@ Targeting: Donation incidence and amount in the relevant 'giving season' and ove
 
 ### **Optional/suggested additions**
 
-_Planned analysis methods, preregistration link: see_ [preregistration\_oftw\_pre\_gt.md](preregistration\_oftw\_pre\_gt.md "mention") and [#5-specify-exactly-which-analyses-you-will-conduct-to-examine-the-main-question-hypothesis.](preregistration\_oftw\_pre\_gt.md#5-specify-exactly-which-analyses-you-will-conduct-to-examine-the-main-question-hypothesis. "mention") within\
+_Planned analysis methods, preregistration link: see_ [Broken link](broken-reference "mention") and [Broken link](broken-reference "mention") within\
 \_\_
 
 _Cost of running trial/promotion: Time costs only (as far as I know)_
@@ -87,7 +87,7 @@ _Cost of running trial/promotion: Time costs only (as far as I know)_
 
 ## Pre-registration work
 
-Pre-registered on OSF in 'AsPredicted' format, content incorporated here [preregistration\_oftw\_pre\_gt.md](preregistration\_oftw\_pre\_gt.md "mention")
+Pre-registered on OSF in 'AsPredicted' format, content incorporated here [Broken link](broken-reference "mention")
 
 {% embed url="https://github.com/daaronr/effective_giving_market_testing/blob/main/contexts-and-environments-for-testing/one-for-the-world/preregistration_oftw_pre_gt.pdf" %}
 

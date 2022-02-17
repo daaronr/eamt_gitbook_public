@@ -8,7 +8,7 @@ description: >-
 
 Mapping the key non-obvious features of running and analyzing these A/B trials using the Google analytics/optimize system.
 
-Reporting and considering this in the context of the GWWC [pledge-page-options-trial.md](../../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md "mention")
+Reporting and considering this in the context of the GWWC [Broken link](broken-reference "mention")
 
 ## What is it? How to create a trial
 
@@ -99,7 +99,7 @@ We can also combine intervals, to make statements like ...
 * a 50% chance of being 4-36% better
 * a 50% chance of being 20-76% better
 
-We report on this further, for this particular case, under [#ex-post-reporting-results-brief](../../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief "mention")
+We report on this further, for this particular case, under [Broken link](broken-reference "mention")
 
 There is some repetition (can we 'mirror blocks'?)
 

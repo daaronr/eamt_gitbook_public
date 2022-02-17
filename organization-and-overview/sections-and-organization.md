@@ -24,8 +24,6 @@ This includes some important [tutorials and guides](our-team-and-resources/overv
 
 __[_Edit link for the above sections in public gitbook_](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/organization-and-overview/how-this-gitbook-works)_​_
 
-__
-
 #### _"Background...":_&#x20;
 
 * [What is known/models of effective giving](broken-reference),
@@ -36,7 +34,7 @@ _Almost all of this could be made public? Move/link most of this to public-only_
 
 #### _"Contexts/environments, specific plans for trials in these contexts"_
 
-* [Overview of contexts](../contexts-and-environments-for-testing/environments-and-plans/future-avenues.md) _(public?)_
+* [Overview of contexts](broken-reference) _(public?)_
 * T[emplate for reporting](trial-reporting-template/#concise-reporting-template) trials and progress (_public, but make it prominently linked in private version)_
 * Cross-organization plans (private?)
 *   By each organization

@@ -18,12 +18,12 @@
 ## Contexts-environments-plans-tests <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
 * [Environments, plans, tests](contexts-and-environments-for-testing/environments-and-plans/README.md)
-  * [Testing Contexts: Overview](contexts-and-environments-for-testing/environments-and-plans/future-avenues.md)
+  * [Testing contexts: overview](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/environments-and-plans/future-avenues)
 * [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world/README.md)
   * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
-    * [Preregistration: OftW pre-GT](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/preregistration\_oftw\_pre\_gt.md)
+    * [Preregistration: OftW Pre-GT](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
-  * [Pledge page (options trial) (+)](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md)
+  * [Pledge page options trial (+)](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/gwwc/pledge-page-options-trial)
   * [Giving guides - Facebook(+)](contexts-and-environments-for-testing/gwwc/giving-guides-+/README.md)
     * [(Results, analysis)](contexts-and-environments-for-testing/gwwc/giving-guides-+/results-analysis.md)
   * [Home page header versions (+)](contexts-and-environments-for-testing/gwwc/home-page-header-versions-+.md)

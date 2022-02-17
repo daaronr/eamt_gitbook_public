@@ -6,7 +6,7 @@ description: ''
 
 See [trial-reporting-template](../../organization-and-overview/trial-reporting-template/ "mention")
 
-[future-avenues.md](future-avenues.md "mention") (this is for GWWC but it applies more generally)
+[Broken link](broken-reference "mention") (this is for GWWC but it applies more generally)
 
 {% hint style="info" %}
 In the pages below the "(+)" header indicates that the trial has definitely taken place (or is underway)

@@ -11,7 +11,7 @@ description: >-
 
 > Will you keep your work continuously public or plan to publish bite-sized reports? I would be interested to stay updated to learn from your continuously, if possible.
 
-\_ David Reinstein: \_Ideally, both. After we run experiments I would like to make the analysis and data public. (Some analysis we might only want to share within EA fundraising orgs and researchers, for a while, while the broader set of trials are ongoing.)
+_David Reinstein_: Ideally, both. After we run experiments I would like to make the analysis and data public. (Some analysis we might only want to share within EA fundraising orgs and researchers, for a while, while the broader set of trials are ongoing.)
 
 I envision sharing the results in dynamic public documents like:
 

@@ -52,9 +52,9 @@ _Previous updates: see tabs_
 
 ### [GWWC](tip-o-the-spear.md#gwwc)
 
-*   "[Pledge page" split-test](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#general-idea-main-hypothesis); vary presentations of pledge options (tied to cookies/IP addresses)
+*   "[Pledge page" split-test](broken-reference); vary presentations of pledge options (tied to cookies/IP addresses)
 
-    _<mark style="background-color:yellow;">We have</mark>_ [some results](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
+    _<mark style="background-color:yellow;">We have</mark>_ [some results](broken-reference) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
 
     * <mark style="background-color:orange;">Next steps</mark>_<mark style="background-color:yellow;">: more detailed analysis and write-up (check/replicate/extend Google optimize Bayesian analysis in code)</mark>_
 * [YouTube remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md).
@@ -101,7 +101,7 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 Please don’t feel compelled to come to both, but try to come to one. We will have an agenda for each, and record and take notes on each.
 
-1. **Friday February 11, 2pm New York time:** Rsvp's: [@daaronr](https://givingexperiments.slack.com/team/U6M1J6W2Y) [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX) [~~@Bella Forristal~~](https://givingexperiments.slack.com/team/U02RDNTA2UX) \~\~\~\~ [@Thomas Ptashnik](https://givingexperiments.slack.com/team/U02RM3745NC) [@Chloë Cudaback](https://givingexperiments.slack.com/team/U02CTP3E4RM) [@Erin Morrissey](https://givingexperiments.slack.com/team/U0316A6R84S)
+1. **Friday February 11, 2pm New York time:** Rsvp's: [@daaronr](https://givingexperiments.slack.com/team/U6M1J6W2Y) [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX) [~~@Bella Forristal~~](https://givingexperiments.slack.com/team/U02RDNTA2UX) [@Thomas Ptashnik](https://givingexperiments.slack.com/team/U02RM3745NC) [@Chloë Cudaback](https://givingexperiments.slack.com/team/U02CTP3E4RM) [@Erin Morrissey](https://givingexperiments.slack.com/team/U0316A6R84S)
 2. **Sunday Feb 13, 9pm New York:** [@daaronr](https://givingexperiments.slack.com/team/U6M1J6W2Y) [@Grace Adams](https://givingexperiments.slack.com/team/U02MG1GV8BT) [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX) [@Luke Freeman](https://givingexperiments.slack.com/team/U028G1080DB) [@Erin Morrissey](https://givingexperiments.slack.com/team/U0316A6R84S)
 
 #### **Agenda**
@@ -146,7 +146,7 @@ _Recording_ [_HERE_](https://nyu.zoom.us/rec/play/oOSebxTekP2NKhwfp2lk7bYspJR-CK
     * Difficulties, questions, uncertainties
     * Findings, next steps, 'what we want to learn next'?
 
-    A. at [gwwc](contexts-and-environments-for-testing/gwwc/ "mention"), especially [pledge-page-options-trial.md](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md "mention") (8-12 min)
+    A. at [gwwc](contexts-and-environments-for-testing/gwwc/ "mention"), especially [Broken link](broken-reference "mention") (8-12 min)
 
     B. at [one-for-the-world](contexts-and-environments-for-testing/one-for-the-world/ "mention"), especially [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") (8-12 min)
 
@@ -180,6 +180,10 @@ Jan 7 (Friday): OftW (Chloe), possibly 80k (Bella) present
 Jan 9 (Sun): GWWC (Grace), TLYCS (Bilal), possibly 80k (Bella) present; also JS Winchell
 
 [doodle responses](https://doodle.com/poll/zbkiiikfia99bbtc)
+{% endtab %}
+
+{% tab title="Feb '22" %}
+
 {% endtab %}
 {% endtabs %}
 
