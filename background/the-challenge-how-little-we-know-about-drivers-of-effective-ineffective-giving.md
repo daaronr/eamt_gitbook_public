@@ -4,17 +4,17 @@ description: >-
   little we know"
 ---
 
-# The challenge: drivers of effective/ineffective giving
+# How little we know...
 
-Draw from and link [EA Barriers Project (Reinstein) on "Presenting the Puzzle"](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html)
+Draw from and link [EA Barriers Project (Reinstein) on "Presenting the Puzzle"](https://daaronr.github.io/ea\_giving\_barriers/present-puzzle.html)
 
 ## Introduction
 
-From [EA Barriers Project](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html):
+From [EA Barriers Project](https://daaronr.github.io/ea\_giving\_barriers/present-puzzle.html):
 
 {% embed url="https://daaronr.github.io/ea_giving_barriers/barriers-breakdown.html" %}
 
-> As [Burum, Nowak, and Hoffman](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html#ref-burumEvolutionaryExplanationIneffective2020) ([2020](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html#ref-burumEvolutionaryExplanationIneffective2020)) state: “We donate billions of dollars to charities each year, yet much of our giving is ineffective. Why are we motivated to give, but not motivated to give effectively?”
+> As [Burum, Nowak, and Hoffman](https://daaronr.github.io/ea\_giving\_barriers/present-puzzle.html#ref-burumEvolutionaryExplanationIneffective2020) ([2020](https://daaronr.github.io/ea\_giving\_barriers/present-puzzle.html#ref-burumEvolutionaryExplanationIneffective2020)) state: “We donate billions of dollars to charities each year, yet much of our giving is ineffective. Why are we motivated to give, but not motivated to give effectively?”
 >
 > ... raises two related questions:
 >
@@ -35,21 +35,19 @@ From [EA Barriers Project](https://daaronr.github.io/ea_giving_barriers/present-
 
 **We seek to understand because we believe that there is potential to change attitudes, beliefs, and actions** (primarily charitable giving, but also political and voting behaviour and workplace/career choices). Different charitable appeals, information interventions and approaches may substantially change peoples charity choices. We see potential for changing the “domain” of causes chosen (e.g., international versus US domestic) as well as the effectiveness of the charities chosen within these categories. (However, we have some disagreement over the relative potential for either of these.)
 
-Our main ‘policy’ audience includes both effective nonprofit organisations and ‘effective altruists’. The EA movement is highly-motivated, growing, and gaining funding. However, it represents a niche audience: the ‘hyper-analytic but morally-scrupulous’. EA organisations have focused on identifying effective causes and career paths, but have pursued neither extensive outreach nor ‘market research’ on a larger audience (see [Charity Science](http://www.charityscience.com/operations-details/scaling-down-charity-science-outreach), [Gates Foundation/Ideas42](http://www.ideas42.org/wp-content/uploads/2018/08/ideas42-Best-of-Intentions_Charitable-Giving-1.pdf)). \`
+Our main ‘policy’ audience includes both effective nonprofit organisations and ‘effective altruists’. The EA movement is highly-motivated, growing, and gaining funding. However, it represents a niche audience: the ‘hyper-analytic but morally-scrupulous’. EA organisations have focused on identifying effective causes and career paths, but have pursued neither extensive outreach nor ‘market research’ on a larger audience (see [Charity Science](http://www.charityscience.com/operations-details/scaling-down-charity-science-outreach), [Gates Foundation/Ideas42](http://www.ideas42.org/wp-content/uploads/2018/08/ideas42-Best-of-Intentions\_Charitable-Giving-1.pdf)). \`
 
 ### (Lack of) previous synthesis on this
 
 **Academic work:**
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 * [Caviola et al, 2021 (abstract pictured above)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(21\)00090-5#secst0005)
 * @loewensteinScarecrowTinMan2007
 * introduction to @Berman2018, @baron2011heuristics)
 * introduction to [Caviola et al](http://journal.sjdm.org/19/190810/jdm190810.pdf): "on how both incorrect beliefs and preferences for ineffective charities contribute to ineffective giving"
 * @greenhalghSystematicReviewBarriers2020 (qualitative, focuses on largest philanthropists only)
-
- 
 
 **Non-academic/unpublished:**
 
@@ -58,14 +56,12 @@ Our main ‘policy’ audience includes both effective nonprofit organisations a
 * 'The Psychology of Effective Altruism' (Miller, 2016, slides only).
 * ["Behavioral Insights To End Global Poverty" (Princeton report for TLYCS, Jan 2021)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0)
 
+Overall, these have not been detailed or systematic. While [Caviola et al, 2021](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(21\)00090-5#secst0005), is probably the strongest, most relevant, and most insightful (and has some connection to the structure presented in the '[Barriers](https://daaronr.github.io/ea\_giving\_barriers/index.html)' project), it does not drill deeply into the strength of the evidence and the relative importance of each factor. However, this may stem from a small amount of available evidence to survey.
 
-
-Overall, these have not been detailed or systematic. While [Caviola et al, 2021](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(21\)00090-5#secst0005), is probably the strongest, most relevant, and most insightful (and has some connection to the structure presented in the '[Barriers](https://daaronr.github.io/ea_giving_barriers/index.html)' project), it does not drill deeply into the strength of the evidence and the relative importance of each factor. However, this may stem from a small amount of available evidence to survey.
-
- Ideas42 wrote (ibid)
+Ideas42 wrote (ibid)
 
 > We did not find many field-based, experimental studies on the factors that encourage people to choose thoughtfully among charities or to plan ahead to give.
 
-## Definitions - "Efficiency" versus impact <a href="def-impact" id="def-impact"></a>
+## Definitions - "Efficiency" versus impact <a href="#def-impact" id="def-impact"></a>
 
-A working definition is provided and discussed [HERE](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html#def-impact) I (Reinstein) provide a critical discussion of some standard economic models of giving in this context [HERE](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html#why-puzzle)
+A working definition is provided and discussed [HERE](https://daaronr.github.io/ea\_giving\_barriers/present-puzzle.html#def-impact) I (Reinstein) provide a critical discussion of some standard economic models of giving in this context [HERE](https://daaronr.github.io/ea\_giving\_barriers/present-puzzle.html#why-puzzle)

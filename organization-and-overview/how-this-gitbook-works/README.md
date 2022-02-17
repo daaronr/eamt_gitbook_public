@@ -32,9 +32,9 @@ _**Update**_: as of 15 Oct 2021 Gitbook has changed its protocols. You now need 
 * click the icon in the upper right to 'start a change request',
 * and then 'submit' this request when you are ready (ideally, with a brief informative message explaining what you have done.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
 
 Give it a try. Once you 'submit', you, or someone else can 'merge' it in.
 
@@ -56,7 +56,7 @@ If you have the Administrator status, you can merge in your own, or others' chan
 
 It should be simple enough to resolve.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 Just find the icon for the bits indicating a conflict in the outline bar (that arrow triangle thing), go to that section/those sections, and choose which version you want to keep.
 
@@ -70,32 +70,27 @@ https://github.com/daaronr/effective_giving_market_testing
 
 It 'backs up' nicely to a set of easy-to-follow markdown files and folders. If you prefer to work offline, in nice 'raw text formats' (rather than via the web interface)... you should be able to edit those files in any interface and push/merge the content in. (If you are familiar with git and Github.\
 \
-The markdown and project organization syntax is a little bit distinct from others I've used, such as Rmd/bookdown. \
+The markdown and project organization syntax is a little bit distinct from others I've used, such as Rmd/bookdown. \\
 
+The folders have meaning for the structure of sections, I think, but the SUMMARY.md file seems to govern most of it. \\
 
-The folders have meaning for the structure of sections, I think, but the SUMMARY.md file seems to govern most of it. \
-
-
-![](<../../.gitbook/assets/image (3).png>)
-
-
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 There is a particular dash-separated 'description' section at the top of each .md\
 And there are some special code elements like
 
 `{% ="URL HERE" %}`
 
-for embedded content (esp. Google docs), \
+for embedded content (esp. Google docs),\
 \
 ... multi-tab tab elements:\
-![](<../../.gitbook/assets/image (1).png>)\
+![](<../../.gitbook/assets/image (1) (1).png>)\
 \
-..And callout boxes, including 'hints'\
+..And callout boxes, including 'hints'\\
 
-
-`{% hint style="info" %}`\
+`<div data-gb-custom-block data-tag="hint" data-style='info'>`\
 `Hint content here`\
-`{% endhint %}`
+`</div>`
 
 >
 

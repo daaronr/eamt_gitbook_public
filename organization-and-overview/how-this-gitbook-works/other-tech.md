@@ -10,7 +10,7 @@ Airtable is an online database that is user-friendly and social. We are using th
 
 The first table in the airtable (picture below) explains all the other tables
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 A good way of starting with Airtable/databases is to think
