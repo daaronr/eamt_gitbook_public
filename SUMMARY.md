@@ -31,12 +31,13 @@
 * [Trial reporting template](contexts-environments-plans-tests/trial-reporting-template.md)
 * [Environments, plans, tests](contexts-environments-plans-tests/environments-and-plans.md)
   * [Testing Contexts: Overview](contexts-environments-plans-tests/future-avenues.md)
+* [One For the World (OftW)](contexts-environments-plans-tests/one-for-the-world-oftw/README.md)
+  * [pre-giving-tuesday-email split test (+)](contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
+    * [Preregistration: OftW pre-GT](contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
 * [GWWC](contexts-environments-plans-tests/gwwc/README.md)
   * [Pledge page (options trial) (+)](contexts-environments-plans-tests/gwwc/pledge-page-options-trial.md)
-  * [YouTube Remarketing (+)](contexts-environments-plans-tests/gwwc/youtube-remarketing-+.md)
-  * [Other trials in progress: Home page, giving guides, advertising](contexts-environments-plans-tests/gwwc/other-trials-in-progress-home-page-giving-guides-advertising.md)
-* [One For the World (OftW)](contexts-environments-plans-tests/one-for-the-world-oftw/README.md)
-  * [pre-giving-tuesday-email split test (+)](contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+.md)
+  * [Other trials in progress: Home page, giving guides, advertising](contexts-environments-plans-tests/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/README.md)
+    * [(YouTube Remarketing (+))](contexts-environments-plans-tests/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/youtube-remarketing-+.md)
 * [(TLYCS)](contexts-environments-plans-tests/tlycs.md)
 * [(80000 hours)](contexts-environments-plans-tests/80000-hours.md)
 * [Charities/fundraisers and impact information](contexts-environments-plans-tests/charities-fundraisers-and-impact-information/README.md)
@@ -50,7 +51,6 @@
 
 ## Implementation and practical tips
 
-
 * [Implementing ads, messages, and designs](implementation-and-practical-tips/implementation-and-collecting-data-issues/README.md)
   * ["Doing and funding ads"](implementation-and-practical-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
   * [Video ads/Best-practice guidelines](implementation-and-practical-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
@@ -62,11 +62,11 @@
   * [(Survey and marketing platforms)](implementation-and-practical-tips/implementation-and-collecting-data-issues/survey-and-marketing-platforms.md)
 
 ## Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
+
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
 * ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
   * [Splits/randomization in practice](methodological-discussion/splits-randomization/README.md)
     * [Geographic segmentation/blocked randomization](methodological-discussion/splits-randomization/geographic-segmentation-blocked-randomization.md)
-
     * [Facebook split-testing etc](methodological-discussion/splits-randomization/facebook-split-testing-etc.md)
   * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * [(Analysis: Statistical approaches)](methodological-discussion/analysis-statistical-approaches.md)

@@ -12,7 +12,7 @@ General meetings held: Dec 2021, Jan 2022, Feb. 2022
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
-1. [pre-giving-tuesday-email-split-test-+.md](contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+.md "mention")
+1. [pre-giving-tuesday-email-split-test-+](contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/ "mention")
 
 * Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
   * Preliminary results: similar performance, but little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
@@ -20,7 +20,7 @@ General meetings held: Dec 2021, Jan 2022, Feb. 2022
 
 **2. Outreach: Finalizing trials at select universities**
 
-### \*\*\*\*[GWWC](tip-o-the-spear.md#gwwc)
+### [GWWC](tip-o-the-spear.md#gwwc)
 
 *   "[Pledge page" split-test](contexts-environments-plans-tests/gwwc/pledge-page-options-trial.md#general-idea-main-hypothesis); vary presentations of pledge options (tied to cookies/IP addresses)
 

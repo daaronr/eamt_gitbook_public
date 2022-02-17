@@ -7,7 +7,11 @@ description: >-
 
 # Pledge page (options trial) (+)
 
-[**Following**](../../contexts-and-environments-for-testing/trial-reporting-template/) **** [trial-reporting-template.md](../trial-reporting-template.md "mention")&#x20;
+[**Following**](../../contexts-and-environments-for-testing/trial-reporting-template/) [trial-reporting-template.md](../trial-reporting-template.md "mention")
+
+## General idea, main 'hypothesis'
+
+****
 
 **GWWC**: How can we present pledge options so as to maximize positive outcomes (pledges, fulfillment)?
 
@@ -160,7 +164,7 @@ _Consider_: Planned analysis methods, preregistration link, IRB link, connection
 
 ## Ex-post: Reporting results (brief)
 
-See [google-a-b-optimize-analytics-interface.md](../../methodological-discussion/implementation-and-collecting-data-issues/google-a-b-optimize-analytics-interface.md "mention") for notes, questions, and discussion of how this is documented and reported (and implemented).
+See [Broken link](broken-reference "mention") for notes, questions, and discussion of how this is documented and reported (and implemented).
 
 ### Implementation and data collection
 

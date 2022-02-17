@@ -19,12 +19,14 @@ description: How the gitbook sections are organized; we can discuss this
       1. Background on the organization and the environments within
       2. Plans and progress on trials within each
    3. T[emplate for reporting](../contexts-environments-plans-tests/trial-reporting-template.md#concise-reporting-template) trials and progress
-6.  [Methods](broken-reference/): discuss issues of methodology & '[how to implement](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/contexts-and-environments-for-testing/implementation-and-collecting-data-issues/README.md) tricky things right'
+6. [Implementation issues](broken-reference), 'practical' issues
+7.  &#x20;Methodology&#x20;
 
     _(Let's link to this in other sections not rehash each debate in multiple places)_
 
-    * \_\_[Qualitative design issues](../methodological-discussion/qualitative-design-issues.md)
+    * [Qualitative design issues](../methodological-discussion/qualitative-design-issues.md)
     * [Quantitative design and method issues](../methodological-discussion/experimental-design-methods-issues.md)
-    * [Implementation issues](../methodological-discussion/implementation-and-collecting-data-issues/), 'practical' issues
-7. [Project: Profiling 'whom to target'](broken-reference)
-8. [Supplements and references](broken-reference/): Useful discussions and spinoff conversations I didn't know where else to put
+
+
+8. &#x20;[Broken link](broken-reference "mention") "whom to target
+9. &#x20;[Broken link](broken-reference "mention")Useful discussions and spinoff conversations I didn't know where else to put

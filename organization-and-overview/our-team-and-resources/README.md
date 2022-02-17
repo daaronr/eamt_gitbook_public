@@ -4,8 +4,6 @@ We are a group of researchers and practitioners across a range of fields (Econom
 
 As individuals and organizations, we are goal-driven and impact-driven: we are in this to improve the world, particularly through directing funds and support to the most effective causes and interventions. Because we share these common goals, _we are better aligned for collaboration_ than typical academics and charitable organizations. We have an unprecedented opportunity to collaborate, learn what works, and 'move the needle'.
 
-[_Please join the Airtable and add your information to it._](https://airtable.com/invite/l?inviteId=invrYLQD6MCwj5tzF\&inviteToken=756e551c2eb2be11add77811fa080f3ac80c5adc68b402c5dcbbc4a16684b836)
-
 {% embed url="https://airtable.com/shroW5VTMAJDafbi3" %}
 
 {% content-ref url="./" %}
