@@ -18,6 +18,9 @@
 
 * [Environments, plans, tests](contexts-and-environments-for-testing/environments-and-plans/README.md)
   * [Testing Contexts: Overview](contexts-and-environments-for-testing/environments-and-plans/future-avenues.md)
+* [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world/README.md)
+  * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
+    * [Preregistration: OftW pre-GT](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/preregistration\_oftw\_pre\_gt.md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Pledge page (options trial) (+)](contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md)
   * [Giving guides - Facebook(+)](contexts-and-environments-for-testing/gwwc/giving-guides-+/README.md)
@@ -46,16 +49,20 @@
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
   * [Chatbot (deferred)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
-* [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world/README.md)
-  * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
-    * [Preregistration: OftW pre-GT](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/preregistration\_oftw\_pre\_gt.md)
-* [Fehr/SOEP and our followup (Ptashnik)](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/other-work-and-data)
+  * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/other/ads-google-youtube....md)
 
-***
+## Implementation and practical tips
 
-* [(Ads (Google, Youtube...))](ads-google-youtube....md)
+* [Implementing ads, messages, and designs](implementation-and-practical-tips/implementation-and-collecting-data-issues/README.md)
+  * ["Doing and funding ads"](implementation-and-practical-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
+  * [Video ads/Best-practice guidelines](implementation-and-practical-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
+  * [Targeted ad on FB, with variations: setup](implementation-and-practical-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
+* [Collecting data/trial outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/README.md)
+  * [Issues: tracking and observing outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
+  * [Google A/B, optimize interface](implementation-and-practical-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
+  * [Google analytics interface](implementation-and-practical-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
 
-## Methods and implementation <a href="#methodological-discussion" id="methodological-discussion"></a>
+## Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
 * ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
@@ -64,14 +71,12 @@
     * [Facebook split-testing etc](methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md)
   * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * [(Analysis: Statistical approaches)](methodological-discussion/analysis-statistical-approaches.md)
-* [Implementing ads, messages, and designs](methodological-discussion/implementation-and-collecting-data-issues/README.md)
-  * ["Doing and funding ads"](methodological-discussion/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
-  * [Video ads/Best-practice guidelines](methodological-discussion/implementation-and-collecting-data-issues/best-practice-guidelines.md)
-  * [Targeted ad on FB, with variations: setup](methodological-discussion/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
-* [Collecting data/trial outcomes](methodological-discussion/collecting-data-trial-outcomes/README.md)
-  * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
-  * [Google A/B, optimize interface](methodological-discussion/implementation-and-collecting-data-issues/google-a-b-optimize-analytics-interface.md)
-  * [Google analytics interface](methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md)
+
+## Profiling - links and internal discussion
+
+* [Profiling: previous work](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/previous-work)
+* [SOEP/Fehr and Ptashnik followup](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/other-work-and-data)
+* [(Profiling: internal discussion)](profiling-links-and-internal-discussion/profiling-internal-discussion.md)
 
 ## Supplements and references
 
@@ -88,9 +93,3 @@
 
 * [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)
 * [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
-
-## Profiling - links and internal discussion
-
-* [Profiling: previous work](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/previous-work)
-* [(Profiling: internal discussion)](profiling-links-and-internal-discussion/profiling-internal-discussion.md)
-* [SOEP/Fehr and Ptashnik followup](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/other-work-and-data)

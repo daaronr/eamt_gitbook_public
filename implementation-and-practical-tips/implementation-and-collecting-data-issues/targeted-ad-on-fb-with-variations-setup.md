@@ -2,17 +2,13 @@
 
 _Below, we give one example from a relevant context, illustrating (with screenshots) what choices you might make, what it would look like, and how to implement it._
 
-__
+_**See also:**_
 
-_See also:_
-
-__[facebook-split-testing-etc.md](../experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md "mention") for a discussion/literature on the limitations of traditional randomization on FB
+_****_[facebook-split-testing-etc.md](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md "mention") for a discussion/literature on the limitations of traditional randomization on FB
 
 [#videos-facebook](best-practice-guidelines.md#videos-facebook "mention")
 
 > DR, [j.kretschmer](https://app.gitbook.com/u/T0Eky9RThRdyh7B6fmiNEjPxMxf2 "mention") What is the 'starting link' that gets you here?
-
-__
 
 ### Getting started
 
@@ -23,8 +19,6 @@ __
 Next, click on "Ads." At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access of an existing page or Instagram account:
 
 ![](<../../.gitbook/assets/image (3).png>)
-
-
 
 
 
@@ -64,21 +58,22 @@ Facebook estimates that spending the maximum of 315 euros/day ("amount can be in
 
 
 
-
-
 {% hint style="warning" %}
 DR: [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- I believe that for our pilot we are targeting only 800 click-throughs.  Perhaps we want to stretch this out over a week, so that we can check in to see if anything is going wrong.
 
 This also suggests a lower budget for ads for the pilot than we may have thought. For some reason I thought we needed $1200 for 800 clickthroughs. This is much cheaper.
 
-
-
 _But let's write down (here) what our plan is for the pilot_.
 {% endhint %}
 
-For our proof-of-concept pilot, we aim for 20 fundraisers started within a time frame of 5 days. We can use the "Schedule and duration" function not only to automate the timing of our campaign, but also to estimate its cost. For example, we assume that we need 800 participants to click-through to start the 20 fundraisers (i.e., a rate of 2.5%). Using the lower end of the estimate implies that we have to spend 10 euros per day, for five days to get to 800 click-throughs -> 0.06 euro per click-through.
+For our proof-of-concept pilot, we aim for 20 fundraisers started within a time frame of 5 days. We can use the "schedule and duration" function not only to automate the timing of our campaign, but also to estimate its cost. For example, we assume that we need 800 participants to click-through to start the 20 fundraisers (i.e., a rate of 2.5%).
+
+Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day.&#x20;
 
 ![](<../../.gitbook/assets/image (10).png>)
+
+Using the lower end of the estimate (172) implies that we have to spend **10 euros per day, for five days** to get over 800 click-throughs (this implies _0.06 euro per click-through._)\
+__
 
 #### Narrower targeting
 
@@ -86,7 +81,7 @@ But you can target it more closely, you end up clicking "Ads Manager".&#x20;
 
 ![](<../../.gitbook/assets/image (18).png>)
 
-If you don't  have an existing contact list or comparison group, you may prefer to simply specify characteristics. (And this may also be relevant for particular trials).  That is "Create a Saved Audience". \
+If you don't have an existing contact list or comparison group, you may prefer to simply specify characteristics. (And this may also be relevant for particular trials).  That is "Create a Saved Audience". \
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
@@ -109,10 +104,7 @@ You can click 'narrow further' to constrain the audience.
 \
 During this process, you can see a concise statement of your choices, and the estimated audience size further up on the page:\
 \
-![](<../../.gitbook/assets/image (12).png>)\
-
-
-
+![](<../../.gitbook/assets/image (12).png>)
 
 ### **Traffic choice**
 

@@ -54,8 +54,8 @@ _Make this (nearly) all public and remove it from the private version (keeping l
 
 * [Qualitative design issues](../methodological-discussion/qualitative-design-issues.md)
 * [Quantitative design and method issues](../methodological-discussion/experimental-design-methods-issues.md)
-* [Implementating ads etc](../methodological-discussion/implementation-and-collecting-data-issues/), 'practical' issues
-* [Collecting data from Google analytics etc](../methodological-discussion/collecting-data-trial-outcomes/)
+* [Implementating ads etc](../implementation-and-practical-tips/implementation-and-collecting-data-issues/), 'practical' issues
+* [Collecting data from Google analytics etc](../implementation-and-practical-tips/collecting-data-trial-outcomes/)
 
 #### [Project: Profiling 'whom to target'](broken-reference)
 
