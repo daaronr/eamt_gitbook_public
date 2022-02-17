@@ -6,11 +6,9 @@ description: >-
 
 # Google A/B, optimize interface
 
-
-
 Mapping the key non-obvious features of running and analyzing these A/B trials using the Google analytics/optimize system.
 
-Reporting and considering this in the context of the [pledge-page-options-trial.md](../../contexts-environments-plans-tests/gwwc/pledge-page-options-trial.md "mention")
+Reporting and considering this in the context of the GWWC [pledge-page-options-trial.md](../../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md "mention")
 
 ## What is it? How to create a trial
 
@@ -20,27 +18,27 @@ Reporting and considering this in the context of the [pledge-page-options-trial.
 
 #### Page and audience targeting
 
-![GWWC pledge "Details" as archived](broken-reference)
+![GWWC pledge "Details" as archived](<../../.gitbook/assets/images_moved/image (15) (1) (1) (1).png>)
 
 #### Objectives: The things you are trying to measure and improve
 
-![GWWC Pledge trial objectives viewed ex-post](broken-reference)
+![GWWC Pledge trial objectives viewed ex-post](<../../.gitbook/assets/images_moved/image (17) (1) (1) (1).png>)
 
 ## "Activity": Trials created/started/changed/ended/archive
 
-![](broken-reference)
+![](<../../.gitbook/assets/images_moved/image (18) (1) (1) (1).png>)
 
 ## Viewing results and Google's analysis
 
 Clicking on a particular 'experience' in the 'container'...
 
-![](broken-reference)
+![](<../../.gitbook/assets/images_moved/image (16) (1) (1).png>)
 
 (if you have been granted _read and analyze permission),_ will open the useful 'Optimize Report' (which Google explains [here](https://support.google.com/optimize/answer/6218117#pvr-too-high))
 
 ### Optimize report: top
 
-![Overall details at the top](broken-reference)
+![Overall details at the top](<../../.gitbook/assets/images_moved/image (20) (1).png>)
 
 The overall start/end and 'sessions' are given first. What are "sessions"? _The short answer:_ 'Sessions' are the number of 'continuously active' periods of an individual user. So individual users may have multiple sessions! (see [#sessions-vs.-users](google-a-b-optimize-analytics-interface.md#sessions-vs.-users "mention")below). Here, there have been 7992 such 'sessions' over 81 days.
 
@@ -51,7 +49,7 @@ The overall start/end and 'sessions' are given first. What are "sessions"? _The 
 
 **The next section compares 'sessions' and 'conversions' by treatment, and does a Bayesian analysis. This seems the most useful part:**
 
-![Pledge experiment ... comparing conversion rates](broken-reference)
+![Pledge experiment ... comparing conversion rates](<../../.gitbook/assets/images_moved/image (26) (1).png>)
 
 #### Relative conversion rates, analysis
 
@@ -67,13 +65,13 @@ But if we take this seriously, we might say something like ...
 
 Google also gives confidence intervals for the conversion rates for each treatment, with boxplots and (95%) credible interval statistics:
 
-![](broken-reference)
+![](<../../.gitbook/assets/images_moved/image (21) (1).png>)
 
 The grey bar for the baseline is mirrored in all rows. The 95% CI for the 'improvement over the baseline' is given on the right. But this is a rather wide interval. More informatively, if we hover over the image, we are given more useful breakdowns:
 
-![](broken-reference) ![](broken-reference)
+![](<../../.gitbook/assets/images_moved/image (18) (1) (1).png>) ![](<../../.gitbook/assets/images_moved/image (25) (1).png>)
 
-![](broken-reference)
+![](<../../.gitbook/assets/images_moved/image (15) (1) (1).png>)
 
 Although this does not exactly tell us the 50% interval 'improvement over the baseline' (this would need a separate computation), we can approximately infer this.
 
@@ -101,7 +99,7 @@ We can also combine intervals, to make statements like ...
 * a 50% chance of being 4-36% better
 * a 50% chance of being 20-76% better
 
-We report on this further, for this particular case, under [Broken link](broken-reference "mention")
+We report on this further, for this particular case, under [#ex-post-reporting-results-brief](../../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief "mention")
 
 There is some repetition (can we 'mirror blocks'?)
 
@@ -118,15 +116,15 @@ Why? As far as I (DR) understand,
 
 The final section gives the day to day breakdown of the performance of each treatment, presumably, along with confidence intervals. This seems relevant for 'learning and improving while doing' but possibly less relevant for our overall comparison of the pages/treatments.
 
-![](broken-reference)
+![](<../../.gitbook/assets/images_moved/image (10) (1) (1) (1).png>)
 
 #### Download (top right)
 
-![](broken-reference)
+![](<../../.gitbook/assets/images_moved/image (22) (1).png>)
 
 The 'Analytics data' gives us _sessions_ and _conversions_ by day and by treatment.
 
-![](broken-reference)
+![](<../../.gitbook/assets/images_moved/image (14) (1) (1).png>)
 
 (Where no session occurs in a day for a treatment, it is coded as blank).
 
@@ -134,7 +132,7 @@ The 'Analytics data' gives us _sessions_ and _conversions_ by day and by treatme
 
 ... this gives some other information, mainly having to do with the user experience.
 
-![analytics view](broken-reference)
+![analytics view](<../../.gitbook/assets/images_moved/image (23).png>)
 
 "Unique page views" represent "the number of sessions during which that page was viewed one or more times." ... Recall "sessions" are periods of continuous activity.
 
