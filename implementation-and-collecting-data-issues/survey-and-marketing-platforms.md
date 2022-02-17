@@ -1,2 +1,0 @@
-# Survey and marketing platforms
-
