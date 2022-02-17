@@ -27,9 +27,6 @@
   * [Web page (casual visits)/CtA](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
   * [(Pledgers/emails)](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
   * [Facebook ads (GWWC)](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md)
-* [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world/README.md)
-  * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
-    * [Preregistration: OftW pre-GT](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/preregistration\_oftw\_pre\_gt.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
   * [Advisor signup (Portland) (+)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/README.md)
     * [Results (first-pass)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/results-first-pass.md)
@@ -49,6 +46,10 @@
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
   * [Chatbot (deferred)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
+* [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world/README.md)
+  * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
+    * [Preregistration: OftW pre-GT](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/preregistration\_oftw\_pre\_gt.md)
+* [Fehr/SOEP and our followup (Ptashnik)](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/other-work-and-data)
 
 ***
 
@@ -72,10 +73,6 @@
   * [Google A/B, optimize interface](methodological-discussion/implementation-and-collecting-data-issues/google-a-b-optimize-analytics-interface.md)
   * [Google analytics interface](methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md)
 
-## Project: Profiling and segmentation (linked) <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
-
-* [Profiling: Discussion, links](profiling-and-segmentation/profiling-discussion-links.md)
-
 ## Supplements and references
 
 * [Literature on animal advocacy messaging](supplements-and-references/literature-on-animal-advocacy-messaging.md)
@@ -91,3 +88,9 @@
 
 * [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)
 * [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
+
+## Profiling - links and internal discussion
+
+* [Profiling: previous work](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/previous-work)
+* [(Profiling: internal discussion)](profiling-links-and-internal-discussion/profiling-internal-discussion.md)
+* [SOEP/Fehr and Ptashnik followup](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/other-work-and-data)
