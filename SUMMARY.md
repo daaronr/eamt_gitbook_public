@@ -66,7 +66,6 @@
 
 ## Project: Profiling and segmentation <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
-* [(Profiling: Discussion)](profiling-and-segmentation/profiling-discussion.md)
 * [Previous work/data](profiling-and-segmentation/previous-work.md)
   * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
   * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
@@ -80,10 +79,6 @@
 
 * [Literature on animal advocacy messaging](supplements-and-references/literature-on-animal-advocacy-messaging.md)
 * [Charity ratings, rankings, messages](supplements-and-references/charity-ratings-rankings-messages.md)
-
 * [Discussion: "Lab-esque" experiments/surveys](supplements-and-references/discussion-lab-esque-experiments-surveys.md)
-
-* [Legacies/bequests (exploring)](legacies-bequests-exploring/README.md)
-  * [Research: motivating bequest/legate giving](legacies-bequests-exploring/research-motivating-bequest-legate-giving.md)
-
-
+* [Legacies/bequests (exploring)](supplements-and-references/legacies-bequests-exploring/README.md)
+  * [Research: motivating bequest/legate giving](supplements-and-references/legacies-bequests-exploring/research-motivating-bequest-legate-giving.md)

@@ -12,7 +12,7 @@ description: How the gitbook sections are organized; we can discuss this
    * [What we're trying to do and why](broken-reference/),
    * [What is known/models of effective giving](../background/models-theories-psychological-norms.md),
    * P[rinciples and theories behind potential trials](../background/tools-and-trials-overview/tools-interventions-principles.md)
-4. [Tools and trials](broken-reference): specific things we want to do/test; (partly) grouped by 'outcomes' (esp. [effectiveness](broken-reference) & [commitment](broken-reference))
+4. [Tools and trials](broken-reference/): specific things we want to do/test; (partly) grouped by 'outcomes' (esp. [effectiveness](broken-reference/) & [commitment](broken-reference/))
 5. Contexts/environments, specific plans for trials in these contexts
    1. Cross-organization plans
    2. By each organization
@@ -26,5 +26,5 @@ description: How the gitbook sections are organized; we can discuss this
     * \_\_[Qualitative design issues](../methodological-discussion/qualitative-design-issues.md)
     * [Quantitative design and method issues](../methodological-discussion/experimental-design-methods-issues.md)
     * [Implementation issues](../methodological-discussion/implementation-and-collecting-data-issues/), 'practical' issues
-7. [Project: Profiling 'whom to target'](../profiling-and-segmentation/profiling-discussion.md)
+7. [Project: Profiling 'whom to target'](broken-reference)
 8. [Supplements and references](broken-reference/): Useful discussions and spinoff conversations I didn't know where else to put
