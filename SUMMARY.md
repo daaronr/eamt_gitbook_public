@@ -60,8 +60,8 @@
   * [Targeted ad on FB, with variations: setup](implementation-and-practical-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
 * [Collecting data/trial outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/README.md)
   * [Issues: tracking and observing outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
-  * [Google A/B, optimize interface](implementation-and-practical-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
-  * [Google analytics interface](implementation-and-practical-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
+  * [Google A/B optimize interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface)
+  * [Google analytics interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-analytics-interface)
 
 ## Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 
