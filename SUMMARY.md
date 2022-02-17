@@ -2,15 +2,15 @@
 
 * [PUBLIC: Effective Giving & Action: Market testing & Synthesis](README.md)
 * [Tip-o-the-spear](tip-o-the-spear.md)
+* [Overview: Posts and writings](overview-ea-forum-post.md)
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
 
-* [Overview: Posts and writings](organization-and-overview/overview-ea-forum-post.md)
+* [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
+  * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
 * [Sections and organization](organization-and-overview/sections-and-organization.md)
 * [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
   * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
-* [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
-  * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
 
 ## Background, evidence, framework <a href="#background" id="background"></a>
 
@@ -24,7 +24,6 @@
     * [(Outcome: Pledge, give substantially (& effectively))](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/README.md)
       * [(Moral duty (of well-off))](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
     * [Give if you win/ conditional pledge](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
-      * [(Accountability partners)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/accountability-partners.md)
   * [Academic Paper Ideas](background/tools-and-trials-overview/academic-paper-ideas.md)
 
 ## Contexts-environments-plans-tests
@@ -48,21 +47,28 @@
   * [(Adjacent orgs: FLI, Founders' pledge, Animal Charity Evaluators)](contexts-environments-plans-tests/other/adjacent-orgs-fli-founders-pledge-animal-charity-evaluators.md)
   * [(GiveWell)](contexts-environments-plans-tests/other/givewell.md)
 
-## Methods and implementation discussion <a href="#methodological-discussion" id="methodological-discussion"></a>
+## Implementation and practical tips
 
+
+* [Implementing ads, messages, and designs](implementation-and-practical-tips/implementation-and-collecting-data-issues/README.md)
+  * ["Doing and funding ads"](implementation-and-practical-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
+  * [Video ads/Best-practice guidelines](implementation-and-practical-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
+  * [Targeted ad on FB, with variations: setup](implementation-and-practical-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
+* [Collecting data/trial outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/README.md)
+  * [Issues: tracking and observing outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
+  * [Google A/B, optimize interface](implementation-and-practical-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
+  * [Google analytics interface](implementation-and-practical-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
+  * [(Survey and marketing platforms)](implementation-and-practical-tips/implementation-and-collecting-data-issues/survey-and-marketing-platforms.md)
+
+## Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
 * ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
-  * [Geographic segmentation/blocked randomization](methodological-discussion/experimental-design-methods-issues/geographic-segmentation-blocked-randomization.md)
+  * [Splits/randomization in practice](methodological-discussion/splits-randomization/README.md)
+    * [Geographic segmentation/blocked randomization](methodological-discussion/splits-randomization/geographic-segmentation-blocked-randomization.md)
+
+    * [Facebook split-testing etc](methodological-discussion/splits-randomization/facebook-split-testing-etc.md)
   * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * [(Analysis: Statistical approaches)](methodological-discussion/analysis-statistical-approaches.md)
-* [Implementation and collecting data: Issues](methodological-discussion/implementation-and-collecting-data-issues/README.md)
-  * ["Doing and funding ads"](methodological-discussion/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
-  * [Video ads/Best-practice guidelines](methodological-discussion/implementation-and-collecting-data-issues/best-practice-guidelines.md)
-  * [Facebook split-testing etc](methodological-discussion/implementation-and-collecting-data-issues/facebook-split-testing-etc.md)
-  * [Issues: tracking and observing outcomes](methodological-discussion/implementation-and-collecting-data-issues/issues-tracking-and-observing-outcomes.md)
-  * [Google analytics interface](methodological-discussion/implementation-and-collecting-data-issues/google-analytics-interface.md)
-  * [Google A/B, optimize interface](methodological-discussion/implementation-and-collecting-data-issues/google-a-b-optimize-analytics-interface.md)
-  * [(Survey and marketing platforms)](methodological-discussion/implementation-and-collecting-data-issues/survey-and-marketing-platforms.md)
 
 ## Project: Profiling and segmentation <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
@@ -80,5 +86,3 @@
 * [Literature on animal advocacy messaging](supplements-and-references/literature-on-animal-advocacy-messaging.md)
 * [Charity ratings, rankings, messages](supplements-and-references/charity-ratings-rankings-messages.md)
 * [Discussion: "Lab-esque" experiments/surveys](supplements-and-references/discussion-lab-esque-experiments-surveys.md)
-* [Legacies/bequests (exploring)](supplements-and-references/legacies-bequests-exploring/README.md)
-  * [Research: motivating bequest/legate giving](supplements-and-references/legacies-bequests-exploring/research-motivating-bequest-legate-giving.md)

@@ -43,8 +43,8 @@ Budget optimization is closely related to the choice of the target group. In gen
 
 Suppose we wish to create a targeted ad for a particular Facebook audience.  For example, we might wish to put an ad
 
-* in the 'feed' of Americans whose birthday is coming up within the next week,
-* giving them a link to a page encouraging them to start a birthday fundraiser
+* in the 'feed' of French people whose marathon is coming up within the next week,
+* giving them a link to a page encouraging them to start a marathon fundraiser
 
 Here, I chose "Get more website Visitors". ...  Then "Edit Audience"
 

@@ -1,8 +1,8 @@
 # "Quant" Experimental design methods/issues
 
-## Resources 
+## Resources
 
-The [https://declaredesign.org/](https://declaredesign.org) framework and R package seems very helpful. I (David Reinstein) am learning and trying to adapt it. 
+The [https://declaredesign.org/](https://declaredesign.org) framework and R package seems very helpful. I (David Reinstein) am learning and trying to adapt it.
 
 ## Randomization and blocking
 
