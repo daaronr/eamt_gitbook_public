@@ -6,7 +6,7 @@ _**See also:**_
 
 _****_[facebook-split-testing-etc.md](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md "mention") for a discussion/literature on the limitations of traditional randomization on FB
 
-[#videos-facebook](best-practice-guidelines.md#videos-facebook "mention")
+See [#videos-facebook](best-practice-guidelines.md#videos-facebook "mention") for tips on these
 
 > DR, [j.kretschmer](https://app.gitbook.com/u/T0Eky9RThRdyh7B6fmiNEjPxMxf2 "mention") What is the 'starting link' that gets you here?
 
@@ -16,7 +16,20 @@ _****_[facebook-split-testing-etc.md](../../methodological-discussion/experiment
 
 ![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
-Next, click on "Ads." At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access of an existing page or Instagram account:
+Next, click on "Ads." (See the megaphone on the left). &#x20;
+
+
+
+![](<../../.gitbook/assets/image (11).png>)
+
+_At this point, perhaps we need to 'have a page' for Fundraiser2020 to be able to set the ads._ \
+_We also need an "Ad account" with a connected ID, it seems._&#x20;
+
+![](<../../.gitbook/assets/image (12).png>)
+
+__
+
+At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access of an existing page or Instagram account:
 
 ![](<../../.gitbook/assets/image (3).png>)
 
@@ -83,7 +96,7 @@ If you don't have an existing contact list or comparison group, you may prefer t
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 
 
@@ -104,13 +117,13 @@ You can click 'narrow further' to constrain the audience.
 \
 During this process, you can see a concise statement of your choices, and the estimated audience size further up on the page:\
 \
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 ### **Traffic choice**
 
 The next big choice is 'where do you want to drive traffic?'. You'll enter more details about the destination later.
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 Since we want people to click our web app, we chose "website".
 
@@ -171,7 +184,7 @@ Finally, you enter the third and last page of the ad creation process. Here you 
 \
 &#x20;The last step before publication is to specify the destination for your campaign.&#x20;
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 We chose a website and simply copy the URL into the mask to make sure the ad is linking people to the right destination.
 
