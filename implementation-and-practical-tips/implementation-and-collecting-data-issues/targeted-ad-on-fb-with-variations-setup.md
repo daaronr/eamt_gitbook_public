@@ -33,6 +33,9 @@ At this point, you have to link a "Facebook Page" or "Instagram Account" to your
 
 ![](<../../.gitbook/assets/image (3).png>)
 
+Click: "More business settings" --> "Pages" --> Add --> Create a new page
+
+\
 
 
 The next step is to select "Create Ad", and to choose a goal. In our case that is to advertise our web app.
