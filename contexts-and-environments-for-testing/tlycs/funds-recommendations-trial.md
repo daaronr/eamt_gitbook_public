@@ -16,6 +16,6 @@ ALTERNATIVE tests and concerns: compare sales funnel or open-response interactio
 
 See updates on page -- advising is already being introduced
 
-![](<../../.gitbook/assets/image (17) (1).png>)
+![](<../../.gitbook/assets/image (17) (1) (1).png>)
 
 Should they give options ... a 'foot in the door' option?

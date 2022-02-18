@@ -26,8 +26,6 @@ The next step is to select "Create Ad", and to choose a goal. In our case that i
 
 ![](<../../.gitbook/assets/image (7).png>)
 
-
-
 ### **Budget optimization**
 
 When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE](https://www.bigcommerce.com/blog/create-facebook-ad-campaigns/#undefined)) there are a lot of options to help you optimize your delivery while minimizing your expenses.&#x20;
@@ -79,7 +77,7 @@ __
 
 But you can target it more closely, you end up clicking "Ads Manager".&#x20;
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)
 
 If you don't have an existing contact list or comparison group, you may prefer to simply specify characteristics. (And this may also be relevant for particular trials).  That is "Create a Saved Audience". \
 \
@@ -100,6 +98,8 @@ You can specify&#x20;
 "Include" seems to be the default when specifying these ... it 'expands the audience'
 
 You can click 'narrow further' to constrain the audience.
+
+
 
 \
 During this process, you can see a concise statement of your choices, and the estimated audience size further up on the page:\
@@ -146,6 +146,8 @@ We may want the ad that gets the most "~~conversions~~ traffic to our page". The
 However, we might instead want FB to optimize the ad presentation in terms of which ad not just leads to the most 'clickthroughs' but leads to the most "conversions" or some other action taken on our page  \
 \
 To do that we need to set up a "meta pixel".
+
+![](<../../.gitbook/assets/image (17).png>)
 
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") How do we set up such a pixel?  Presumably something in our webpage also needs to integrate this so it knows what the "action on your page", to feed back to Facebook to optimize over.
 
