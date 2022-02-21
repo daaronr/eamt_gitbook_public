@@ -168,6 +168,8 @@ To do that we need to set up a "meta pixel".
 ### **Cost and cost controls**
 
 > DR: In my past experience, you ended up paying Facebook based on the number of "clicks" you got not simply on how long your ad was up. But it's probably a combination of these, and there are probably different pricing plans. You can tell Facebook to put a limit on either of these do not go "over budget". Facebook will aim to spend your entire budget and get the most link clicks using the lowest cost bid strategy.&#x20;
+>
+> UPDATE: Some discussions suggest that ultimately you end up 'paying per impression'. The cost per click is higher if there are more clicks per impression.
 
 ![](<../../.gitbook/assets/image (20).png>)
 
@@ -188,6 +190,10 @@ Finally, you enter the third and last page of the ad creation process. Here you 
 ![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 We chose a website and simply copy the URL into the mask to make sure the ad is linking people to the right destination.
+
+
+
+### Actually creating the ad content
 
 
 
