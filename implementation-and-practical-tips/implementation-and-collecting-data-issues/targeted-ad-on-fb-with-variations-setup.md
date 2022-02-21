@@ -135,7 +135,12 @@ Since we want people to click our web app, we chose "website".
 
 
 {% hint style="info" %}
-Campaign vs "Ad set" vs Ad
+Campaign: controlled centrally for some target
+
+"Ad set": Can be tailored for an audience
+
+Ad: Actual copy\
+
 {% endhint %}
 
 ### **Version testing**
