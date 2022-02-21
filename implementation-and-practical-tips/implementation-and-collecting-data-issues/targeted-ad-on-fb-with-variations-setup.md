@@ -8,8 +8,6 @@ _****_[facebook-split-testing-etc.md](../../methodological-discussion/experiment
 
 See [#videos-facebook](best-practice-guidelines.md#videos-facebook "mention") for tips on these
 
-> DR, [j.kretschmer](https://app.gitbook.com/u/T0Eky9RThRdyh7B6fmiNEjPxMxf2 "mention") What is the 'starting link' that gets you here?
-
 ### Getting started
 
 "Meta Business Suite"([https://business.facebook.com/latest/settings/](https://business.facebook.com/latest/settings/)) is the starting point of your ad campaign. If you have a Facebook Business account, you should have a "Meta Business Suite":
@@ -29,7 +27,7 @@ _We also need an "Ad account" with a connected ID, it seems._&#x20;
 
 __
 
-At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access of an existing page or Instagram account:
+At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access to an existing page or Instagram account:
 
 ![](<../../.gitbook/assets/image (3).png>)
 
