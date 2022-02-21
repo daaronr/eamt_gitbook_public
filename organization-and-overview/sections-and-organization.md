@@ -15,7 +15,7 @@ Organization:   Explain [organization](sections-and-organization.md) of the [tea
 
 Any shareable content (that has at least some public interest)  is being moved to the [public version of the gitbook](https://effective-giving-marketing.gitbook.io/untitled/). We try to link that content below and throughout, giving both the public links and the link to edit it. \
 \
-This includes some important [tutorials and guides](our-team-and-resources/overview-ea-forum-post.md) to our resources.
+This includes some important [tutorials and guides](broken-reference) to our resources.
 {% endhint %}
 
 {% embed url="https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works" %}
