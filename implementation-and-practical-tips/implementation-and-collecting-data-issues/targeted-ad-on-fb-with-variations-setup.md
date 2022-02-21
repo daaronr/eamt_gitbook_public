@@ -6,6 +6,10 @@ _**See also:**_
 
 _****_[facebook-split-testing-etc.md](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md "mention") for a discussion/literature on the limitations of traditional randomization on FB
 
+Our Birthday Facebook procedure is [HERE](https://docs.google.com/document/d/1RPLFPSRu7meHhgKaUPTr9FUSMTSO\_eoPqD7uvw-CIyU/edit#)
+
+&#x20;
+
 See [#videos-facebook](best-practice-guidelines.md#videos-facebook "mention") for tips on these
 
 ### Getting started
@@ -127,6 +131,12 @@ The next big choice is 'where do you want to drive traffic?'. You'll enter more 
 ![](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
 Since we want people to click our web app, we chose "website".
+
+
+
+{% hint style="info" %}
+Campaign vs "Ad set" vs Ad
+{% endhint %}
 
 ### **Version testing**
 
