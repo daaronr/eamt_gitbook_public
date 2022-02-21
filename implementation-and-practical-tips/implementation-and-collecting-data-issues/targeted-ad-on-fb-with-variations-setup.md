@@ -195,7 +195,7 @@ We chose a website and simply copy the URL into the mask to make sure the ad is 
 
 ### Actually creating the ad content
 
-* Settings --> Users --> Accounts --> ad Accounts --> Open in Ad Manager
+* Settings --> Accounts --> ad Accounts --> Open in Ad Manager
 
 
 
