@@ -18,7 +18,7 @@ April 2021 mailing addressed to ICRC's existing donor base of:
 
 ![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
-![ICRC mailings -- differences in inserts](<../../.gitbook/assets/image (19) (1) (1) (1) (1).png>)
+![ICRC mailings -- differences in inserts](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png>)
 
 | ENGLISH                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,4 +34,4 @@ April 2021 mailing addressed to ICRC's existing donor base of:
 
 ![Average donations per mailing -- includes zeroes](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1).png>)
 
-![Focus on 'cost-per-outcome' (pooled treatments)](<../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png>)
+![Focus on 'cost-per-outcome' (pooled treatments)](<../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png>)

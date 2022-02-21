@@ -18,14 +18,12 @@ Next, click on "Ads." (See the megaphone on the left). &#x20;
 
 
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 _At this point, perhaps we need to 'have a page' for Fundraiser2020 to be able to set the ads._ \
 _We also need an "Ad account" with a connected ID, it seems._&#x20;
 
-![](<../../.gitbook/assets/image (12).png>)
-
-__
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access to an existing page or Instagram account:
 
@@ -46,7 +44,7 @@ When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE
 
 You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager." Since there is no downside (we would even consider it valuable information to learn which ad design works best), we decide to _opt-in to each of these._&#x20;
 
-![](<../../.gitbook/assets/image (19) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1).png>)
 
 Budget optimization is closely related to the choice of the target group. In general, the larger the target group, the cheaper it becomes to reach a certain amount of "link clicks".\
 
@@ -75,6 +73,8 @@ DR: [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "m
 
 This also suggests a lower budget for ads for the pilot than we may have thought. For some reason I thought we needed $1200 for 800 clickthroughs. This is much cheaper.
 
+Update: consensus of people with experience is that this is overoptimistic, $0.75/click or so ois more likely.
+
 _But let's write down (here) what our plan is for the pilot_.
 {% endhint %}
 
@@ -97,7 +97,7 @@ If you don't have an existing contact list or comparison group, you may prefer t
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 
 
@@ -107,7 +107,7 @@ You can specify&#x20;
 2. Interests
 3. Behaviors
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
 
 "Include" seems to be the default when specifying these ... it 'expands the audience'
 
@@ -118,13 +118,13 @@ You can click 'narrow further' to constrain the audience.
 \
 During this process, you can see a concise statement of your choices, and the estimated audience size further up on the page:\
 \
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 ### **Traffic choice**
 
 The next big choice is 'where do you want to drive traffic?'. You'll enter more details about the destination later.
 
-![](<../../.gitbook/assets/image (11) (1) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
 Since we want people to click our web app, we chose "website".
 
@@ -146,7 +146,7 @@ __
 
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention"): But to do this, do we need to provide all sorts of media?
 
-> DR, [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention"): Where do we actually specify, enter, and style our ad content?
+> DR, [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention"): Where do we actually specify, enter, and style our ad content? See [#actually-creating-the-ad-content](targeted-ad-on-fb-with-variations-setup.md#actually-creating-the-ad-content "mention")
 
 _Finally, we have to decide which delivery we want to optimize._
 
@@ -171,7 +171,7 @@ To do that we need to set up a "meta pixel".
 >
 > UPDATE: Some discussions suggest that ultimately you end up 'paying per impression'. The cost per click is higher if there are more clicks per impression.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (20) (1).png>)
 
 Currently EUR 315 is the max for new users ... but for our present pilot we may want less than this (check: how much do we expect to pay for 800 clicks, let's split this up into ... first 100 clicks, next 300 clicks,.. to see if its going OK  )
 
@@ -187,7 +187,7 @@ Finally, you enter the third and last page of the ad creation process. Here you 
 \
 &#x20;The last step before publication is to specify the destination for your campaign.&#x20;
 
-![](<../../.gitbook/assets/image (12) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
 
 We chose a website and simply copy the URL into the mask to make sure the ad is linking people to the right destination.
 
@@ -195,7 +195,27 @@ We chose a website and simply copy the URL into the mask to make sure the ad is 
 
 ### Actually creating the ad content
 
+* Settings --> Users --> Accounts --> ad Accounts --> Open in Ad Manager
 
+
+
+
+
+"Campaigns"
+
+![](<../../.gitbook/assets/image (19).png>)
+
+### ![](<../../.gitbook/assets/image (12).png>)
+
+Landing page views or link clicks? What is the difference? (this should be discussed in the 'targeting section' by the way)
+
+![](<../../.gitbook/assets/image (21).png>)
+
+### ![](<../../.gitbook/assets/image (23).png>)
+
+You can also add suggested categories: ![](<../../.gitbook/assets/image (24).png>)
+
+![](<../../.gitbook/assets/image (13).png>)
 
 ### Payment (and monitoring)
 
