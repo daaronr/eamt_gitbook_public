@@ -58,6 +58,7 @@
 * [Implementing ads, messages, and designs](implementation-and-practical-tips/implementation-and-collecting-data-issues/README.md)
   * ["Doing and funding ads"](implementation-and-practical-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
   * [Video ads/Best-practice guidelines](implementation-and-practical-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
+  * [General cost/benefit issues](implementation-and-practical-tips/implementation-and-collecting-data-issues/general-cost-benefit-issues.md)
   * [Targeted ad on FB, with variations: setup](implementation-and-practical-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
 * [Collecting data/trial outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/README.md)
   * [Issues: tracking and observing outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
