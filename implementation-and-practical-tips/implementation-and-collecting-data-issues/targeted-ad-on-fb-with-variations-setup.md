@@ -8,11 +8,11 @@ _**See also:**_ [facebook-split-testing-etc.md](../../methodological-discussion/
 
 "Meta Business Suite"([https://business.facebook.com/latest/settings/](https://business.facebook.com/latest/settings/)) is the starting point of your ad campaign. If you have a Facebook Business account, you should have a "Meta Business Suite":
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (2).png>)
 
 Next, click on "Ads" (See the megaphone on the left).  At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access to an existing page or Instagram account:
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 The next step is to select "Create Ad", and to choose a goal.&#x20;
 
@@ -28,32 +28,42 @@ You need to opt-in to these tools by ticking "create A/B test" and "Budget Optim
 
 Budget optimization is closely related to the choice of the target group. In general, the larger the target group, the cheaper it becomes to reach a certain amount of "link clicks".
 
-### **Targeted ad**
+### **Targeting the ad**
 
 Suppose we wish to create a targeted ad for a particular Facebook audience. For example, we might wish to put an ad...
 
-* in the 'feed' of US Americans who are interested in charity and philosophy
+* in the 'feed' of US Americans who are interested in charity or volunteering or philosophy
 * giving them a link to a page encouraging them to learn about EA
 
-Here, I chose "Get more website Visitors". ... Then "Edit Audience". Targeting for this audience leaves us with more than 4 million people (a more than sufficient pool size for our present consideration).
+Here, I chose "Get more website Visitors". ... Then "Edit Audience".  Below, I chose people in the US over age 18 who are interested in any of a set of things related to charity, volunteering, or philosophy. This is a very broad audience, with about 80 million potential people&#x20;
 
-> Facebook estimates that spending the maximum of 315 euros/dayon the ad campaign will lead to 750 to 2200 click-throughs.
+![](<../../.gitbook/assets/image (12).png>)
 
-![](<../../.gitbook/assets/image (19).png>)
+
+
+Facebook estimates that spending $5 per day over 5 days will lead 358-1000 people seeing the ad and 72-208 clicks. That implies a cost of between 12 cents and 34 cents per click
+
+![](<../../.gitbook/assets/image (13).png>)
 
 &#x20;We can use the "schedule and duration" function not only to automate the timing of our campaign, but also to estimate its cost. For example, we assume that we need 800 participants to click-through to start the 20 fundraisers (i.e., a rate of 2.5%).
 
-Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day for this particular case. This seems over-optimistic in general ... we've seen a $1-2 per click figure elsewhere.(Source?)
+Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day for (a different\_ case.&#x20;
 
 
 
 ![](<../../.gitbook/assets/image (5).png>)
 
-Again, it seems unrealistic ... from a recent relevant experience...
+These numvers seems over-optimistic in general, we've seen figures of $1-2 per click elsewhere. Some potentially reliable figures below (sources "[Wordstream](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)" and re-reporting of Wordstream [here](https://fitsmallbusiness.com/how-much-does-facebook-advertising-cost/)) &#x20;
+
+![](<../../.gitbook/assets/image (4).png>)![](<../../.gitbook/assets/image (21).png>)\
+\
+From a recent relevant experience in our group's context...
 
 > The last campaign based on clicks I ran got 461 clicks for $244 USD over 2 weeks with 113k impressions. \[i.e., $0.50 per click]
 
-Note that (maybe obviously)  'clicking on a Facebook ad' is a rare thing for people to do. In the quote above, thats about 4 clicks per 1000 impresions.
+Note that (maybe obviously)  'clicking on a Facebook ad' is a rare thing for people to do. In the quote above, thats about 4 clicks per 1000 impressions.
+
+
 
 #### Narrower targeting
 
@@ -79,7 +89,7 @@ You can specify
 
 {% hint style="info" %}
 Don't forget to use the search tool within 'browse' to find ways to do careful targeting\
-![](<../../.gitbook/assets/image (27).png>)![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (27).png>)![](<../../.gitbook/assets/image (13) (1).png>)
 {% endhint %}
 
 \
@@ -88,7 +98,13 @@ During this process, you can see a concise statement of your choices, and the es
 
 #### **How should we (EA, effective giving) target ads?**&#x20;
 
-It&#x20;
+We have some evidence that narrower targeting helps. An obvious candidate is&#x20;
+
+
+
+&#x20;
+
+![](<../../.gitbook/assets/image (1).png>)
 
 ### **Traffic choice**
 
@@ -96,7 +112,7 @@ The next big choice is 'where do you want to drive traffic?'. You'll enter more 
 
 Since we want people to click our web app, we chose "website".
 
-![](<../../.gitbook/assets/image (12) (2).png>)
+![](<../../.gitbook/assets/image (12) (2) (1).png>)
 
 ### **Version testing**
 
@@ -133,7 +149,7 @@ To do that we need to set up a "meta pixel".
 
 > DR: In my past experience, you ended up paying Facebook based on the number of "clicks" you got not simply on how long your ad was up. But it's probably a combination of these, and there are probably different pricing plans. You can tell Facebook to put a limit on either of these do not go "over budget". Facebook will aim to spend your entire budget and get the most link clicks using the lowest cost bid strategy.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 Currently EUR 315 is the max for new users ... but for our present pilot we may want less than this (check: how much do we expect to pay for 800 clicks, let's split this up into ... first 100 clicks, next 300 clicks,.. to see if its going OK )
 
