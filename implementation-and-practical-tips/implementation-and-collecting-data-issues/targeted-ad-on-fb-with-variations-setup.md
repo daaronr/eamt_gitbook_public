@@ -2,35 +2,27 @@
 
 _Below, we give one example from a relevant context, illustrating (with screenshots) what choices you might make, what it would look like, and how to implement it._
 
-_**See also:**_
-
-_****_[facebook-split-testing-etc.md](../../methodological-discussion/splits-randomization/facebook-split-testing-etc.md "mention")_****_
-
-_****_[#videos-facebook](best-practice-guidelines.md#videos-facebook "mention")_****_
-
-_****_
+_**See also:**_ [facebook-split-testing-etc.md](../../methodological-discussion/splits-randomization/facebook-split-testing-etc.md "mention") and [#videos-facebook](best-practice-guidelines.md#videos-facebook "mention")_****_
 
 ### Getting started
 
 "Meta Business Suite"([https://business.facebook.com/latest/settings/](https://business.facebook.com/latest/settings/)) is the starting point of your ad campaign. If you have a Facebook Business account, you should have a "Meta Business Suite":
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
-Next, click on "Ads." At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access to an existing page or Instagram account:
+Next, click on "Ads" (See the megaphone on the left).  At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access to an existing page or Instagram account:
 
 ![](<../../.gitbook/assets/image (4).png>)
 
-The next step is to select "Create Ad", and to choose a goal. In our case that is to advertise our web app.
+The next step is to select "Create Ad", and to choose a goal.&#x20;
 
 ![](<../../.gitbook/assets/image (9).png>)
-
-
 
 ### **Budget optimization**
 
 When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE](https://www.bigcommerce.com/blog/create-facebook-ad-campaigns/#undefined)) there are a lot of options to help you optimize your delivery while minimizing your expenses.
 
-You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager." Since there is no downside (we would even consider it valuable information to learn which ad design works best), we decide to _opt-in to each of these._
+You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager." Since there is no downside (we would like to learn which ad design works best), we decide to _opt-in to each of these._
 
 ![](<../../.gitbook/assets/image (8).png>)
 
@@ -38,37 +30,38 @@ Budget optimization is closely related to the choice of the target group. In gen
 
 ### **Targeted ad**
 
-Suppose we wish to create a targeted ad for a particular Facebook audience. For example, we might wish to put an ad
+Suppose we wish to create a targeted ad for a particular Facebook audience. For example, we might wish to put an ad...
 
 * in the 'feed' of US Americans who are interested in charity and philosophy
 * giving them a link to a page encouraging them to learn about EA
 
-Here, I chose "Get more website Visitors". ... Then "Edit Audience"
+Here, I chose "Get more website Visitors". ... Then "Edit Audience". Targeting for this audience leaves us with more than 4 million people (a more than sufficient pool size for our present consideration).
 
-Targeting for this audience leaves us with more than 4 million people (a more than sufficient pool size for our present consideration).
-
-> Facebook estimates that spending the maximum of 315 euros/day ("amount can be increased of some weeks of compliance" \[?]) on the ad campaign will lead to 750 to 2200 click-throughs.
+> Facebook estimates that spending the maximum of 315 euros/dayon the ad campaign will lead to 750 to 2200 click-throughs.
 
 ![](<../../.gitbook/assets/image (19).png>)
 
-For our proof-of-concept pilot, we aim for 20 fundraisers started within a time frame of 5 days. We can use the "schedule and duration" function not only to automate the timing of our campaign, but also to estimate its cost. For example, we assume that we need 800 participants to click-through to start the 20 fundraisers (i.e., a rate of 2.5%).
+&#x20;We can use the "schedule and duration" function not only to automate the timing of our campaign, but also to estimate its cost. For example, we assume that we need 800 participants to click-through to start the 20 fundraisers (i.e., a rate of 2.5%).
 
-Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day.
+Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day for this particular case. This seems over-optimistic in general ... we've seen a $1-2 per click figure elsewhere.(Source?)
 
 
 
 ![](<../../.gitbook/assets/image (5).png>)
 
-Using the lower end of the estimate (172) implies that we have to spend **10 euros per day, for five days** to get over 800 click-throughs (this implies _0.06 euro per click-through._)\
-__
+Again, it seems unrealistic ... from a recent relevant experience...
+
+> The last campaign based on clicks I ran got 461 clicks for $244 USD over 2 weeks with 113k impressions. \[i.e., $0.50 per click]
+
+Note that (maybe obviously)  'clicking on a Facebook ad' is a rare thing for people to do. In the quote above, thats about 4 clicks per 1000 impresions.
 
 #### Narrower targeting
 
-But you can target it more carefully, you can click "Ads Manager".
+It seems you can target more carefully in the "Ads Manager".
 
 ![](<../../.gitbook/assets/image (11).png>)
 
-If you don't have an existing contact list or comparison group, you may prefer to simply specify characteristics. (And this may also be relevant for particular trials). That is "Create a Saved Audience".\
+If you don't have an existing contact list or comparison group, you may prefer to simply specify characteristics.  That is "Create a Saved Audience".\
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
@@ -82,18 +75,20 @@ You can specify
 2. Interests
 3. Behaviors
 
-"Include" seems to be the default when specifying these ... it 'expands the audience'
-
-You can click 'narrow further' to constrain the audience.
+"Include" seems to be the default when specifying these ... it 'expands the audience'. You can click 'narrow further' to constrain the audience.
 
 {% hint style="info" %}
-Don't forget to use the search tool within 'browse' to do careful targeting\
+Don't forget to use the search tool within 'browse' to find ways to do careful targeting\
 ![](<../../.gitbook/assets/image (27).png>)![](<../../.gitbook/assets/image (13).png>)
 {% endhint %}
 
 \
 During this process, you can see a concise statement of your choices, and the estimated audience size further up on the page:\
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
+
+#### **How should we (EA, effective giving) target ads?**&#x20;
+
+It&#x20;
 
 ### **Traffic choice**
 
@@ -101,7 +96,7 @@ The next big choice is 'where do you want to drive traffic?'. You'll enter more 
 
 Since we want people to click our web app, we chose "website".
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (2).png>)
 
 ### **Version testing**
 
