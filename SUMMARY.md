@@ -24,6 +24,7 @@
   * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
     * [Preregistration: OftW Pre-GT](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
+  * [Feb 22 Message Test](contexts-and-environments-for-testing/gwwc/feb-22-message-test.md)
   * [Pledge page options trial (+)](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/gwwc/pledge-page-options-trial)
   * [Giving guides - Facebook(+)](contexts-and-environments-for-testing/gwwc/giving-guides-+/README.md)
     * [(Results, analysis)](contexts-and-environments-for-testing/gwwc/giving-guides-+/results-analysis.md)

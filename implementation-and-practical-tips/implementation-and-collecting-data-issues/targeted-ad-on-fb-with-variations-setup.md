@@ -22,7 +22,7 @@ Next, click on "Ads." (See the megaphone on the left). &#x20;
 
 
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 _At this point, perhaps we need to 'have a page' for Fundraiser2020 to be able to set the ads._ \
 _We also need an "Ad account" with a connected ID, it seems._&#x20;
@@ -101,7 +101,7 @@ If you don't have an existing contact list or comparison group, you may prefer t
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
-![](<../../.gitbook/assets/image (11) (1) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
 
 
@@ -128,7 +128,7 @@ During this process, you can see a concise statement of your choices, and the es
 
 The next big choice is 'where do you want to drive traffic?'. You'll enter more details about the destination later.
 
-![](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1) (1) (1).png>)
 
 Since we want people to click our web app, we chose "website".
 
