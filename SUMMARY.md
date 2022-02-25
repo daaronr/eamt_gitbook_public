@@ -3,21 +3,23 @@
 * [Effective Giving and Action: Market testing and Synthesis](README.md)
   * [Overview: Posts and writings](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/overview-ea-forum-post)
   * [Page 1](readme/page-1.md)
-* [Tip-o-the-spear, meetings](tip-o-the-spear.md)
+* [🗡 Tip-o-the-spear](tip-o-the-spear.md)
+* [👋 Meet the team](our-team-and-resources.md)
+* [📑 Table of contents](sections-and-organization.md)
+* [🗓 Team meetings](team-meetings.md)
 
-## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
+## PROCESSES & PROCEDURES
 
-* [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
-  * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
-  * [Sharing outside the group?](organization-and-overview/our-team-and-resources/sharing-outside-the-group.md)
-* [Organization of sections](organization-and-overview/sections-and-organization.md)
-* [Other tech/tools (link)](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works/other-tech)
-* [How this gitbook works (linked)](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works)
-* [Background, framework (links)](organization-and-overview/background-framework-links.md)
-* [Trial reporting template](organization-and-overview/trial-reporting-template/README.md)
-  * [("All the data")](organization-and-overview/trial-reporting-template/all-the-data.md)
+* [Project procedures/FAQs](processes-and-procedures/project-procedures-faqs/README.md)
+  * [Procedures, FAQs](processes-and-procedures/project-procedures-faqs/procedures-faqs.md)
+  * [Sharing outside the group?](processes-and-procedures/project-procedures-faqs/sharing-outside-the-group.md)
+* [Teach me to use gitbook](processes-and-procedures/teach-me-to-use-gitbook/README.md)
+  * [How this gitbook works (linked)](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works)
+  * [Other tech/tools (link)](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works/other-tech)
+* [Trial reporting template](processes-and-procedures/trial-reporting-template/README.md)
+  * [("All the data")](processes-and-procedures/trial-reporting-template/all-the-data.md)
 
-## Contexts-environments-plans-tests <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
+## PROJECT PLANS & REPORTS BY ORG  <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
 * [Environments, plans, tests](contexts-and-environments-for-testing/environments-and-plans/README.md)
   * [Testing contexts: overview](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/environments-and-plans/future-avenues)
@@ -55,33 +57,31 @@
   * [Chatbot (deferred)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
   * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/other/ads-google-youtube....md)
 
-## Implementation and practical tips
+## CORE KNOWLEDGE BASE
 
-* [Implementing ads, messages, and designs](implementation-and-practical-tips/implementation-and-collecting-data-issues/README.md)
-  * ["Doing and funding ads"](implementation-and-practical-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
-  * [Video ads/Best-practice guidelines](implementation-and-practical-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
-  * [General cost/benefit issues](implementation-and-practical-tips/implementation-and-collecting-data-issues/general-cost-benefit-issues.md)
-  * [Targeted ad on FB, with variations: setup](implementation-and-practical-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
-* [Collecting data/trial outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/README.md)
-  * [Issues: tracking and observing outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
-  * [Google A/B optimize interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface)
-  * [Google analytics interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-analytics-interface)
-
-## Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
-
-* ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
-* ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
-  * [Splits/randomization in practice](methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/README.md)
-    * [Geographic segmentation/blocked randomization](methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md)
-    * [Facebook split-testing etc](methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md)
-  * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
-* [(Analysis: Statistical approaches)](methodological-discussion/analysis-statistical-approaches.md)
-
-## Profiling - links and internal discussion
-
-* [Profiling: previous work](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/previous-work)
-* [SOEP/Fehr and Ptashnik followup](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/other-work-and-data)
-* [(Profiling: internal discussion)](profiling-links-and-internal-discussion/profiling-internal-discussion.md)
+* [Background evidence/frameworks](core-knowledge-base/background-framework-links.md)
+* [Marketing implementation and practical tips](core-knowledge-base/marketing-implementation-and-practical-tips/README.md)
+  * [Implementing ads, messages, and designs](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/README.md)
+    * ["Doing and funding ads"](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
+    * [Video ads/Best-practice guidelines](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
+    * [General cost/benefit issues](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/general-cost-benefit-issues.md)
+    * [Targeted ad on FB, with variations: setup](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
+  * [Collecting data/trial outcomes](core-knowledge-base/marketing-implementation-and-practical-tips/collecting-data-trial-outcomes/README.md)
+    * [Issues: tracking and observing outcomes](core-knowledge-base/marketing-implementation-and-practical-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
+    * [Google A/B optimize interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface)
+    * [Google analytics interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-analytics-interface)
+* [Research design and methodology](core-knowledge-base/research-design-and-methodology/README.md)
+  * ["Qualitative" design issues](core-knowledge-base/research-design-and-methodology/qualitative-design-issues.md)
+  * ["Quant" Experimental design methods/issues](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/README.md)
+    * [Splits/randomization in practice](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/splits-randomization-in-practice/README.md)
+      * [Geographic segmentation/blocked randomization](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md)
+      * [Facebook split-testing etc](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md)
+    * [Adaptive design/sampling, reinforcement learning](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/adaptive-design-sampling-reinforcement-learning.md)
+  * [(Analysis: Statistical approaches)](core-knowledge-base/research-design-and-methodology/analysis-statistical-approaches.md)
+* [Profiling](core-knowledge-base/profiling/README.md)
+  * [Profiling: previous work](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/previous-work)
+  * [SOEP/Fehr and Ptashnik followup](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/other-work-and-data)
+  * [(Profiling: internal discussion)](core-knowledge-base/profiling/profiling-internal-discussion.md)
 
 ## Supplements and references
 

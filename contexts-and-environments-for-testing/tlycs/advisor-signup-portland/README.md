@@ -5,7 +5,7 @@ description: TLYCS ran a campaign in single city involving 'donation advice'
 # Advisor signup (Portland) (+)
 
 {% hint style="info" %}
-Filling out using [trial-reporting-template](../../../organization-and-overview/trial-reporting-template/ "mention") format
+Filling out using [trial-reporting-template](../../../processes-and-procedures/trial-reporting-template/ "mention") format
 
 (Reinstein working with JS Winchell, incorporating [his notes](https://docs.google.com/document/d/1eIt4cXfNqIHr2HiGcb8Mf06BOqR2Pgcga8In-VcLTPA/edit))
 {% endhint %}

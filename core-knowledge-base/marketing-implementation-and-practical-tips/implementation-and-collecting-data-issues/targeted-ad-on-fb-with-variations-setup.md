@@ -4,7 +4,7 @@ _Below, we give one example from a relevant context, illustrating (with screensh
 
 _**See also:**_
 
-_****_[facebook-split-testing-etc.md](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md "mention") for a discussion/literature on the limitations of traditional randomization on FB
+_****_[facebook-split-testing-etc.md](../../research-design-and-methodology/experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md "mention") for a discussion/literature on the limitations of traditional randomization on FB
 
 Our Birthday Facebook procedure is [HERE](https://docs.google.com/document/d/1RPLFPSRu7meHhgKaUPTr9FUSMTSO\_eoPqD7uvw-CIyU/edit#)
 
@@ -16,22 +16,22 @@ See [#videos-facebook](best-practice-guidelines.md#videos-facebook "mention") fo
 
 "Meta Business Suite"([https://business.facebook.com/latest/settings/](https://business.facebook.com/latest/settings/)) is the starting point of your ad campaign. If you have a Facebook Business account, you should have a "Meta Business Suite":
 
-![](<../../.gitbook/assets/image (10) (1) (1).png>)
+![](<../../../.gitbook/assets/image (10) (1) (1).png>)
 
 Next, click on "Ads." (See the megaphone on the left). &#x20;
 
 
 
-![](<../../.gitbook/assets/image (11) (1) (1).png>)
+![](<../../../.gitbook/assets/image (11) (1) (1).png>)
 
 _At this point, perhaps we need to 'have a page' for Fundraiser2020 to be able to set the ads._ \
 _We also need an "Ad account" with a connected ID, it seems._&#x20;
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../../.gitbook/assets/image (12) (1).png>)
 
 At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access to an existing page or Instagram account:
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 Click: "More business settings" --> "Pages" --> Add --> Create a new page
 
@@ -40,7 +40,7 @@ Click: "More business settings" --> "Pages" --> Add --> Create a new page
 
 The next step is to select "Create Ad", and to choose a goal. In our case that is to advertise our web app.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7).png>)
 
 ### **Budget optimization**
 
@@ -48,7 +48,7 @@ When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE
 
 You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager." Since there is no downside (we would even consider it valuable information to learn which ad design works best), we decide to _opt-in to each of these._&#x20;
 
-![](<../../.gitbook/assets/image (19) (1) (1).png>)
+![](<../../../.gitbook/assets/image (19) (1) (1).png>)
 
 Budget optimization is closely related to the choice of the target group. In general, the larger the target group, the cheaper it becomes to reach a certain amount of "link clicks".\
 
@@ -66,7 +66,7 @@ Targeting for this audience leaves us with more than 4 million people (a more th
 
 > [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") maybe we want to target a little narrower, perhaps rule out some particular unlikely groups? Or target people who also donated money to charity in past? Or people with incomes over some amount? Thoughts?
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (16).png>)
 
 Facebook estimates that spending the maximum of 315 euros/day ("amount can be increased of some weeks of compliance" \[?])  on the ad campaign will lead to 750 to 2200 click-throughs.&#x20;
 
@@ -86,7 +86,7 @@ For our proof-of-concept pilot, we aim for 20 fundraisers started within a time 
 
 Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day.&#x20;
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (10).png>)
 
 Using the lower end of the estimate (172) implies that we have to spend **10 euros per day, for five days** to get over 800 click-throughs (this implies _0.06 euro per click-through._)\
 __
@@ -95,13 +95,13 @@ __
 
 But you can target it more closely, you end up clicking "Ads Manager".&#x20;
 
-![](<../../.gitbook/assets/image (18) (1).png>)
+![](<../../../.gitbook/assets/image (18) (1).png>)
 
 If you don't have an existing contact list or comparison group, you may prefer to simply specify characteristics. (And this may also be relevant for particular trials).  That is "Create a Saved Audience". \
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
-![](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
 
 
@@ -111,7 +111,7 @@ You can specify&#x20;
 2. Interests
 3. Behaviors
 
-![](<../../.gitbook/assets/image (19) (1).png>)
+![](<../../../.gitbook/assets/image (19) (1).png>)
 
 "Include" seems to be the default when specifying these ... it 'expands the audience'
 
@@ -122,13 +122,13 @@ You can click 'narrow further' to constrain the audience.
 \
 During this process, you can see a concise statement of your choices, and the estimated audience size further up on the page:\
 \
-![](<../../.gitbook/assets/image (12) (1) (1).png>)
+![](<../../../.gitbook/assets/image (12) (1) (1).png>)
 
 ### **Traffic choice**
 
 The next big choice is 'where do you want to drive traffic?'. You'll enter more details about the destination later.
 
-![](<../../.gitbook/assets/image (11) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (11) (1) (1) (1) (1).png>)
 
 Since we want people to click our web app, we chose "website".
 
@@ -155,7 +155,7 @@ __
 
 &#x20;"Dynamic Creative" is an option to enhance this process. It takes multiple media (images, videos) and multiple ad components (such as images, videos, text and calls-to-action) and then mixes and matches them in new ways to improve your ad performance.
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (15).png>)
 
 "Dynamic creative" can be either switched on or off. (Given that we want to optimize over several versions, I see no downside to this feature. Thus, we switch it on.)&#x20;
 
@@ -167,7 +167,7 @@ _Finally, we have to decide which delivery we want to optimize._
 
 We may want the ad that gets the most "~~conversions~~ traffic to our page". Therefore, we choose the option "link clicks".
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") -- what were the other choices? Note 'conversions' usually involves some action _on our page, not just a click-through ... we probably would want to optimize for 'click the final button to finish'_
 
@@ -176,7 +176,7 @@ However, we might instead want FB to optimize the ad presentation in terms of wh
 \
 To do that we need to set up a "meta pixel".
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (17).png>)
 
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") How do we set up such a pixel?  Presumably something in our webpage also needs to integrate this so it knows what the "action on your page", to feed back to Facebook to optimize over.
 
@@ -186,7 +186,7 @@ To do that we need to set up a "meta pixel".
 >
 > UPDATE: Some discussions suggest that ultimately you end up 'paying per impression'. The cost per click is higher if there are more clicks per impression.
 
-![](<../../.gitbook/assets/image (20) (1).png>)
+![](<../../../.gitbook/assets/image (20) (1).png>)
 
 Currently EUR 315 is the max for new users ... but for our present pilot we may want less than this (check: how much do we expect to pay for 800 clicks, let's split this up into ... first 100 clicks, next 300 clicks,.. to see if its going OK  )
 
@@ -202,7 +202,7 @@ Finally, you enter the third and last page of the ad creation process. Here you 
 \
 &#x20;The last step before publication is to specify the destination for your campaign.&#x20;
 
-![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (12) (1) (1) (1).png>)
 
 We chose a website and simply copy the URL into the mask to make sure the ad is linking people to the right destination.
 
@@ -218,19 +218,19 @@ We chose a website and simply copy the URL into the mask to make sure the ad is 
 
 "Campaigns"
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../../.gitbook/assets/image (19).png>)
 
-### ![](<../../.gitbook/assets/image (12).png>)
+### ![](<../../../.gitbook/assets/image (12).png>)
 
 Landing page views or link clicks? What is the difference? (this should be discussed in the 'targeting section' by the way)
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../../.gitbook/assets/image (21).png>)
 
-### ![](<../../.gitbook/assets/image (23).png>)
+### ![](<../../../.gitbook/assets/image (23).png>)
 
-You can also add suggested categories: ![](<../../.gitbook/assets/image (24).png>)
+You can also add suggested categories: ![](<../../../.gitbook/assets/image (24).png>)
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (13).png>)
 
 ### Payment (and monitoring)
 

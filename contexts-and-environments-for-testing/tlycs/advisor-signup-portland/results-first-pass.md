@@ -99,7 +99,7 @@ From "Estimating Ad Effectiveness using Geo Experiments in a Time-Based Regressi
 
 DR: Yes, if we are interested in the page views, IMO this is the next approach we should take, both graphically and with formal statistical analysis/in a model allowing year effects, seasonality, trends etc. We should consider something like the 'year to year difference in difference in difference': "how much _more_ of a bump did Portland get pre/post test, relative to the similar bump in the prior year, relative to comparison cities". There are probably some first-pass intuitive ways to do this (ideally first capturing rich raw data), as seen above, and there are also formal ways worth exploring. For this analysis on its own, it might not merit 'going formal', but once we have the techniques and code, we can apply this again and again.\
 \
-I suggest we outline/link the 'go-to approaches for each analysis situation' in the (new) [analysis-statistical-approaches.md](../../../methodological-discussion/analysis-statistical-approaches.md "mention") section. (Which should link to Rethink Priority's public methods notes, IMO)
+I suggest we outline/link the 'go-to approaches for each analysis situation' in the (new) [analysis-statistical-approaches.md](../../../core-knowledge-base/research-design-and-methodology/analysis-statistical-approaches.md "mention") section. (Which should link to Rethink Priority's public methods notes, IMO)
 
 Notes, JS: We want to know more about the impact on _sessions ('lift test'), how much it costs to get page views,_ to get a sense of the ROI.
 

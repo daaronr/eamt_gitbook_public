@@ -1,6 +1,6 @@
 # pre-giving-tuesday-email split test (+)
 
-_24 Nov 2021 -- adapting this to the_ [trial-reporting-template](../../../organization-and-overview/trial-reporting-template/ "mention") _... incorporating the_ [Broken link](broken-reference "mention") _and the internal plan notes (below)_
+_24 Nov 2021 -- adapting this to the_ [trial-reporting-template](../../../processes-and-procedures/trial-reporting-template/ "mention") _... incorporating the_ [Broken link](broken-reference "mention") _and the internal plan notes (below)_
 
 _Note: Some of the below overlaps the content in_ [Broken link](broken-reference "mention")\_\_
 

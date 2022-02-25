@@ -2,13 +2,13 @@
 description: How the gitbook sections are organized; we can discuss this
 ---
 
-# Organization of sections
+# 📑 Table of contents
 
 ## **Overview of sections, key links**
 
-[Preamble](../)
+[Preamble](./)
 
-Organization:   Explain [organization](sections-and-organization.md) of the [team](our-team-and-resources/) and [our tool](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)s.&#x20;
+Organization:   Explain [organization](sections-and-organization.md) of the [team](our-team-and-resources.md) and [our tool](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/organization-and-overview/how-this-gitbook-works/README.md)s.&#x20;
 
 {% hint style="info" %}
 **Where** **did the content go? How do I use this?**
@@ -35,7 +35,7 @@ _Almost all of this could be made public? Move/link most of this to public-only_
 #### _"Contexts/environments, specific plans for trials in these contexts"_
 
 * [Overview of contexts](broken-reference) _(public?)_
-* T[emplate for reporting](trial-reporting-template/#concise-reporting-template) trials and progress (_public, but make it prominently linked in private version)_
+* T[emplate for reporting](processes-and-procedures/trial-reporting-template/#concise-reporting-template) trials and progress (_public, but make it prominently linked in private version)_
 * Cross-organization plans (private?)
 *   By each organization
 
@@ -44,16 +44,16 @@ _Almost all of this could be made public? Move/link most of this to public-only_
 
 
 
-#### [Methods](broken-reference/): discuss issues of methodology & '[how to implement](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/contexts-and-environments-for-testing/implementation-and-collecting-data-issues/README.md) tricky things right'
+#### [Methods](organization-and-overview/broken-reference/): discuss issues of methodology & '[how to implement](https://github.com/daaronr/effective\_giving\_market\_testing/tree/76fd750340efe8794ed505cc87e8e0905ddeb98e/contexts-and-environments-for-testing/implementation-and-collecting-data-issues/README.md) tricky things right'
 
 _This section is important, so that we can link to this in other sections not rehash each debate in multiple places!_
 
 _Make this (nearly) all public and remove it from the private version (keeping links only).  But be sure to remove or confidentialize any internal details or details of ongoing designs_ _(those cannot be made public.)  Some specific contextual private details may be maintained in the section on the private side.  But for the most part we will move the whole thing over._&#x20;
 
-* [Qualitative design issues](../methodological-discussion/qualitative-design-issues.md)
-* [Quantitative design and method issues](../methodological-discussion/experimental-design-methods-issues.md)
-* [Implementating ads etc](../implementation-and-practical-tips/implementation-and-collecting-data-issues/), 'practical' issues
-* [Collecting data from Google analytics etc](../implementation-and-practical-tips/collecting-data-trial-outcomes/)
+* [Qualitative design issues](core-knowledge-base/research-design-and-methodology/qualitative-design-issues.md)
+* [Quantitative design and method issues](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/)
+* [Implementating ads etc](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/), 'practical' issues
+* [Collecting data from Google analytics etc](core-knowledge-base/marketing-implementation-and-practical-tips/collecting-data-trial-outcomes/)
 
 #### [Project: Profiling 'whom to target'](broken-reference)
 
@@ -71,4 +71,4 @@ Mainly private-only
 
 __
 
-[Supplements and references](broken-reference/): Useful discussions and spinoff conversations I didn't know where else to put
+[Supplements and references](organization-and-overview/broken-reference/): Useful discussions and spinoff conversations I didn't know where else to put

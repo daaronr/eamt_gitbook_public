@@ -1,16 +1,32 @@
 ---
-description: >-
-  This 'wiki-style' gitbook organizes our joint project. Let's try to organize
-  (or link) all planning and discussion here, share our progress, and 'curate'
-  our resources and knowledge.
+description: This 'wiki-style' gitbook organizes our joint project.
 ---
 
 # Effective Giving and Action: Market testing and Synthesis
 
-## Goal
+## What is the purpose of this gitbook?&#x20;
+
+This gitbook is a shared and centralized working space to:
+
+1. Create, share, and update project plans in one place
+2. Discuss projects and make decisions
+3. Report findings
+4. Curate our resources and knowledge
+
+## How is the gitbook organized?
+
+This gitbook is an **internal resource** for our project. There is also a public gitbook to share our progress and findings.&#x20;
+
+1. ...
+
+Click <mark style="background-color:red;">here</mark> for more information about how to edit the gitbook.
+
+Click <mark style="background-color:red;">here</mark> for a description of the differences between the public and internal versions and what type of content should be added to the public gitbook.
+
+## Project description & mission
 
 {% hint style="info" %}
-This section will be  duplicated in the public and private versions. However, for most content, we want it in only one of the two, and linked in the other.
+<mark style="background-color:red;">This section will be duplicated in the public and private versions. However, for most content, we want it in only one of the two, and linked in the other.</mark>
 {% endhint %}
 
 The “EA Market Testing Team” is a group of researchers and practitioners interested in
@@ -33,6 +49,4 @@ To the best of our knowledge, this is the first such organized collaboration of 
 
 [Slack group](https://join.slack.com/t/givingexperiments/shared\_invite/zt-stgaroli-5FVxFgOY\_MjXjrmUjfxLfw) (invitation will need updating)
 
-[Barriers to effective giving: a related project](https://daaronr.github.io/ea\_giving\_barriers/index.html) (theory and evidence)
-
-We are organizing a [**monthly meeting**](tip-o-the-spear.md#meeting-agendas)
+<mark style="background-color:red;"></mark>[<mark style="background-color:red;">Barriers to effective giving: a related project</mark>](https://daaronr.github.io/ea\_giving\_barriers/index.html) <mark style="background-color:red;">(theory and evidence)</mark>

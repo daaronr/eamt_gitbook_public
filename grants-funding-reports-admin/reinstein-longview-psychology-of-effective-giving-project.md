@@ -48,13 +48,13 @@ Specific next steps and internal deadlines
     * applied academics, and
     * marketing experts.
 
-    **Our team** is listed [HERE](../organization-and-overview/our-team-and-resources/). We have held a number of small-group meetings, and we are preparing for our third general meeting -- see [#meeting-agendas](../tip-o-the-spear.md#meeting-agendas "mention"))
+    **Our team** is listed [HERE](../our-team-and-resources.md). We have held a number of small-group meetings, and we are preparing for our third general meeting -- see [#meeting-agendas](../tip-o-the-spear.md#meeting-agendas "mention"))
 * Created shared space ([HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/); i.e., the present context, a wiki-style 'Gitbook') to coordinate our plans, resources, and insights (as well as a Slack group and an [Airtable](broken-reference) for structured content).
 * Pushing forward and assisting **several marketing trials, some of which are underway** (including some with data and results; see '[tip-o-the-spear](../tip-o-the-spear.md)' and links to preliminary results);
   * e.g., evidence from GWWC trial <mark style="background-color:yellow;">suggesting '</mark>[<mark style="background-color:yellow;">too many options/try-giving option may reduce take-up'</mark>](broken-reference)
   * <mark style="background-color:yellow;">e.g., OftW ran a</mark> [pre-giving-tuesday-email-split-test](../contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention"), we're helping to oversee/analyze. This (perhaps uniquely) considers the presentation of _emotional versus impact_ information for EA-aligned/adjacent donors. (Note that [Will MacAskill has expressed interest](https://docs.google.com/document/d/1JVy1uK1x5vCAJTwwCJdUPvYAZBJeLBpfEMY9Tqx1-MY/edit#) in testing this particular framing comparison.) _(Update 2-2022: appears underpowered given low 'upsell' donation rate; following up)_
 * _**Current push**_: run trials and experiments for 'quick wins and proofs-of-concept' while working towards building structure and resources for continuous systematic marketing, testing, and sharing insights.
-  * **My key roles** include advising on designs and organizing and sharing results and analysis to avoid 'lost threads' (see [trial-reporting-template](../organization-and-overview/trial-reporting-template/ "mention"))
+  * **My key roles** include advising on designs and organizing and sharing results and analysis to avoid 'lost threads' (see [trial-reporting-template](../processes-and-procedures/trial-reporting-template/ "mention"))
 *   _**Update**_** 9 Feb 2022:** Volunteer (applying for funding for) Erin Morrissey to be a project management and research assistant;  aiming to put 20 hours/week into this. Proposal [HERE](https://docs.google.com/document/d/149dfTQNc11Eg-4yML27nre0anJoA-1EmQ7SmoYWbjSM/edit?usp=sharing), Erin is writing it up into a grant application&#x20;
 
 

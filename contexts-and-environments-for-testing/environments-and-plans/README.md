@@ -4,7 +4,7 @@ description: ''
 
 # Environments, plans, tests
 
-See [trial-reporting-template](../../organization-and-overview/trial-reporting-template/ "mention")
+See [trial-reporting-template](../../processes-and-procedures/trial-reporting-template/ "mention")
 
 [Broken link](broken-reference "mention") (this is for GWWC but it applies more generally)
 

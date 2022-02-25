@@ -10,7 +10,7 @@ description: >-
 
 ### Funding for EA marketing/ads
 
-* [Google ad grants](../implementation-and-practical-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md#google-ads-grants)
+* [Google ad grants](../core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md#google-ads-grants)
 
 The free money is just for search, we can brainstorm a way to test it. send people to landing pages on GWWC messaging about obligation and opportunity
 
