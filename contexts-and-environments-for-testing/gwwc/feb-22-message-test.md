@@ -14,7 +14,7 @@ Specifically, which of the following themes resonate with our target audience th
 * values
 * services
 
-On choosing an objective of this test, originally I planned to use link clicks, but this is not the most high quality indicator of conversion, and when I tried to use newsletter signups Facebook warned me that I might not see any conversions at all... So instead, the campaign will optimise for landing page views, which is slightly better than a link click and will generate enough conversions that we should we statistically significant results.
+On choosing an objective of this test, originally I planned to use link clicks, but this is not the most high quality indicator of conversion, and when I tried to use newsletter signups Facebook warned me that I might not see any conversions at all... So instead, the campaign will optimise for landing page views, which is slightly better than a link click and will generate enough conversions that we should \[see?] we statistically significant results.
 
 ### Point of contact (at organization running trial)
 
