@@ -99,11 +99,16 @@ _**Current pushes and updates**_:
 
 _Background_: We are working with ICRC, a Switzerland-based individual development association on a series of large-scale field trials.
 
-Our experiment involving 'cost per impact' information has come back. The results (see [linked preview](../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)) **suggest 'near-zero and tightly bounded impact of the cost-per-impact information'.** This is generally **consistent with previous work (but this is under-reported in the literature),** including the [Karlan and Wood (2017)](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300490?via%3Dihub) experiment at Freedom From Hunger, my [2018 and 2019 experiments with Catholic Relief Services](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#comparison-of-posterior-probabilities), and other small-scale experiments [(Reinstein and Bergh, 2020)](https://journals.sagepub.com/doi/full/10.1177/1948550619893968?casa\_token=LHG5-s5teJYAAAAA%3AFpnPvCaoS94ADEvRt772GtOEHyhfSWAbWoboSArW\_WZ13s2AACbD6Ty\_Z07M6UhPqC\_ROWKYV1A).
+Our first large trial involved 'cost per impact' information. The results (see [linked preview](../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)) **suggest 'near-zero and tightly bounded impact of the cost-per-impact information'.** This is generally consistent with previous work **** (but  under-reported in the literature)**,** including the [Karlan and Wood (2017)](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300490?via%3Dihub) experiment at Freedom From Hunger, my [2018 and 2019 experiments with Catholic Relief Services](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#comparison-of-posterior-probabilities), and other small-scale experiments [(Reinstein and Bergh, 2020)](https://journals.sagepub.com/doi/full/10.1177/1948550619893968?casa\_token=LHG5-s5teJYAAAAA%3AFpnPvCaoS94ADEvRt772GtOEHyhfSWAbWoboSArW\_WZ13s2AACbD6Ty\_Z07M6UhPqC\_ROWKYV1A). &#x20;
 
-_My next steps_: Write up these results specifically, and [in synthesis (meta-analysis) with the previous evidence](https://daaronr.github.io/dualprocess/index.html#raises-questions). We will 'bound the effect of cost-per-impact information' on donation incidence and average amount, and consider how it informs effective charities and fundraisers.
+(Other, less EA-relevant results that 'suggested donation amounts' have an impact on donations, which cluster around these amounts. As in previous work, larger suggested donations lead to lower incidence but higher donations conditional on incidence, with ambiguous and contextual net effects.)
 
-_Updates:_ Additional evidence to incorporate from Karlan/Kassirer very large-scale field experiment in a video-gaming context
+_Next steps_: Working with coauthors to write these results up specifically, and [in synthesis (meta-analysis) with the previous evidence](https://daaronr.github.io/dualprocess/index.html#raises-questions). We will 'bound the effect of cost-per-impact information' on donation incidence and average amount, and consider how it informs effective charities and fundraisers.
+
+_Updates:_&#x20;
+
+* Additional evidence to incorporate from Karlan/Kassirer very large-scale field experiment in a video-gaming context
+* Planning followup (April) experiment with ICRC, which may explore different ways of framing the quantitative impact information &#x20;
 
 
 
@@ -121,7 +126,7 @@ _This text updated_ 9 Feb 2022
 * Built 'donation-seeding bot' with Peter Roensby -- tested to work, needs stress-testing and integration with API tool. Gained (Linode) server access to maintain this.&#x20;
 * Aim to run self-funded pilot for early to mid 2022  (delayed); possible larger run in 2022-23 giving season
 
-_My next steps:_ Tech steps given in project board [here](https://github.com/daaronr/sponsorship\_design\_analysis/projects/1), mainly linking API and donation seeding bot.  Reprise outline, pre-registration, power analysis. Run PoC (but also informative) pilots (first 'small seeds' for mainstream charities, then 'large and small seeds' for effective charities)
+_Next steps:_ Tech steps given in project board [here](https://github.com/daaronr/sponsorship\_design\_analysis/projects/1), mainly linking API and donation seeding bot.  Tech is mostly complete, but needs pre-testing and some further power calculations.  Reprise outline, pre-registration, power analysis. Run PoC (but also informative) pilots (first 'small seeds' for mainstream charities, then 'large and small seeds' for effective charities)
 
 ### 4. [Facebook fundraising trial](reinstein-longview-psychology-of-effective-giving-project.md#4.-facebook-fundraising-trial-with-paul-smeets-dean-karlan-and-janek-kretschmer) (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
 

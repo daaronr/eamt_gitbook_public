@@ -39,7 +39,7 @@ Version 1:
 * Tested Factual vs Emotional ads
 * Emotional ads performed better
 
-![](<../../.gitbook/assets/Untitled (2) (1).png>)
+![](<../../../.gitbook/assets/Untitled (2) (1).png>)
 
 Version 2:
 
@@ -47,7 +47,7 @@ Version 2:
 * Tested Updated Factual vs Original Emotional
 * This time factual performed better
 
-![](<../../.gitbook/assets/Untitled (3).png>)
+![](<../../../.gitbook/assets/Untitled (3).png>)
 
 Version 3:
 
@@ -57,7 +57,7 @@ Version 3:
   * For factual, the animated version was much more successful
   * For emotional, in general the new video ads of Luke performed better (Clear exception is animal welfare audience)
 
-![](<../../.gitbook/assets/Untitled (4).png>)
+![](<../../../.gitbook/assets/Untitled (4).png>)
 
 Additional test:
 

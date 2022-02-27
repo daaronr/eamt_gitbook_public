@@ -1,6 +1,6 @@
 # Schools/young people/education
 
-## Charity elections (high school)&#x20;
+## Charity elections (high school)
 
 [EA forum post](https://forum.effectivealtruism.org/posts/yNXfF4LoFps7Mi4Dr/movement-building-charity-elections-for-high-schoolers)
 
