@@ -13,9 +13,9 @@ February:
 * [Next meeting: Feb 11 & 13 (pick one)](tip-o-the-spear.md#next-planned-meeting)
 * Putting together _clear, organized, reproduceable_ analysis and workdlow in 'bookdown in this repo' (will crosslink w/ present Gitbook)
 * _New/updated results_:
-  * GWWC [Giving Guide trial](contexts-and-environments-for-testing/gwwc/giving-guides-+/) ([Joshua Lewis](https://app.gitbook.com/u/S0eUK2viBvheJQEdiOEkuksOpOu2 "mention") presents),
+  * GWWC [Giving Guide trial](contexts-and-environments-for-testing/gwwc/giving-guides-+.md) ([Joshua Lewis](https://app.gitbook.com/u/S0eUK2viBvheJQEdiOEkuksOpOu2 "mention") presents),
   * [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") (Reinstein presents, preliminary results on cost per click)
-* New team member(s): Erin Morrissey (volunteer, applying for EAIF funds to be Ops+RA)
+* New team member(s): Erin Morrissey (NYU-funded, applying for [EAIF funds to be Ops+RA](https://docs.google.com/document/d/1aLiwVnV724ggnS6zSCRixb7stVGOcCosdqdYo0BojL4/edit))
 * Reinstein et al's Facebook and Justgiving experiments: Progress on tech, feedback on 'running ads' in this gitbook
 * Possible new orgs:
   * "Charity Elections" group (big yes, need to onboard)

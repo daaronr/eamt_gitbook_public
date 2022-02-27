@@ -27,12 +27,11 @@
   * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
     * [Preregistration: OftW Pre-GT](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
-  * [Feb 22 Message Test](contexts-and-environments-for-testing/gwwc/feb-22-message-test.md)
   * [Pledge page options trial (+)](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/gwwc/pledge-page-options-trial)
-  * [Giving guides - Facebook(+)](contexts-and-environments-for-testing/gwwc/giving-guides-+/README.md)
-    * [(Results, analysis)](contexts-and-environments-for-testing/gwwc/giving-guides-+/results-analysis.md)
+  * [Giving guides - Facebook(+)](contexts-and-environments-for-testing/gwwc/giving-guides-+.md)
   * [Home page header versions (+)](contexts-and-environments-for-testing/gwwc/home-page-header-versions-+.md)
   * [YouTube Remarketing (+)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
+  * [Feb 22 Message Test](contexts-and-environments-for-testing/gwwc/feb-22-message-test.md)
   * [Web page (casual visits)/CtA](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
   * [(Pledgers/emails)](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
   * [Facebook ads (GWWC)](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md)
@@ -49,7 +48,8 @@
   * [FB birthday trial - brief](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md)
 * [Other orgs/approaches](contexts-and-environments-for-testing/other/README.md)
   * [EA university groups](contexts-and-environments-for-testing/other/ea-university-groups.md)
-  * [Schools/young people/education](contexts-and-environments-for-testing/other/schools-young-people-education.md)
+  * [Schools/young people/education](contexts-and-environments-for-testing/other/schools-young-people-education/README.md)
+    * [(Charity Elections)](contexts-and-environments-for-testing/other/schools-young-people-education/charity-elections.md)
   * [(FLI (adjacent))](contexts-and-environments-for-testing/other/fli-adjacent.md)
   * [(Founders Pledge)](contexts-and-environments-for-testing/other/founders-pledge.md)
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
@@ -96,5 +96,5 @@
 
 ## Grants, funding, reports, admin
 
-* [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)
 * [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
+* [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)

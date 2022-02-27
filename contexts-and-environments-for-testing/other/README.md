@@ -1,2 +1,3 @@
-# \(Other\)
+# Other orgs/approaches
 
+See sections below
