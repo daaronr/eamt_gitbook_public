@@ -77,9 +77,9 @@ _Previous updates: see tabs_
 ### 80000 hours
 
 * Upcoming [facebook-campaign.md](contexts-and-environments-for-testing/80000-hours/facebook-campaign.md "mention") campaign (we should get info on this)
-* [youtube-awareness-upenn-+.md](contexts-and-environments-for-testing/80000-hours/youtube-awareness-upenn-+.md "mention") Results? <mark style="background-color:purple;">Status?: holdup with the ads, need to deal with a legislative thing</mark>
+* [youtube-awareness-upenn-+.md](contexts-and-environments-for-testing/80000-hours/youtube-awareness-upenn-+.md "mention") Results? <mark style="background-color:purple;">Status?: holdup with the ads, need to deal with some legal issue</mark>
 
-Bella's goals and interests:
+_Bella's goals and interests:_
 
 * optimize WoM channels, referral campaign
 * sponsorships (sponsor a podcast, youtube)
