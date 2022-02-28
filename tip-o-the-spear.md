@@ -8,7 +8,7 @@ description: >-
 
 ## EAMT: organizational updates and callouts
 
-* GWWC building a ['data analytics' collaborative project](https://www.notion.so/15011d6c7e86496994946e4ea64e4a44?v=1ddb3ea8f788458d95e062dfde1aa99e)
+* GWWC building a ['data analytics' collaborative project](https://www.notion.so/15011d6c7e86496994946e4ea64e4a44?v=1ddb3ea8f788458d95e062dfde1aa99e) (current focus: data engineering & BI)
 * Erin building onboarding, comms, and organizational resources
   * Seeking EA Funds for her time &#x20;
 * JS got funding, scoping out 'EA marketing agency'
@@ -16,7 +16,7 @@ description: >-
 * Overall: Seeking more general FB ads (and FB fundraisers) expertise&#x20;
 * Onboarding and advising Charity Elections
 * 80k: we'd love to have/report some details on ongoing trials
-* TLYCS: still looking for a data contact and clarification of sharing permissions
+* TLYCS: we're still looking for a data contact and clarification of sharing permissions
 
 
 
@@ -64,7 +64,7 @@ _Previous updates: see tabs_
 
     * <mark style="background-color:orange;">Next steps</mark>_<mark style="background-color:yellow;">: more detailed analysis and write-up (check/replicate/extend Google optimize Bayesian analysis in code)</mark>_
 * [YouTube remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md).
-  * V prelim results: benchmarks on cost per view, relative performance of best/worst videos
+  * Prelim results: benchmarks on cost per view, relative performance of best/worst videos
   * <mark style="background-color:orange;">Next steps</mark>: DR and JL (& others?) to liaise with JS to extract more insight, including about giving outcomes
 * [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email. ... (what themes?)
   * _<mark style="background-color:purple;">Status?</mark>_
