@@ -8,13 +8,15 @@ description: >-
 
 ## EAMT: organizational updates and callouts
 
+* GWWC building a ['data analytics' collaborative project](https://www.notion.so/15011d6c7e86496994946e4ea64e4a44?v=1ddb3ea8f788458d95e062dfde1aa99e)
 * Erin building onboarding, comms, and organizational resources
   * Seeking EA Funds for her time &#x20;
 * JS got funding, scoping out 'EA marketing agency'
 * DR: seeking renewal of Longview funding, trying to start big FB birthday campaign, but needs advice on 'how to make an anonymous FB fundraiser donation'
-* Overall: Seeking more general FB ads expertise&#x20;
+* Overall: Seeking more general FB ads (and FB fundraisers) expertise&#x20;
 * Onboarding and advising Charity Elections
-* 80k: looking for details on ongoing trials
+* 80k: we'd love to have/report some details on ongoing trials
+* TLYCS: still looking for a data contact and clarification of sharing permissions
 
 
 
@@ -52,15 +54,7 @@ _Previous updates: see tabs_
 
 ## Latest/best campaigns, trials, initiatives
 
-### [One for the World](tip-o-the-spear.md#oftw)
-
-* <mark style="background-color:green;">Impact vs emotion:</mark> [pre-giving-tuesday-email-split-test](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention") [#preliminary-results](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/#preliminary-results "mention")
-  * (Note: this trial is now 'public', i.e., on the public gitbook)
-  * Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
-  * Preliminary results: similar performance, but little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
-  * <mark style="background-color:orange;">Next steps</mark>: update with further donations, write-up, get feedback
-* [NYU and Texas A\&M trials](contexts-and-environments-for-testing/one-for-the-world/#ongoing-completed-experiments); _<mark style="background-color:purple;">Status? Not started yet.</mark>_
-* "Upselling" YouTube marketing (casual lift test, or trials?); working with JS _<mark style="background-color:purple;">Status?</mark>_
+### [#oftw-tip-of-the-spear](contexts-and-environments-for-testing/one-for-the-world/#oftw-tip-of-the-spear "mention")
 
 ### [GWWC](tip-o-the-spear.md#gwwc)
 

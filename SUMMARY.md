@@ -33,7 +33,6 @@
   * [YouTube Remarketing (+)](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md)
   * [Feb 22 Message Test](contexts-and-environments-for-testing/gwwc/feb-22-message-test.md)
   * [Web page (casual visits)/CtA](contexts-and-environments-for-testing/gwwc/web-page-casual-visitors.md)
-  * [(Pledgers/emails)](contexts-and-environments-for-testing/gwwc/pledgers-emails.md)
   * [Facebook ads (GWWC)](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
   * [Advisor signup (Portland) (+)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/README.md)
@@ -48,12 +47,12 @@
   * [(Social influence - JustGiving)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/social-influence-justgiving.md)
   * [FB birthday trial - brief](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md)
 * [Other orgs/approaches](contexts-and-environments-for-testing/other/README.md)
-  * [EA university groups](contexts-and-environments-for-testing/other/ea-university-groups.md)
   * [Charity Elections (high schools)](contexts-and-environments-for-testing/other/charity-elections.md)
+  * [EA university groups](contexts-and-environments-for-testing/other/ea-university-groups.md)
+  * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
   * [(FLI (adjacent))](contexts-and-environments-for-testing/other/fli-adjacent.md)
   * [(Founders Pledge)](contexts-and-environments-for-testing/other/founders-pledge.md)
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
-  * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
   * [Chatbot (deferred)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
 
 ## CORE KNOWLEDGE BASE
