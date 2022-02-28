@@ -6,7 +6,7 @@ description: >-
 
 # One For the World (OftW)
 
-## **Tip of the spear**
+## Oftw: **Tip of the spear**
 
 (moved to shared section at top)
 
