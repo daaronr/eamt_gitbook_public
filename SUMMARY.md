@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PUBLIC: Effective Giving & Action: Market testing & Synthesis](README.md)
+* [Effective Giving & Action: Market testing & Synthesis (public version)](README.md)
 * [Tip-o-the-spear](tip-o-the-spear.md)
 * [Overview: Posts and writings](overview-ea-forum-post.md)
 
@@ -46,8 +46,8 @@
   * [(Schools/young people/education; see 'Charity Elections' project)](contexts-environments-plans-tests/other/schools-young-people-education-see-charity-elections-project.md)
   * [(Adjacent orgs: FLI, Founders' pledge, Animal Charity Evaluators)](contexts-environments-plans-tests/other/adjacent-orgs-fli-founders-pledge-animal-charity-evaluators.md)
   * [(GiveWell)](contexts-environments-plans-tests/other/givewell.md)
-  * [(80000 hours)](contexts-environments-plans-tests/other/80000-hours.md)
-  * [(TLYCS)](contexts-environments-plans-tests/other/tlycs.md)
+  * [(80000 hours)](contexts-environments-plans-tests/80000-hours.md)
+  * [(TLYCS)](contexts-environments-plans-tests/tlycs.md)
 
 ## Implementation and practical tips
 

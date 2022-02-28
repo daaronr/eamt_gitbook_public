@@ -31,7 +31,7 @@ General meetings held: Dec 2021, Jan 2022, Feb. 2022
   * V prelim results: benchmarks on cost per view, relative performance of best/worst videos
 * Considering and preparing a range of further tests into outreach messaging, content, and calls to action.
 
-### [The Life You Can Save](contexts-environments-plans-tests/other/tlycs.md)
+### [The Life You Can Save](contexts-environments-plans-tests/tlycs.md)
 
 * Ambitious city-level Youtube advertising tests; gaining benchmark measures for 'cost of page views' and other outcomes
 * Considering other content-related trials
@@ -54,5 +54,3 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
   * "New": DonorsVoice/CRS, ICRC [#icrc-quick-overview](contexts-environments-plans-tests/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md#icrc-quick-overview "mention")
   * 'Published': Karlan and Wood (2017), Bergh and Reinstein (2020)
 * Updates to ["Increasing effective giving"](https://daaronr.github.io/ea\_giving\_barriers/index.html) synthesis, and to resources in this gitbook
-
-## Meeting agendas and recordings (redacted to reduce clutter)
