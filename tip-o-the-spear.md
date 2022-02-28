@@ -8,9 +8,8 @@ description: >-
 
 ## Team & organizational updates
 
-February:
+February
 
-* [Next meeting: Feb 11 & 13 (pick one)](tip-o-the-spear.md#next-planned-meeting)
 * Putting together _clear, organized, reproduceable_ analysis and workflow in 'bookdown in this repo' (will crosslink w/ present Gitbook)
 * _New/updated results_:
   * GWWC [Giving Guide trial](contexts-and-environments-for-testing/gwwc/giving-guides-+/) ([Joshua Lewis](https://app.gitbook.com/u/S0eUK2viBvheJQEdiOEkuksOpOu2 "mention") presents),

@@ -56,7 +56,6 @@
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
   * [Chatbot (deferred)](contexts-and-environments-for-testing/other/chatbot-tool-and-trials.md)
-  * [(Ads (Google, Youtube...))](contexts-and-environments-for-testing/other/ads-google-youtube....md)
 
 ## CORE KNOWLEDGE BASE
 
