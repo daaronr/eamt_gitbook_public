@@ -6,21 +6,17 @@ description: >-
 
 # 🗡 Tip-o-the-spear
 
-## Team & organizational updates
+## EAMT: organizational updates and callouts
 
-February
+* Erin building onboarding, comms, and organizational resources
+  * Seeking EA Funds for her time &#x20;
+* JS got funding, scoping out 'EA marketing agency'
+* DR: seeking renewal of Longview funding, trying to start big FB birthday campaign, but needs advice on 'how to make an anonymous FB fundraiser donation'
+* Overall: Seeking more general FB ads expertise&#x20;
+* Onboarding and advising Charity Elections
+* 80k: looking for details on ongoing trials
 
-* Putting together _clear, organized, reproduceable_ analysis and workflow in 'bookdown in this repo' -- see [github repo 'data analysis' folder here](https://github.com/daaronr/effective\_giving\_market\_testing/tree/main/data\_analysis) (will crosslink w/ present Gitbook)
-* _New/updated results_:
-  * GWWC [Giving Guide trial](contexts-and-environments-for-testing/gwwc/giving-guides-+/) ([Joshua Lewis](https://app.gitbook.com/u/S0eUK2viBvheJQEdiOEkuksOpOu2 "mention") presents),
-  * [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") (Reinstein presents, simple results on cost per click)
-* New team member(s): Erin Morrissey (NYU-funded, applying for [EAIF funds to be Ops+RA](https://docs.google.com/document/d/1aLiwVnV724ggnS6zSCRixb7stVGOcCosdqdYo0BojL4/edit))
-* Reinstein et al's Facebook and Justgiving experiments: Progress on tech, feedback on 'running ads' in this gitbook
-* Possible new orgs:
-  * "Charity Elections" group (big yes, need to onboard)
-  * University of Chicago EA group (maybe, may wait until they link with other uni's)
-* Post-Jan meeting: (TLCYS I need your approval on ['what can be publicly shared'](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#heading=h.cg90o34wlpye))
-* [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV) -- still need to followup
+
 
 _Previous updates: see tabs_
 
@@ -35,6 +31,22 @@ _Previous updates: see tabs_
 * Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
 * New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [profiling](core-knowledge-base/profiling/ "mention")
 * Considering "Public version" of gitbook, sharing; project management
+{% endtab %}
+
+{% tab title="February" %}
+
+
+* Putting together _clear, organized, reproduceable_ analysis and workflow in 'bookdown in this repo' -- see [github repo 'data analysis' folder here](https://github.com/daaronr/effective\_giving\_market\_testing/tree/main/data\_analysis) (will crosslink w/ present Gitbook)
+* _New/updated results_:
+  * GWWC [Giving Guide trial](contexts-and-environments-for-testing/gwwc/giving-guides-+/) ([Joshua Lewis](https://app.gitbook.com/u/S0eUK2viBvheJQEdiOEkuksOpOu2 "mention") presents),
+  * [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") (Reinstein presents, simple results on cost per click)
+* New team member(s): Erin Morrissey (NYU-funded, applying for [EAIF funds to be Ops+RA](https://docs.google.com/document/d/1aLiwVnV724ggnS6zSCRixb7stVGOcCosdqdYo0BojL4/edit))
+* Reinstein et al's Facebook and Justgiving experiments: Progress on tech, feedback on 'running ads' in this gitbook
+* Possible new orgs:
+  * "Charity Elections" group (big yes, need to onboard)
+  * University of Chicago EA group (maybe, may wait until they link with other uni's)
+* Post-Jan meeting: (TLCYS I need your approval on ['what can be publicly shared'](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#heading=h.cg90o34wlpye))
+* [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV) -- still need to followup
 {% endtab %}
 {% endtabs %}
 
