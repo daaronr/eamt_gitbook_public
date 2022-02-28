@@ -159,7 +159,7 @@ _Updates_ Feb 2022: New researcher on board -- Annabel Rayner has a Health Econo
 
 Additional content in EA Survey donation report [informs 'do GWWC people fulfill pledges?](https://rethinkpriorities.github.io/ea\_data\_public/eas\_donations.html#plan-actual)'. This work straddles my RP and grant work; I included some additional content and analysis over and above my RP mandate on this.
 
-Offering advice on how to measure impact to a range of organizations, including [80000-hours](../contexts-and-environments-for-testing/80000-hours/ "mention") the University of Chicago EA group, and [charity-elections.md](../contexts-and-environments-for-testing/other/schools-young-people-education/charity-elections.md "mention"), which aims to scale up to a large number of high schools, and whom we hope to onboard to the team soon.
+Offering advice on how to measure impact to a range of organizations, including [80000-hours](../contexts-and-environments-for-testing/80000-hours/ "mention") the University of Chicago EA group, and [charity-elections.md](../contexts-and-environments-for-testing/other/charity-elections.md "mention"), which aims to scale up to a large number of high schools, and whom we hope to onboard to the team soon.
 
 ## Documentation
 

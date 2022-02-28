@@ -19,7 +19,7 @@
 * [Trial reporting template](processes-and-procedures/trial-reporting-template/README.md)
   * [("All the data")](processes-and-procedures/trial-reporting-template/all-the-data.md)
 
-## PROJECT PLANS & REPORTS BY ORG  <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
+## PROJECT PLANS & REPORTS BY ORG <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
 * [Environments, plans, tests](contexts-and-environments-for-testing/environments-and-plans/README.md)
   * [Testing contexts: overview](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/environments-and-plans/future-avenues)
@@ -49,8 +49,7 @@
   * [FB birthday trial - brief](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/fb-birthday-trial-brief.md)
 * [Other orgs/approaches](contexts-and-environments-for-testing/other/README.md)
   * [EA university groups](contexts-and-environments-for-testing/other/ea-university-groups.md)
-  * [Schools/young people/education](contexts-and-environments-for-testing/other/schools-young-people-education.md)
-    * [(Charity Elections)](contexts-and-environments-for-testing/other/schools-young-people-education/charity-elections.md)
+  * [Charity Elections (high schools)](contexts-and-environments-for-testing/other/charity-elections.md)
   * [(FLI (adjacent))](contexts-and-environments-for-testing/other/fli-adjacent.md)
   * [(Founders Pledge)](contexts-and-environments-for-testing/other/founders-pledge.md)
   * [(Animal Charity Evaluators)](contexts-and-environments-for-testing/other/animal-charity-evaluators.md)
