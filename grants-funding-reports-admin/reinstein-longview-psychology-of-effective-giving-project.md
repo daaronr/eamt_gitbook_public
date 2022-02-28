@@ -87,6 +87,7 @@ _**Current pushes and updates**_:
 * **Erin Morrissey **_**joined** as a_ project management and research assistant for  20 hours/week, with a heavy emphasis on improving internal and external communications.  She is currently NYU-funded and is applying for [EAIF funds to be Ops+RA](https://docs.google.com/document/d/1aLiwVnV724ggnS6zSCRixb7stVGOcCosdqdYo0BojL4/edit). Her work will enable faster and more organized follow-through and communication, and help our team stay active, focused, and motivated.
 * **Further analysis** of above data and careful and **clear sharing of results,** both internally, in the public gitbook (e.g., the [reporting in progress here](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/gwwc/pledge-page-options-trial)), and (coming soon, we hope) on the EA Forum and other places, including some aiming at academic feedback.
 * Further trials and experiments for 'quick wins and proofs-of-concept'; good progress on getting people to carefully document using the [trial-reporting-template](../processes-and-procedures/trial-reporting-template/ "mention")
+* Integrate [80000-hours](../contexts-and-environments-for-testing/80000-hours/ "mention") into the project, helping them plan and share data for their upcoming trials, including a Facebook marketing campaign.
 * **Build structure and resources** for continuous systematic marketing, testing, and sharing insights.
 * Working on "forking and partially **outsourcing" the** [**marketing implementation**](../core-knowledge-base/marketing-implementation-and-practical-tips/) ("procedures and received-wisdom best practice") aspect of the project
   * JS Winchell has an EAIF grant to explore an 'EA digital marketing agency'; their work should feedback into our knowledge base (including the Gitbook) and free up  bandwidth for our quantitative and social science researchers to 'focus on the analysis'
@@ -150,7 +151,9 @@ _Next steps:_ All is ready to go _except_ we need&#x20;
 * particularly incorporating recent syntheses (Caviola et al "The many obstacles to effective giving", Noetel et al "What Works..."; [Jaeger and Vugt "Psychological Barriers..." ](https://www.sciencedirect.com/science/article/pii/S2352250X21001779))
   * In light of these papers, renewed focus on '_careful_ evidence-base _on key operationalized claims_' over broad 'literature review'
 
-_Update_ Feb 2022: New researcher on board -- Annabel Rayner has a Health economics and meta-analysis background, aims to put 10-15 hours/week into this project
+_Updates_ Feb 2022: New researcher on board -- Annabel Rayner has a Health Economics and meta-analysis background, aims to put 10-15 hours/week into this project.&#x20;
+
+
 
 ### 6. Other
 

@@ -10,10 +10,10 @@ description: >-
 
 February
 
-* Putting together _clear, organized, reproduceable_ analysis and workflow in 'bookdown in this repo' (will crosslink w/ present Gitbook)
+* Putting together _clear, organized, reproduceable_ analysis and workflow in 'bookdown in this repo' -- see [github repo 'data analysis' folder here](https://github.com/daaronr/effective\_giving\_market\_testing/tree/main/data\_analysis) (will crosslink w/ present Gitbook)
 * _New/updated results_:
   * GWWC [Giving Guide trial](contexts-and-environments-for-testing/gwwc/giving-guides-+/) ([Joshua Lewis](https://app.gitbook.com/u/S0eUK2viBvheJQEdiOEkuksOpOu2 "mention") presents),
-  * [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") (Reinstein presents, preliminary results on cost per click)
+  * [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") (Reinstein presents, simple results on cost per click)
 * New team member(s): Erin Morrissey (NYU-funded, applying for [EAIF funds to be Ops+RA](https://docs.google.com/document/d/1aLiwVnV724ggnS6zSCRixb7stVGOcCosdqdYo0BojL4/edit))
 * Reinstein et al's Facebook and Justgiving experiments: Progress on tech, feedback on 'running ads' in this gitbook
 * Possible new orgs:
@@ -76,6 +76,7 @@ _Previous updates: see tabs_
 
 ### 80000 hours
 
+* Upcoming [facebook-campaign.md](contexts-and-environments-for-testing/80000-hours/facebook-campaign.md "mention") campaign (we should get info on this)
 * [youtube-awareness-upenn-+.md](contexts-and-environments-for-testing/80000-hours/youtube-awareness-upenn-+.md "mention") Results? <mark style="background-color:purple;">Status?: holdup with the ads, need to deal with a legislative thing</mark>
 
 Bella's goals and interests:
