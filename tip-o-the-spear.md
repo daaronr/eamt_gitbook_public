@@ -11,7 +11,7 @@ description: >-
 February:
 
 * [Next meeting: Feb 11 & 13 (pick one)](tip-o-the-spear.md#next-planned-meeting)
-* Putting together _clear, organized, reproduceable_ analysis and workdlow in 'bookdown in this repo' (will crosslink w/ present Gitbook)
+* Putting together _clear, organized, reproduceable_ analysis and workflow in 'bookdown in this repo' (will crosslink w/ present Gitbook)
 * _New/updated results_:
   * GWWC [Giving Guide trial](contexts-and-environments-for-testing/gwwc/giving-guides-+/) ([Joshua Lewis](https://app.gitbook.com/u/S0eUK2viBvheJQEdiOEkuksOpOu2 "mention") presents),
   * [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") (Reinstein presents, preliminary results on cost per click)
@@ -28,14 +28,13 @@ _Previous updates: see tabs_
 {% tabs %}
 {% tab title="Dec " %}
 * Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
-* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [broken-reference](broken-reference/ "mention")
-* Considering "Public version" of gitbook, sharing; project management
-* [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV)
+
+
 {% endtab %}
 
 {% tab title="Jan " %}
 * Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
-* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [broken-reference](broken-reference/ "mention")
+* New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [profiling](core-knowledge-base/profiling/ "mention")
 * Considering "Public version" of gitbook, sharing; project management
 {% endtab %}
 {% endtabs %}
@@ -73,7 +72,7 @@ _Previous updates: see tabs_
 ### [The Life You Can Save](contexts-and-environments-for-testing/tlycs/)
 
 * Various trials with JS, including [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") city-level Youtube test;
-  * Preliminary results: very low 'advisor signup' response, underpowered; <mark style="background-color:orange;">Next steps</mark>: difference in difference in difference analysis of how many sessions (by pre/post, year-to-year, Portland vs other), to see if the ad lead to clicks
+  * Preliminary results: very low 'advisor signup' response, underpowered; simple presentation of results @port difference in difference in difference analysis of how many sessions (by pre/post, year-to-year, Portland vs other), to see if the ad lead to clicks
 * Considering a '[funds recommendations trial'](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md) with different options and 'prompted consideration'. <mark style="background-color:purple;">Status?</mark>
 
 ### 80000 hours

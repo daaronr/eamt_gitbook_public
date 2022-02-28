@@ -6,7 +6,7 @@ description: What can be shared outside the group? Discussion
 
 ## Discussion and consensus
 
-We discussed 'what can be shared outside the group' at [#planned-meeting-s-for-early-january](../../tip-o-the-spear.md#planned-meeting-s-for-early-january "mention") See google [discussion  doc here](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit).
+We discussed 'what can be shared outside the group' at [#planned-meeting-s-for-early-january](../../tip-o-the-spear.md#planned-meeting-s-for-early-january "mention") See [google discussion doc here](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#heading=h.cg90o34wlpye).
 
 #### GWWC/Luke:
 
@@ -18,7 +18,7 @@ Basically OK to share, with some sensitivities. Luke: generally happy to share t
 
 **80k, Bella Forristal:**
 
-&#x20;… right now share approx nothing because everything is ongoing, but once we wrap something up we can share it (and I’ll let you know when that is).**...** when we have details of trials which are no longer ongoing, I’n happy for them to be shared
+&#x20;… right now share approx nothing because everything is ongoing, but once we wrap something up we can share it (and I’ll let you know when that is).**...** when we have details of trials which are no longer ongoing, I’m happy for them to be shared
 
 ## The 'public version' of this resource
 

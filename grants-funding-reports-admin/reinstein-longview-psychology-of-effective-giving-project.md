@@ -80,8 +80,6 @@ Specific next steps and internal deadlines
   * Estimated $32.4 cost per unique user click (year-on-year difference-in-difference from comparison cities)
     * Estimates from Portland YoY = $24.69, absolute lower bound $13.07 &#x20;
 
-
-
 _****_
 
 _**Current pushes and updates**_:
@@ -110,8 +108,6 @@ _Updates:_&#x20;
 * Additional evidence to incorporate from Karlan/Kassirer very large-scale field experiment in a video-gaming context
 * Planning followup (April) experiment with ICRC, which may explore different ways of framing the quantitative impact information &#x20;
 
-
-
 ### 3. Just Giving 'seed pages' trial:
 
 Purpose: Investigate 'impact of early contributions (and messages)' to inform 'whether EAs should donate on social media'.
@@ -132,16 +128,19 @@ _Next steps:_ Tech steps given in project board [here](https://github.com/daaron
 
 **Trial incentivizing FB users to start birthday fundraisers for effective charities,** investigating how this behavior (and amounts raised) **responds to effectiveness and rating information** and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
 
-_This text updated_ 9 Feb 2022
+Design outlined  [HERE](https://docs.google.com/document/d/1T58FKoFnhP7yGhRPXeq3l\_DcvtQ0qcIvwezNWGr5\_ZA/edit#heading=h.909s4uqx06on).
 
 * Tech delays: Failed to obtain FB Fundraiser API access; thus revised design, but we may be able to work _with_ Facebook on this, and API access is on the table again; we now have a partner co-author within Facebook
 * meanwhile, we have a design that does not require API access
-* Hired Peter Roensby (EA aligned developer), whom we are working with to finish the
-  * build of web interface for trial encouraging birthday fundraisers (85% done 9 Feb 202)
-  * bot to collect data on fundraisers
-* Aim to run PoC pilot by end of Februaru 2022
+* Hired Peter Roensby (EA aligned developer), finished building the&#x20;
+  * build of web interface for trial encouraging birthday fundraisers -- see [momentumbirthdayfundraisers.com](https://momentumbirthdayfundraisers.com); refresh to (randomly) generate  new treatments pairings randomly on refresh,&#x20;
+  * bot to collect data on fundraisers.
 
-_My next steps:_ Finalizing and checking web site, queing advertisements and their parameters, funding and running  Pilot
+_Next steps:_ All is ready to go _except_ we need&#x20;
+
+1\. The funder (Dean Karlan) to give final approval of the chosen charities\
+2\. To find a way to make the 'reward $5 donations' without connecting this donation to an individual person (atm we need to make the donations from a personal FB account, and the person who started the fundraiser always sees this. \
+
 
 ### 5. Barriers synthesis
 
@@ -151,11 +150,13 @@ _My next steps:_ Finalizing and checking web site, queing advertisements and the
 * particularly incorporating recent syntheses (Caviola et al "The many obstacles to effective giving", Noetel et al "What Works..."; [Jaeger and Vugt "Psychological Barriers..." ](https://www.sciencedirect.com/science/article/pii/S2352250X21001779))
   * In light of these papers, renewed focus on '_careful_ evidence-base _on key operationalized claims_' over broad 'literature review'
 
-_Update_ 9 Feb 2022: New researcher on board -- Annabel Rayner has a health economics and meta-analysis background, aiming to put 10-15 hours/week into this project
+_Update_ Feb 2022: New researcher on board -- Annabel Rayner has a Health economics and meta-analysis background, aims to put 10-15 hours/week into this project
 
 ### 6. Other
 
-Additional content in EA Survey donation report [informs 'do GWWC people fulfill pledges?](https://rethinkpriorities.github.io/ea\_data\_public/eas\_donations.html#plan-actual)'. This work straddles my RP and grant work; I included some additional content and analysis over and above RP mandate on this.
+Additional content in EA Survey donation report [informs 'do GWWC people fulfill pledges?](https://rethinkpriorities.github.io/ea\_data\_public/eas\_donations.html#plan-actual)'. This work straddles my RP and grant work; I included some additional content and analysis over and above my RP mandate on this.
+
+Offering advice on how to measure impact to a range of organizations, including [80000-hours](../contexts-and-environments-for-testing/80000-hours/ "mention") the University of Chicago EA group, and [charity-elections.md](../contexts-and-environments-for-testing/other/schools-young-people-education/charity-elections.md "mention"), which aims to scale up to a large number of high schools, and whom we hope to onboard to the team soon.
 
 ## Documentation
 
