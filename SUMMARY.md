@@ -40,6 +40,7 @@
     * [Results (first-pass)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/results-first-pass.md)
   * [Funds/recommendations trial (proposed)](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md)
 * [80000 hours](contexts-and-environments-for-testing/80000-hours/README.md)
+  * [Facebook](contexts-and-environments-for-testing/80000-hours/facebook.md)
   * [YouTube awareness; UPenn](contexts-and-environments-for-testing/80000-hours/youtube-awareness-upenn-+.md)
 * [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
