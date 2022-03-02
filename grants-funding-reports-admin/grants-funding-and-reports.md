@@ -6,6 +6,14 @@ description: >-
 
 # Grants, funding, & reports
 
+## Applications
+
+[EA Funds -- Infrastructure fund (link; Erin, unsuccessful, no clear feedback yet)](https://docs.google.com/document/d/1aLiwVnV724ggnS6zSCRixb7stVGOcCosdqdYo0BojL4/edit)
+
+[Future fund](https://docs.google.com/document/d/1G2TGJw\_MhmliT7oVFXE5ttBJFBVTaNZXyZ2xNX127UQ/edit#)
+
+{% embed url="https://docs.google.com/document/d/1G2TGJw_MhmliT7oVFXE5ttBJFBVTaNZXyZ2xNX127UQ/edit#" %}
+
 ## Grants, funding, & reports
 
 ### Funding for EA marketing/ads
