@@ -17,9 +17,7 @@ This gitbook is a shared and centralized working space to:
 
 This gitbook is an **internal resource** for our project. There is also a public gitbook to share our progress and findings.&#x20;
 
-1. ...
-
-Click <mark style="background-color:red;">here</mark> for more information about how to edit the gitbook.
+Click [here](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/organization-and-overview/how-this-gitbook-works) for more information about how to edit the gitbook.
 
 Click <mark style="background-color:red;">here</mark> for a description of the differences between the public and internal versions and what type of content should be added to the public gitbook.
 
