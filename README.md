@@ -4,22 +4,32 @@ description: This 'wiki-style' gitbook organizes our joint project.
 
 # Effective Giving and Action: Market testing and Synthesis
 
+{% hint style="warning" %}
+We are in the process of restructuring the gitbook! You may see some sections and pages that are incomplete, but they will be updated soon.&#x20;
+{% endhint %}
+
 ## What is the purpose of this gitbook?&#x20;
 
-This gitbook is a shared and centralized working space to:
+This gitbook is an <mark style="background-color:yellow;">**internal**</mark> resource for our project. It is a shared and centralized working space for the team to:
 
 1. Create, share, and update project plans in one place
 2. Discuss projects and make decisions
-3. Report findings
-4. Curate our resources and knowledge
+3. Report findings from studies
+4. Curate our resources and build a knowledge-base
 
-## How is the gitbook organized?
+{% hint style="success" %}
+We encourage _**you**_ (yes you!) to use this space to collaborate and share your knowledge by editing pages and adding comments. If you are unfamiliar with gitbook, you will quickly get the hang of it!  Think about using it similarly to Google docs. Learn how to use the tool [here](processes-and-procedures/teach-me-to-use-our-tools/) or read[ GitBook's guide](https://docs.gitbook.com/editing-content/editing-pages).&#x20;
+{% endhint %}
 
-This gitbook is an **internal resource** for our project. There is also a public gitbook to share our progress and findings.&#x20;
+## How is this different from the public gitbook?
 
-Click [here](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/organization-and-overview/how-this-gitbook-works) for more information about how to edit the gitbook.
+While the internal gitbook is a space to document how we are planning and executing projects, the three key aims of the [public gitbook](https://effective-giving-marketing.gitbook.io/untitled/) are to:&#x20;
 
-Click <mark style="background-color:red;">here</mark> for a description of the differences between the public and internal versions and what type of content should be added to the public gitbook.
+1. **Convey** **who we are, what have accomplished, and the scope of our work** to funders, people in the broader EA community, and people who are not yet involved who would be interested in joining the project
+2. **Share tools and knowledge with** **people who will apply it to their work.** Content in the public gitbook can inform and support a diverse set of projects (i.e., implementing marketing campaigns, fundraising initatives, acadmeic research)&#x20;
+3. **Seek feedback on our work**. This includes technical and industry feedback on implementation and academic expertise (literature reviews and frameworks to consider, methodology, and experimental design).
+
+
 
 ## Project description & mission
 

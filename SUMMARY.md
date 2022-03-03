@@ -4,7 +4,7 @@
   * [Overview: Posts and writings](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/overview-ea-forum-post)
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
 * [👋 Meet the team](our-team-and-resources.md)
-* [📑 Table of contents](sections-and-organization.md)
+* [📑 Content overview](sections-and-organization.md)
 * [🗓 Team meetings](team-meetings.md)
 
 ## PROCESSES & PROCEDURES
