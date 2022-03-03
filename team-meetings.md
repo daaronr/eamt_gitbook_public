@@ -28,9 +28,9 @@ Items not covered in Feb meeting
 
 {% tabs %}
 {% tab title="Feb 2022" %}
-See Feb 11 recording here <mark style="background-color:green;">(to be added.)</mark>
+See Feb 11 recording [here](https://nyu.zoom.us/rec/share/rO9ySk-Uh82uSI-9uSkkucB5HIqXAuT8lvzeqtWaij2OrQy\_m0JAssM7sLpWWj87.geZhjrTwbZZDYfJp).
 
-See  Feb 13 recording here <mark style="background-color:green;">(to be added.)</mark>
+See  Feb 13 recording [here](https://nyu.zoom.us/rec/share/aBPFTBsEcVn3tLqnC4zDA4c0OPZ6s3gkCa80cpQotlcw259-DHSxubhMca7FwxVG.MzVLB-kb6sSzM93I).
 
 Review [February meeting notes and discussion](https://docs.google.com/document/d/13JBGziWsGOJm-8DtXuSDIsq7rPdE-1i4AEzGHlYk9VY/edit?usp=sharing)&#x20;
 
