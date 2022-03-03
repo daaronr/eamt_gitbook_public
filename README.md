@@ -27,7 +27,7 @@ Learn how to use the tool [here](processes-and-procedures/teach-me-to-use-our-to
 
 ### How is this different from the public gitbook?
 
-While the internal gitbook is a space to document how we are planning and executing projects, the three key aims of the [public gitbook](https://effective-giving-marketing.gitbook.io/untitled/) are to:&#x20;
+While the internal gitbook is a space to document how we are planning and executing projects, the three key aims of the [**public gitbook**](https://effective-giving-marketing.gitbook.io/untitled/) are to:&#x20;
 
 1. **Convey** **who we are, what have accomplished, and the scope of our work** to funders, people in the broader EA community, and people not yet involved in the project who would be interested in joining
 2. **Share tools and knowledge with** **people who will apply it to their work.** Content in the public gitbook can inform and support a diverse set of projects (i.e., implementing marketing campaigns, fundraising initiatives, academic research)&#x20;
@@ -43,16 +43,16 @@ While the internal gitbook is a space to document how we are planning and execut
 Some sections will be duplicated in the public and internal gitbooks. However, most content will be in **one** of the two versions and linked in the other.
 {% endhint %}
 
-## Project description & mission
+## Project Description & Mission
 
-#### The “EA Market Testing Team” is a group of researchers and practitioners interested in
+### The “EA Market Testing Team” is a group of researchers and practitioners interested in
 
 * promoting effective charitable giving,
 * building awareness and understanding of ideas associated with effective altruism,
 * fostering involvement in the EA movement and associated groups,
 * and learning more about what motivates this.
 
-#### To the best of our knowledge, this is the first such organized collaboration of its kind. We aim to:
+### To the best of our knowledge, this is the first such organized collaboration of its kind. We aim to:
 
 * Coalesce our understanding and evidence on barriers and facilitators of effective altruism/effective giving/effective action
 * Run a broad set of powerful trials and experiments (esp. in large-scale settings), gathering evidence on ‘what works best' to promote meaningful actions (donations and commitments) in specific cases, as well as evdc on general principles and approaches
