@@ -12,11 +12,11 @@ We are in the process of restructuring the gitbook! You may see some sections an
 
 ### What is the purpose of this gitbook?&#x20;
 
-This gitbook is an <mark style="background-color:yellow;">**internal**</mark> resource for our project. It is a shared and centralized working space for the team to:
+This gitbook is an <mark style="background-color:yellow;">**internal**</mark> resource for our project. (There is also a [public gitbook](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/a3YtWoUiYYfiEQrBNztC/)). It is a shared and centralized working space for the team to:
 
 1. Create, share, and update project plans in one place
 2. Discuss projects and make decisions
-3. Report findings from studies
+3. Report findings from studies (before they ready to be made public in our [public gitbook](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/a3YtWoUiYYfiEQrBNztC/) and elswhere)
 4. Curate our resources and build a knowledge-base
 
 {% hint style="success" %}
@@ -30,7 +30,7 @@ Learn how to use the tool [here](processes-and-procedures/teach-me-to-use-our-to
 While the internal gitbook is a space to document how we are planning and executing projects, the three key aims of the [**public gitbook**](https://effective-giving-marketing.gitbook.io/untitled/) are to:&#x20;
 
 1. **Convey** **who we are, what have accomplished, and the scope of our work** to funders, people in the broader EA community, and people not yet involved in the project who would be interested in joining
-2. **Share tools and knowledge with** **people who will apply it to their work.** Content in the public gitbook can inform and support a diverse set of projects (i.e., implementing marketing campaigns, fundraising initiatives, academic research)&#x20;
+2. **Share tools and knowledge with** **people in the EA/global priorities community who will apply it to their work.** Content in the public gitbook can inform and support a diverse set of projects (i.e., implementing marketing campaigns, fundraising initiatives, academic research)&#x20;
 3. **Seek feedback on our work**. This includes technical and industry feedback on implementation and academic expertise (literature reviews and frameworks to consider, methodology, and experimental design).
 
 {% hint style="warning" %}
@@ -40,7 +40,7 @@ While the internal gitbook is a space to document how we are planning and execut
 {% endhint %}
 
 {% hint style="info" %}
-Some sections will be duplicated in the public and internal gitbooks. However, most content will be in **one** of the two versions and linked in the other.
+A few sections will be duplicated in the public and internal gitbooks. However, most content will be based **** in **one** of the two versions (and sometimes _linked_ in the other).
 {% endhint %}
 
 ## Project Description & Mission
@@ -55,7 +55,7 @@ Some sections will be duplicated in the public and internal gitbooks. However, m
 ### To the best of our knowledge, this is the first such organized collaboration of its kind. We aim to:
 
 * Coalesce our understanding and evidence on barriers and facilitators of effective altruism/effective giving/effective action
-* Run a broad set of powerful trials and experiments (esp. in large-scale settings), gathering evidence on ‘what works best' to promote meaningful actions (donations and commitments) in specific cases, as well as evdc on general principles and approaches
+* Run a broad set of powerful trials and experiments (esp. in large-scale settings), gathering evidence on ‘what works best' to promote meaningful actions (donations and commitments) in specific cases, as well as evidence on general principles and approaches
 * Conduct [profiling, survey, and segmentation activities and trials](profiling-and-segmentation/profiling-discussion.md), building evidence on which 'types of people' are most responsive to effective giving messages and appeals
 * Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics
 
