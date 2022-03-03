@@ -2,7 +2,6 @@
 
 * [Effective Giving and Action: Market testing and Synthesis](README.md)
   * [Overview: Posts and writings](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/overview-ea-forum-post)
-  * [Page 1](readme/page-1.md)
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
 * [👋 Meet the team](our-team-and-resources.md)
 * [📑 Table of contents](sections-and-organization.md)

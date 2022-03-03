@@ -21,14 +21,20 @@ Link to notes:
 
 {% tabs %}
 {% tab title="Feb 2022" %}
+See Feb 11 recording here <mark style="background-color:green;">(to be added.)</mark>
+
+See  Feb 13 recording here <mark style="background-color:green;">(to be added.)</mark>
+
+Review [February meeting notes and discussion](https://docs.google.com/document/d/13JBGziWsGOJm-8DtXuSDIsq7rPdE-1i4AEzGHlYk9VY/edit?usp=sharing)&#x20;
 
 
-<mark style="background-color:green;">**Notes/recordings to be added.**</mark>
 
-Please don’t feel compelled to come to both, but try to come to one. We will have an agenda for each, and record and take notes on each.
+**Attendees**&#x20;
 
-1. **Friday February 11, 2pm New York time:** Rsvp's: [@daaronr](https://givingexperiments.slack.com/team/U6M1J6W2Y) [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX) [~~@Bella Forristal~~](https://givingexperiments.slack.com/team/U02RDNTA2UX) [@Thomas Ptashnik](https://givingexperiments.slack.com/team/U02RM3745NC) [@Chloë Cudaback](https://givingexperiments.slack.com/team/U02CTP3E4RM) [@Erin Morrissey](https://givingexperiments.slack.com/team/U0316A6R84S)
+1. **Friday February 11, 2pm New York time:** [@daaronr](https://givingexperiments.slack.com/team/U6M1J6W2Y) [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX) [@Thomas Ptashnik](https://givingexperiments.slack.com/team/U02RM3745NC) [@Chloë Cudaback](https://givingexperiments.slack.com/team/U02CTP3E4RM) [@Erin Morrissey](https://givingexperiments.slack.com/team/U0316A6R84S)
 2. **Sunday Feb 13, 9pm New York:** [@daaronr](https://givingexperiments.slack.com/team/U6M1J6W2Y) [@Grace Adams](https://givingexperiments.slack.com/team/U02MG1GV8BT) [@Joshua Lewis](https://givingexperiments.slack.com/team/U01UF8NJEAX) [@Luke Freeman](https://givingexperiments.slack.com/team/U028G1080DB) [@Erin Morrissey](https://givingexperiments.slack.com/team/U0316A6R84S)
+
+#### ****
 
 #### **Agenda**
 
@@ -38,7 +44,7 @@ Please don’t feel compelled to come to both, but try to come to one. We will h
    2. Reinstein briefly on TLYCS, analysis environment, upcoming FB trial
    3. Others?
 3. Updates on trials and new proposals
-4. Testing objectives: Open discussion of 'what messages should we be testing' (this was Bella's suggestion)
+4. Testing objectives: Open discussion of 'what messages should we be testing' (this was Bella's suggestion) - <mark style="color:red;">Not covered, moved to March agenda</mark>
 5. Organizational issues:
    1. Sources of funding
    2. Institutional time commitments?
@@ -135,5 +141,3 @@ See writeup (below) and/or video
 
 {% endtab %}
 {% endtabs %}
-
-###
