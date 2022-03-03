@@ -7,15 +7,22 @@ description: >-
 
 # 🗓 Team meetings
 
-## Next meeting
+## Upcoming meetings
 
 ### Plans for March meeting
 
-Dates/times: TBD
+#### Dates/times: TBD
 
-Agenda:
+#### Agenda:
 
-Link to notes:
+Potential topics
+
+* Funding options: FTX Foundation's [Future Fund](https://ftxfuturefund.org) (EA [forum post](https://forum.effectivealtruism.org/posts/2mx6xrDrwiEKzfgks/announcing-the-future-fund-1))&#x20;
+
+Items not covered in Feb meeting
+
+* Possible presentation: Nick Fitz of Momentum App
+* Open discussion of 'what messages should we be testing' (this was Bella's suggestion)&#x20;
 
 ## Previous meetings, agendas, recordings
 
@@ -53,7 +60,7 @@ Review [February meeting notes and discussion](https://docs.google.com/document/
    5. How/Should we bring in...?
       * "Charity Elections" people
       * University of Chicago EA group
-6. Possible presentation: Nick Fitz of Momentum App
+6. Possible presentation: Nick Fitz of Momentum App - <mark style="color:red;">Not covered, moved to March agenda</mark>
 {% endtab %}
 
 {% tab title="Jan 2022" %}
