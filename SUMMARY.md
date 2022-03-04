@@ -68,6 +68,7 @@
     * [Issues: tracking and observing outcomes](core-knowledge-base/marketing-implementation-and-practical-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
     * [Google A/B optimize interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface)
     * [Google analytics interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-analytics-interface)
+  * [Implementation questions](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-questions.md)
 * [Research design and methodology](core-knowledge-base/research-design-and-methodology/README.md)
   * ["Qualitative" design issues](core-knowledge-base/research-design-and-methodology/qualitative-design-issues.md)
   * ["Quant" Experimental design methods/issues](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/README.md)
