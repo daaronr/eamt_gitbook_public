@@ -1,8 +1,8 @@
 ---
-description: How the gitbook sections are organized; we can discuss this
+description: Learn how the gitbook sections are organized.
 ---
 
-# 📑 Table of contents
+# 📑 Content overview
 
 ## **Overview of sections, key links**
 
