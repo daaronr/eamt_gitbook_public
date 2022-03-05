@@ -24,4 +24,8 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 * Conduct [profiling, survey, and segmentation activities and trials](broken-reference), building evidence on which types of people are most responsive to effective giving messages and appeals
 * Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics
 
-### Next, check out the gitbook content overview.&#x20;
+## How to get involved?&#x20;
+
+If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr@gmail.com or Erin Morrissey at edonovanmorrissey@gmail.com.&#x20;
+
+### Next, check out the [Gitbook content overview](gitbook-content-overview.md).&#x20;

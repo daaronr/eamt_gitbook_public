@@ -2,11 +2,7 @@
 description: What's the latest? Where are we up to? What are we pushing on now?
 ---
 
-# Tip-o-the-spear
-
-## Organizational updates (redacted)
-
-General meetings held: Dec 2021, Jan 2022, Feb. 2022
+# 🗡 Tip-o-the-spear
 
 ## Latest/best campaigns, trials, initiatives
 
