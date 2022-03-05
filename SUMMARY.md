@@ -1,11 +1,13 @@
 # Table of contents
 
 * [Effective Giving and Action: Market testing and Synthesis](README.md)
-  * [Overview: Posts and writings](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/overview-ea-forum-post)
+* [📕 Purpose of this gitbook](purpose-of-this-gitbook.md)
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
 * [👋 Meet the team](our-team-and-resources.md)
 * [📑 Content overview](sections-and-organization.md)
 * [🗓 Team meetings](team-meetings.md)
+* [Overview: Posts and writings](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/overview-ea-forum-post)
+* [\*\*\* working doc to be deleted](working-doc-to-be-deleted.md)
 
 ## PROCESSES & PROCEDURES
 
