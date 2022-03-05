@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Effective Giving & Action: Market testing & Synthesis (public version)](README.md)
-* [Tip-o-the-spear](tip-o-the-spear.md)
+* [📕 Gitbook content overview](gitbook-content-overview.md)
+* [🗡 Tip-o-the-spear](tip-o-the-spear.md)
 * [Overview: Posts and writings](overview-ea-forum-post.md)
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
