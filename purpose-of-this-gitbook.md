@@ -10,9 +10,7 @@ This gitbook is an <mark style="background-color:yellow;">**internal**</mark> re
 4. Curate our resources and build a knowledge-base to be shared publicly&#x20;
 
 {% hint style="success" %}
-We encourage _**you**_ (yes you!) to use this space to collaborate and share your knowledge by editing pages and adding comments. If you are unfamiliar with gitbook, you will get the hang of it! Think about using it similarly to Google docs.&#x20;
-
-Learn how to use the tool [here](processes-and-procedures/teach-me-to-use-our-tools/), read[ GitBook's guide](https://docs.gitbook.com/editing-content/editing-pages), or ask us for help getting started.
+We encourage _**you**_ (yes you!) to use this space to collaborate and share your knowledge by editing pages and adding comments. If you are unfamiliar with gitbook, you will get the hang of it! Learn how to use the tool [here](processes-and-procedures/teach-me-to-use-our-tools/), read[ GitBook's guide](https://docs.gitbook.com/editing-content/editing-pages), or ask us for help getting started.
 {% endhint %}
 
 ### How is this different from the public gitbook?
