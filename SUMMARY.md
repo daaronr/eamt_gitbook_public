@@ -12,7 +12,6 @@
 ## PROCESSES & PROCEDURES
 
 * [Project procedures/FAQs](processes-and-procedures/project-procedures-faqs/README.md)
-  * [Procedures, FAQs](processes-and-procedures/project-procedures-faqs/procedures-faqs.md)
   * [Sharing outside the group?](processes-and-procedures/project-procedures-faqs/sharing-outside-the-group.md)
 * [Teach me to use our tools](processes-and-procedures/teach-me-to-use-our-tools/README.md)
   * [How this gitbook works (linked)](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works)
