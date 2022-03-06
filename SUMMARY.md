@@ -3,13 +3,12 @@
 * [Effective Giving & Action: Market testing & Synthesis (public version)](README.md)
 * [📕 Gitbook content overview](gitbook-content-overview.md)
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
-* [Overview: Posts and writings](overview-ea-forum-post.md)
+* [📖 Overview: Posts and writings](overview-ea-forum-post.md)
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
 
 * [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
   * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
-* [Sections and organization](organization-and-overview/sections-and-organization.md)
 * [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
   * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
 
@@ -62,7 +61,7 @@
   * [Google analytics interface](implementation-and-practical-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
   * [(Survey and marketing platforms)](implementation-and-practical-tips/implementation-and-collecting-data-issues/survey-and-marketing-platforms.md)
 
-## Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
+## Research Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
 * ["Quant" Experimental design methods/issues](methodological-discussion/experimental-design-methods-issues.md)
