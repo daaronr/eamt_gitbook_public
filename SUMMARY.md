@@ -49,17 +49,17 @@
   * [(80000 hours)](contexts-environments-plans-tests/80000-hours.md)
   * [(TLYCS)](contexts-environments-plans-tests/tlycs.md)
 
-## Implementation and practical tips
+## Marketing Implementation strategies and tips
 
-* [Implementing ads, messages, and designs](implementation-and-practical-tips/implementation-and-collecting-data-issues/README.md)
-  * ["Doing and funding ads"](implementation-and-practical-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
-  * [Video ads/Best-practice guidelines](implementation-and-practical-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
-  * [Targeted ad on FB, with variations: setup](implementation-and-practical-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
-* [Collecting data/trial outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/README.md)
-  * [Issues: tracking and observing outcomes](implementation-and-practical-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
-  * [Google A/B, optimize interface](implementation-and-practical-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
-  * [Google analytics interface](implementation-and-practical-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
-  * [(Survey and marketing platforms)](implementation-and-practical-tips/implementation-and-collecting-data-issues/survey-and-marketing-platforms.md)
+* [Implementing ads, messages, and designs](marketing-implementation-strategies-and-tips/implementation-and-collecting-data-issues/README.md)
+  * ["Doing and funding ads"](marketing-implementation-strategies-and-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
+  * [Video ads/Best-practice guidelines](marketing-implementation-strategies-and-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
+  * [Targeted ad on FB, with variations: setup](marketing-implementation-strategies-and-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
+* [Collecting data/trial outcomes](marketing-implementation-strategies-and-tips/collecting-data-trial-outcomes/README.md)
+  * [Issues: tracking and observing outcomes](marketing-implementation-strategies-and-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
+  * [Google A/B, optimize interface](marketing-implementation-strategies-and-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
+  * [Google analytics interface](marketing-implementation-strategies-and-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
+  * [(Survey and marketing platforms)](marketing-implementation-strategies-and-tips/collecting-data-trial-outcomes/survey-and-marketing-platforms.md)
 
 ## Research Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 

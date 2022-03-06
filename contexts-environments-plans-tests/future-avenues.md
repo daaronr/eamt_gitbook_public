@@ -65,7 +65,7 @@ We haven’t thought about this much but it seems important – it might be wort
 * How many buttons?
 * How many choice options?
 
-The 'mysterious sauce' ... JS knows about ([best-practice-guidelines.md](../implementation-and-practical-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md "mention"))... we don't always have a "theory" but it might be meaningful.
+The 'mysterious sauce' ... JS knows about ([best-practice-guidelines.md](../marketing-implementation-strategies-and-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md "mention"))... we don't always have a "theory" but it might be meaningful.
 
 ## **Targeting**
 
