@@ -18,6 +18,7 @@ description: >-
 Potential topics
 
 * Funding options: FTX Foundation's [Future Fund](https://ftxfuturefund.org) (EA [forum post](https://forum.effectivealtruism.org/posts/2mx6xrDrwiEKzfgks/announcing-the-future-fund-1))&#x20;
+* Workshop research questions
 
 Items not covered in Feb meeting
 
