@@ -108,7 +108,7 @@ What are the key/first messages for people to get?
 
 What 'seeds do we want to plant'?
 
-T wo goals/missions ... masses vs key leaders... DR thinks there might be some tension here.
+Two goals/missions ... masses vs key leaders... DR thinks there might be some tension here.
 
 In talks with Open Phil. Wants to make sure that a key goal is to find the cream of the crop ... the future 80k kids.
 
