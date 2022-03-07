@@ -13,6 +13,7 @@
 
 * [Project procedures/FAQs](processes-and-procedures/project-procedures-faqs/README.md)
   * [Sharing outside the group?](processes-and-procedures/project-procedures-faqs/sharing-outside-the-group.md)
+  * [Onboarding](processes-and-procedures/project-procedures-faqs/onboarding.md)
 * [Teach me to use our tools](processes-and-procedures/teach-me-to-use-our-tools/README.md)
   * [How this gitbook works (linked)](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works)
   * [Other tech/tools (link)](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works/other-tech)
@@ -21,6 +22,7 @@
 
 ## PROJECT PLANS & REPORTS BY ORG <a href="#contexts-and-environments-for-testing" id="contexts-and-environments-for-testing"></a>
 
+* [Template - organization overview page](contexts-and-environments-for-testing/template-organization-overview-page.md)
 * [Environments, plans, tests](contexts-and-environments-for-testing/environments-and-plans/README.md)
   * [Testing contexts: overview](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/environments-and-plans/future-avenues)
 * [One For the World (OftW)](contexts-and-environments-for-testing/one-for-the-world/README.md)
