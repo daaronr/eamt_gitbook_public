@@ -5,7 +5,7 @@
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
 * [📖 Overview: Posts and writings](overview-ea-forum-post.md)
 
-## Background, evidence, framework <a href="#background" id="background"></a>
+## (In)effective Altruistic choices: Review of theory and evidence  <a href="#background" id="background"></a>
 
 * [Section introduction](background/section-introduction.md)
 * [The challenge: drivers of effective/ineffective giving](background/the-challenge-drivers-of-effective-ineffective-giving.md)
