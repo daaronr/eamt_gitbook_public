@@ -40,7 +40,7 @@ Specific next steps and internal deadlines
 
 ## Achievements, progress, current plans
 
-### 1. EA Marketing group
+### 1. EA Market Testing  (EAMT)  team
 
 **Josh Lewis (NYU) and David Reinstein have**&#x20;
 
@@ -52,17 +52,24 @@ Specific next steps and internal deadlines
 
 ... while building with a parallel [Public](https://effective-giving-marketing.gitbook.io/untitled/) page for sharing insights and tools with the general EA community (other than sensitive content and ongoing trials )
 
+\
+<mark style="background-color:green;">Our goal is to learn specific and generalizable insights, about both practical methods and general themes and motivations \[will flesh this out] ... within this context...</mark>
 
+<mark style="background-color:green;"></mark>
 
 **Pushed forward, assisted, and documented** **a set of marketing trials,** some underway and some complete, with insights, including...
 
 [gwwc](../contexts-and-environments-for-testing/gwwc/ "mention"):
 
-* GWWC evidence from a 'Facebook ad/Giving Guide' trial (with meaningful 'email signups') with insights ([Gdoc link](https://docs.google.com/document/d/1FfrXhD1YAIjrATy9PR6ScP20NMQa82sd80YvMb62iUQ/edit#heading=h.zex9e5t56rt)) about&#x20;
-  * cost per email signup (as low as $8),&#x20;
-  * most/least promising messages (best: “Only 3% of people give effectively”, worst: "GWWC has helped 6000+ people"),
-  * most promising audiences ('lookalike' and 'animal rights' best; little 'per-dollar' benefit from demographic targeting)&#x20;
-* Evidence from GWWC pledge-page design trial <mark style="background-color:yellow;">suggesting '</mark>[<mark style="background-color:yellow;">too many options/try-giving option may reduce take-up'</mark>](broken-reference)
+1. Evidence from 'Facebook ad/Giving Guide' trial (with meaningful 'email signups') with insights ([Gdoc link](https://docs.google.com/document/d/1FfrXhD1YAIjrATy9PR6ScP20NMQa82sd80YvMb62iUQ/edit#heading=h.zex9e5t56rt)) about&#x20;
+
+* cost per email signup (as low as $8),&#x20;
+* most/least promising messages (best: “Only 3% of people give effectively”, worst: "GWWC has helped 6000+ people"),
+* most promising audiences ('lookalike' and 'animal rights' best; little 'per-dollar' benefit from demographic targeting)&#x20;
+
+2\. Evidence from GWWC pledge-page design trial <mark style="background-color:yellow;">suggesting</mark> [<mark style="background-color:yellow;">'too many options/try-giving option may reduce take-up'</mark>](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/gwwc/pledge-page-options-trial) <mark style="background-color:yellow;"></mark>&#x20;
+
+
 
 <mark style="background-color:yellow;"></mark>[one-for-the-world](../contexts-and-environments-for-testing/one-for-the-world/ "mention")<mark style="background-color:yellow;">:</mark>
 
@@ -98,7 +105,7 @@ _**Current pushes and updates**_:
 
 _Background_: We are working with ICRC, a Switzerland-based individual development association on a series of large-scale field trials.
 
-Our first large trial involved 'cost per impact' information. The results (see [linked preview](../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)) **suggest 'near-zero and tightly bounded impact of the cost-per-impact information'.** This is generally consistent with previous work **** (but  under-reported in the literature)**,** including the [Karlan and Wood (2017)](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300490?via%3Dihub) experiment at Freedom From Hunger, my [2018 and 2019 experiments with Catholic Relief Services](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#comparison-of-posterior-probabilities), and other small-scale experiments [(Reinstein and Bergh, 2020)](https://journals.sagepub.com/doi/full/10.1177/1948550619893968?casa\_token=LHG5-s5teJYAAAAA%3AFpnPvCaoS94ADEvRt772GtOEHyhfSWAbWoboSArW\_WZ13s2AACbD6Ty\_Z07M6UhPqC\_ROWKYV1A). &#x20;
+Our first large trial involved 'cost per impact' information. The results (see [linked preview](../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)) **suggest 'near-zero and tightly bounded impact of the cost-per-impact information'.** This is generally consistent with previous work **** (but under-reported in the literature)**,** including the [Karlan and Wood (2017)](https://www.sciencedirect.com/science/article/abs/pii/S2214804316300490?via%3Dihub) experiment at Freedom From Hunger, my [2018 and 2019 experiments with Catholic Relief Services](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#comparison-of-posterior-probabilities), and other small-scale experiments [(Reinstein and Bergh, 2020)](https://journals.sagepub.com/doi/full/10.1177/1948550619893968?casa\_token=LHG5-s5teJYAAAAA%3AFpnPvCaoS94ADEvRt772GtOEHyhfSWAbWoboSArW\_WZ13s2AACbD6Ty\_Z07M6UhPqC\_ROWKYV1A). &#x20;
 
 (Other, less EA-relevant results that 'suggested donation amounts' have an impact on donations, which cluster around these amounts. As in previous work, larger suggested donations lead to lower incidence but higher donations conditional on incidence, with ambiguous and contextual net effects.)
 
