@@ -71,7 +71,7 @@
   * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * [(Analysis: Statistical approaches)](methodological-discussion/analysis-statistical-approaches.md)
 
-## Project: Profiling and segmentation <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
+## Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
 * [Previous work/data](profiling-and-segmentation/previous-work.md)
   * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
