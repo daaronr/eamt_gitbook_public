@@ -5,15 +5,9 @@
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
 * [📖 Overview: Posts and writings](overview-ea-forum-post.md)
 
-## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
-
-* [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
-  * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
-* [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
-  * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
-
 ## Background, evidence, framework <a href="#background" id="background"></a>
 
+* [Section introduction](background/section-introduction.md)
 * [The challenge: drivers of effective/ineffective giving](background/the-challenge-drivers-of-effective-ineffective-giving.md)
   * [How little we know...](background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background/models-theories-psychological-norms.md)
@@ -25,6 +19,13 @@
       * [(Moral duty (of well-off))](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/moral-duty-of-well-off-1.md)
     * [Give if you win/ conditional pledge](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
   * [Academic Paper Ideas](background/tools-and-trials-overview/academic-paper-ideas.md)
+
+## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
+
+* [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
+  * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
+* [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
+  * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
 
 ## Contexts-environments-plans-tests
 
