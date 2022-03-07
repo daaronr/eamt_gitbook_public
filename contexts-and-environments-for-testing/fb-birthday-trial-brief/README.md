@@ -4,9 +4,27 @@ description: >-
   fundraisers for effective charities.
 ---
 
-# FB birthday trial - brief
+# FB birthday trial
 
-## Overview
+**Facebook ads send birthday people to the web site below (refresh to re-randomize treatments)**
+
+{% embed url="https://momentumbirthdayfundraisers.com" %}
+[https://momentumbirthdayfundraisers.com/](https://momentumbirthdayfundraisers.com)
+{% endembed %}
+
+
+
+**See:**&#x20;
+
+* ****[**Outline of all Gdocs in project**](https://docs.google.com/document/d/1HP53yTjbfYbGx5vsu5jIjYhXjjGKKTu6ZKxcFoYAlz0/edit#)****
+* ****[**Project summary**](https://docs.google.com/document/d/13fD6t21FaxlKxS3D0PK5abHHbrBd7ykfJ0rP7mfk6Hw/edit#)****
+* **Airtable** [**view of design decisions**](https://airtable.com/shrlfyb3JEX0KxoVZ)****
+
+****
+
+
+
+## Brief Overview
 
 Key question: “How does communication about effectiveness (per-dollar impact) influence fundraising for effective charities in a social-media context?” In particular...\\
 
@@ -25,4 +43,6 @@ Field experiment: incentivize birthday Facebook fundraisers
 
 Measured outcomes: 1. do 'people who click the ad' start a fundraising page, 2. How much/many donations do these pages raise?, 3. (if API) Which messages do they choose?, 4. Other messages/discussion on their fundraising page
 
-![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
+
+
+{% embed url="https://docs.google.com/document/d/13fD6t21FaxlKxS3D0PK5abHHbrBd7ykfJ0rP7mfk6Hw/edit#" %}
