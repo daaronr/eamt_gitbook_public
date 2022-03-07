@@ -6,6 +6,7 @@
 * [👋 Meet the team](our-team-and-resources.md)
 * [📑 Content overview](sections-and-organization.md)
 * [🗓 Team meetings](team-meetings.md)
+* [Accomplishments](accomplishments.md)
 * [Overview: Posts and writings](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/overview-ea-forum-post)
 * [\*\*\* working doc to be deleted](working-doc-to-be-deleted.md)
 
@@ -101,7 +102,3 @@
 
 * [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
 * [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)
-
-***
-
-* [Accomplishments](accomplishments.md)
