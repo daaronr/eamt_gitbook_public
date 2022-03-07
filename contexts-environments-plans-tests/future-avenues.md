@@ -1,10 +1,10 @@
 ---
-description: >-
-  Testing 'implementation strategies'; prioritized for GWWC but also relevant
-  generally
+description: Testing 'implementation strategies'
 ---
 
 # Testing Contexts: Overview
+
+## <mark style="background-color:green;">Opportunities for testing</mark>
 
 ## Contexts to test outreach messages
 
