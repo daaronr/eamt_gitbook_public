@@ -18,6 +18,7 @@ description: >-
 Potential topics
 
 * Funding options: FTX Foundation's [Future Fund](https://ftxfuturefund.org) (EA [forum post](https://forum.effectivealtruism.org/posts/2mx6xrDrwiEKzfgks/announcing-the-future-fund-1))&#x20;
+* Dillon to share what his approaches are and how orgs could use them (Is this a March meeting topic?)&#x20;
 * Workshop research questions
 * Introduce Charity Elections&#x20;
 
