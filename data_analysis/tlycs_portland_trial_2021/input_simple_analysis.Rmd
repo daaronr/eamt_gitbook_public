@@ -27,6 +27,8 @@ I downloaded this as an Excel spreadsheet
 
 ## Input and clean data
 
+
+
 ```{r}
 
 #tl21 <- read_excel(here::here("data_do_not_commit", "tlycs", "tlycs_dec_2021_vs_2020_by_city_n_america.xlsx"), sheet = "Dataset1") #this should have worked?
@@ -61,7 +63,11 @@ Need to re-label the 'correct' Portland (we think), as this is a common city nam
 
 ```{r}
 
-tl21 %>% filter(City=="Portland") %>% dplyr::select(City, year, Users)
+tl21 %>% 
+  filter(City=="Portland") %>%
+  dplyr::select(City, year, Users) %>%
+  .kable() %>%
+  .kable_styling
 
 ```
 
