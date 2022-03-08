@@ -41,7 +41,7 @@ Our main ‘policy’ audience includes both effective nonprofit organisations a
 
 **Academic work:**
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/images\_moved/image (5).png>)
 
 * [Caviola et al, 2021 (abstract pictured above)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(21\)00090-5#secst0005)
 * @loewensteinScarecrowTinMan2007

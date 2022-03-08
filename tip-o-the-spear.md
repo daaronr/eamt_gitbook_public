@@ -38,7 +38,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ### Profiling work
 
-* [David Reinstein is working with Thomas Ptashnik to analyze the German SOEP data](profiling-and-segmentation/previous-work/other-work-and-data.md), to gain insights into 'what predicts and motivates support for international redistribution' and key components of 'EA mentality' (especially generosity and cosmopolitanism)
+* [David Reinstein is working with Thomas Ptashnik to analyze the German SOEP data](profiling-and-segmentation/other-work-and-data/), to gain insights into 'what predicts and motivates support for international redistribution' and key components of 'EA mentality' (especially generosity and cosmopolitanism)
 
 ### Reinstein & Co
 

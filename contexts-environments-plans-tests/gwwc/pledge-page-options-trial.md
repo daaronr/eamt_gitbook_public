@@ -11,7 +11,7 @@ description: >-
 
 ## General idea, main 'hypothesis'
 
-****
+***
 
 **GWWC**: How can we present pledge options so as to maximize positive outcomes (pledges, fulfillment)?
 
@@ -37,7 +37,7 @@ These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https
 
 \_\_
 
-![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
+![Pledge page "Original"](<../../.gitbook/assets/image (7).png>)
 
 Following 'become a member' takes you to this 'Take a Pledge' page ([`https://www.givingwhatwecan.org/pledge/`](https://www.givingwhatwecan.org/pledge/))
 
@@ -90,13 +90,13 @@ Sample size: see below, from Google Analytics
 
     \_\_
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
 2\. "**Pledge before TryGiving**" ... as above but with Try Giving and The Pledge swapped, and Try Giving highlighted
 
 3\. "**Separate Block for Other Pledges**" (see below)
 
-![](<../../.gitbook/assets/image (12) (1) (1).png>)
+![](<../../.gitbook/assets/images\_moved/image (12) (1) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 DR: I'm in contact with [Julian Hazell](https://app.gitbook.com/u/5r4JrDxg4Gb3ZrYJYfN2YWU2v6H2 "mention") [Luke Freeman](https://app.gitbook.com/u/ljuM97uRtMeH7IhMq9MSN1kuPcC3 "mention") to doublecheck and verify all of the above, as well as the clarification questions below
@@ -164,7 +164,7 @@ _Consider_: Planned analysis methods, preregistration link, IRB link, connection
 
 ## Ex-post: Reporting results (brief)
 
-See [Broken link](broken-reference "mention") for notes, questions, and discussion of how this is documented and reported (and implemented).
+See [broken-reference](broken-reference/ "mention") for notes, questions, and discussion of how this is documented and reported (and implemented).
 
 ### Implementation and data collection
 
@@ -186,7 +186,7 @@ _3. Where is the data stored (also link/adjust the above), who has it, and under
 
 ### Basic results/outcomes
 
-![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1) (1) (1).png>)
+![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/images\_moved/image (17) (1) (1) (1) (1).png>)
 
 **Reinstein quick interpretation** _(if I am understanding what is what)_
 
