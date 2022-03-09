@@ -7,7 +7,7 @@ description: >-
 
 # "Qualitative" design issues
 
-## **Naturalness of setting versus 'pure' treatments**
+## Naturalness of setting versus 'pure' treatments
 
 **Academics usually try to make each treatment differ in precisely one dimension**, these treatments are meant to represent the underlying model or construct as purely as possible. This **can lead to setups that appear strange or artificia**l, which itself might bring responses it will not be representative or generalizable.
 
