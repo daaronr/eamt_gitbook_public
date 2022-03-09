@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Effective Giving & Action: Market testing & Synthesis (public version)](README.md)
+* [EA Market testing (public version)](README.md)
 * [📕 Gitbook content overview](gitbook-content-overview.md)
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
 * [📖 Overview: Posts and writings](overview-ea-forum-post.md)
@@ -85,8 +85,8 @@
     * [Give if you win/ conditional pledge](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
   * [Academic Paper Ideas](background/tools-and-trials-overview/academic-paper-ideas.md)
 
-## Supplements and references
+## Supplements, references, tools, and further details&#x20;
 
-* [Literature on animal advocacy messaging](supplements-and-references/literature-on-animal-advocacy-messaging.md)
-* [Charity ratings, rankings, messages](supplements-and-references/charity-ratings-rankings-messages.md)
-* [Discussion: "Lab-esque" experiments/surveys](supplements-and-references/discussion-lab-esque-experiments-surveys.md)
+* [Literature on animal advocacy messaging](supplements-references-tools-and-further-details/literature-on-animal-advocacy-messaging.md)
+* [Charity ratings, rankings, messages](supplements-references-tools-and-further-details/charity-ratings-rankings-messages.md)
+* [Discussion: "Lab-esque" experiments/surveys](supplements-references-tools-and-further-details/discussion-lab-esque-experiments-surveys.md)

@@ -5,15 +5,15 @@ description: >-
   used to promote effective giving and action.
 ---
 
-# Effective Giving & Action: Market testing & Synthesis (public version)
+# EA Market testing (public version)
 
 {% hint style="warning" %}
-We are in the process of restructuring the gitbook! You may see some sections and pages that are incomplete, but they will be updated soon.&#x20;
+We are in the process of restructuring the gitbook! You may see some sections and pages that are incomplete, but they will be updated soon.
 {% endhint %}
 
 ## What is the "EA Market Testing Team"?
 
-The “EA Market Testing Team” represents a small group of researchers and practitioners interested in promoting effective altruism and effective charitable giving and learning more about what motivates this.&#x20;
+The “EA Market Testing Team” represents a small group of researchers and practitioners interested in promoting effective altruism and effective charitable giving and learning more about what motivates this.
 
 ## What is our mission?
 
@@ -24,8 +24,8 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 * Conduct [profiling, survey, and segmentation activities and trials](broken-reference), building evidence on which types of people are most responsive to effective giving messages and appeals
 * Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics
 
-## How to get involved?&#x20;
+## How to get involved?
 
-If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr@gmail.com or Erin Morrissey at edonovanmorrissey@gmail.com.&#x20;
+If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr at gmail.com or Erin Morrissey at edonovanmorrissey at gmail.com.
 
-### Next, check out the [Gitbook content overview](gitbook-content-overview.md).&#x20;
+### Next, check out the [Gitbook content overview](gitbook-content-overview.md).
