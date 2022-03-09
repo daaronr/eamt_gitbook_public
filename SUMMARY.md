@@ -9,8 +9,6 @@
 
 * [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
   * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
-* [How this 'gitbook' works](organization-and-overview/how-this-gitbook-works/README.md)
-  * [Other tech](organization-and-overview/how-this-gitbook-works/other-tech.md)
 
 ## Contexts-environments-plans-tests
 
@@ -76,6 +74,7 @@
 * [The challenge: drivers of effective/ineffective giving](background/the-challenge-drivers-of-effective-ineffective-giving.md)
   * [How little we know...](background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background/models-theories-psychological-norms.md)
+* [Literature on animal advocacy messaging](background/literature-on-animal-advocacy-messaging.md)
 * [Tools and trials: overview](background/tools-and-trials-overview/README.md)
   * [Tools/interventions: principles](background/tools-and-trials-overview/tools-interventions-principles.md)
   * [Outcomes: Effective gift/consider impact)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/README.md)
@@ -87,6 +86,7 @@
 
 ## Supplements, references, tools, and further details&#x20;
 
-* [Literature on animal advocacy messaging](supplements-references-tools-and-further-details/literature-on-animal-advocacy-messaging.md)
-* [Charity ratings, rankings, messages](supplements-references-tools-and-further-details/charity-ratings-rankings-messages.md)
-* [Discussion: "Lab-esque" experiments/surveys](supplements-references-tools-and-further-details/discussion-lab-esque-experiments-surveys.md)
+* [How this 'gitbook' works](supplements-references-tools-and-further-details/how-this-gitbook-works/README.md)
+  * [Other tech](supplements-references-tools-and-further-details/how-this-gitbook-works/other-tech.md)
+* [Charity ratings, rankings, messages](supplements-and-references/charity-ratings-rankings-messages.md)
+* [Discussion: "Lab-esque" experiments/surveys](supplements-and-references/discussion-lab-esque-experiments-surveys.md)

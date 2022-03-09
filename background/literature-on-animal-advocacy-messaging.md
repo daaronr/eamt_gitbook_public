@@ -19,8 +19,6 @@ DR: How people respond to animal advocacy ads and what appeals to them more? XXX
 > [Michael St. Jules](https://app.slack.com/team/U025P9B8ZLZ) This is a re-analysis of one of the earlier studies the community has done on messaging:\
 > [https://thehumaneleague.org/article/animal-cruelty-abolitionist-messaging-reanalysis](https://thehumaneleague.org/article/animal-cruelty-abolitionist-messaging-reanalysis)
 >
->
->
 > Some other older research (XXX redacted):\
 > [https://animalcharityevaluators.org/blog/our-initial-thoughts-on-the-mfa-facebook-ads-study/](https://animalcharityevaluators.org/blog/our-initial-thoughts-on-the-mfa-facebook-ads-study/)\
 > [https://mercyforanimals.org/blog/impact-study/](https://mercyforanimals.org/blog/impact-study/)\

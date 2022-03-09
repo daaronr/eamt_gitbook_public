@@ -7,7 +7,7 @@ description: How the gitbook sections are organized
 **Overview of grouped sections ... the basic idea:**
 
 * [Preamble](./): a quick take
-* Explaining the [organization](broken-reference) of our [team](organization-and-overview/our-team-and-resources/) and [our tools](organization-and-overview/how-this-gitbook-works/)
+* Explaining the [organization](broken-reference) of our [team](organization-and-overview/our-team-and-resources/) and [our tools](supplements-references-tools-and-further-details/how-this-gitbook-works/)
 * [What we're trying to do and why](overview-ea-forum-post.md) (embedded posts),
 
 
