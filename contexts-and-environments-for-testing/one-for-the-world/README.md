@@ -119,7 +119,7 @@ We are working with Joshua Lewis and a group of students at NYU to experiment wi
 
 "Existing home page as of 9 Sep 2021"
 
-![](<../../.gitbook/assets/image (8) (1) (2).png>)
+![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
 \
 \

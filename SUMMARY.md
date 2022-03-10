@@ -30,7 +30,7 @@
   * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
     * [Preregistration: OftW Pre-GT](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt)
 * [Charity Elections (high schools)](contexts-and-environments-for-testing/charity-elections/README.md)
-  * [Charity Elections (further notes)](contexts-and-environments-for-testing/charity-elections/charity-elections-further-notes.md)
+  * [Charity Elections (further notes to organize)](contexts-and-environments-for-testing/charity-elections/charity-elections-further-notes.md)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
   * [Pledge page options trial (+)](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/gwwc/pledge-page-options-trial)
   * [Giving guides - Facebook(+)](contexts-and-environments-for-testing/gwwc/giving-guides-+/README.md)

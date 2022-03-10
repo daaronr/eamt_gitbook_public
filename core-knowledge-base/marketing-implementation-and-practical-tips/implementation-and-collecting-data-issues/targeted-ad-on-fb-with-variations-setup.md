@@ -48,7 +48,7 @@ When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE
 
 You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager." Since there is no downside (we would even consider it valuable information to learn which ad design works best), we decide to _opt-in to each of these._&#x20;
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (19) (1) (1).png>)
 
 Budget optimization is closely related to the choice of the target group. In general, the larger the target group, the cheaper it becomes to reach a certain amount of "link clicks".\
 
@@ -111,7 +111,7 @@ You can specify&#x20;
 2. Interests
 3. Behaviors
 
-![](<../../../.gitbook/assets/image (10) (1).png>)
+![](<../../../.gitbook/assets/image (19) (1).png>)
 
 "Include" seems to be the default when specifying these ... it 'expands the audience'
 
@@ -155,7 +155,7 @@ __
 
 &#x20;"Dynamic Creative" is an option to enhance this process. It takes multiple media (images, videos) and multiple ad components (such as images, videos, text and calls-to-action) and then mixes and matches them in new ways to improve your ad performance.
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (15).png>)
 
 "Dynamic creative" can be either switched on or off. (Given that we want to optimize over several versions, I see no downside to this feature. Thus, we switch it on.)&#x20;
 
@@ -176,7 +176,7 @@ However, we might instead want FB to optimize the ad presentation in terms of wh
 \
 To do that we need to set up a "meta pixel".
 
-![](<../../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (17).png>)
 
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") How do we set up such a pixel?  Presumably something in our webpage also needs to integrate this so it knows what the "action on your page", to feed back to Facebook to optimize over.
 
@@ -202,7 +202,7 @@ Finally, you enter the third and last page of the ad creation process. Here you 
 \
 &#x20;The last step before publication is to specify the destination for your campaign.&#x20;
 
-![](<../../../.gitbook/assets/image (17) (1).png>)
+![](<../../../.gitbook/assets/image (12) (1) (1) (1) (2).png>)
 
 We chose a website and simply copy the URL into the mask to make sure the ad is linking people to the right destination.
 
@@ -220,7 +220,7 @@ We chose a website and simply copy the URL into the mask to make sure the ad is 
 
 ![](<../../../.gitbook/assets/image (19).png>)
 
-### ![](<../../../.gitbook/assets/image (11) (1).png>)
+### ![](<../../../.gitbook/assets/image (12).png>)
 
 Landing page views or link clicks? What is the difference? (this should be discussed in the 'targeting section' by the way)
 
@@ -228,7 +228,7 @@ Landing page views or link clicks? What is the difference? (this should be discu
 
 ### ![](<../../../.gitbook/assets/image (23).png>)
 
-You can also add suggested categories: ![](<../../../.gitbook/assets/image (20).png>)
+You can also add suggested categories: ![](<../../../.gitbook/assets/image (24).png>)
 
 ![](<../../../.gitbook/assets/image (13).png>)
 

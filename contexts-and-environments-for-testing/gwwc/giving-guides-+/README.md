@@ -39,7 +39,7 @@ Version 1:
 * Tested Factual vs Emotional ads
 * Emotional ads performed better
 
-![](<../../../.gitbook/assets/Untitled (2).png>)
+![](<../../../.gitbook/assets/Untitled (2) (1).png>)
 
 Version 2:
 
