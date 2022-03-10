@@ -90,3 +90,4 @@
   * [Other tech](supplements-references-tools-and-further-details/how-this-gitbook-works/other-tech.md)
 * [Charity ratings, rankings, messages](supplements-and-references/charity-ratings-rankings-messages.md)
 * [Discussion: "Lab-esque" experiments/surveys](supplements-and-references/discussion-lab-esque-experiments-surveys.md)
+* ["A large-scale online experiment" (participants-aware)](https://docs.google.com/document/d/1s3d0LYlFzmdV00gGji9AugOM7C7Dh3SVk0JbzlEhMFY/edit?usp=sharing)
