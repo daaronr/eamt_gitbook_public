@@ -82,9 +82,9 @@
     * [Give if you win/ conditional pledge](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/moral-duty-of-well-off/give-if-you-win-conditional-pledge.md)
   * [Academic Paper Ideas](background/tools-and-trials-overview/academic-paper-ideas.md)
 
-## Supplements, references, tools, and further details&#x20;
+## Appendix
 
-* [How this 'gitbook' works](supplements-references-tools-and-further-details/how-this-gitbook-works/README.md)
-  * [Other tech](supplements-references-tools-and-further-details/how-this-gitbook-works/other-tech.md)
-* [Charity ratings, rankings, messages](supplements-and-references/charity-ratings-rankings-messages.md)
+* [How this 'gitbook' works](appendix/how-this-gitbook-works/README.md)
+  * [Other tech](appendix/how-this-gitbook-works/other-tech.md)
+* [Charity ratings, rankings, messages](appendix/charity-ratings-rankings-messages.md)
 * ["A large-scale online experiment" (participants-aware)](https://docs.google.com/document/d/1s3d0LYlFzmdV00gGji9AugOM7C7Dh3SVk0JbzlEhMFY/edit?usp=sharing)
