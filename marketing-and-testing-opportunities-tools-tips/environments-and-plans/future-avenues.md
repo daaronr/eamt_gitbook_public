@@ -17,13 +17,13 @@ description: Testing 'implementation strategies'
 
 ### Contexts for 'Immediate outcomes' (clicks etc)
 
-Facebook; But the targeting algorithm may frustrate randomization. (see [splits-randomization](../methodological-discussion/splits-randomization/ "mention").) Can it be switched off?
+Facebook; But the targeting algorithm may frustrate randomization. (see [splits-randomization](../../methodological-discussion/splits-randomization/ "mention").) Can it be switched off?
 
-### Contexts allowing [randomization by geograph](../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md)[y](../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md)
+### Contexts allowing [randomization by geograph](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md)[y](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md)
 
-See [geographic-segmentation-blocked-randomization.md](../methodological-discussion/splits-randomization/geographic-segmentation-blocked-randomization.md "mention")
+See [geographic-segmentation-blocked-randomization.md](../../methodological-discussion/splits-randomization/geographic-segmentation-blocked-randomization.md "mention")
 
-This is helpful [for ease of attribution](../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md) if the **important outcomes** can be tracked by ZIP code/post code/address.
+This is helpful [for ease of attribution](../../methodological-discussion/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md) if the **important outcomes** can be tracked by ZIP code/post code/address.
 
 * Online display advertising
 * Google search
@@ -65,11 +65,11 @@ We haven’t thought about this much but it seems important – it might be wort
 * How many buttons?
 * How many choice options?
 
-The 'mysterious sauce' ... JS knows about ([best-practice-guidelines.md](../marketing-implementation-strategies-and-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md "mention"))... we don't always have a "theory" but it might be meaningful.
+The 'mysterious sauce' ... JS knows about ([best-practice-guidelines.md](../implementation-and-collecting-data-issues/best-practice-guidelines.md "mention"))... we don't always have a "theory" but it might be meaningful.
 
 ## **Targeting**
 
-_See also_ [_Profiling: Discussion_](broken-reference/)
+_See also_ [_Profiling: Discussion_](../../contexts-environments-plans-tests/broken-reference/)
 
 **Question:** If our aim is _to change the culture of giving in general_, what kind of people should we be targeting?
 
@@ -77,7 +77,7 @@ _See also_ [_Profiling: Discussion_](broken-reference/)
 2. _Low-hanging fruit_ (i.e., people who are naturally predisposed towards effective giving, pledging, & EA)
 
 {% hint style="success" %}
-**Idea:** Compare different outreach methods on the basis of "cost per pledge" (or per "whatever-metric-we-use"). (Outcomes: [Outcome: Effective gift](broken-reference/)... & [Outcome: Pledge](broken-reference/)... )
+**Idea:** Compare different outreach methods on the basis of "cost per pledge" (or per "whatever-metric-we-use"). (Outcomes: [Outcome: Effective gift](../../contexts-environments-plans-tests/broken-reference/)... & [Outcome: Pledge](../../contexts-environments-plans-tests/broken-reference/)... )
 {% endhint %}
 
 ### Ideas/methods for targeting: platforms and audiences

@@ -10,34 +10,34 @@
 * [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
   * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
 
-## Contexts-environments-plans-tests
+## Partner organizations, contexts, and trials
 
-* [Trial reporting template](contexts-environments-plans-tests/trial-reporting-template.md)
-* [Environments, plans, tests](contexts-environments-plans-tests/environments-and-plans.md)
-  * [Testing Contexts: Overview](contexts-environments-plans-tests/future-avenues.md)
-* [One For the World (OftW)](contexts-environments-plans-tests/one-for-the-world-oftw/README.md)
-  * [pre-giving-tuesday-email split test (+)](contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
-    * [Preregistration: OftW pre-GT](contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
-* [GWWC](contexts-environments-plans-tests/gwwc/README.md)
-  * [Pledge page (options trial) (+)](contexts-environments-plans-tests/gwwc/pledge-page-options-trial.md)
-  * [Other trials in progress: Home page, giving guides, advertising](contexts-environments-plans-tests/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/README.md)
-    * [(YouTube Remarketing (+))](contexts-environments-plans-tests/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/youtube-remarketing-+.md)
-* [Charities/fundraisers and impact information](contexts-environments-plans-tests/charities-fundraisers-and-impact-information/README.md)
-  * [ICRC - quick overview (+)](contexts-environments-plans-tests/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
-  * [CRS/DV: overview (+)](contexts-environments-plans-tests/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
-* [Other orgs/approaches in progress](contexts-environments-plans-tests/other.md)
+* [One For the World (OftW)](partner-organizations-contexts-and-trials/one-for-the-world-oftw/README.md)
+  * [pre-giving-tuesday-email split test (+)](partner-organizations-contexts-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
+    * [Preregistration: OftW pre-GT](partner-organizations-contexts-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
+* [GWWC](partner-organizations-contexts-and-trials/gwwc/README.md)
+  * [Pledge page (options trial) (+)](partner-organizations-contexts-and-trials/gwwc/pledge-page-options-trial.md)
+  * [Other trials in progress: Home page, giving guides, advertising](partner-organizations-contexts-and-trials/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/README.md)
+    * [(YouTube Remarketing (+))](partner-organizations-contexts-and-trials/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/youtube-remarketing-+.md)
+* [Charities/fundraisers and impact information](partner-organizations-contexts-and-trials/charities-fundraisers-and-impact-information/README.md)
+  * [ICRC - quick overview (+)](partner-organizations-contexts-and-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
+  * [CRS/DV: overview (+)](partner-organizations-contexts-and-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
+* [Other orgs/approaches in progress](partner-organizations-contexts-and-trials/other.md)
 
-## Marketing Implementation strategies and tips
+## Marketing & testing: opportunities, tools, tips
 
-* [Implementing ads, messages, and designs](marketing-implementation-strategies-and-tips/implementation-and-collecting-data-issues/README.md)
-  * ["Doing and funding ads"](marketing-implementation-strategies-and-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
-  * [Video ads/Best-practice guidelines](marketing-implementation-strategies-and-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
-  * [Targeted ad on FB, with variations: setup](marketing-implementation-strategies-and-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
-* [Collecting data/trial outcomes](marketing-implementation-strategies-and-tips/collecting-data-trial-outcomes/README.md)
-  * [Issues: tracking and observing outcomes](marketing-implementation-strategies-and-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
-  * [Google A/B, optimize interface](marketing-implementation-strategies-and-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
-  * [Google analytics interface](marketing-implementation-strategies-and-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
-  * [(Survey and marketing platforms)](marketing-implementation-strategies-and-tips/collecting-data-trial-outcomes/survey-and-marketing-platforms.md)
+* [Environments, tests, tools](marketing-and-testing-opportunities-tools-tips/environments-and-plans/README.md)
+  * [Testing Contexts: Overview](marketing-and-testing-opportunities-tools-tips/environments-and-plans/future-avenues.md)
+  * [Trial reporting template](marketing-and-testing-opportunities-tools-tips/environments-and-plans/trial-reporting-template.md)
+* [Implementing ads, messages, and designs](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/README.md)
+  * ["Doing and funding ads"](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
+  * [Video ads/Best-practice guidelines](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
+  * [Targeted ad on FB, with variations: setup](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
+* [Collecting data/trial outcomes](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/README.md)
+  * [Issues: tracking and observing outcomes](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
+  * [Google A/B, optimize interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
+  * [Google analytics interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
+  * [(Survey and marketing platforms)](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/survey-and-marketing-platforms.md)
 
 ## Research Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 
@@ -57,10 +57,11 @@
   * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
   * [Animal welfare attitudes: profiling/surveying](profiling-and-segmentation/previous-work/animal-welfare-attitudes-profiling-surveying.md)
   * [Other data](profiling-and-segmentation/previous-work/other-data.md)
-* [Fehr/SOEP analysis... followup](profiling-and-segmentation/other-work-and-data/README.md)
-  * [Followup with Thomas Ptashnik](profiling-and-segmentation/other-work-and-data/followup-with-thomas-ptashnik.md)
-* [Rethink Priorities work](profiling-and-segmentation/previous-work/rethink-priorities-work.md)
-* [(Profiling 'existing traffic')](profiling-and-segmentation/profiling-existing-traffic.md)
+* [Further approaches in progress](profiling-and-segmentation/further-approaches-in-progress/README.md)
+  * [Rethink Priorities work](profiling-and-segmentation/further-approaches-in-progress/rethink-priorities-work.md)
+  * [Profiling 'existing traffic'](profiling-and-segmentation/further-approaches-in-progress/profiling-existing-traffic.md)
+  * [Fehr/SOEP analysis... followup](profiling-and-segmentation/further-approaches-in-progress/other-work-and-data/README.md)
+    * [Followup with Thomas Ptashnik](profiling-and-segmentation/further-approaches-in-progress/other-work-and-data/followup-with-thomas-ptashnik.md)
 
 ## (In)effective Altruistic choices: Review of theory and evidence <a href="#background" id="background"></a>
 

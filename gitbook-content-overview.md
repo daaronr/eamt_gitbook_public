@@ -18,7 +18,7 @@ _****_[_**Contexts/environments, specific plans for trials in these contexts**_]
 2. By each organization
    1. Background on the organization and the environments within
    2. Plans and progress on trials within each
-3. T[emplate for reporting](contexts-environments-plans-tests/trial-reporting-template.md#concise-reporting-template) trials and progress
+3. T[emplate for reporting](marketing-and-testing-opportunities-tools-tips/environments-and-plans/trial-reporting-template.md#concise-reporting-template) trials and progress
 
 \
 [_**Implementation issues**_](broken-reference)_, 'practical' issues:_ focusing on 'testing marketing', but also relevant to  'doing marketing'&#x20;

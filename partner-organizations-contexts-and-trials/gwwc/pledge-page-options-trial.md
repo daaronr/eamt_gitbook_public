@@ -7,7 +7,7 @@ description: >-
 
 # Pledge page (options trial) (+)
 
-[**Following**](../../contexts-and-environments-for-testing/trial-reporting-template/) [trial-reporting-template.md](../trial-reporting-template.md "mention")
+[**Following**](../../contexts-and-environments-for-testing/trial-reporting-template/) [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/environments-and-plans/trial-reporting-template.md "mention")
 
 ## General idea, main 'hypothesis'
 
@@ -164,7 +164,7 @@ _Consider_: Planned analysis methods, preregistration link, IRB link, connection
 
 ## Ex-post: Reporting results (brief)
 
-See [broken-reference](broken-reference/ "mention") for notes, questions, and discussion of how this is documented and reported (and implemented).
+See [broken-reference](../../contexts-environments-plans-tests/gwwc/broken-reference/ "mention") for notes, questions, and discussion of how this is documented and reported (and implemented).
 
 ### Implementation and data collection
 

@@ -39,7 +39,7 @@ _DR: I'm awaiting permission to share the list._
 
 ### Other <a href="#docs-internal-guid-8330c32b-7fff-2524-6e0a-4eda16de7f94" id="docs-internal-guid-8330c32b-7fff-2524-6e0a-4eda16de7f94"></a>
 
-[#wild-animal-welfare-suffering-attitudes](rethink-priorities-work.md#wild-animal-welfare-suffering-attitudes "mention") (Rethink Priorities, in progress)
+[#wild-animal-welfare-suffering-attitudes](../further-approaches-in-progress/rethink-priorities-work.md#wild-animal-welfare-suffering-attitudes "mention") (Rethink Priorities, in progress)
 
 #### "Scientists’ Attitudes Toward Improving the Welfare of Animals in the Wild" <a href="#docs-internal-guid-57a312c9-7fff-03f6-9b4c-a5ecb7b5f964" id="docs-internal-guid-57a312c9-7fff-03f6-9b4c-a5ecb7b5f964"></a>
 
