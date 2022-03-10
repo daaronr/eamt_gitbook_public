@@ -4,11 +4,8 @@
 * [📕 Gitbook content overview](gitbook-content-overview.md)
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
 * [📖 Forum posts and writings](overview-ea-forum-post.md)
-
-## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
-
-* [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
-  * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
+* [👋 Team and FAQs](our-team-and-resources/README.md)
+  * [Procedures, FAQs](our-team-and-resources/procedures-faqs.md)
 
 ## Partner organizations and trials
 
@@ -54,7 +51,7 @@
 
 ## Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
-* [Section introduction](profiling-and-segmentation/section-introduction.md)
+* [Section introduction (WIP)](profiling-and-segmentation/section-introduction.md)
 * [Previous work/data](profiling-and-segmentation/previous-work.md)
   * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
   * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)

@@ -6,7 +6,7 @@ description: What you can find in the gitbook
 
 ## **Introduction**
 
-* Including our [mission](./), [what we are trying to do and why](overview-ea-forum-post.md), [most recent updates](tip-o-the-spear.md), and the organization of [our team](organization-and-overview/our-team-and-resources/)
+* Including our [mission](./), [what we are trying to do and why](overview-ea-forum-post.md), [most recent updates](tip-o-the-spear.md), and the organization of [our team](our-team-and-resources/)
 
 ## Five Key Sections
 
@@ -16,24 +16,22 @@ In this section of the gitbook, you will find reports of the trials we have run 
 
 ### 2) [Marketing & Testing: Opportunities, Tools, Tips](marketing-and-testing-opportunities-tools-tips/section-introduction-wip.md)
 
-_'practical' issues:_ focusing on 'testing marketing', but also relevant to  'doing marketing'&#x20;
+Here we share tools to implement planned trials, as well as tips relevant to 'doing marketing'. We answer questions like how to set up campaigns and track outcomes on various platforms.  &#x20;
 
 ### 3) [Research Design and Methodology](methodological-discussion/section-introduction-wip.md)
 
-_The idea:_ We discuss these issues and separate sections and _link to them_ when discussing specific trials
-
-* [Qualitative design issues](methodological-discussion/qualitative-design-issues.md)
-* [Quantitative design and method issues](methodological-discussion/experimental-design-methods-issues.md)
+We discuss qualitative and quantiative research design and methodology issues that are relevant to the trials we are running. Pages in this section will be linked in reports when relevant to a particular trial.  &#x20;
 
 ### 4) [Profiling and Segmentation Project](profiling-and-segmentation/section-introduction.md)
 
-This project considers "whom to target"
+Our profiling project aims to help better understand what sorts of people are amenable to EA-related ideas and to taking EA-favored actions. &#x20;
 
 ### **5)** [**(In)effective Altruistic Choices: Review of Theory and Evidence**](background/section-introduction.md)****
 
-* _****_[What is known/models of effective giving](background/models-theories-psychological-norms.md),
+We've done a thorough review of existing literature to inform the trials we are running and identify important research topics.&#x20;
+
+* _****_[What is known/models of effective giving](background/models-theories-psychological-norms.md)
 * [Principles and theories behind potential trials](background/tools-and-trials-overview/tools-interventions-principles.md)
-* [Tools and trials](organization-and-overview/broken-reference/): specific things we want to do/test; (partly) grouped by 'outcomes' (esp. [effectiveness](organization-and-overview/broken-reference/) & [commitment](organization-and-overview/broken-reference/))
 
 
 
