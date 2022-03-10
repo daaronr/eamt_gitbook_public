@@ -5,10 +5,13 @@ description: >-
   used to promote effective giving and action.
 ---
 
-# EA Market testing (public version)
+# EA Market testing
 
 {% hint style="warning" %}
 We are in the process of restructuring the gitbook! You may see some sections and pages that are incomplete, but they will be updated soon.
+
+\
+This is the public version of the gitbook; the private version has more details on upcoming trials, which we hope to share as soon as possible&#x20;
 {% endhint %}
 
 ## What is the "EA Market Testing Team"?
@@ -23,6 +26,10 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 * Run a broad set of powerful trials and experiments (esp. in large-scale settings), gathering evidence on ‘what works best to promote meaningful actions (donations and commitments) in specific cases as well as general principles and approaches
 * Conduct [profiling, survey, and segmentation activities and trials](broken-reference), building evidence on which types of people are most responsive to effective giving messages and appeals
 * Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics
+
+## What have we accomplished?&#x20;
+
+For an overview of our progress and ongoing work, see [tip-o-the-spear.md](tip-o-the-spear.md "mention") (we are building this account). Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible.&#x20;
 
 ## How to get involved?
 

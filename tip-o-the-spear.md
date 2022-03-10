@@ -4,6 +4,14 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 # 🗡 Tip-o-the-spear
 
+## What have we accomplished, and what are we working on?&#x20;
+
+{% hint style="info" %}
+_Watch this space. We will give an overview of this shortly (_10 Mar 2022)
+{% endhint %}
+
+
+
 ## Latest/best campaigns, trials, initiatives
 
 ### [One for the World](tip-o-the-spear.md#oftw)

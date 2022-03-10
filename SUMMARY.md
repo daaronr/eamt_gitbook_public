@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EA Market testing (public version)](README.md)
+* [EA Market testing](README.md)
 * [📕 Gitbook content overview](gitbook-content-overview.md)
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
 * [📖 Overview: Posts and writings](overview-ea-forum-post.md)
