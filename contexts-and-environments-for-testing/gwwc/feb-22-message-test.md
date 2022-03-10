@@ -1,4 +1,18 @@
-# Feb 22 Message Test
+# Message Test (Feb 2022)
+
+## Summary
+
+**Main Question:** Do some message themes work better than others for drawing visitors to Giving What We Can’s landing page?&#x20;
+
+**Main findings:** Social proof messages on Facebook ads were most effective at generating land page views per dollar compared to other message themes (effectiveness, services, giving more and values). Link to all results here.&#x20;
+
+**Future directions:** There were significant differences in link clicks per dollar on the different messages by age. We recommend a systematic test to determine if age makes a difference in the relative effectiveness of social proof and values messages. Future studies could explore why the social proof message was more effective in this study than the previous giving guide study and the importance of the message “joining” the movement as social proof.
+
+[Link](https://docs.google.com/document/d/1yFU3-P3dlwP9IZ0yEbD\_k9ePZQGK0NJ7o8G27HVi6yM/edit?usp=sharing) to report below.&#x20;
+
+{% embed url="https://docs.google.com/document/d/1yFU3-P3dlwP9IZ0yEbD_k9ePZQGK0NJ7o8G27HVi6yM/edit?usp=sharing" %}
+
+## Pretrial reporting template:&#x20;
 
 ### **General idea, main 'hypothesis' (if there is one)**
 
