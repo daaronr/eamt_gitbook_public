@@ -10,19 +10,19 @@
 * [Team, resources, procedures](organization-and-overview/our-team-and-resources/README.md)
   * [Procedures, FAQs](organization-and-overview/our-team-and-resources/procedures-faqs.md)
 
-## Partner organizations, contexts, and trials
+## Partner organizations and trials
 
-* [One For the World (OftW)](partner-organizations-contexts-and-trials/one-for-the-world-oftw/README.md)
-  * [pre-giving-tuesday-email split test (+)](partner-organizations-contexts-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
-    * [Preregistration: OftW pre-GT](partner-organizations-contexts-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
-* [GWWC](partner-organizations-contexts-and-trials/gwwc/README.md)
-  * [Pledge page (options trial) (+)](partner-organizations-contexts-and-trials/gwwc/pledge-page-options-trial.md)
-  * [Other trials in progress: Home page, giving guides, advertising](partner-organizations-contexts-and-trials/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/README.md)
-    * [(YouTube Remarketing (+))](partner-organizations-contexts-and-trials/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/youtube-remarketing-+.md)
-* [Charities/fundraisers and impact information](partner-organizations-contexts-and-trials/charities-fundraisers-and-impact-information/README.md)
-  * [ICRC - quick overview (+)](partner-organizations-contexts-and-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
-  * [CRS/DV: overview (+)](partner-organizations-contexts-and-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
-* [Other orgs/approaches in progress](partner-organizations-contexts-and-trials/other.md)
+* [One For the World (OftW)](partner-organizations-and-trials/one-for-the-world-oftw/README.md)
+  * [pre-giving-tuesday-email split test (+)](partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
+    * [Preregistration: OftW pre-GT](partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
+* [GWWC](partner-organizations-and-trials/gwwc/README.md)
+  * [Pledge page (options trial) (+)](partner-organizations-and-trials/gwwc/pledge-page-options-trial.md)
+  * [Other trials in progress: Home page, giving guides, advertising](partner-organizations-and-trials/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/README.md)
+    * [(YouTube Remarketing (+))](partner-organizations-and-trials/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/youtube-remarketing-+.md)
+* [Charities/fundraisers and impact information](partner-organizations-and-trials/charities-fundraisers-and-impact-information/README.md)
+  * [ICRC - quick overview (+)](partner-organizations-and-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
+  * [CRS/DV: overview (+)](partner-organizations-and-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
+* [Other orgs/approaches in progress](partner-organizations-and-trials/other.md)
 
 ## Marketing & testing: opportunities, tools, tips
 

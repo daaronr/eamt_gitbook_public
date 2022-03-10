@@ -16,7 +16,7 @@ _Watch this space. We will give an overview of this shortly (_10 Mar 2022)
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
-[pre-giving-tuesday-email-split-test-+](partner-organizations-contexts-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/ "mention")
+[pre-giving-tuesday-email-split-test-+](partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/ "mention")
 
 * Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
   * Preliminary results: similar performance, but little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
@@ -26,9 +26,9 @@ _Watch this space. We will give an overview of this shortly (_10 Mar 2022)
 
 ### [GWWC](tip-o-the-spear.md#gwwc)
 
-*   "[Pledge page" split-test](partner-organizations-contexts-and-trials/gwwc/pledge-page-options-trial.md#general-idea-main-hypothesis); vary presentations of pledge options (tied to cookies/IP addresses)
+*   "[Pledge page" split-test](partner-organizations-and-trials/gwwc/pledge-page-options-trial.md#general-idea-main-hypothesis); vary presentations of pledge options (tied to cookies/IP addresses)
 
-    _<mark style="background-color:yellow;">We have</mark>_ [some results](partner-organizations-contexts-and-trials/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
+    _<mark style="background-color:yellow;">We have</mark>_ [some results](partner-organizations-and-trials/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
 
     * <mark style="background-color:orange;">Next steps</mark>_<mark style="background-color:yellow;">: more detailed analysis and write-up (check/replicate/extend Google optimize Bayesian analysis in code)</mark>_
 * [YouTube remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md).
@@ -55,6 +55,6 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 * JustGiving social giving trial (details redacted because ongoing)
 * Facebook encouraging fundraisers trial (details redacted because ongoing)
 * Integrating evidence from (own and others') field experiments on the '[impact of impact information in charitable campaigns'](https://daaronr.github.io/dualprocess/index.html); original and meta-analysis
-  * "New": DonorsVoice/CRS, ICRC [#icrc-quick-overview](partner-organizations-contexts-and-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md#icrc-quick-overview "mention")
+  * "New": DonorsVoice/CRS, ICRC [#icrc-quick-overview](partner-organizations-and-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md#icrc-quick-overview "mention")
   * 'Published': Karlan and Wood (2017), Bergh and Reinstein (2020)
 * Updates to ["Increasing effective giving"](https://daaronr.github.io/ea\_giving\_barriers/index.html) synthesis, and to resources in this gitbook
