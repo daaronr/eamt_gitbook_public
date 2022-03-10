@@ -7,6 +7,26 @@ description: >-
 
 # GWWC
 
+## GWWC: Tip of the Spear
+
+*   "[Pledge page" split-test](broken-reference); vary presentations of pledge options (tied to cookies/IP addresses)
+
+    _<mark style="background-color:yellow;">We have</mark>_ [some results](broken-reference) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
+
+    * <mark style="background-color:orange;">Next steps</mark>_<mark style="background-color:yellow;">: more detailed analysis and write-up (check/replicate/extend Google optimize Bayesian analysis in code)</mark>_
+* [YouTube remarketing](youtube-remarketing.md).
+  * Prelim results: benchmarks on cost per view, relative performance of best/worst videos
+  * <mark style="background-color:orange;">Next steps</mark>: DR and JL (& others?) to liaise with JS to extract more insight, including about giving outcomes
+* [Considering text for Facebook ad for GWWC](facebook-ads-gwwc.md); ad seeks to get people to enter their email. ... (what themes?)
+  * _<mark style="background-color:purple;">Status?</mark>_
+    * _GA: Think this should be put on hold while we continue Giving Guide tests, and then use results to inform this test later._
+* Collecting ideas: aiming for testing at multiple points in the funnel ([Airtable](https://airtable.com/shrUGJuhyxrKGMEUm), Gdoc)
+* Multivariate testing for CTA on the How Rich Am I? Calculator
+  * Test options like: Download giving guide, make a donation, sign up to newsletter, pledge, share calculator, read more
+  * Want to understand what is a good hook to keep new visitors exploring and learning
+
+##
+
 ## Giving What We Can: ideas and opportunities
 
 **Eager** to learn from existing work, run tests on GWWC platform, and support research into this.\

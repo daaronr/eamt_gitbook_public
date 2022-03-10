@@ -9,6 +9,12 @@ description: The Life You Can Save.
 Leads: Bilal Siddiqi, Neela Saldhana;\
 Other partner contact: Jon Behar (Giving Games)
 
+## TLYCS: Tip of the Spear
+
+* Various trials with JS, including [advisor-signup-portland](advisor-signup-portland/ "mention") city-level Youtube test;
+  * Preliminary results: very low 'advisor signup' response, underpowered; simple presentation of results @port difference in difference in difference analysis of how many sessions (by pre/post, year-to-year, Portland vs other), to see if the ad lead to clicks
+* Considering a '[funds recommendations trial'](funds-recommendations-trial.md) with different options and 'prompted consideration'. <mark style="background-color:purple;">Status?</mark>
+
 ## Proposed trials and tests, initiatives, and plans
 
 ### **Bespoke recommendations and funds**

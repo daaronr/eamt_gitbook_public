@@ -20,20 +20,9 @@ description: >-
 
 ## Background on OftW
 
-_What is OftW and how does it differ from others in this space?_
+{% embed url="https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/one-for-the-world-oftw" %}
 
-* Chloe: Focus on youth and university students at a pivotal point in their life
-  * Accessible messaging, more of a starting point, less gatekeeping
-* David: 1% is 'more manageable' as a starting point perhaps
-* Luke: Narrow focus on type of charities: global health and poverty
-
-OFTW has a donor base of \~700 active donors, \~1650 pledged donors (who pledged but haven't started donating yet) and \~2000 lapsed donors.
-
-80 percent (of donors?) are in the USA
-
-Focus on global health charities
-
-They focus on donations to GiveWell charities ... but technically OftW pledgers can give to any 510c3
+__
 
 ### Some key goals
 

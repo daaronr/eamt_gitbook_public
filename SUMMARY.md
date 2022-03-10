@@ -44,7 +44,7 @@
     * [Results (first-pass)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/results-first-pass.md)
   * [Funds/recommendations trial (proposed)](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md)
 * [80000 hours](contexts-and-environments-for-testing/80000-hours/README.md)
-  * [(Facebook campaign)](contexts-and-environments-for-testing/80000-hours/facebook-campaign.md)
+  * [Facebook campaign](contexts-and-environments-for-testing/80000-hours/facebook-campaign.md)
   * [YouTube awareness; UPenn](contexts-and-environments-for-testing/80000-hours/youtube-awareness-upenn-+.md)
 * [FB birthday trial](contexts-and-environments-for-testing/fb-birthday-trial-brief/README.md)
   * [Page 1](contexts-and-environments-for-testing/fb-birthday-trial-brief/page-1.md)

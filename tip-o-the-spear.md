@@ -56,40 +56,26 @@ _Previous updates: see tabs_
 
 ### [#oftw-tip-of-the-spear](contexts-and-environments-for-testing/one-for-the-world/#oftw-tip-of-the-spear "mention")
 
-### [GWWC](tip-o-the-spear.md#gwwc)
+### [#gwwc-tip-of-the-spear](contexts-and-environments-for-testing/gwwc/#gwwc-tip-of-the-spear "mention")
 
-*   "[Pledge page" split-test](broken-reference); vary presentations of pledge options (tied to cookies/IP addresses)
+### [#tlycs-tip-of-the-spear](contexts-and-environments-for-testing/tlycs/#tlycs-tip-of-the-spear "mention")
 
-    _<mark style="background-color:yellow;">We have</mark>_ [some results](broken-reference) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
+### [#80k-tip-of-the-spear](contexts-and-environments-for-testing/80000-hours/#80k-tip-of-the-spear "mention")
 
-    * <mark style="background-color:orange;">Next steps</mark>_<mark style="background-color:yellow;">: more detailed analysis and write-up (check/replicate/extend Google optimize Bayesian analysis in code)</mark>_
-* [YouTube remarketing](contexts-and-environments-for-testing/gwwc/youtube-remarketing.md).
-  * Prelim results: benchmarks on cost per view, relative performance of best/worst videos
-  * <mark style="background-color:orange;">Next steps</mark>: DR and JL (& others?) to liaise with JS to extract more insight, including about giving outcomes
-* [Considering text for Facebook ad for GWWC](contexts-and-environments-for-testing/gwwc/facebook-ads-gwwc.md); ad seeks to get people to enter their email. ... (what themes?)
-  * _<mark style="background-color:purple;">Status?</mark>_
-    * _GA: Think this should be put on hold while we continue Giving Guide tests, and then use results to inform this test later._
-* Collecting ideas: aiming for testing at multiple points in the funnel ([Airtable](https://airtable.com/shrUGJuhyxrKGMEUm), Gdoc)
-* Multivariate testing for CTA on the How Rich Am I? Calculator
-  * Test options like: Download giving guide, make a donation, sign up to newsletter, pledge, share calculator, read more
-  * Want to understand what is a good hook to keep new visitors exploring and learning
 
-### [The Life You Can Save](contexts-and-environments-for-testing/tlycs/)
 
-* Various trials with JS, including [advisor-signup-portland](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention") city-level Youtube test;
-  * Preliminary results: very low 'advisor signup' response, underpowered; simple presentation of results @port difference in difference in difference analysis of how many sessions (by pre/post, year-to-year, Portland vs other), to see if the ad lead to clicks
-* Considering a '[funds recommendations trial'](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md) with different options and 'prompted consideration'. <mark style="background-color:purple;">Status?</mark>
+<details>
 
-### 80000 hours
-
-* Upcoming [facebook-campaign.md](contexts-and-environments-for-testing/80000-hours/facebook-campaign.md "mention") campaign (we should get info on this)
-* [youtube-awareness-upenn-+.md](contexts-and-environments-for-testing/80000-hours/youtube-awareness-upenn-+.md "mention") Results? <mark style="background-color:purple;">Status?: holdup with the ads, need to deal with some legal issue</mark>
-
-_Bella's goals and interests:_
+<summary>Bella's goals/interests</summary>
 
 * optimize WoM channels, referral campaign
+
+<!---->
+
 * sponsorships (sponsor a podcast, youtube)
-* 80k and Tim Ferris (a bit confounded with different CtA) ...
+* 80k and Tim Ferris (a bit confounded with different CtA) ..
+
+</details>
 
 ### Reinstein & Co
 
