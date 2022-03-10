@@ -1,9 +1,9 @@
 # Table of contents
 
-* [EA Market testing](README.md)
+* [EA Market Testing Introduction](README.md)
 * [📕 Gitbook content overview](gitbook-content-overview.md)
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
-* [📖 Overview: Posts and writings](overview-ea-forum-post.md)
+* [📖 Forum posts and writings](overview-ea-forum-post.md)
 
 ## Organization <a href="#organization-and-overview" id="organization-and-overview"></a>
 
@@ -12,7 +12,8 @@
 
 ## Partner organizations and trials
 
-* [GWWC](partner-organizations-and-trials/gwwc/README.md)
+* [Section introduction (WIP)](partner-organizations-and-trials/section-introduction-wip.md)
+* [Giving What We Can (GWWC)](partner-organizations-and-trials/gwwc/README.md)
   * [Pledge page (options trial) (+)](partner-organizations-and-trials/gwwc/pledge-page-options-trial.md)
   * [Other trials in progress: Home page, giving guides, advertising](partner-organizations-and-trials/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/README.md)
     * [(YouTube Remarketing (+))](partner-organizations-and-trials/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/youtube-remarketing-+.md)
@@ -26,6 +27,7 @@
 
 ## Marketing & testing: opportunities, tools, tips
 
+* [Section introduction (WIP)](marketing-and-testing-opportunities-tools-tips/section-introduction-wip.md)
 * [Environments, tests, tools](marketing-and-testing-opportunities-tools-tips/environments-and-plans/README.md)
   * [Testing Contexts: Overview](marketing-and-testing-opportunities-tools-tips/environments-and-plans/future-avenues.md)
   * [Trial reporting template](marketing-and-testing-opportunities-tools-tips/environments-and-plans/trial-reporting-template.md)
@@ -41,6 +43,7 @@
 
 ## Research Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 
+* [Section introduction (WIP)](methodological-discussion/section-introduction-wip.md)
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
 * ["Quant" Experimental design/analysis methods/issues](methodological-discussion/experimental-design-methods-issues.md)
   * [Splits/randomization in practice](methodological-discussion/splits-randomization/README.md)
