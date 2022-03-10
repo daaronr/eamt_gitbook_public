@@ -12,7 +12,7 @@
 
 ## Partner organizations and trials
 
-* [Section introduction (WIP)](partner-organizations-and-trials/section-introduction-wip.md)
+* [Section introduction](partner-organizations-and-trials/section-introduction.md)
 * [Giving What We Can (GWWC)](partner-organizations-and-trials/gwwc/README.md)
   * [Pledge page (options trial) (+)](partner-organizations-and-trials/gwwc/pledge-page-options-trial.md)
   * [Other trials in progress: Home page, giving guides, advertising](partner-organizations-and-trials/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/README.md)

@@ -10,13 +10,9 @@ description: What you can find in the gitbook
 
 ## Five Key Sections
 
-### 1) [Partner Organizations and Trials](partner-organizations-and-trials/section-introduction-wip.md)
+### 1) [Partner Organizations and Trials](partner-organizations-and-trials/section-introduction.md)
 
-1.
-2. Cross-organization plans
-3. By each organization
-   1. Background on the organization and the environments within
-   2. Plans and progress on trials within each
+In this section of the gitbook, you will find reports of the trials we have run with organizations, including Giving What We Can and One For the World. We also include background on the organization and their priorities for testing.&#x20;
 
 ### 2) [Marketing & Testing: Opportunities, Tools, Tips](marketing-and-testing-opportunities-tools-tips/section-introduction-wip.md)
 
