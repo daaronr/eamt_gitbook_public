@@ -25,13 +25,7 @@
 * [Charities/fundraisers and impact information](contexts-environments-plans-tests/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](contexts-environments-plans-tests/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview (+)](contexts-environments-plans-tests/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
-* [Other orgs/approaches in progress](contexts-environments-plans-tests/other/README.md)
-  * [(EA university groups)](contexts-environments-plans-tests/other/ea-university-groups.md)
-  * [(Schools/young people/education; see 'Charity Elections' project)](contexts-environments-plans-tests/other/schools-young-people-education-see-charity-elections-project.md)
-  * [(Adjacent orgs: FLI, Founders' pledge, Animal Charity Evaluators)](contexts-environments-plans-tests/other/adjacent-orgs-fli-founders-pledge-animal-charity-evaluators.md)
-  * [(GiveWell)](contexts-environments-plans-tests/other/givewell.md)
-  * [(80000 hours)](contexts-environments-plans-tests/80000-hours.md)
-  * [(TLYCS)](contexts-environments-plans-tests/tlycs.md)
+* [Other orgs/approaches in progress](contexts-environments-plans-tests/other.md)
 
 ## Marketing Implementation strategies and tips
 

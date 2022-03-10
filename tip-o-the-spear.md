@@ -8,7 +8,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
 
 ### [One for the World](tip-o-the-spear.md#oftw)
 
-1. [pre-giving-tuesday-email-split-test-+](contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/ "mention")
+[pre-giving-tuesday-email-split-test-+](contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/ "mention")
 
 * Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
   * Preliminary results: similar performance, but little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
@@ -27,7 +27,7 @@ description: What's the latest? Where are we up to? What are we pushing on now?
   * V prelim results: benchmarks on cost per view, relative performance of best/worst videos
 * Considering and preparing a range of further tests into outreach messaging, content, and calls to action.
 
-### [The Life You Can Save](contexts-environments-plans-tests/tlycs.md)
+### [The Life You Can Save](broken-reference)
 
 * Ambitious city-level Youtube advertising tests; gaining benchmark measures for 'cost of page views' and other outcomes
 * Considering other content-related trials
