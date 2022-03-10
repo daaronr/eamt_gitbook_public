@@ -28,11 +28,6 @@ Our profiling project aims to help better understand what sorts of people are am
 
 ### **5)** [**(In)effective Altruistic Choices: Review of Theory and Evidence**](background/section-introduction.md)****
 
-We've done a thorough review of existing literature to inform the trials we are running and identify important research topics.&#x20;
-
-* _****_[What is known/models of effective giving](background/models-theories-psychological-norms.md)
-* [Principles and theories behind potential trials](background/tools-and-trials-overview/tools-interventions-principles.md)
-
-
+We've done a thorough review of existing literature to inform the trials we are running and identify important research topics.  This includes [What is known/models of effective giving](background/models-theories-psychological-norms.md) and [Principles and theories behind potential trials](background/tools-and-trials-overview/tools-interventions-principles.md).
 
 ### You can find references and other resources in the [appendix](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/a3YtWoUiYYfiEQrBNztC/\~/changes/7Q4Bqy0OMc9U0FHT6mkP/appendix/how-this-gitbook-works).
