@@ -12,13 +12,13 @@
 
 ## Partner organizations and trials
 
-* [One For the World (OftW)](partner-organizations-and-trials/one-for-the-world-oftw/README.md)
-  * [pre-giving-tuesday-email split test (+)](partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
-    * [Preregistration: OftW pre-GT](partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
 * [GWWC](partner-organizations-and-trials/gwwc/README.md)
   * [Pledge page (options trial) (+)](partner-organizations-and-trials/gwwc/pledge-page-options-trial.md)
   * [Other trials in progress: Home page, giving guides, advertising](partner-organizations-and-trials/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/README.md)
     * [(YouTube Remarketing (+))](partner-organizations-and-trials/gwwc/other-trials-in-progress-home-page-giving-guides-advertising/youtube-remarketing-+.md)
+* [One For the World (OftW)](partner-organizations-and-trials/one-for-the-world-oftw/README.md)
+  * [pre-giving-tuesday-email split test (+)](partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
+    * [Preregistration: OftW pre-GT](partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
 * [Charities/fundraisers and impact information](partner-organizations-and-trials/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](partner-organizations-and-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview (+)](partner-organizations-and-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
