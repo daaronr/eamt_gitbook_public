@@ -96,7 +96,7 @@
 
 * [Legacies/bequests (exploring)](legacies-bequests-exploring/README.md)
   * [Research: motivating bequest/legate giving](legacies-bequests-exploring/research-motivating-bequest-legate-giving.md)
-* [Discussion: "Lab-esque" experiments/surveys](lab-esque-experiments-and-surveys.md)
+* [Discussion: "A large-scale online experiment" (participants-aware)](https://docs.google.com/document/d/1s3d0LYlFzmdV00gGji9AugOM7C7Dh3SVk0JbzlEhMFY/edit?usp=sharing)
 
 ## Grants, funding, reports, admin
 
