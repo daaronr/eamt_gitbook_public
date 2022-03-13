@@ -1,4 +1,18 @@
-# Feb 22 Message Test
+# Message Test (Feb 2022)
+
+## Summary
+
+**Main Question:** Do some message themes work better than others for drawing visitors to Giving What We Can’s landing page?&#x20;
+
+**Main findings:** Social proof messages on Facebook ads were most effective at generating land page views per dollar compared to other message themes (effectiveness, services, giving more and values).
+
+**Future directions:** There were significant differences in link clicks per dollar on the different messages by age. We recommend a systematic test to determine if age makes a difference in the relative effectiveness of social proof and values messages. Future studies could explore why the social proof message was more effective in this study than the previous giving guide study and the importance of the message to “join” the movement as social proof.
+
+[Link](https://docs.google.com/document/d/1yFU3-P3dlwP9IZ0yEbD\_k9ePZQGK0NJ7o8G27HVi6yM/edit?usp=sharing) to report below.&#x20;
+
+{% embed url="https://docs.google.com/document/d/1yFU3-P3dlwP9IZ0yEbD_k9ePZQGK0NJ7o8G27HVi6yM/edit?usp=sharing" %}
+
+## Pretrial reporting template:&#x20;
 
 ### **General idea, main 'hypothesis' (if there is one)**
 
@@ -64,26 +78,3 @@ Mock up of ad:
 * Data will live on Meta ads platform
 
 ****
-
-## Ex-post: Reporting results (brief)
-
-### Implementation and data collection
-
-1. Did it go as planned? Any departures? (Timing, randomization, design changes, etc)
-2. How much/what data was collected? How many observations?
-3. Where is the data stored (also link/adjust the above), who has it, and under what conditions?
-
-### Basic results/outcomes
-
-1. "Partners and stakeholders opinions": were they happy with the trial? Did they seem to think it was a success?
-2. Simplest statement (e.g., "3% donated in the treatment versus 2.2% in the control, with an average amount raised of $4.3 in the treatment and $3.1 in the control')
-3. Preliminary interpretation, with statistical test if possible (e.g., 'google Optimize states an 80% chance that the treatment outperformed the control', a Fisher's exact test yields a p=0.06 that a positive donations was more likely in the treatment than the control)
-4. "Full analysis"
-   1. Who/what when will it be done?
-   2. Link to 'where' it will be done (both the 'follow up the pre-analysis plan, and the full write-up, if applicable)
-   3. Possibly: Briefly characterize the overall confusions/state of analysis here (state the date last updated)
-5. Feeding synthesis and meta-analysis
-   1. Which generalizable questions does this inform?
-   2. Is data sharable? Key comparable outcomes?
-   3. What other work/trials does this relate to?
-   4. State of meta-analysis

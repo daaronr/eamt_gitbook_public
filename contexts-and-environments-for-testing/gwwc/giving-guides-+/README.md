@@ -1,8 +1,17 @@
 # Giving guides - Facebook(+)
 
+## Summary
+
+**Main findings:**&#x20;
+
+* The cost of an email address via a Facebook campaign during Giving Season was as low as $8.00 dollars across campaigns but could be lower with more targeting.&#x20;
+* “Only 3% of people give effectively,” seems to be an effective message for generating link click and email addresses vs. the other messages.&#x20;
+* Lookalike and animal rights audiences seem the most promising audiences.&#x20;
+* Demographics are not very predictive on a per-$ basis.
+
 ## Writeup and results
 
-Written up in [Google Doc _HERE_ ](https://docs.google.com/document/d/1FfrXhD1YAIjrATy9PR6ScP20NMQa82sd80YvMb62iUQ/edit)(embedded below) -- give key bullet points within Gitbook? ****&#x20;
+****[**Link**](https://docs.google.com/document/d/1FfrXhD1YAIjrATy9PR6ScP20NMQa82sd80YvMb62iUQ/edit?usp=sharing) **to the report below**
 
 {% embed url="https://docs.google.com/document/d/1FfrXhD1YAIjrATy9PR6ScP20NMQa82sd80YvMb62iUQ/edit" %}
 
