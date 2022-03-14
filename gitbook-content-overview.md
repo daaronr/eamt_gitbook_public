@@ -6,7 +6,7 @@ description: What you can find in the gitbook
 
 ## **Introduction**
 
-* Including our [mission](./), [what we are trying to do and why](overview-ea-forum-post.md), [most recent updates](tip-o-the-spear.md), and the organization of [our team](our-team-and-resources/)
+* Including our [mission](./), [what we are trying to do and why](overview-ea-forum-post.md), [most recent updates](tip-o-the-spear.md), and the organization of [our team](our-team-and-resources.md)
 
 ## Five Key Sections
 

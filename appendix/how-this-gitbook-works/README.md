@@ -32,9 +32,9 @@ _**Update**_: as of 15 Oct 2021 Gitbook has changed its protocols. You now need 
 * click the icon in the upper right to 'start a change request',
 * and then 'submit' this request when you are ready (ideally, with a brief informative message explaining what you have done.
 
-![](<../../.gitbook/assets/images\_moved/image (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/images\_moved/image (2) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
 
 Give it a try. Once you 'submit', you, or someone else can 'merge' it in.
 
@@ -52,11 +52,11 @@ If you have the Administrator status, you can merge in your own, or others' chan
 
 **What if I get a 'conflict'?** If 2 people edit simultaneously and both make changes they try to merge in, this can happen. It should be simple enough to resolve. Just find the icon for the bits indicating a conflict, and choose which version you want to keep.
 
-![](<../../.gitbook/assets/image (2) (2) (2) (2).png>)
+![](<../../.gitbook/assets/image (2) (2) (2) (1).png>)
 
 It should be simple enough to resolve.
 
-![](<../../.gitbook/assets/images\_moved/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 Just find the icon for the bits indicating a conflict in the outline bar (that arrow triangle thing), go to that section/those sections, and choose which version you want to keep.
 
@@ -74,7 +74,7 @@ The markdown and project organization syntax is a little bit distinct from other
 
 The folders have meaning for the structure of sections, I think, but the SUMMARY.md file seems to govern most of it. \\
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 There is a particular dash-separated 'description' section at the top of each .md\
 And there are some special code elements like
