@@ -42,62 +42,9 @@ Specific next steps and internal deadlines
 
 ### 1. EA Market Testing  (EAMT)  team
 
-**Josh Lewis (NYU) and David Reinstein have**&#x20;
+_****_[_Working progress report (link)_](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit#)__
 
-**... Brought together key players** from EA giving and pledge organizations, especially [80k](../contexts-and-environments-for-testing/80000-hours/), [**GWWC**](../contexts-and-environments-for-testing/gwwc/)**,** [**TLYCS**](../contexts-and-environments-for-testing/tlycs/)**,** and [**OftW**](../contexts-and-environments-for-testing/one-for-the-world/)**,** consulting with [givewell.md](../contexts-and-environments-for-testing/other/givewell.md "mention") and [Others](../contexts-and-environments-for-testing/other/) ,&#x20;
-
-... as well as applied academics, and marketing experts. **Our team** is listed [HERE](../our-team-and-resources.md). We have held a number of small-group meetings, and we are preparing for our third general meeting -- see [#meeting-agendas](../tip-o-the-spear.md#meeting-agendas "mention"))
-
-**... Created a** shared space ([HERE](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/-Mf8cHxdwePMZXRTKnEE/); i.e., the present context, a private wiki-style 'Gitbook') to coordinate our plans, resources, and insights (as well as a Slack group and an [Airtable](broken-reference) for structured content),&#x20;
-
-... while building with a parallel [Public](https://effective-giving-marketing.gitbook.io/untitled/) page for sharing insights and tools with the general EA community (other than sensitive content and ongoing trials )
-
-\
-<mark style="background-color:green;">Our goal is to learn specific and generalizable insights, about both practical methods and general themes and motivations \[will flesh this out] ... within this context...</mark>
-
-<mark style="background-color:green;"></mark>
-
-**Pushed forward, assisted, and documented** **a set of marketing trials,** some underway and some complete, with insights, including...
-
-[gwwc](../contexts-and-environments-for-testing/gwwc/ "mention"):
-
-1. Evidence from 'Facebook ad/Giving Guide' trial (with meaningful 'email signups') with insights ([Gdoc link](https://docs.google.com/document/d/1FfrXhD1YAIjrATy9PR6ScP20NMQa82sd80YvMb62iUQ/edit#heading=h.zex9e5t56rt)) about&#x20;
-
-* cost per email signup (as low as $8),&#x20;
-* most/least promising messages (best: “Only 3% of people give effectively”, worst: "GWWC has helped 6000+ people"),
-* most promising audiences ('lookalike' and 'animal rights' best; little 'per-dollar' benefit from demographic targeting)&#x20;
-
-2\. Evidence from GWWC pledge-page design trial <mark style="background-color:yellow;">suggesting</mark> [<mark style="background-color:yellow;">'too many options/try-giving option may reduce take-up'</mark>](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/gwwc/pledge-page-options-trial) <mark style="background-color:yellow;"></mark>&#x20;
-
-
-
-<mark style="background-color:yellow;"></mark>[one-for-the-world](../contexts-and-environments-for-testing/one-for-the-world/ "mention")<mark style="background-color:yellow;">:</mark>
-
-*   &#x20;[pre-giving-tuesday-email-split-test](../contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/ "mention"): This (perhaps uniquely) considers the presentation of _emotional versus impact_ information for EA-aligned/adjacent donors. (Note that [Will MacAskill has expressed interest](https://docs.google.com/document/d/1JVy1uK1x5vCAJTwwCJdUPvYAZBJeLBpfEMY9Tqx1-MY/edit#) in testing this particular framing comparison.)  _Preliminary results (_still needs updating for newer data)_:_
-
-    * Overall low donation response to 'upsell campaign'
-    * Can rule out a large difference (of 2.5x incidence or more), otherwise underpowered
-
-
-
-[tlycs](../contexts-and-environments-for-testing/tlycs/ "mention")
-
-* [advisor-signup-portland](../contexts-and-environments-for-testing/tlycs/advisor-signup-portland/ "mention"):  YouTube ads targeted the top-10% income households in Portland, advertising 'donation advisors'. Simple results...
-  * Very few signups for the 'concierge advising service'
-  * Estimated $32.4 cost per unique user click (year-on-year difference-in-difference from comparison cities)
-    * Estimates from Portland YoY = $24.69, absolute lower bound $13.07 &#x20;
-
-_****_
-
-_**Current pushes and updates**_:
-
-* **Erin Morrissey **_**joined** as a_ project management and research assistant for  20 hours/week, with a heavy emphasis on improving internal and external communications.  She is currently NYU-funded and is applying for [EAIF funds to be Ops+RA](https://docs.google.com/document/d/1aLiwVnV724ggnS6zSCRixb7stVGOcCosdqdYo0BojL4/edit). Her work will enable faster and more organized follow-through and communication, and help our team stay active, focused, and motivated.
-* **Further analysis** of above data and careful and **clear sharing of results,** both internally, in the public gitbook (e.g., the [reporting in progress here](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/gwwc/pledge-page-options-trial)), and (coming soon, we hope) on the EA Forum and other places, including some aiming at academic feedback.
-* Further trials and experiments for 'quick wins and proofs-of-concept'; good progress on getting people to carefully document using the [trial-reporting-template](../processes-and-procedures/trial-reporting-template/ "mention")
-* Integrate [80000-hours](../contexts-and-environments-for-testing/80000-hours/ "mention") into the project, helping them plan and share data for their upcoming trials, including a Facebook marketing campaign.
-* **Build structure and resources** for continuous systematic marketing, testing, and sharing insights.
-* Working on "forking and partially **outsourcing" the** [**marketing implementation**](../core-knowledge-base/marketing-implementation-and-practical-tips/) ("procedures and received-wisdom best practice") aspect of the project
-  * JS Winchell has an EAIF grant to explore an 'EA digital marketing agency'; their work should feedback into our knowledge base (including the Gitbook) and free up  bandwidth for our quantitative and social science researchers to 'focus on the analysis'
+{% embed url="https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit#" %}
 
 ### 2. "[Impact of impact information](../contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/)" experiments and synthesis
 
