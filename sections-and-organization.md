@@ -22,7 +22,7 @@ This includes some important [tutorials and guides](broken-reference) to our res
 
 {% embed url="https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works/other-tech" %}
 
-__[_Edit link for the above sections in public gitbook_](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/supplements-references-tools-and-further-details/how-this-gitbook-works)_​_
+__[_Edit link for the above sections in public gitbook_](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/appendix/how-this-gitbook-works)_​_
 
 #### _"Background...":_&#x20;
 

@@ -52,6 +52,7 @@
   * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
   * [(Social influence - JustGiving)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/social-influence-justgiving.md)
+* [Surveys/survey platforms](contexts-and-environments-for-testing/surveys-survey-platforms.md)
 * [Other orgs/approaches](contexts-and-environments-for-testing/other/README.md)
   * [EA university groups](contexts-and-environments-for-testing/other/ea-university-groups.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
