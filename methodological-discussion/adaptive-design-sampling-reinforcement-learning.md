@@ -14,7 +14,7 @@ Dillon Bowen: End of 3rd year of decision processes in Wharton PHd.
 
 > Here is a stats package for estimating effect sizes in multi-armed experiments. [https://dsbowen.gitlab.io/conditional-inference/](https://dsbowen.gitlab.io/conditional-inference/)
 
-### **Adaptive experimentation software**
+### Adaptive experimentation software
 
 > Of potential interest: I've run some very promising MTurk pilots using my adaptive experimentation software. Compared to traditional random assignment, it increases statistical power, identifies higher-value treatments, and results in more precise estimates of the effectiveness of top-performing treatments. From simulations, I estimate that the gains from adaptive experimentation are approximately equivalent to increasing your sample size by 2x-8x (depending on the distribution of effect sizes).
 

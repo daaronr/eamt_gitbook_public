@@ -19,7 +19,7 @@ When we consider an experiment providing 'real impact information' to potential 
 
 _There are very often tradeoffs of this sort._
 
-## **Awareness of testing can affect results**
+## Awareness of testing can affect results
 
 In the present context, we have posted about our work, in general terms, on a public forum ([EA forum post](../overview-ea-forum-post.md#ea-forum-post)). Thus the idea that ‘people are running experiments to promote effective giving and EA ideas’ is not a well-kept secret. If participants in our experiments and trials are aware of this it may affect their choices and responses to treatments. This general set of problem is referred to in various ways, referring to different aspects of this; see 'experimenter demand', 'desirability bias', 'arbitrary coherence/coherent arbitrariness', observer bias (?), etc.
 
