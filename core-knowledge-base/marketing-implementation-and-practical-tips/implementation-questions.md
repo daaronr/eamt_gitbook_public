@@ -7,6 +7,4 @@ description: >-
 
 # Implementation questions
 
-
-
-1. Can we randomize ads after the auction on Facebook/Google ads?&#x20;
+1. Can we randomize ads "after the auction" on Facebook/Google ads? Otherwise we face a well-known issue that FB will server different ads to different audiences, making our inference less generalizable.&#x20;
