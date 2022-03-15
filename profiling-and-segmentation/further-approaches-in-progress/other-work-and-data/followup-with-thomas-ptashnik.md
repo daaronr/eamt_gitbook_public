@@ -4,14 +4,16 @@
 
 Thomas Ptashnik is a Psychology PhD student interested in working on this with us. He is using the SOEP-Core data and familiar with SEM/Latent variable methods.
 
-He notes:
+<details>
 
-> We can definitely access the Fehr data (and don't need to get their permission them to do so). If you want to get a better sense of the questions available to us, [here's](https://data.nber.org/data-appendix/w26555/ONLINE%20APPENDIX%20-%20Your%20Place%20in%20the%20World%20-%20August2021.pdf) the link to the Fehr appendix that contains the survey items they created (starting at Appendix B on page 33).\
-> \
-> If you want to get a better sense of the questions available to us, here's the link to the Fehr appendix that contains the survey items they created (starting at Appendix B on page 33).
+<summary>We have gained access to the relevant data</summary>
 
-Some salient example content:\
-![](<../../../.gitbook/assets/image (3) (1) (1).png>)
+H[ere's](https://data.nber.org/data-appendix/w26555/ONLINE%20APPENDIX%20-%20Your%20Place%20in%20the%20World%20-%20August2021.pdf) the link to the Fehr appendix that contains the survey items they created (starting at Appendix B on page 33).\
+
+
+</details>
+
+### Some salient example content: ![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>) ![](<../../../.gitbook/assets/image (6) (1) (1).png>)
 
@@ -23,26 +25,32 @@ Some salient example content:\
 >
 > These links also mention that individuals with preexisting data access can apply for expanded access. I \[Thomas] have access to SOEP-core version 36 (1984-2020 surveys),..
 
-\
-DR: Some interesting content (at a quick peek)
+<details>
+
+<summary>DR: Some interesting content (at a quick peek)</summary>
+
+
 
 From 2017...
 
-> Q380: What you value in your work likerts ... includes "Having much influence" and "Socially responsible and important work"
->
-> Q160: Optimism/pessimism about the future
->
-> Q162: ... bunch of Likerts on "attitudes towards life and the future" (e.g., 'The options that I have in life are determined by social circumstances.')
+Q380: What you value in your work likerts ... includes "Having much influence" and "Socially responsible and important work"
+
+Q160: Optimism/pessimism about the future
+
+Q162: ... bunch of Likerts on "attitudes towards life and the future" (e.g., 'The options that I have in life are determined by social circumstances.')
 
 From 2019
 
-> ... they seem to collect genetic data
+... they seem to collect genetic data
+
+</details>
+
+\
+
 
 ### A proposed project
 
 **DR notes on** 15 Dec 2021 meeting with [thomas-ptashnik](https://app.gitbook.com/u/0Z9Mh5iZKSXcJDKpkhHIgZojBPJ3 "mention")
-
-Had a good meeting. I think this project has ‘legs’.
 
 #### **Does the Fehr/SOEP data provide valuable 'outcome measures' of EA and effective giving support?**
 
@@ -65,39 +73,44 @@ I envision two related projects on the same data: 1. Building a 'portable' model
 
 * Here we could engage the richer set of SOEP variables and consider latent factors
 
-{% tabs %}
-{% tab title="tabs, restating this .... " %}
-Anonymous colleague:
+<details>
 
-if one simply wants to target people for giving to some specific EA-aligned cause in terms of a donation. In that case of the hypothetical African Christian women are likely to give, and it doesn't matter so much how they get to that decision. Quite a different set of metrics is desired (the kind of things we are trying to get at) if one is trying to actually select/find 'effective altruists'
-{% endtab %}
+<summary>Anonymous colleague; caveats  on 'the two goals'</summary>
 
-{% tab title="the two goals" %}
-> \[RT2] if one simply wants to target people for giving to some specific EA-aligned cause in terms of a donation. In that case of the hypothetical African Christian women are likely to give, and it doesn't matter so much how they get to that decision. Quite a different set of metrics is desired (the kind of things we are trying to get at) if one is trying to actually select/find 'effective altruists'
-{% endtab %}
-{% endtabs %}
+if one simply wants to target people for giving to some specific EA-aligned cause in terms of a donation. In that case of the hypothetical African Christian women are likely to give, and it doesn't matter so much how they get to that decision. Quite a different set of metrics is desired (the kind of things we are trying to get at) if one is trying to actually select/find 'effective altruists'\[RT2] if one simply wants to target people for giving to some specific EA-aligned cause in terms of a donation. In that case of the hypothetical African Christian women are likely to give, and it doesn't matter so much how they get to that decision. Quite a different set of metrics is desired (the kind of things we are trying to get at) if one is trying to actually select/find 'effective altruists'
 
-#### Relevance of the Fehr/Soep outcomes to 'EA propensity'; discussion
+####
+
+</details>
+
+<details>
+
+<summary>Red team</summary>
+
+But I'm less sure about: ..."would prove useful for orgs like GWWC to consider ‘which groups to target in doing outreach’ (and perhaps especially ‘which groups to rule out’)"
+
+\[suppose] you measure something like 'interested in giving to people in poverty in Africa' (or, at best, cosmopolitanism), and you find that the people highest in this are \[Classical music fans], but the people most interested in EA stuff are \[Techno ravers]. I think there are lots of reasons why this might occur. It could be that interest in EA _is_ a combination of cosmopolitanism + interest in maximising effectiveness, but differences in the latter swamp the former. (If so the reasoning would at least be along the right lines, but would potentially be very practically misleading to GWWC)...
+
+But I think what could be going on could be even worse, i.e.:
+
+* The measures measure something like 'not being so parochial that you won't give to a non-German charity', which is (ex hypothes) a _necessary_ condition, but so minimal it's not really informing us about the much more demanding thing
+* ... it measures something more specific/narrow that may be orthogonal or even antagonistic to EA (e.g. interest in overseas charity/poverty specifically \[even if it doesn't maximise effectiveness]). Thought experiment: how would a libertarian-leaning AI-safety concerned German EA respond to the questions?
+
+\[still, this] seems worthwhile... I'd just be very tentative about inferring anything about what GWWC should do etc
+
+</details>
+
+<details>
+
+<summary>Red team analogy</summary>
+
+(I think of this case as a bit like studying interest in Marxism by asking about whether people are interested in helping the poor (or some such) In one sense you might think of this as a necessary condition / people who don't have any concern for this are not likely to be interested in Marxism. OTOH you'll probably mostly be picking up the 99% of people who are interested in helping the poor but not interested in the much more niche / slightly weirder thing that is also closely related to helping the poor, but is also associated with slightly counterintuitive views like 'donating to the poor is not good, you need to be concerned with \[systemic change and global revolution / AI safety] etc.)
+
+</details>
 
 Red team:
 
-> But I'm less sure about: ..."would prove useful for orgs like GWWC to consider ‘which groups to target in doing outreach’ (and perhaps especially ‘which groups to rule out’)"
->
-> \[suppose] you measure something like 'interested in giving to people in poverty in Africa' (or, at best, cosmopolitanism), and you find that the people highest in this are \[Classical music fans], but the people most interested in EA stuff are \[Techno ravers]. I think there are lots of reasons why this might occur. It could be that interest in EA _is_ a combination of cosmopolitanism + interest in maximising effectiveness, but differences in the latter swamp the former. (If so the reasoning would at least be along the right lines, but would potentially be very practically misleading to GWWC)...
->
-> But I think what could be going on could be even worse, i.e.:
->
-> * The measures measure something like 'not being so parochial that you won't give to a non-German charity', which is (ex hypothes) a _necessary_ condition, but so minimal it's not really informing us about the much more demanding thing
-> * ... it measures something more specific/narrow that may be orthogonal or even antagonistic to EA (e.g. interest in overseas charity/poverty specifically \[even if it doesn't maximise effectiveness]). Thought experiment: how would a libertarian-leaning AI-safety concerned German EA respond to the questions?
->
-> \[still, this] seems worthwhile... I'd just be very tentative about inferring anything about what GWWC should do etc
 
-{% tabs %}
-{% tab title="Analogy to " %}
-> \[red team...]\
-> (I think of this case as a bit like studying interest in Marxism by asking about whether people are interested in helping the poor (or some such) In one sense you might think of this as a necessary condition / people who don't have any concern for this are not likely to be interested in Marxism. OTOH you'll probably mostly be picking up the 99% of people who are interested in helping the poor but not interested in the much more niche / slightly weirder thing that is also closely related to helping the poor, but is also associated with slightly counterintuitive views like 'donating to the poor is not good, you need to be concerned with \[systemic change and global revolution / AI safety] etc.)
-{% endtab %}
-{% endtabs %}
 
 > \[red team]
 >
@@ -108,9 +121,16 @@ Red team:
 >
 > \*of course EAs are overwhelmingly liberal/egalitarian, but liberal/egalitarians are overwhelmingly _not_ EA, which I think is an important complication"
 
-DR:
+<details>
+
+<summary>DR and TP response to red team</summary>
+
+
 
 * Good points, and I even think “global redistribution” might rub some actual EAs the wrong way, as well as many EAs rejecting the 'repay our collective guilt' aspect.
+
+<!---->
+
 * Still, GWWC and TLYCS are pushing more for _behaviors_ (esp. giving) than for intellectual alignment with EA. They are also pushing the traditional global poverty part of the EA agenda. I suspect the Fehr/Soep measures will pick up people more receptive to this than to longtermist 'avant garde' EA.
   * _Thomas_**:** This is the main point to highlight. We probably need to limit our generalizability to the[ people-oriented neartermist worldview bucket](https://80000hours.org/podcast/episodes/ajeya-cotra-worldview-diversification/). As the comments above note, I'm not sure this worldview necessarily maps onto the longtermist individual concerned about, say, AI safety risk. However, as you point out, there is still utility in focusing on understanding individuals that have this worldview for GWWC and other EA orgs, and this worldview ([according to the EA survey](https://forum.effectivealtruism.org/s/YLudF7wvkjALvAgni/p/83tEL2sHDTiWR6nwo)) is currently the largest in the community.
     * _DR_**:** Agreed, but we probably need to make sure not to water it down _too much_; ideally we would retain some notion of 'the importance of prioritization and cost-effectiveness' in the worldview we are targeting
@@ -118,6 +138,10 @@ DR:
     * _DR:_ yes but the model that predicts "EA/global poverty supporting types within a general population may be unlikely to predict groups \*among explicit EA's\*" ... still, the comparison could be interesting (and we've done a bit of this already with the EA survey)
   * TP: Also, as a long-term idea, it could be useful to consider developing more EA-oriented items for SOEP-IS (the survey Fehr and colleagues used) that take into account all the issues listed here.
     * DR: that would be great!
+
+</details>
+
+
 
 {% tabs %}
 {% tab title="measures proposed " %}
