@@ -27,20 +27,25 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 * Conduct [profiling, survey, and segmentation activities and trials](broken-reference), building evidence on which types of people are most responsive to effective giving messages and appeals
 * Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics
 
+## Goals and FAQ ([LINK](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#))
+
+_Building a set of interactive notes..._
+
+{% embed url="https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf_e7vsjnDWzWdU_Zv3eUCtEL4/edit#" %}
+
 ## What have we accomplished?&#x20;
 
-For an overview of our progress and ongoing work, see [tip-o-the-spear.md](tip-o-the-spear.md "mention") (we are building this report). Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible.&#x20;
+For an overview of our progress and ongoing work, see the ['progress and results' doc](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit) we are building.
+
+{% embed url="https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit" %}
+
+Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible. \
+
 
 ## How to get involved?
 
 If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr at gmail.com or Erin Morrissey at edonovanmorrissey at gmail.com.
 
 
-
-## Goals, achievements, trajectory ([LINK](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#))
-
-_Building a set of interactive notes..._
-
-{% embed url="https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf_e7vsjnDWzWdU_Zv3eUCtEL4/edit#" %}
 
 ### Next, check out the [Gitbook content overview](gitbook-content-overview.md).
