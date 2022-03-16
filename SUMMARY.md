@@ -4,7 +4,7 @@
 * [📕 Gitbook content overview](gitbook-content-overview.md)
 * [EAMT progress and results](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit#)
 * [Goals, trajectory, FAQs](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#)
-* [🗡 Tip-o-the-spear](tip-o-the-spear.md)
+* [🗡 (Tip-o-the-spear)](tip-o-the-spear.md)
 * [📖 Forum posts and writings](overview-ea-forum-post.md)
 * [👋 Meet the team](our-team-and-resources.md)
 
