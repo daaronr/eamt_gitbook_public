@@ -63,6 +63,24 @@ _Updates:_&#x20;
 * Additional evidence to incorporate from Karlan/Kassirer very large-scale field experiment in a video-gaming context
 * Planning followup (April) experiment with ICRC, which may explore different ways of framing the quantitative impact information &#x20;
 
+
+
+### 3. [Facebook fundraising trial](reinstein-longview-psychology-of-effective-giving-project.md#4.-facebook-fundraising-trial-with-paul-smeets-dean-karlan-and-janek-kretschmer) (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
+
+**Trial incentivizing FB users to start birthday fundraisers for effective charities,** investigating how this behavior (and amounts raised) **responds to effectiveness and rating information** and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
+
+Design outlined  [HERE](https://docs.google.com/document/d/1T58FKoFnhP7yGhRPXeq3l\_DcvtQ0qcIvwezNWGr5\_ZA/edit#heading=h.909s4uqx06on).
+
+_Update 16 Mar 2022: We have run a very small pilot of the advertising campaign. We have a decent click-through rate but in 240 or so clicks, no one started a fundraising page. This is smaller than our planned pilot and not out of line with Facebook's general reports. Nonetheless, we are re-tooling the page/design, addressing comments on the page from co-authors and peers, and plan to re-launch soon._
+
+* Tech issues: Fundraiser API access or FB engineering may be necessary for the more ambitious design and for efficiently implementing the rewards. We now have a partner co-author within Facebook and are pursuing API access
+* Building work
+  * Hired Peter Roensby (EA aligned developer), finished building the&#x20;
+  * build of web interface for trial encouraging birthday fundraisers -- see [momentumbirthdayfundraisers.com](https://momentumbirthdayfundraisers.com); refresh to (randomly) generate new treatments pairings randomly on refresh,&#x20;
+  * bot to collect data on fundraisers.
+
+
+
 ### 3. Just Giving 'seed pages' trial:
 
 Purpose: Investigate 'impact of early contributions (and messages)' to inform 'whether EAs should donate on social media'.
@@ -77,24 +95,7 @@ _This text updated_ 9 Feb 2022
 * Built 'donation-seeding bot' with Peter Roensby -- tested to work, needs stress-testing and integration with API tool. Gained (Linode) server access to maintain this.&#x20;
 * Aim to run self-funded pilot for early to mid 2022  (delayed); possible larger run in 2022-23 giving season
 
-_Next steps:_ Tech steps given in project board [here](https://github.com/daaronr/sponsorship\_design\_analysis/projects/1), mainly linking API and donation seeding bot.  Tech is mostly complete, but needs pre-testing and some further power calculations.  Reprise outline, pre-registration, power analysis. Run PoC (but also informative) pilots (first 'small seeds' for mainstream charities, then 'large and small seeds' for effective charities)
-
-### 4. [Facebook fundraising trial](reinstein-longview-psychology-of-effective-giving-project.md#4.-facebook-fundraising-trial-with-paul-smeets-dean-karlan-and-janek-kretschmer) (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
-
-**Trial incentivizing FB users to start birthday fundraisers for effective charities,** investigating how this behavior (and amounts raised) **responds to effectiveness and rating information** and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
-
-Design outlined  [HERE](https://docs.google.com/document/d/1T58FKoFnhP7yGhRPXeq3l\_DcvtQ0qcIvwezNWGr5\_ZA/edit#heading=h.909s4uqx06on).
-
-* Tech delays: Failed to obtain FB Fundraiser API access; thus revised design, but we may be able to work _with_ Facebook on this, and API access is on the table again; we now have a partner co-author within Facebook
-* meanwhile, we have a design that does not require API access
-* Hired Peter Roensby (EA aligned developer), finished building the&#x20;
-  * build of web interface for trial encouraging birthday fundraisers -- see [momentumbirthdayfundraisers.com](https://momentumbirthdayfundraisers.com); refresh to (randomly) generate  new treatments pairings randomly on refresh,&#x20;
-  * bot to collect data on fundraisers.
-
-_Next steps:_ All is ready to go _except_ we need&#x20;
-
-1\. The funder (Dean Karlan) to give final approval of the chosen charities\
-2\. To find a way to make the 'reward $5 donations' without connecting this donation to an individual person (atm we need to make the donations from a personal FB account, and the person who started the fundraiser always sees this. \
+_Next steps:_ Tech steps given in project board [here](https://github.com/daaronr/sponsorship\_design\_analysis/projects/1), mainly linking API and donation seeding bot.  Tech is mostly complete, but needs pre-testing and some further power calculations.  Reprise outline, pre-registration, power analysis. Run PoC (but also informative) pilots (first 'small seeds' for mainstream charities, then 'large and small seeds' for effective charities)\
 
 
 ### 5. Barriers synthesis
