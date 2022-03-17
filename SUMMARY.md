@@ -77,7 +77,6 @@
   * [Implementation questions](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-questions.md)
 * [Research design and methodology: see public gitbook](core-knowledge-base/research-design-and-methodology/README.md)
   * ['Our methods' - link to public book](https://effective-giving-marketing.gitbook.io/untitled/methodological-discussion/section-introduction-wip)
-  * [(Analysis: Statistical approaches)](core-knowledge-base/research-design-and-methodology/analysis-statistical-approaches.md)
 
 ## Profiling project
 
