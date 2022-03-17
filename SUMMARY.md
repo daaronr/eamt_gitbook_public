@@ -75,18 +75,16 @@
     * [Google A/B optimize interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface)
     * [Google analytics interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-analytics-interface)
   * [Implementation questions](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-questions.md)
-* [Research design and methodology](core-knowledge-base/research-design-and-methodology/README.md)
-  * ["Qualitative" design issues](core-knowledge-base/research-design-and-methodology/qualitative-design-issues.md)
-  * ["Quant" Experimental design methods/issues](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/README.md)
-    * [Splits/randomization in practice](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/splits-randomization-in-practice/README.md)
-      * [Geographic segmentation/blocked randomization](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/splits-randomization-in-practice/geographic-segmentation-blocked-randomization.md)
-      * [Facebook split-testing etc](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md)
-    * [Adaptive design/sampling, reinforcement learning](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/adaptive-design-sampling-reinforcement-learning.md)
+* [Research design and methodology: see public gitbook](core-knowledge-base/research-design-and-methodology/README.md)
+  * ['Our methods' - link to public book](https://effective-giving-marketing.gitbook.io/untitled/methodological-discussion/section-introduction-wip)
   * [(Analysis: Statistical approaches)](core-knowledge-base/research-design-and-methodology/analysis-statistical-approaches.md)
-* [Profiling](core-knowledge-base/profiling/README.md)
+
+## Profiling project
+
+* [Profiling](profiling-project/profiling/README.md)
   * [Profiling: previous work](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/previous-work)
   * [SOEP/Fehr and Ptashnik followup](https://effective-giving-marketing.gitbook.io/untitled/profiling-and-segmentation/other-work-and-data)
-  * [(Profiling: internal discussion)](core-knowledge-base/profiling/profiling-internal-discussion.md)
+  * [(Profiling: internal discussion)](profiling-project/profiling/profiling-internal-discussion.md)
 
 ## Supplements and references
 

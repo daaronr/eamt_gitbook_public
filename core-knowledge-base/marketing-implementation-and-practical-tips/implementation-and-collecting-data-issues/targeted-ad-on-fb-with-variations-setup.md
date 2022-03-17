@@ -4,7 +4,7 @@ _Below, we give one example from a relevant context, illustrating (with screensh
 
 _**See also:**_
 
-_****_[facebook-split-testing-etc.md](../../research-design-and-methodology/experimental-design-methods-issues/splits-randomization-in-practice/facebook-split-testing-etc.md "mention") for a discussion/literature on the limitations of traditional randomization on FB
+_****_[Broken link](broken-reference "mention") for a discussion/literature on the limitations of traditional randomization on FB
 
 Our Birthday Facebook procedure is [HERE](https://docs.google.com/document/d/1RPLFPSRu7meHhgKaUPTr9FUSMTSO\_eoPqD7uvw-CIyU/edit#)
 

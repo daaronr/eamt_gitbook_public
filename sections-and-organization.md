@@ -50,8 +50,8 @@ _This section is important, so that we can link to this in other sections not re
 
 _Make this (nearly) all public and remove it from the private version (keeping links only).  But be sure to remove or confidentialize any internal details or details of ongoing designs_ _(those cannot be made public.)  Some specific contextual private details may be maintained in the section on the private side.  But for the most part we will move the whole thing over._&#x20;
 
-* [Qualitative design issues](core-knowledge-base/research-design-and-methodology/qualitative-design-issues.md)
-* [Quantitative design and method issues](core-knowledge-base/research-design-and-methodology/experimental-design-methods-issues/)
+* [Qualitative design issues](broken-reference)
+* [Quantitative design and method issues](broken-reference)
 * [Implementating ads etc](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/), 'practical' issues
 * [Collecting data from Google analytics etc](core-knowledge-base/marketing-implementation-and-practical-tips/collecting-data-trial-outcomes/)
 
