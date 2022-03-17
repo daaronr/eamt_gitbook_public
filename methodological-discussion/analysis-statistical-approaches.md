@@ -1,4 +1,10 @@
-# (Analysis: Statistical approaches)
+---
+description: >-
+  What to do with the data after you collect it (and what you should put in a
+  pre-analysis-plan).
+---
+
+# Analysis: Statistical approaches
 
 ## Impact of a treatment on incidence of a 'rare event'
 
@@ -17,6 +23,10 @@ _Notes from slack:_
 
 
 
-### [From Sample to Population: Multilevel Regression and Poststratification (MRP) and Survey Weighting ](https://docs.google.com/document/d/14uTZqOpnKAK8\_oRwgqlAhEXfyQPQUKK9/edit)
+## Which statistical tests/methods
+
+[https://gitlab.com/dsbowen/conditional-inference/-/blob/master/examples/bayes\_primer.ipynb](https://gitlab.com/dsbowen/conditional-inference/-/blob/master/examples/bayes\_primer.ipynb)
+
+## [From Sample to Population: Multilevel Regression and Poststratification (MRP) and Survey Weighting ](https://docs.google.com/document/d/14uTZqOpnKAK8\_oRwgqlAhEXfyQPQUKK9/edit)
 
 {% embed url="https://docs.google.com/document/d/14uTZqOpnKAK8_oRwgqlAhEXfyQPQUKK9/edit" %}

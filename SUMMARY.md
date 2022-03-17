@@ -41,15 +41,15 @@
 
 ## Research Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 
-* [Section introduction (WIP)](methodological-discussion/section-introduction-wip.md)
+* [Overview, discussion, resources](methodological-discussion/section-introduction-wip.md)
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
+* [Splits/randomization in practice](methodological-discussion/splits-randomization/README.md)
+  * [Geographic segmentation/blocked randomization](methodological-discussion/splits-randomization/geographic-segmentation-blocked-randomization.md)
+  * [Difference in difference/'Time-based methods'](methodological-discussion/splits-randomization/difference-in-difference-time-based-methods.md)
+  * [Facebook split-testing etc](methodological-discussion/splits-randomization/facebook-split-testing-etc.md)
+* [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
+* [Analysis: Statistical approaches](methodological-discussion/analysis-statistical-approaches.md)
 * ["Quant" Experimental design/analysis methods/issues](methodological-discussion/experimental-design-methods-issues.md)
-  * [Splits/randomization in practice](methodological-discussion/splits-randomization/README.md)
-    * [Geographic segmentation/blocked randomization](methodological-discussion/splits-randomization/geographic-segmentation-blocked-randomization.md)
-    * [Difference in difference/'Time-based methods'](methodological-discussion/experimental-design-methods-issues/splits-randomization/difference-in-difference-time-based-methods.md)
-    * [Facebook split-testing etc](methodological-discussion/splits-randomization/facebook-split-testing-etc.md)
-  * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
-  * [(Analysis: Statistical approaches)](methodological-discussion/experimental-design-methods-issues/analysis-statistical-approaches.md)
 
 ## Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 

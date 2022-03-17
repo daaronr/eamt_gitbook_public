@@ -45,4 +45,4 @@ _We could also do multi-armed tests (of several types of ad or other treatment, 
 
 ### **What if we can only apply the treatment to one, or a few, of many groups?**
 
-We still mahy be able to make valuable inferences, under specified conditions, through 'difference in difference', 'event study', and 'Time based' approaches. We consider this in the next section: [difference-in-difference-time-based-methods.md](../experimental-design-methods-issues/splits-randomization/difference-in-difference-time-based-methods.md "mention")
+We still mahy be able to make valuable inferences, under specified conditions, through 'difference in difference', 'event study', and 'Time based' approaches. We consider this in the next section: [difference-in-difference-time-based-methods.md](difference-in-difference-time-based-methods.md "mention")
