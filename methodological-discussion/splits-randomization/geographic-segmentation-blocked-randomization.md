@@ -6,11 +6,11 @@ description: >-
 
 # Geographic segmentation/blocked randomization
 
-In many contexts, the route to a meaningful outcome (e.g., GWWC pledge) is a long one. Attribution is difficult. An individual may have been first -influenced by (1) YouTube ad while seeing a video on her AppleTV, and then (2) by a friend's post on Facebook, and then finally moved to act (3) after having a conversation at a bar and (4) visiting the GWWC web site on her telephone.
+In many contexts, the route to a meaningful outcome (e.g., GWWC pledge) is a long one. Attribution is difficult. An individual may have been first influenced by (1) YouTube ad while seeing a video on her AppleTV, and then (2) by a friend's post on Facebook, and then finally moved to act (3) after having a conversation at a bar and (4) visiting the GWWC web site on her telephone.
 
-The same individual may not (or may) be trackable through 'cookies' and 'pixels' but this is already very limited and imprecise, and being made harder by new legislation.
+The same individual may not (or may) be trackable through 'cookies' and 'pixels' but this is already very limited and imprecise, and is being made harder by new legislation.
 
-"Geographic targeting" of individual treatments/trials/initiatives/ads may help better track, attribute, and yield inference about 'what works'.\
+**"Geographic targeting"** of individual treatments/trials/initiatives/ads may help better track, attribute, and yield inference about 'what works'.\
 \
 _E.g., we might do a 'lift test':_
 
@@ -36,3 +36,7 @@ _We could also do multi-armed tests (of several types of ad or other treatment, 
 | Facebook ads     |                            |
 | USA              | zip codes                  |
 | Australia        |                            |
+
+### **What if we can only apply the treatment to one, or a few, of many groups?**
+
+We still mahy be able to make valuable inferences, under specified conditions, through 'difference in difference', 'event study', and 'Time based' approaches. We consider this in the next section: [difference-in-difference-time-based-methods.md](../experimental-design-methods-issues/splits-randomization/difference-in-difference-time-based-methods.md "mention")

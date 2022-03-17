@@ -46,6 +46,7 @@
 * ["Quant" Experimental design/analysis methods/issues](methodological-discussion/experimental-design-methods-issues.md)
   * [Splits/randomization in practice](methodological-discussion/splits-randomization/README.md)
     * [Geographic segmentation/blocked randomization](methodological-discussion/splits-randomization/geographic-segmentation-blocked-randomization.md)
+    * [Difference in difference/'Time-based methods'](methodological-discussion/experimental-design-methods-issues/splits-randomization/difference-in-difference-time-based-methods.md)
     * [Facebook split-testing etc](methodological-discussion/splits-randomization/facebook-split-testing-etc.md)
   * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
   * [(Analysis: Statistical approaches)](methodological-discussion/experimental-design-methods-issues/analysis-statistical-approaches.md)
@@ -66,7 +67,7 @@
 
 ## (In)effective Altruistic choices: Review of theory and evidence <a href="#background" id="background"></a>
 
-* [Section introduction (WIP)](background/section-introduction.md)
+* [Section introduction](background/section-introduction.md)
 * [The challenge: drivers of effective/ineffective giving](background/the-challenge-drivers-of-effective-ineffective-giving.md)
   * [How little we know...](background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background/models-theories-psychological-norms.md)
