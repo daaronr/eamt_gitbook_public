@@ -25,10 +25,12 @@ In the present context, we have posted about our work, in general terms, on a pu
 
 Mitigating this, in our context, most of our experiments will be conducted in subtle ways (e.g., small but meaningful variations in EA-aligned home pages), and individuals will only see one of these (with variation by geography or by IP-linked cookies). Furthermore, we will conduct most of our experiments targeting non-EA-aligned audiences unlikely to read posts like this one. (People reading the EA forum post are probably ‘already converted’.)
 
+## Incentives and 'more meaningful responses'?
+
 ## Other issues to consider and flesh out
 
 * Universe (population) of interest, representativeness
 * Design study to measure 'cheap' behavior like 'clicks' (easier to observe, quicker feedback) versus meaningful and long-run behavior (like donations and pledges)
   * attribution issues
-  * attrition issues (but also see the [quant](broken-reference) section)
-* Choice of impact measure/metric (also see the [quant](broken-reference) section)
+  * attrition issues (also see the quantitative sections)
+* Choice of impact measure/metric (also see the quantitative sections)
