@@ -8,6 +8,19 @@ description: This 'wiki-style' gitbook organizes our joint project.
 We are in the process of restructuring the gitbook! You may see some sections and pages that are incomplete, but they will be updated soon.&#x20;
 {% endhint %}
 
+
+
+{% hint style="info" %}
+**See also**
+
+* [The 'public version' of this](https://effective-giving-marketing.gitbook.io/untitled/) book, which contains much additional content (which is also linked in the present book)
+* Our regularly updated 'data analysis report' on the trials and evidence , which you can download [HERE](https://www.dropbox.com/s/2beozrsirves8r9/bookdown.zip?dl=0) as a protected zip file
+  * Password: `reinstein (do not share)`
+  * Open `index.html` (or any html file in that folder) to see the content (it should open in a browser)
+  * _Note: we will 'host this content publicly' once we have permission_ \
+
+{% endhint %}
+
 ## Welcome to our shared workspace and knowledge base!
 
 ### What is the “EA Market Testing Team”?

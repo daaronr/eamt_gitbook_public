@@ -2,7 +2,7 @@
 
 ## Cost per user (first-pass)
 
-_(DR): **A first pass and upper bound on impact and (lower bound on) cost/session**_
+_**A first pass and upper bound on impact and (lower bound on) cost/session**_
 
 \
 **Assumptions/data interpretations (worth checking)**
@@ -13,12 +13,12 @@ _(DR): **A first pass and upper bound on impact and (lower bound on) cost/sessio
 
 **Most optimistic (unrealistic) bound**
 
-_Guiding assumption: a counterfactual 0 visits from Portland in season_
+_Guiding assumption: a counterfactual 0 visits from Portland in this season_
 
 * 306 Portland Users (389 Portland site visits) in relevant 2021 period.
 * If these were _all_ driven by the advertisement (and counterfactual was 0 visits), this is +306 Users and +389 visits
 * Cost $4k (sensitive info?)
-* <mark style="background-color:green;">--> Lower bound on cost of</mark> <mark style="background-color:green;">**$13.07**</mark> <mark style="background-color:green;">per user ($10.28 per visit)</mark>\\
+* <mark style="background-color:green;">-->Lower bound on cost of</mark> <mark style="background-color:green;">**$13.07**</mark> <mark style="background-color:green;">per user ($10.28 per visit)</mark>\\
 
 **YoY (maybe reasonable) optimistic bound**
 
@@ -39,14 +39,21 @@ _Guiding assumptions:_
 * 'uptick as a percentage' is unrelated to city size/visits last year
 * all the cities in the comparison group are 'informative to the counterfactual' in proportion to their total number of sessions\\
 
-_Thus_
+_This yields_&#x20;
 
-* 106% visits uptick (YoY) for Portland in 2020
-* For 'all North American cities other than Portland (with positive users in either year): The average is 3.68 users in the 2020 period and 4.66 users in the 2021 period, an uptick of (4.66-3.68)/3.68 = about 27%.
-* 27%\*144 = 38.5 'counterfactual uptic' users for Portland
-* 162-38.5= 123.5  'uptick in users relative to counterfactual'
-* <mark style="background-color:green;"><mark style="background-color:green;">$4k/<mark style="background-color:green;"></mark>123.5 <mark style="background-color:green;"><mark style="background-color:green;">=<mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="background-color:green;">**$32.4**<mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"></mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"><mark style="background-color:green;">cost per User<mark style="background-color:green;"></mark>
-* Seems realistic at a first-pass (but it may be better to focus on a narrower comparison group)
+* 112.5% visits uptick (Year on Year) for Portland in 2020
+
+For ‘all North American cities other than Portland (with greater than 250,000 people ):
+
+The average is 46.5 users in the 2020 period and 64.5 users in the 2021 period, an uptick of 64.5 - 46.5)/46.5 = about 38.8%. _(_This is very similar to the result if we look at all cities which has an uptick of 43.1%)
+
+* 38.8% uptick X 144 users = 55.9 ‘counterfactual uptick’ in users for Portland
+* 162 -55.9 = 106 ‘uptick relative to counterfactual’
+* <mark style="color:orange;background-color:red;">**USD 4000 /106 = $37.7 cost per additional user through this ad**</mark>
+
+This  seems realistic at a first-pass. Note this is a midpoint estimate. I have not (yet) given statistical bounds.
+
+
 
 {% hint style="info" %}
 These calculations are precisely computed from the data in the bookdown -- all code will be shared soon.
@@ -143,4 +150,8 @@ Here are some graphs of the relevant period vs the same period in the previous y
 
 ![](<../../../.gitbook/assets/image (18) (1) (1).png>)
 
-I figured out (at least a hacky way) of getting 'all the data from Google Analytics'. See [Broken link](broken-reference "mention").
+I figured out (at least a hacky way) of getting 'all the data from Google Analytics'. See...&#x20;
+
+{% embed url="https://effective-giving-marketing.gitbook.io/untitled/marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-analytics-interface" %}
+
+.
