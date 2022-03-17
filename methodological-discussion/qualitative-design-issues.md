@@ -30,5 +30,5 @@ Mitigating this, in our context, most of our experiments will be conducted in su
 * Universe (population) of interest, representativeness
 * Design study to measure 'cheap' behavior like 'clicks' (easier to observe, quicker feedback) versus meaningful and long-run behavior (like donations and pledges)
   * attribution issues
-  * attrition issues (but also see the [quant](experimental-design-methods-issues.md) section)
-* Choice of impact measure/metric (also see the [quant](experimental-design-methods-issues.md) section)
+  * attrition issues (but also see the [quant](broken-reference) section)
+* Choice of impact measure/metric (also see the [quant](broken-reference) section)

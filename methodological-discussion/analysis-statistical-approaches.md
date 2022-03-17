@@ -23,6 +23,10 @@ _Notes from slack:_
 
 
 
+## Open and robust science: Preregistration and Preanalysis plans
+
+There are reasons 'some pre-registration' or at least 'declaring your intentions in advance' is worth doing even if you aren't aiming at scientific publication&#x20;
+
 ## Which statistical tests/methods
 
 [https://gitlab.com/dsbowen/conditional-inference/-/blob/master/examples/bayes\_primer.ipynb](https://gitlab.com/dsbowen/conditional-inference/-/blob/master/examples/bayes\_primer.ipynb)
