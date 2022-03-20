@@ -1,5 +1,14 @@
 # pre-giving-tuesday-email split test (+)
 
+{% hint style="info" %}
+**To do:** This is now also hosted in the public gitbook [(edit link here)](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+).&#x20;
+
+* Reconcile these versions
+* replace the present information with a link (plus any information that would need to be redacted from the public version)
+{% endhint %}
+
+__
+
 _24 Nov 2021 -- adapting this to the_ [trial-reporting-template](../../../processes-and-procedures/trial-reporting-template/ "mention") _... incorporating the_ [Broken link](broken-reference "mention") _and the internal plan notes (below)_
 
 _Note: Some of the below overlaps the content in_ [Broken link](broken-reference "mention")\_\_
@@ -19,7 +28,7 @@ _**Academic framing**_: "Does the Identifiable Victims Effect (see e.g., the met
 
 **One for The World**'s (OFTW) 'giving season upselling campaign''
 
-> 10 emails total over the course of November were sent in preparation for GivingTuesday.
+> 10 emails total over the course of November were sent in preparation for GivingTuesday
 
 ### Point of contact (at organization running trial)
 
@@ -29,11 +38,21 @@ Academic-linked authors: David Reinstein, Josh Lewis, potentially others
 
 ### Timing of trial
 
-Targeted dates: November 10, November 18, November 23, all in 2021, but these may be delayed for feasibility
+Targeted dates: November 10, November 18, November 23, all in 2021, but these may be delayed for feasibility&#x20;
+
+
+
+{% hint style="info" %}
+Update -- four email dates are recorded in the data&#x20;
+{% endhint %}
 
 ### Digital location where project 'lives' (planning, material, data)
 
-Present Gitbook, Google doc linked below, preregistration (OSF), and ??
+Present Gitbook, Google doc linked below, preregistration (OSF), and &#x20;
+
+{% hint style="info" %}
+Update: github/git repo
+{% endhint %}
 
 ### Environment/context for trial
 
@@ -41,6 +60,14 @@ Emails\
 ... to existing OftW pledgers (asking for additional donations in Giving Season)
 
 > All 10 emails had the same CTA: make an additional $100 donation for the giving season/GivingTuesday on top of their recurring monthly pledge donation.
+
+__
+
+{% hint style="info" %}
+Update -- four email dates are recorded in the data&#x20;
+{% endhint %}
+
+
 
 ### **Participant universe and sample size**
 
@@ -118,6 +145,71 @@ _the analysis as a 'methodological example'; all context removed_
 * 8 unique emails donating, 26 donations in total,
 * worth $5200 in total
 * 1345 unique emails listed as getting ‘control’ treatment 1
+
+
+
+{% hint style="info" %}
+**Note:**   We may wish to treat the 'email send' as the denominator, as the differing subject lines may lead to a different number of opens
+
+**Update:** 20 Mar 2022 -- more 'inclusive and up-to-date donation statistics' in fold below
+{% endhint %}
+
+<details>
+
+<summary>Donation measures over the 'preregistered period' -- 20 Mar 2022 update</summary>
+
+Earliest send date through January 15&#x20;
+
+
+
+`oftw_21_22_mc_wide %>% tabyl(treatment_group)`
+
+* `1405` opens from T1: Impact
+* 1190 opens from T2: Emotion
+
+
+
+_**All donations, including recurring**_
+
+`oftw_21_22_db_don_persons %>% tabyl(treatment_group, d_don)`
+
+* `273` people making donations from T1: Impact
+* 231 people making donations from T2: Emotion
+* 395 from 'did not open emails' (unknown treatment)
+
+_****_
+
+_**One-time donations, all modes**_
+
+* 15 people making donations from T1: Impact
+* 12 ... from T2: Emotion
+* 59 from 'did not open emails' (doublecheck this)
+
+_****_
+
+_**Squarespace (all one-time) donations** _&#x20;
+
+oftw\_21\_22\_db\_don\_persons `%>% tabyl(treatment_group, d_don_ss)`
+
+* 8 people making donations from T1: Impact
+* 9 people making donations from T2: Emotion
+* 4 from 'did not open emails' (unknown treatment)
+
+
+
+_****_
+
+&#x20;__&#x20;
+
+``
+
+\
+\
+
+
+</details>
+
+Do
 
 **Treatment 2 (Emotional storytelling):**
 
