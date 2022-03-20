@@ -140,19 +140,9 @@ _**The quantitative analysis itself, stripped of any context and connection to O
 _the analysis as a 'methodological example'; all context removed_
 {% endembed %}
 
-**Treatment 1 (Impact)**: We record
+****
 
-* 8 unique emails donating, 26 donations in total,
-* worth $5200 in total
-* 1345 unique emails listed as getting ‘control’ treatment 1
-
-
-
-{% hint style="info" %}
-**Note:**   We may wish to treat the 'email send' as the denominator, as the differing subject lines may lead to a different number of opens
-
-**Update:** 20 Mar 2022 -- more 'inclusive and up-to-date donation statistics' in fold below
-{% endhint %}
+****
 
 <details>
 
@@ -193,23 +183,26 @@ oftw\_21\_22\_db\_don\_persons `%>% tabyl(treatment_group, d_don_ss)`
 
 * 8 people making donations from T1: Impact
 * 9 people making donations from T2: Emotion
-* 4 from 'did not open emails' (unknown treatment)
-
-
-
-_****_
-
-&#x20;__&#x20;
-
-``
-
-\
-\
+* 4 from 'did not open emails' (unknown treatment)\
 
 
 </details>
 
-Do
+**Treatment 1 (Impact)**: We record
+
+* 8 unique emails donating, 26 donations in total,
+* worth $5200 in total
+* 1345 unique emails listed as getting ‘control’ treatment 1
+
+
+
+{% hint style="info" %}
+**Note:**   We may wish to treat the 'email send' as the denominator, as the differing subject lines may lead to a different number of opens
+
+**Update:** 20 Mar 2022 -- more 'inclusive and up-to-date donation statistics' in fold below
+{% endhint %}
+
+
 
 **Treatment 2 (Emotional storytelling):**
 
