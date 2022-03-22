@@ -11,8 +11,7 @@ description: >-
 * <mark style="background-color:green;">Impact vs emotion:</mark> [pre-giving-tuesday-email-split-test](pre-giving-tuesday-email-split-test/ "mention") [#preliminary-results](pre-giving-tuesday-email-split-test/#preliminary-results "mention")
   * (Note: this trial is now 'public', i.e., on the public gitbook)
   * Large trial involving two variants of a sequence of emails to existing OftW pledgers/participants asking them for an additional donation (emotional email versus standard impact-based email)
-  * Preliminary results: similar performance, but little power to detect effect on (low-incidence) additional donations thus far; will also consider site engagement
-  * <mark style="background-color:orange;">Next steps</mark>: update with further donations, write-up, get feedback
+  * <mark style="background-color:orange;">Next steps</mark>: further write-up, organize analysis, consider a followup
 * [NYU and Texas A\&M trials](./#ongoing-completed-experiments); _<mark style="background-color:purple;">Status? Not started yet.</mark>_
 * "Upselling" YouTube marketing (casual lift test, or trials?); working with JS _<mark style="background-color:purple;">Status?</mark>_
 

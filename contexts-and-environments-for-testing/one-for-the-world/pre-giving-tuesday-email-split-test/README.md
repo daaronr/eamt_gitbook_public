@@ -3,11 +3,8 @@
 {% hint style="info" %}
 **To do:** This is being moved to the public gitbook [(edit link here)](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+).&#x20;
 
-* Reconcile these versions
 * replace the present information with a link (plus any information that would need to be redacted from the public version)
 {% endhint %}
-
-__
 
 __
 
@@ -120,7 +117,7 @@ Pre-registered on OSF in 'AsPredicted' format, content incorporated here [Broken
 
 ### **Overview:**&#x20;
 
-The Emotion treatment leads to significantly more clicks on the in-email donation link than the standard Impact information treatment. However, we are statistically underpowered to detect a difference in actual donations. More evidence is needed&#x20;
+The Emotion treatment leads to significantly _fewer_ people opening emails, but more people clicking on the in-email donation link (relative to the standard Impact information treatment). However, we are statistically underpowered to detect a difference in actual donations. More evidence is needed.
 
 Chloe:  **those emails that appealed to emotional storytelling performed better (higher in-email click rate) than those that were impact-focused**.
 
