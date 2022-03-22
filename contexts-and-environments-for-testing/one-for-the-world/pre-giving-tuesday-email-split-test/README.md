@@ -1,15 +1,13 @@
 # pre-giving-tuesday-email split test (+)
 
 {% hint style="info" %}
-**To do:** This is being moved to  the public gitbook [(edit link here)](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+).&#x20;
+**To do:** This is being moved to the public gitbook [(edit link here)](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+).&#x20;
 
 * Reconcile these versions
 * replace the present information with a link (plus any information that would need to be redacted from the public version)
 {% endhint %}
 
 __
-
-_24 Nov 2021 -- adapting this to the_ [trial-reporting-template](../../../processes-and-procedures/trial-reporting-template/ "mention") _..._&#x20;
 
 __
 
@@ -120,13 +118,15 @@ Pre-registered on OSF in 'AsPredicted' format, content incorporated here [Broken
 
 ## Preliminary results
 
-_(From message from Chloe; description of experiment integrated above)_
+### **Overview:**&#x20;
 
-> Preliminary analysis shows that even with the one high-performing outlier removed from the dataset, **those emails that appealed to emotional storytelling performed better (higher in-email click rate) than those that were impact-focused**.
+The Emotion treatment leads to significantly more clicks on the in-email donation link than the standard Impact information treatment. However, we are statistically underpowered to detect a difference in actual donations. More evidence is needed&#x20;
 
-> Further analysis that details the way that different contact demographics interacted with each email treatment type will also be done, as well as an analysis of clicks converted to completed donations.
+Chloe:  **those emails that appealed to emotional storytelling performed better (higher in-email click rate) than those that were impact-focused**.
 
-### **Evidence on donations**
+**DR, update:** I confirm that this is indeed the case, and this is statistically significant in further analysis.&#x20;
+
+> ### **Evidence on donations**
 
 _(preliminary; we are awaiting further donations in the giving season) ..._
 
@@ -140,98 +140,64 @@ _**The quantitative analysis itself, stripped of any context and connection to O
 _the analysis as a 'methodological example'; all context removed_
 {% endembed %}
 
+
+
+****
+
+{% hint style="info" %}
+**Note:**   We may wish to treat the 'email send' as the denominator, as the differig subject seemed to have led to  a different number of opens
+{% endhint %}
+
 ****
 
 ****
-
-<details>
-
-<summary>Donation measures over the 'preregistered period' -- 20 Mar 2022 update</summary>
-
-Earliest send date through January 15&#x20;
-
-
-
-`oftw_21_22_mc_wide %>% tabyl(treatment_group)`
-
-* `1405` opens from T1: Impact
-* 1190 opens from T2: Emotion
-
-
-
-_**All donations, including recurring**_
-
-`oftw_21_22_db_don_persons %>% tabyl(treatment_group, d_don)`
-
-* `273` people making donations from T1: Impact
-* 231 people making donations from T2: Emotion
-* 395 from 'did not open emails' (unknown treatment)
-
-_****_
-
-_**One-time donations, all modes**_
-
-* 15 people making donations from T1: Impact
-* 12 ... from T2: Emotion
-* 59 from 'did not open emails' (doublecheck this)
-
-_****_
-
-_**Squarespace (all one-time) donations** _&#x20;
-
-oftw\_21\_22\_db\_don\_persons `%>% tabyl(treatment_group, d_don_ss)`
-
-* 8 people making donations from T1: Impact
-* 9 people making donations from T2: Emotion
-* 4 from 'did not open emails' (unknown treatment)\
-
-
-</details>
 
 **Treatment 1 (Impact)**: We record
 
-* 8 unique emails donating, 26 donations in total,
-* worth $5200 in total
-* 1345 unique emails listed as getting ‘control’ treatment 1
+* 1405 unique emails listed as opening a ‘control’ treatment email
+* 29 members clicking on the donation link in an email at least once (2.1% of openers)
+* 15 members making some one-time donation in this period (about 0.11% of openers, 0.075% of total)
+* 8 members emails donating (likely) through the link (0.057%/0.04%)
 
 
 
 {% hint style="info" %}
-**Note:**   We may wish to treat the 'email send' as the denominator, as the differing subject lines may lead to a different number of opens
-
-**Update:** 20 Mar 2022 -- more 'inclusive and up-to-date donation statistics' in fold below
+**Treatment 2 (Emotional storytelling):**
 {% endhint %}
 
+* 1190 unique emails listed as opening an email (a significantly lower 'open rate', assuming the same shares of members were sent each set of treatment email)&#x20;
+* 56 members clicking on the donation link in an email at least once (4.7% of openers)
+* 11 members making some one-time donation in this period (about 0.9% of openers, about 0.055% of total)
+* 9 unique emails donating (likely) through the link (0.08%/0.045%)
 
 
-**Treatment 2 (Emotional storytelling):**
 
-* 6 unique emails donating, 28 donations so far
-* worth $7500 in total.
-* 1190 unique emails listed for treatment 2
+{% hint style="info" %}
+**Note:**   We may wish to treat the 'email send' as the denominator, as the differing subject seemed to have led to  a different number of opens
+{% endhint %}
 
-(If I believe my ‘unique emails count’) that implies
+****
 
-* an 0.59% ‘conversion’ rate for T1 - Control
-* a 0.50% conversion rate for T2 - Emotion/Story\\
+
 
 **‘Initial impressions of preliminary outcomes’**
 
 * The conversion rates are rather low (0.5%) … but maybe high enough to justify sending these emails? I’m not sure.
-* The rates are similar across the treatments
+* While people are more likely to O_pen_ at least one Impact email, they are more likely to _Click to donate_ at least once if assigned the Emotion email
+* But we can't say much for _actual donations._
 * Given the low conversion rates we don’t have too much power to rule out ‘proportionally large’ differences in conversion rates (or average amounts raised) between treatments …
 
-![](<../../../.gitbook/assets/image (3) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (8).png>)
 
 The figure above seems like a good summary of the ‘results so far’ on ‘what we can infer about relative incidence rates’, presuming I understand the situation correctly …I plot\
 \
-Y-axis: ’how likely would a difference in donations ‘as small or smaller in magnitude’” than we see in the data between the incidence (8 vs 6 people donating) be” … against\
+Y-axis: ’how likely would a difference in donations ‘as small or smaller in magnitude’” than we see in the data between the incidence … against\
 \
 X-axis: if the “true difference in incidence rates” were of these magnitudes
 
-_Takeaway:_
+_Here:_
 
 * our data is consistent with ‘no difference’ (of course) … but it's also consistent with ‘a fairly large difference in incidence’
-* E.g., even if one treatment truly lead to ‘twice as many donations as the other’, we still have a 20% chance of seeing a difference as small as the one we see (of 8 versus 6)
+* E.g., even if one treatment truly lead to ‘twice as many donations as the other’, we still have a 33% chance or so of seeing a difference as small as the one we see&#x20;
 * We can reasonably ‘rule out’ differences of maybe 2.5x or greater
-* Main point: given the rareness of donations in this context, our sample size doesn’t let us make very strong conclusions in either direction … at least not yet. I hope that combined with other evidence, we will be able to infer more
+* Main point: given the rareness of donations in this context, our sample size doesn’t let us make very strong conclusions in either direction about donationse

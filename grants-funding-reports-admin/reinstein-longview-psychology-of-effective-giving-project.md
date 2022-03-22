@@ -98,7 +98,7 @@ _This text updated_ 9 Feb 2022
 _Next steps:_ Tech steps given in project board [here](https://github.com/daaronr/sponsorship\_design\_analysis/projects/1), mainly linking API and donation seeding bot.  Tech is mostly complete, but needs pre-testing and some further power calculations.  Reprise outline, pre-registration, power analysis. Run PoC (but also informative) pilots (first 'small seeds' for mainstream charities, then 'large and small seeds' for effective charities)\
 
 
-### 5. Barriers synthesis
+### 4. Barriers synthesis
 
 [Web-resource (bookdown): Increasing effective charitable giving: The puzzle, what we know, what we need to know next](https://daaronr.github.io/ea\_giving\_barriers/index.html)
 
@@ -110,7 +110,7 @@ _Updates_ Feb 2022: New researcher on board -- Annabel Rayner has a Health Econo
 
 
 
-### 6. Other
+### 5. Other
 
 Additional content in EA Survey donation report [informs 'do GWWC people fulfill pledges?](https://rethinkpriorities.github.io/ea\_data\_public/eas\_donations.html#plan-actual)'. This work straddles my RP and grant work; I included some additional content and analysis over and above my RP mandate on this.
 
