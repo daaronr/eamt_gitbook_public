@@ -1,7 +1,7 @@
 # pre-giving-tuesday-email split test (+)
 
 {% hint style="info" %}
-**To do:** This is now also hosted in the public gitbook [(edit link here)](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+).&#x20;
+**To do:** This is being moved to  the public gitbook [(edit link here)](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+).&#x20;
 
 * Reconcile these versions
 * replace the present information with a link (plus any information that would need to be redacted from the public version)
@@ -9,9 +9,9 @@
 
 __
 
-_24 Nov 2021 -- adapting this to the_ [trial-reporting-template](../../../processes-and-procedures/trial-reporting-template/ "mention") _... incorporating the_ [Broken link](broken-reference "mention") _and the internal plan notes (below)_
+_24 Nov 2021 -- adapting this to the_ [trial-reporting-template](../../../processes-and-procedures/trial-reporting-template/ "mention") _..._&#x20;
 
-_Note: Some of the below overlaps the content in_ [Broken link](broken-reference "mention")\_\_
+__
 
 ## General idea, main 'hypothesis' <a href="#general-idea-main-hypothesis" id="general-idea-main-hypothesis"></a>
 
