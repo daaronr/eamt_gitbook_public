@@ -67,7 +67,15 @@ _Updates:_&#x20;
 
 ### 3. [Facebook fundraising trial](reinstein-longview-psychology-of-effective-giving-project.md#4.-facebook-fundraising-trial-with-paul-smeets-dean-karlan-and-janek-kretschmer) (with Paul Smeets, Dean Karlan, Janek Kretschmer, and Utsav Manjeer)
 
-**Trial incentivizing FB users to start birthday fundraisers for effective charities,** investigating how this behavior (and amounts raised) **responds to effectiveness and rating information** and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
+**Trial incentivizing FB users to start birthday fundraisers for effective charities,** investigating how this behavior (and amounts raised) **responds to effectiveness and rating information** and presentation. Dean Karlan has allocated\* 100k USD funding for supporting donation incentives and tech support for this.
+
+<details>
+
+<summary>*Update on funding, opportunity for more funding</summary>
+
+Dean's funding for donation incentives has some limitations and strings attached. We see some need for more funding to preserve the direct relevance of this to some EA audiences, and to make the experiment more powerful. Funders willing to pay to have us 'donate the first $10' on a fundraising page for an effective charity could be very helpful. (And this seems like a great opportunity to multiply impact, as the average  FB birthday fundraiser raises \~$200)
+
+</details>
 
 Design outlined  [HERE](https://docs.google.com/document/d/1T58FKoFnhP7yGhRPXeq3l\_DcvtQ0qcIvwezNWGr5\_ZA/edit#heading=h.909s4uqx06on).
 
