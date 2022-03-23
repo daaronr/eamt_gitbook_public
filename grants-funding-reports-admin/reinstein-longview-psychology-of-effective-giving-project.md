@@ -19,13 +19,13 @@ description: >-
 {% endtab %}
 
 {% tab title="proposed milestones" %}
-Specific next steps and internal deadlines
+Specific next steps and internal deadlines --> updates 23 Mar 2022
 
-* Full write-up of ICRC/impact
-* Launch FB trial,
-* JG trial
-* Revamp/ integration of recent surveys into Barriers repo
-* Preliminary report of EA marketing trials... possibly EA forum post?
+* Full write-up of ICRC/impact --> In progress; results fairly solid but not fully communicatied
+* Launch FB trial,  --> Done in pilot mode
+* JG trial --> Mostly built but not yet launched
+* Revamp/ integration of recent surveys into Barriers repo --> Partially completed
+* Preliminary report of EA marketing trials... possibly EA forum post?  --> Some internal and linked reporting
 * Arrange a second meeting with Tyler? ... to see something in writing closer to deadline.
 {% endtab %}
 
@@ -65,7 +65,7 @@ _Updates:_&#x20;
 
 
 
-### 3. [Facebook fundraising trial](reinstein-longview-psychology-of-effective-giving-project.md#4.-facebook-fundraising-trial-with-paul-smeets-dean-karlan-and-janek-kretschmer) (with Paul Smeets, Dean Karlan, and Janek Kretschmer)
+### 3. [Facebook fundraising trial](reinstein-longview-psychology-of-effective-giving-project.md#4.-facebook-fundraising-trial-with-paul-smeets-dean-karlan-and-janek-kretschmer) (with Paul Smeets, Dean Karlan, Janek Kretschmer, and Utsav Manjeer)
 
 **Trial incentivizing FB users to start birthday fundraisers for effective charities,** investigating how this behavior (and amounts raised) **responds to effectiveness and rating information** and presentation. Dean Karlan has allocated 100k USD funding for supporting donation incentives and tech support for this.
 
