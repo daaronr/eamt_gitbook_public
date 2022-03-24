@@ -42,6 +42,16 @@ For an overview of our progress and ongoing work, see the ['progress and results
 Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible. \
 
 
+
+
+## **"Testimonials" (putting this together)**
+
+****
+
+**Grace Adams, Head of Marketing, Giving What We Can:**
+
+> It’s been extremely useful to hear what others in EA, individuals and orgs are doing and sharing learnings between us. I hope that we can develop a set of tactics that we know successfully convert people and get them more involved in EA. A reliable set of best practices for marketing EA would be a great outcome.
+
 ## How to get involved?
 
 If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr at gmail.com or Erin Morrissey at edonovanmorrissey at gmail.com.
