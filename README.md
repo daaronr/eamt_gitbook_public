@@ -11,7 +11,7 @@ description: >-
 We are in the process of restructuring the gitbook! You may see some sections and pages that are incomplete, but they will be updated soon.
 
 \
-This is the public version of the gitbook; the private version has more details on upcoming trials, which we hope to share as soon as possible&#x20;
+This is the public version of the gitbook; the private version has more details on upcoming and ongoing trials, which we hope to share as soon as possible&#x20;
 {% endhint %}
 
 ## What is the "EA Market Testing Team"?
