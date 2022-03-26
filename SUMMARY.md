@@ -8,13 +8,13 @@
 * [🗓 Team meetings](team-meetings.md)
 * [Accomplishments](accomplishments.md)
 * [Overview: Posts and writings](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/overview-ea-forum-post)
-* [\*\*\* working doc to be deleted](working-doc-to-be-deleted.md)
 
 ## PROCESSES & PROCEDURES
 
 * [Project procedures/FAQs](processes-and-procedures/project-procedures-faqs/README.md)
   * [Sharing outside the group?](processes-and-procedures/project-procedures-faqs/sharing-outside-the-group.md)
   * [Onboarding](processes-and-procedures/project-procedures-faqs/onboarding.md)
+  * [\*\*\* working doc to be deleted](processes-and-procedures/project-procedures-faqs/working-doc-to-be-deleted.md)
 * [Teach me to use our tools](processes-and-procedures/teach-me-to-use-our-tools/README.md)
   * [How this gitbook works (linked)](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works)
   * [Other tech/tools (link)](https://effective-giving-marketing.gitbook.io/untitled/organization-and-overview/how-this-gitbook-works/other-tech)
@@ -100,3 +100,4 @@
 
 * [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
 * [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)
+* [Hiring (and onboarding)](grants-funding-reports-admin/hiring-and-onboarding.md)
