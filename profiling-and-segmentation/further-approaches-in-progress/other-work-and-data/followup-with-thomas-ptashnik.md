@@ -8,13 +8,14 @@ Thomas Ptashnik is a Psychology PhD student interested in working on this with u
 
 <summary>We have gained access to the relevant data</summary>
 
-H[ere's](https://data.nber.org/data-appendix/w26555/ONLINE%20APPENDIX%20-%20Your%20Place%20in%20the%20World%20-%20August2021.pdf) the link to the Fehr appendix that contains the survey items they created (starting at Appendix B on page 33).\\
+H[ere's](https://data.nber.org/data-appendix/w26555/ONLINE%20APPENDIX%20-%20Your%20Place%20in%20the%20World%20-%20August2021.pdf) the link to the Fehr appendix that contains the survey items they created (starting at Appendix B on page 33).\
+
 
 </details>
 
-### Some salient example content: ![](<../../../.gitbook/assets/images\_moved/image (3) (1) (1) (1) (1).png>)
+### Some salient example content: ![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>) ![](<../../../.gitbook/assets/images\_moved/image (6).png>)
+![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>) ![](<../../../.gitbook/assets/image (6) (1) (1).png>)
 
 > These items correspond to the SOEP-IS surveys, which can be found here (use item names, like Q132, to search quickly
 >
@@ -27,6 +28,8 @@ H[ere's](https://data.nber.org/data-appendix/w26555/ONLINE%20APPENDIX%20-%20Your
 <details>
 
 <summary>DR: Some interesting content (at a quick peek)</summary>
+
+
 
 From 2017...
 
@@ -42,7 +45,8 @@ From 2019
 
 </details>
 
-\\
+\
+
 
 ### A proposed project
 
@@ -71,11 +75,11 @@ I envision two related projects on the same data: 1. Building a 'portable' model
 
 <details>
 
-<summary>Anonymous colleague; caveats on 'the two goals'</summary>
+<summary>Anonymous colleague; caveats  on 'the two goals'</summary>
 
 if one simply wants to target people for giving to some specific EA-aligned cause in terms of a donation. In that case of the hypothetical African Christian women are likely to give, and it doesn't matter so much how they get to that decision. Quite a different set of metrics is desired (the kind of things we are trying to get at) if one is trying to actually select/find 'effective altruists'\[RT2] if one simply wants to target people for giving to some specific EA-aligned cause in terms of a donation. In that case of the hypothetical African Christian women are likely to give, and it doesn't matter so much how they get to that decision. Quite a different set of metrics is desired (the kind of things we are trying to get at) if one is trying to actually select/find 'effective altruists'
 
-
+####
 
 </details>
 
@@ -106,6 +110,8 @@ But I think what could be going on could be even worse, i.e.:
 
 Red team:
 
+
+
 > \[red team]
 >
 > I guess it will be interesting to find out through your analysis:
@@ -118,6 +124,8 @@ Red team:
 <details>
 
 <summary>DR and TP response to red team</summary>
+
+
 
 * Good points, and I even think “global redistribution” might rub some actual EAs the wrong way, as well as many EAs rejecting the 'repay our collective guilt' aspect.
 
@@ -132,6 +140,8 @@ Red team:
     * DR: that would be great!
 
 </details>
+
+
 
 {% tabs %}
 {% tab title="measures proposed " %}
