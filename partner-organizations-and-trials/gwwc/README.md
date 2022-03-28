@@ -7,12 +7,28 @@ description: >-
 
 # Giving What We Can (GWWC)
 
+
+[GWWC landing page](https://www.givingwhatwecan.org/)
+
+[Note updated 2022 strategy, some refocusing](https://www.givingwhatwecan.org/post/2022/03/public-strategy-update/)
+
 ## Giving What We Can: ideas and opportunities
 
 **Eager** to learn from existing work, run tests on GWWC platform, and support research into this.
 
+### **Stages of the funnel:**
+
+1. Awareness & Consideration (Curious, [casual visitors etc](web-page-casual-visitors.md))
+2. Conversion/acquisition (donate/pledge)
+3. Retention (fulfill and report pledge)
+4. ‘Advocacy’ (promoting GWWC to others)
+
+
+### Some key questions
+
+* “What should the call to action for the casual person in the funnel?”
+* Testing all parts of site and funnel/pledge journey; web site, welcome messages/welcome packages, reminders and thank-yous
+
 ## Completed studies:&#x20;
 
-* Pledge page options trial
-* Giving guides Facebook campaign
-* Theme messages test
+See sections below
