@@ -18,4 +18,4 @@ JS presentation -- how to spend your Google Ads Grant
 
 {% embed url="https://reducing-suffering.org/spreading-google-grants-with-caution-about-counterfactuals" %}
 
-## General grants -- see "[grants](../../grants-funding-reports-admin/grants-funding-and-reports.md#funding-for-ea-marketing-ads)" section
+## General grants -- see "[grants](../../../grants-funding-reports-admin/grants-funding-and-reports.md#funding-for-ea-marketing-ads)" section
