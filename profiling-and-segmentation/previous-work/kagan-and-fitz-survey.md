@@ -8,7 +8,7 @@ The main report
 
 * Was this a 'representative sample'? How were they recruited?
 * Note they 'read about EA first' ... perhaps making them vulnerable to demand effects?
-* DR: If I haven't already, I should request this data
+* DR: I've requested this data, but I think the authors are having trouble finding the time to dig this up
 
 > Primary Measures. To measure effective giving, we assessed several attitudes and behaviors; this summary presents results from a novel 7-item scale, the Support for Effective Giving scale (SEGS) \[ ⍺ = .92], and an effective giving behavior allocation.
 >

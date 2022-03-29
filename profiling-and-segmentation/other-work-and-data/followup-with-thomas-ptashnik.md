@@ -12,9 +12,9 @@ H[ere's](https://data.nber.org/data-appendix/w26555/ONLINE%20APPENDIX%20-%20Your
 
 </details>
 
-### Some salient example content: ![](<../../../.gitbook/assets/images\_moved/image (3) (1) (1) (1) (1).png>)
+### Some salient example content: ![](<../../.gitbook/assets/images\_moved/image (3) (1) (1) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>) ![](<../../../.gitbook/assets/images\_moved/image (6).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>) ![](<../../.gitbook/assets/images\_moved/image (6).png>)
 
 > These items correspond to the SOEP-IS surveys, which can be found here (use item names, like Q132, to search quickly
 >
@@ -42,7 +42,7 @@ From 2019
 
 </details>
 
-\\
+
 
 ### A proposed project
 

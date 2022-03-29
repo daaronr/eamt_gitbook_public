@@ -10,7 +10,7 @@
 
 ## Partner organizations and trials
 
-* [Section introduction](partner-organizations-and-trials/section-introduction.md)
+* [Introduction](partner-organizations-and-trials/section-introduction.md)
 * [Giving What We Can (GWWC)](partner-organizations-and-trials/gwwc/README.md)
   * [Pledge page (options trial) (+)](partner-organizations-and-trials/gwwc/pledge-page-options-trial.md)
   * [Giving guides - Facebook(+)](partner-organizations-and-trials/gwwc/giving-guides-+/README.md)
@@ -26,7 +26,7 @@
 
 ## Marketing & testing: opportunities, tools, tips
 
-* [Section introduction (WIP)](marketing-and-testing-opportunities-tools-tips/section-introduction-wip.md)
+* [(Introduction)](marketing-and-testing-opportunities-tools-tips/section-introduction-wip.md)
 * [Environments, tests, tools](marketing-and-testing-opportunities-tools-tips/environments-and-plans/README.md)
   * [Testing Contexts: Overview](marketing-and-testing-opportunities-tools-tips/environments-and-plans/future-avenues.md)
   * [Trial reporting template](marketing-and-testing-opportunities-tools-tips/environments-and-plans/trial-reporting-template.md)
@@ -54,21 +54,21 @@
 
 ## Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
-* [Section introduction (WIP)](profiling-and-segmentation/section-introduction.md)
+* [Introduction ...](profiling-and-segmentation/section-introduction.md)
 * [Previous work/data](profiling-and-segmentation/previous-work.md)
   * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
   * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
   * [Animal welfare attitudes: profiling/surveying](profiling-and-segmentation/previous-work/animal-welfare-attitudes-profiling-surveying.md)
   * [Other data](profiling-and-segmentation/previous-work/other-data.md)
+* [Fehr/SOEP analysis... followup](profiling-and-segmentation/other-work-and-data/README.md)
+  * [Followup with Thomas Ptashnik](profiling-and-segmentation/other-work-and-data/followup-with-thomas-ptashnik.md)
 * [Further approaches in progress](profiling-and-segmentation/further-approaches-in-progress/README.md)
   * [Rethink Priorities work](profiling-and-segmentation/further-approaches-in-progress/rethink-priorities-work.md)
   * [Profiling 'existing traffic'](profiling-and-segmentation/further-approaches-in-progress/profiling-existing-traffic.md)
-  * [Fehr/SOEP analysis... followup](profiling-and-segmentation/further-approaches-in-progress/other-work-and-data/README.md)
-    * [Followup with Thomas Ptashnik](profiling-and-segmentation/further-approaches-in-progress/other-work-and-data/followup-with-thomas-ptashnik.md)
 
 ## (In)effective Altruistic choices: Review of theory and evidence <a href="#background" id="background"></a>
 
-* [Section introduction](background/section-introduction.md)
+* [Introduction...](background/section-introduction.md)
 * [The challenge: drivers of effective/ineffective giving](background/the-challenge-drivers-of-effective-ineffective-giving.md)
   * [How little we know...](background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background/models-theories-psychological-norms.md)
