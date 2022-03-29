@@ -12,9 +12,9 @@ H[ere's](https://data.nber.org/data-appendix/w26555/ONLINE%20APPENDIX%20-%20Your
 
 </details>
 
-### Some salient example content: ![](<../../.gitbook/assets/images\_moved/image (3) (1) (1) (1) (1).png>)
+### Some salient example content: ![](<../../../.gitbook/assets/images\_moved/image (3) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1).png>) ![](<../../.gitbook/assets/images\_moved/image (6).png>)
+![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>) ![](<../../../.gitbook/assets/images\_moved/image (6).png>)
 
 > These items correspond to the SOEP-IS surveys, which can be found here (use item names, like Q132, to search quickly
 >
@@ -168,13 +168,21 @@ DR: See sidebar comments
 
 #### Analysis plan
 
-Lasso regression to identify the <mark style="background-color:orange;">most salient cluster</mark> of predictors for effective giving
+Lasso regression to identify the <mark style="background-color:orange;">most salient cluster</mark> \[DR: how is this defined?] of predictors for effective giving
 
-I will use k-fold cross-validation to compare a lasso model with ridge regression and OLS to <mark style="background-color:orange;">confirm it is the best method for handling our data</mark>
+I will use k-fold cross-validation to compare a lasso model with ridge regression and OLS to <mark style="background-color:orange;">confirm it is the best method for handling our data \[DR: 'best in what sense? I recommend the elastic net approach if possible.]</mark>
 
-There is now a Bayesian form of lasso, but the R packages to run this analysis are in their infancy and the results between the methods are strikingly similar (Steorts, 2015). So, on the first pass I will just use one of the methods above but may rerun the analysis time-permitting to check my assumption that results won’t change.
+<details>
+
+<summary><mark style="background-color:orange;">Bayesian and latent lasso</mark></summary>
+
+TP: There is now a Bayesian form of lasso, but the R packages to run this analysis are in their infancy and the results between the methods are strikingly similar (Steorts, 2015). So, on the first pass I will just use one of the methods above but may rerun the analysis time-permitting to check my assumption that results won’t change.
 
 Similarly, there is latent lasso regression, but most of our constructs have only one indicator and the R package for this analysis also appears to be at a nascent stage.·
+
+</details>
+
+
 
 #### Sample
 
@@ -194,9 +202,17 @@ Q280 and 281 in the SOEP-IS dataset developed by Fehr et al. (2019)
 
 Below I list variables below in terms of what the intended construct I’m trying to get at and the proxy measures that are available within the SOEP dataset.
 
+<details>
+
+<summary>Theoretical rationale for construct from 'charitable giving' review</summary>
+
 Theoretical rationale for these constructs comes from the most comprehensive review on predictors of charitable giving I could find (Bekkers & Wiepking, 2007; also see Bekkers & Wiepking, 2011 and Wiepking & Bekkers, 2012 for follow-ups on this review). These reviews seem like a reasonable starting point because they are cross-disciplinary and only consider studies that involve real money to real charitable organizations. There were a surprising number of what I think of as common-sense variables that weren’t included in these reviews that I add in the table below (i.e., those without an asterix).
 
-There were several variables omitted because I did not think they were relevant or other constructs exist that better get at the underlying effect. I briefly outline these below.
+</details>
+
+<details>
+
+<summary>There were several variables omitted because I did not think they were relevant or other constructs exist that better get at the underlying effect. ...</summary>
 
 **Home ownership:** Appears to just be an indicator of wealth, so using income is preferrable.
 
@@ -210,9 +226,17 @@ There were several variables omitted because I did not think they were relevant 
 
 **Volunteering**: In simple bivariate analysis, volunteers are usually found to donate more to charity. However, differences between volunteers and non-volunteers often vanish in multiple regression analyses controlling for joint determinants of giving and volunteering (Bekkers, 2002, Bekkers, 2006a, Wiepking & Maas, 2006). Given SOEP only asks about time spent volunteering and does not categorize where one volunteers, this variable seems like a blunt tool that is likely to be insignificant.
 
-**Awareness of need:** A strong predictor of general philanthropy, but Fehr et al. (2019) did not find significant effects for effective giving.
+**Awareness of need:** A strong predictor of general philanthropy, but Fehr et al. (2019) did not find significant effects for effective giving.\
+\
+DR: I think 'failing to find significant effects' shouldn't be reason to exclude this!
+
+</details>
+
+\[DR: I think 'previous failire to find significant effects' shouldn't be reason to exclude!]
 
 Variables held constant by the survey design (see Bekkers & Wiepking 2007 for detailed explanation): Solicitation, benefits, reputation, and efficacy.
+
+
 
 | Construct \*outlined in review articles | Brief Rationale for Inclusion                                                                                                                                                                                                                                                                                                                                                                               | Items from SOEP                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -249,4 +273,3 @@ Variables held constant by the survey design (see Bekkers & Wiepking 2007 for de
 
 We should discuss how the fitted model will be used and interpreted ... maybe identifying a few collections of useful subsets:
 
-*
