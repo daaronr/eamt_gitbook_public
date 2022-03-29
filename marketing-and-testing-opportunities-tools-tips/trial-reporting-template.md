@@ -6,9 +6,7 @@ description: >-
 
 # Trial reporting template
 
-_**For each proposed/ongoing/past trial, we should report the following minimal details, with links (proposed template)**_
-
-**If you don't have time and you have another clear presentation of most of this, please link or embed it.**
+_For each proposed/ongoing/past trial, let's try to report the following minimal details, with links (proposed template)_ If you don't have time and you have another clear presentation of most of this, please link or embed it.
 
 ## "Concise reporting template"
 
@@ -31,9 +29,7 @@ _E.g.,_
 >
 > _Generally:_
 >
-> * _Does 'social accountability' help to encourage XXX activities and promises  and the fulfillment of these? Does the 'fear of being held accountable' discourage people from making commitments?_
->
-> \_\_
+> * _Does 'social accountability' help to encourage XXX activities and promises and the fulfillment of these? Does the 'fear of being held accountable' discourage people from making commitments?_
 
 _(Optional: brief on background theory and previous evidence)_
 
@@ -42,8 +38,6 @@ _(Optional: brief on background theory and previous evidence)_
 _You can enter more than 1 person here, including an external organizer (like JS Winchell), but ideally, also someone inside the organization._
 
 _Add 'academic/research lead' here if there is one_
-
-\_\_
 
 ### Timing of trial (when will it/did it start and end, if known)
 
@@ -71,8 +65,6 @@ Description, link exact language/content if possible
 * How are treatments assigned ('blocked randomization', 'adaptive/Thomson sampling', etc.)
   * _If you are using a 'set Google, Facebook etc algorithm', just input the settings you used here, and/or link the (Google, FB, etc) explanation_
 * How many/what shares are assigned to each treatment?
-
-***
 
 ### **Outcome data**
 

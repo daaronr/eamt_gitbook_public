@@ -7,7 +7,7 @@ description: >-
 
 # Pledge page (options trial) (+)
 
-[**Following**](../../contexts-and-environments-for-testing/trial-reporting-template/) [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/environments-and-plans/trial-reporting-template.md "mention")
+[**Following**](../../contexts-and-environments-for-testing/trial-reporting-template/) [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention")
 
 ## General idea, main 'hypothesis'
 
