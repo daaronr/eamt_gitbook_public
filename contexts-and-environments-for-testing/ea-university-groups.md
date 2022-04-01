@@ -2,16 +2,30 @@
 
 ## Goals and context
 
-### **EA groups at elite universities and programs:**
+## **EA groups at elite universities and programs**
 
-&#x20;**** Promote and build EA groups, especially at  elite and influential places (Ivy league etc)
+The main focus of this effort has been promoting and building EA groups, especially at  elite and influential places (Ivy league etc)
 
 1. Membership, participation, connection to EA orgs, markers of post-university involvement
 2. Impacting career plans
 3. (Possibly?) influencing research and intellectual conversations at universities, including academia
-4. Maybe focusing on particular programs and career paths?
+4. Maybe focusing on particular programs and career paths
 
+<details>
+
+<summary>How succesful has this been? (Sources/discussion)</summary>
+
+See:&#x20;
+
+* EA Groups survey
+* Rethink Priorities (ongoing?) survey on awareness of EA at universities
+* EA Survey on '[How people got involved with EA'](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea)
+
+</details>
+
+{% hint style="info" %}
 ## **EA 'future politicians'**
+{% endhint %}
 
 _Promoting EA (groups, participation) at universities to get future politicians and generals on board (USA). Michael Sadowski's plan. Goes beyond intellectually elite universities to target conservatives, small state flagship schools, historically-black institutions, and military colleges (Westpoint etc)._
 
