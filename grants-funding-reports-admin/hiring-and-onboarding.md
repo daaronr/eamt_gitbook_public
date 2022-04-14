@@ -8,6 +8,10 @@ I (David Reinstein) have applied/am asking for funds for research assistance and
 
 
 
+[LINK](https://docs.google.com/document/d/1aZ3Hbsb9S6hxtubnvJmNgb4gla8Oc4IpT0\_n5arzuAg/edit#heading=h.qhafee8mm010)
+
+
+
 {% embed url="https://docs.google.com/document/d/1aZ3Hbsb9S6hxtubnvJmNgb4gla8Oc4IpT0_n5arzuAg/edit#" %}
 
 
