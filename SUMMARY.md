@@ -98,6 +98,7 @@
 
 ## Grants, funding, reports, admin
 
+* [Funding priorities](grants-funding-reports-admin/funding-priorities.md)
 * [Grants, funding, & reports](grants-funding-reports-admin/grants-funding-and-reports.md)
 * [Reinstein/Longview "psychology of effective giving"](grants-funding-reports-admin/reinstein-longview-psychology-of-effective-giving-project.md)
 * [Hiring (and onboarding)](grants-funding-reports-admin/hiring-and-onboarding.md)
