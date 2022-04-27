@@ -7,6 +7,12 @@ description: >-
 
 # GWWC
 
+
+
+{% hint style="warning" %}
+We also are also working to present a more detailed statistical and graphical analysis, with transparent code and data, in the [web-book here](https://daaronr.github.io/eamt\_data\_analysis/) (very much a work in progress)
+{% endhint %}
+
 ## GWWC: Tip of the Spear
 
 *   "[Pledge page" split-test](broken-reference); vary presentations of pledge options (tied to cookies/IP addresses)

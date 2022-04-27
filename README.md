@@ -14,10 +14,16 @@ We are in the process of restructuring the gitbook! You may see some sections an
 **See also**
 
 * [The 'public version' of this](https://effective-giving-marketing.gitbook.io/untitled/) book, which contains much additional content (which is also linked in the present book)
-* Our regularly updated 'data analysis report' on the trials and evidence , which you can [download HERE](https://www.dropbox.com/s/jyxj2jen6e9ptjz/eamt\_bookdown.zip?dl=0) as a protected zip file
-  * Password: `reinstein (do not share)`
-  * Open `index.html` (or any html file in that folder) to see the content (it should open in a browser)
-  * _Note: we will 'host this content publicly' once we have permission_ \
+*   Our regularly updated 'data analysis report' on the trials and evidence , which you can [download HERE](https://www.dropbox.com/s/jyxj2jen6e9ptjz/eamt\_bookdown.zip?dl=0) as a protected zip file
+
+    * Password: `reinstein (do not share)`
+    * Open `index.html` (or any html file in that folder) to see the content (it should open in a browser)
+    * _Note: we will 'host this content publicly' once we have permission_&#x20;
+
+
+
+The public part of it can be found the [web-book here](https://daaronr.github.io/eamt\_data\_analysis/) (very much a work in progress)
+
 
 {% endhint %}
 
