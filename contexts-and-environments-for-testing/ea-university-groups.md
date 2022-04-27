@@ -27,18 +27,9 @@ See:&#x20;
 
 ### **More widespread outreach**
 
-### **EA 'future politicians'**
+### **See** [ea-university-groups-for-future-leaders-ftx.md](ea-university-groups-for-future-leaders-ftx.md "mention")****
 
-_Promoting EA (groups, participation) at universities to get future politicians and generals on board (USA). Michael Sadowski's plan. Goes beyond intellectually elite universities to target conservatives, small state flagship schools, historically-black institutions, and military colleges (Westpoint etc)._
-
-__
-
-****[**Discussion Doc: EA: Higher Ed. outreach to future US leaders**](https://docs.google.com/document/d/1PJTtpsAZuUnMq1dEZsKEXymIeViQ\_eU2md-vxfHX1lY/edit?usp=sharing)****
-
-{% embed url="https://docs.google.com/document/d/1PJTtpsAZuUnMq1dEZsKEXymIeViQ_eU2md-vxfHX1lY/edit?usp=sharing" %}
-
-\
-
+### ****
 
 
 

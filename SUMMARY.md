@@ -53,6 +53,7 @@
   * [CRS/DV: overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
   * [(Social influence - JustGiving)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/social-influence-justgiving.md)
 * [EA university groups/promotion at universities](contexts-and-environments-for-testing/ea-university-groups.md)
+* [EA university groups for future leaders (FTX)](contexts-and-environments-for-testing/ea-university-groups-for-future-leaders-ftx.md)
 * [Surveys/survey platforms](contexts-and-environments-for-testing/surveys-survey-platforms.md)
 * [Other orgs/approaches](contexts-and-environments-for-testing/other/README.md)
   * [GiveWell](contexts-and-environments-for-testing/other/givewell.md)
