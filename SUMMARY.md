@@ -41,7 +41,7 @@
   * [Charity Elections (further notes to organize)](contexts-and-environments-for-testing/charity-elections/charity-elections-further-notes.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
   * [Advisor signup (Portland) (+)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/README.md)
-    * [Results (first-pass)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/results-first-pass.md)
+    * [Results (simple analysis)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/results-first-pass.md)
   * [Funds/recommendations trial (proposed)](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md)
 * [80000 hours](contexts-and-environments-for-testing/80000-hours/README.md)
   * [Facebook campaign](contexts-and-environments-for-testing/80000-hours/facebook-campaign.md)
