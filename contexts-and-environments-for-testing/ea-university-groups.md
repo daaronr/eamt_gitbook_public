@@ -25,9 +25,9 @@ See:&#x20;
 
 {% hint style="info" %}
 ## **EA 'future politicians'**
-{% endhint %}
 
 _Promoting EA (groups, participation) at universities to get future politicians and generals on board (USA). Michael Sadowski's plan. Goes beyond intellectually elite universities to target conservatives, small state flagship schools, historically-black institutions, and military colleges (Westpoint etc)._
+{% endhint %}
 
 __
 
