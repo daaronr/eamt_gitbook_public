@@ -19,15 +19,17 @@ See:&#x20;
 
 * EA Groups survey
 * Rethink Priorities (ongoing?) survey on awareness of EA at universities
-* EA Survey on '[How people got involved with EA'](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea)
+* EA Survey on '[How people got involved with EA'](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea)****
 
 </details>
 
-{% hint style="info" %}
-## **EA 'future politicians'**
+****
+
+### **More widespread outreach**
+
+### **EA 'future politicians'**
 
 _Promoting EA (groups, participation) at universities to get future politicians and generals on board (USA). Michael Sadowski's plan. Goes beyond intellectually elite universities to target conservatives, small state flagship schools, historically-black institutions, and military colleges (Westpoint etc)._
-{% endhint %}
 
 __
 
