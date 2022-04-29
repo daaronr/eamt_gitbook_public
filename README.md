@@ -36,15 +36,26 @@ For an overview of our progress and ongoing work, see the ['progress and results
 
 {% embed url="https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit" %}
 
-Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible. \\
+Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible.&#x20;
+
+
+
+
 
 ## **"Testimonials" (putting this together)**
+
+****
+
+**Luke Freeman, Executive Director of Giving What We Can:**
+
+> “The EA Market Testing team has been very helpful in helping us to pursue our mission of creating a world where giving effectively and significantly is a cultural norm. They have helped us at each stage along the process of ideation through to analysis so that we can base our outreach activities on sound theory and strong evidence. This is at a particularly important time as we have been scaling up our marketing activities to reach and engage new audiences with effective giving and the ideas of effective altruism more broadly. We look forward to an ongoing collaboration with EAMT so that we can continue to iterate and increase our impact.”
 
 ***
 
 **Grace Adams, Head of Marketing, Giving What We Can:**
 
-> It’s been extremely useful to hear what others in EA, individuals and orgs are doing and sharing learnings between us. I hope that we can develop a set of tactics that we know successfully convert people and get them more involved in EA. A reliable set of best practices for marketing EA would be a great outcome.
+> It’s been extremely useful to hear what others in EA, individuals and orgs are doing and sharing learnings between us. I hope that we can develop a set of tactics that we know successfully convert people and get them more involved in EA. A reliable set of best practices for marketing EA would be a great outcome\
+> ****
 
 ## How to get involved?
 
