@@ -7,11 +7,13 @@ description: >-
 
 # GWWC
 
-
-
 {% hint style="warning" %}
 We also are also working to present a more detailed statistical and graphical analysis, with transparent code and data, in the [web-book here](https://daaronr.github.io/eamt\_data\_analysis/) (very much a work in progress)
 {% endhint %}
+
+## Presentation: recent trials 28 Apr 2022
+
+{% embed url="https://docs.google.com/presentation/d/1VaO3WDH_3OxnhhQC2e1ejUYBjBxKoaoMhbqza-vVjQo/edit" %}
 
 ## GWWC: Tip of the Spear
 
