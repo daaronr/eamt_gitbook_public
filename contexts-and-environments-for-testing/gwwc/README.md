@@ -8,12 +8,10 @@ description: >-
 # GWWC
 
 {% hint style="warning" %}
-We also are also working to present a more detailed statistical and graphical analysis, with transparent code and data, in the [web-book here](https://daaronr.github.io/eamt\_data\_analysis/) (very much a work in progress)
+We also are also working to present a more detailed statistical and graphical analysis, with transparent code and data, in the [web-book here](https://daaronr.github.io/eamt\_data\_analysis/) (very much a work in progress)\
+\
+See also the slide presentation [here](https://docs.google.com/presentation/d/1VaO3WDH\_3OxnhhQC2e1ejUYBjBxKoaoMhbqza-vVjQo/edit#slide=id.g11dc561c35c\_0\_0)
 {% endhint %}
-
-## Presentation: recent trials 28 Apr 2022
-
-{% embed url="https://docs.google.com/presentation/d/1VaO3WDH_3OxnhhQC2e1ejUYBjBxKoaoMhbqza-vVjQo/edit" %}
 
 ## GWWC: Tip of the Spear
 
@@ -58,10 +56,10 @@ Brainstorms: [See shared GDOC](https://docs.google.com/document/d/1Sps58H0LKvoLv
 * ‘Followed through with reported pledge’ -- a very rare event and not a great thing to track … ‘first donation’ is better
 * Bringing donation-tracking ‘in-house’ … donation dashboard, allowing better outcome tracking
 
-### Ongoing trials/promos
+### Ongoing or completed trials/promos
 
 * **Donation page**: Split-testing ‘which pledge do you see (first)’ (try giving, GWWC, further giving)
-  * Random draw, cookie holds it constant by individual
+  * Random draw, a cookie 'holds it constant by individual'
 * Already encouraging ‘advocacy’ and ‘start birthday fundraisers’
 * [**Youtube Remarketing**](youtube-remarketing.md)
 
