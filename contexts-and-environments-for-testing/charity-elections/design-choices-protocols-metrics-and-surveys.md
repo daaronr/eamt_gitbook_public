@@ -47,7 +47,9 @@ There are six primary goals that were considered in the drafted selection of que
 
 > David Reinstein. These seem reasonable and useful to me. For the second question, I wonder why you use only $100. Why not $500 or $1000?  \
 > \
-> And why 'if I were given' ... rather than 'if I were donating'? The 'given money' may convey a different sense of obligation to be effective with someone else's money, or to honor their preferences and wishes. (I'm not so against it though, I can imagine a decent argument for this.)
+> And why 'if I were given' ... rather than 'if I were donating'? The 'given money' may convey a different sense of obligation to be effective with someone else's money, or to honor their preferences and wishes.  There is even a psych paper where they find a difference in hypothetical choices when someone is a ‘manager’ in such a context.\
+> \
+> (I'm not so against it though, I can imagine a decent argument for this.)
 
 
 
