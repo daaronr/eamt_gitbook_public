@@ -6,16 +6,19 @@ _Trial goal:_ Generate signups (from our target audience) to the 80,000 Hours ne
 
 _Who will be targeted or who do you expect to be part of the trial?_ University students and recent graduates (age 18-30) from universities in our ‘tier 1, 2 and 3’ list.\
 \
-_Hypotheses that we will test:_
+_**Hypotheses that we will test:**_
 
 * Facebook & Instagram ads are a promising marketing channel for 80,000 Hours, generating newsletter subscribers from our target audience at below $30/sub
-* DR: “What is the ‘cost per newsletter-subscription’ from using these ads?”\
+  * _DR operationalization: “What is the ‘cost per newsletter-subscription’ from using these ads?”_\
+    __
+*   We will see diminishing returns to the ads as we scale. At some level of annualised ad spend, the ads will no longer be cost effective
 
-* We will see diminishing returns to the ads as we scale. At some level of annualised ad spend, the ads will no longer be cost effective
-* “How does the ‘cost per newsletter-subscription’  change as we increase the ad expenditure in this context, and at what point does it cross the cost-effectiveness threshold of $30/per
+    * _DR operationalization_: “How does the ‘cost per newsletter-subscription’  change as we increase the ad expenditure in this context, and at what point does it cross the cost-effectiveness threshold of $30/per
+
+
 * Targeting a smaller audience will be more expensive&#x20;
 * Targeting our list of ‘tier 1’ universities will be more expensive than ‘tier 2’ than ‘tier 3’
-* DR: “Are higher-tier universities more costly to target (per-impression, per-click, per-subscription)?”
+  * _DR operationalization_: “Are higher-tier universities more costly to target (per-impression, per-click, per-subscription)?”
 
 
 
