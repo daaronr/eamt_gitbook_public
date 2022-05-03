@@ -27,7 +27,7 @@ See:&#x20;
 
 ### **More widespread outreach**
 
-### **See** [ea-university-groups-for-future-leaders-ftx.md](ea-university-groups-for-future-leaders-ftx.md "mention")****
+### **See** [ea-university-groups-for-future-leaders-ftx](ea-university-groups-for-future-leaders-ftx/ "mention")****
 
 ### ****
 
