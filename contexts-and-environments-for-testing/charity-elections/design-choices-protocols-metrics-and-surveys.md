@@ -6,6 +6,12 @@ Proposed content: [Voter Registration Form (2022 format)](https://www.surveymonk
 
 
 
+{% hint style="info" %}
+?? What is the relation between the 'voter registration form' and the 'voting ballot'? Where can I see the latter.
+{% endhint %}
+
+
+
 ### Context
 
 {% hint style="info" %}
