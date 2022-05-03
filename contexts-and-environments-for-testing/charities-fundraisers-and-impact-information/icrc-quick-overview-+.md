@@ -16,7 +16,7 @@ April 2021 mailing addressed to ICRC's existing donor base of:
 * 169,919 donors (active donors (58,330; 34,14%); warm donors (48,672; 28.49%); sleepy donors (62,758; 36.73%))
 * Mailing goes out to donors in Switzerland (all parts: German, French and Italian)
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ![ICRC mailings -- differences in inserts](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png>)
 

@@ -44,7 +44,7 @@ Basically OK to share, with some sensitivities. Luke: generally happy to share t
 The proposed 'public' versino of this gitbook, redacted, semi-automating integration
 {% endembed %}
 
-![](<../../.gitbook/assets/image (14) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (1).png>)
 
 > DR I was thinking we may want a version of our gitbook we can share publicly. Many of the tools we are building are not confidential (e.g., the methodology, the background, the tips on making ads). We may want to share these in the EA community and with academic and other partners, or even on the WWW, without having to share ’all the details of our ongoing trials.'
 
