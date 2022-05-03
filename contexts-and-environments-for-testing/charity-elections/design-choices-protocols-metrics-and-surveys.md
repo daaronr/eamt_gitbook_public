@@ -1,21 +1,21 @@
 # Design choices: Protocols, metrics and surveys
 
-## "Voter registration" survey
+## Surveys: "Voter registration" and "Voting ballot"
 
-Proposed content: [Voter Registration Form (2022 format)](https://www.surveymonkey.com/r/FFY5B73).
+Proposed content:&#x20;
+
+[Voter Registration Form (2022 format)](https://www.surveymonkey.com/r/FFY5B73).
+
+[Voting Ballot (2022 format)](https://www.surveymonkey.com/r/FN9Z5DP).
 
 
-
-{% hint style="info" %}
-?? What is the relation between the 'voter registration form' and the 'voting ballot'? Where can I see the latter.
-{% endhint %}
 
 
 
 ### Context
 
 {% hint style="info" %}
-When is this asked? Is it repeated on the same students from year to year or pre/post to measure impact?
+When are these asked? Time difference? Attrition? Is it repeated on the same students from year to year or pre/post to measure impact?
 {% endhint %}
 
 ### Goals of this survey
@@ -35,13 +35,33 @@ There are six primary goals that were considered in the drafted selection of que
 
 
 
-### Discussion of content
+### Discussion of content (of particular interest\_
 
-#### First page&#x20;
+#### First page of Voter registration form
 
 ![3 May 2022 version](<../../.gitbook/assets/image (27).png>)
 
+> GG: In regard to the first item, my thought was that it captures the "**giving significantly**" portion of the GWWC mission. It would be listed exactly as described in the expansive altruism subscale. \[I.e., it was used in that scale.]
+
+> GG: In regard to the second item, my thought was that it captures the "**giving effectively**" portion of the GWWC mission. It would be adjusted to incorporate the prompt at the beginning of the effectiveness-focus subscale.
+
+> David Reinstein. These seem reasonable and useful to me. For the second question, I wonder why you use only $100. Why not $500 or $1000?  \
+> \
+> And why 'if I were given' ... rather than 'if I were donating'? The 'given money' may convey a different sense of obligation to be effective with someone else's money, or to honor their preferences and wishes. (I'm not so against it though, I can imagine a decent argument for this.)
+
+
+
 On the first page of the voting ballot (required) and first page of the voter registration form (required), there is room for 3-6 items that prompt student reflection and contribute to measuring impact (e.g. paired samples t-tests from datasets imported into Airtable). Please see a draft of the items (in part borrowed from the expansive altruism and effectiveness-focus subscales) at the bottom of the document linked above.&#x20;
+
+<details>
+
+<summary>On the statistical tests...</summary>
+
+&#x20;I (David Reinstein) would suggest a Wilcoxon signed-rank test, or a fixed-effects ordered logit if you want this in the context of a model. Or, if you want something that is 'line-of-sight explainable to data scientists' you could do a permutation test.
+
+</details>
+
+
 
 ![3 May 2022 cersion](<../../.gitbook/assets/image (14).png>)
 
