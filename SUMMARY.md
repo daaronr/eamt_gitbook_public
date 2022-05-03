@@ -38,6 +38,8 @@
   * [pre-giving-tuesday-email split test (+)](contexts-and-environments-for-testing/one-for-the-world/pre-giving-tuesday-email-split-test/README.md)
     * [Preregistration: OftW Pre-GT](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt)
 * [Charity Elections (high schools)](contexts-and-environments-for-testing/charity-elections/README.md)
+  * [Design choices: Protocols, metrics and surveys](contexts-and-environments-for-testing/charity-elections/design-choices-protocols-metrics-and-surveys.md)
+  * [Measuring impact/research questions](contexts-and-environments-for-testing/charity-elections/measuring-impact-research-questions.md)
   * [Charity Elections (further notes to organize)](contexts-and-environments-for-testing/charity-elections/charity-elections-further-notes.md)
 * [TLYCS](contexts-and-environments-for-testing/tlycs/README.md)
   * [Advisor signup (Portland) (+)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/README.md)
