@@ -12,9 +12,18 @@ When is this asked? Is it repeated on the same students from year to year or pre
 
 ### Goals of this survey
 
+There are six primary goals that were considered in the drafted selection of questions:&#x20;
 
+1. prompting student reflection
+2. facilitating voting _\[DR: I guess you mean like 'registering to ensure you are legit?]_
+3. &#x20;contributing to research&#x20;
+4. measuring impact&#x20;
+5. &#x20;collecting data relevant to schools _\[DR: not sure what this is ... or how it's distinct from 6]_
+6. providing opportunities for continued learning _\[DR: how?]_
 
 > The primary purposes of the subscales would include (a) prompting student reflection on concepts related to effective giving at the beginning of voting week and (b) if it is cleared, contributing to research by Lucius and Matti. The subscales are included on the second page of the [Voter Registration Form (2022 format)](https://www.surveymonkey.com/r/FFY5B73).
+
+
 
 ### Discussion of content
 
