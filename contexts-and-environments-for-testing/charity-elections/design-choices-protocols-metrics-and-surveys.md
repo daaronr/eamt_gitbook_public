@@ -2,9 +2,9 @@
 
 ## Surveys: "Voter registration" and "Voting ballot"
 
-Proposed content:
+**Proposed content:**
 
-[Voter Registration Form (2022 format)](https://www.surveymonkey.com/r/FFY5B73).
+[Voter Registration Form (2022 format)](https://www.surveymonkey.com/r/FFY5B73)
 
 [Voting Ballot (2022 format)](https://www.surveymonkey.com/r/FN9Z5DP).
 
@@ -17,6 +17,16 @@ The slide show below gives the ordering and presentation of this&#x20;
 **Timing:** The voter registration form is at the beginning of the event (before students learn about and discuss the charities) and the voting ballot is at the end of the event (after students learn about and discuss the charities). \
 \
 It varies from school to school, but ideally the voter registration form is submitted on the Monday/Tuesday of voting week and the voting ballot is submitted on the Thursday/Friday of the same week. Student responses for each survey typically span across a few days depending on teacher schedules.
+
+**How it works**
+
+<details>
+
+<summary><strong>Voter registration, voting</strong></summary>
+
+&#x20;The logistics of registering to vote (first survey) and actually voting (second survey). The program is designed to give students the feeling, "I just voted, and I know how to vote."
+
+</details>
 
 
 
