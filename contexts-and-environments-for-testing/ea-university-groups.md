@@ -4,7 +4,7 @@
 
 ## **EA groups at elite universities and programs**
 
-The main focus of this effort has been promoting and building EA groups, especially at  elite and influential places (Ivy league etc)
+The main focus of this effort has been promoting and building EA groups, especially at elite and influential places (Ivy league etc)
 
 1. Membership, participation, connection to EA orgs, markers of post-university involvement
 2. Impacting career plans
@@ -15,36 +15,26 @@ The main focus of this effort has been promoting and building EA groups, especia
 
 <summary>How succesful has this been? (Sources/discussion)</summary>
 
-See:&#x20;
+See:
 
 * EA Groups survey
 * Rethink Priorities (ongoing?) survey on awareness of EA at universities
-* EA Survey on '[How people got involved with EA'](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea)****
+* EA Survey on '[How people got involved with EA'](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea)\*\*\*\*
 
 </details>
 
-****
+***
 
 ### **More widespread outreach**
 
-### **See** [ea-university-groups-for-future-leaders-ftx](ea-university-groups-for-future-leaders-ftx/ "mention")****
+### **See** [ea-university-groups-for-future-leaders-ftx](ea-university-groups-for-future-leaders-ftx/ "mention")
 
-### ****
-
-
-
-
-
-## &#x20;[EA Groups survey](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) (CEA)
-
-
+## [EA Groups survey](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) (CEA)
 
 ## Other ongoing work in this space
 
 * CEA
-* [80000-hours](80000-hours/ "mention")  is active _ly_in targeting university students, especially those with elite career paths; YouTube ads Cambridge
-
-
+* [80000-hours](80000-hours/ "mention") is active \_ly\_in targeting university students, especially those with elite career paths; YouTube ads Cambridge
 
 ## Student-led: University of Chicago/Michele and Miranda
 
@@ -64,15 +54,8 @@ ii. A career based approach … ‘how EA can help you do the most good with you
 \
 iii. An approach that will be ‘more friendly to progressives’. I encouraged them to consider issues of ‘how to track data’ doing a sort of ‘informal preregistration’ to fix their ideas, and to consider the impacts on medium and long-term outcomes, not just ‘which gets the most people in for a free hat.
 
-
-
 ### Trials at the University of Chicago
 
-****[**Event-based**: The Effects of a Career-Focused Introduction to Effective Altruism on College Students’ Involvement in Effective Altruism](https://docs.google.com/document/d/1ybvPBOBj6Bw\_LfmnlB9Ac4nN9ssuRSiaZmyd66IeK2s/edit?usp=sharing)
+[**Event-based**: The Effects of a Career-Focused Introduction to Effective Altruism on College Students’ Involvement in Effective Altruism](https://docs.google.com/document/d/1ybvPBOBj6Bw\_LfmnlB9Ac4nN9ssuRSiaZmyd66IeK2s/edit?usp=sharing)
 
-**Advertising-based:** The Effects of  Career-Focused Advertisement on College Students’ Interest in Effective Altruism
-
-
-
-
-
+**Advertising-based:** The Effects of Career-Focused Advertisement on College Students’ Interest in Effective Altruism

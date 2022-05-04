@@ -103,8 +103,13 @@ On the first page of the voting ballot (required) and first page of the voter re
 
 <summary>On the statistical tests...</summary>
 
-I (David Reinstein) would suggest a Wilcoxon signed-rank test, or a fixed-effects ordered logit if you want this in the context of a model. \
-Or, if you want something that is 'line-of-sight explainable to data scientists' you could do a permutation test; this is what I tend do do these days.
+I (David Reinstein) would suggest an ordered logit if you want this in the context of a model with covariates. \
+
+
+If you want a simple comparison you could do a Wilcoxon signed-rank test, or for a more 'line-of-sight explainable to data scientists' you could do a permutation test:\
+\
+First calculate the proportion of times a paired scoring in T2 is greater than its partner in T1 (i.e., probability of superiority, within subjects). Then for your null the permutations would be keeping the scores paired but randomly switching whether they are in T1 or T2 and seeing how often in those shuffled simulations you get the same or greater probability of superiority.\
+
 
 </details>
 
