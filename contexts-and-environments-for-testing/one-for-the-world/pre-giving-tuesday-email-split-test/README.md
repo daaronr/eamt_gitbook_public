@@ -4,9 +4,10 @@
 **To do:** This is being moved to the public gitbook [(edit link here)](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+).
 
 * replace the present information with a link (plus any information that would need to be redacted from the public version)
+
+* In depth replicable analysis will be organized in the dynamic document [here](https://daaronr.github.io/eamt_data_analysis/chapters/oftw_upsell_input_first_analysis.html)
 {% endhint %}
 
-\_\_
 
 ## General idea, main 'hypothesis' <a href="#general-idea-main-hypothesis" id="general-idea-main-hypothesis"></a>
 
@@ -54,7 +55,7 @@ Emails\
 
 > All 10 emails had the same CTA: make an additional $100 donation for the giving season/GivingTuesday on top of their recurring monthly pledge donation.
 
-\_\_
+
 
 {% hint style="info" %}
 Update -- four email dates are recorded in the data
@@ -74,15 +75,19 @@ Basically: (Chloe's description)
 * Treatment Group A received emails that were focused on the contact's impact
 * while Treatment Group B received emails that were focused on individual stories of beneficiaries
 
-See [broken-reference](broken-reference/ "mention")
+See  [preregistration, treatment specifics](https://effective-giving-marketing.gitbook.io/untitled/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt#treatment-specifics-i.e.-experimental-conditions)
+
 
 ### Treatment assignment procedure
 
-See [broken-reference](broken-reference/ "mention")
+See preregistration [How many ... conditions](https://effective-giving-marketing.gitbook.io/untitled/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt#4-how-many-and-which-conditions-will-participants-be-assigned-to)
 
 ### **Outcome data**
 
-Targeting: Donation incidence and amount in the relevant 'giving season' and over the next year, specifically described in prereg under...[broken-reference](broken-reference/ "mention")
+Targeting: Donation incidence and amount in the relevant 'giving season' and over the next year, specifically described in prereg under
+
+[key dependent variable](https://effective-giving-marketing.gitbook.io/untitled/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt#3-describe-the-key-dependent-variable-s-specifying-how-they-will-be-measured.)
+
 
 \
 **Data storage/form:**
@@ -92,8 +97,9 @@ Targeting: Donation incidence and amount in the relevant 'giving season' and ove
 
 ### **Optional/suggested additions**
 
-_Planned analysis methods, preregistration link: see_ [broken-reference](broken-reference/ "mention") and [broken-reference](broken-reference/ "mention") within\
-\_\_
+_Planned analysis methods, preregistration link_ [here](https://effective-giving-marketing.gitbook.io/untitled/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt)
+
+
 
 _Cost of running trial/promotion: Time costs only (as far as I know)_
 
@@ -105,7 +111,8 @@ _Cost of running trial/promotion: Time costs only (as far as I know)_
 
 ## Pre-registration work
 
-Pre-registered on OSF in 'AsPredicted' format, content incorporated here [broken-reference](broken-reference/ "mention")
+Pre-registered on OSF in 'AsPredicted' format, content incorporated here [here](https://effective-giving-marketing.gitbook.io/untitled/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt)
+
 
 {% embed url="https://github.com/daaronr/effective_giving_market_testing/blob/main/contexts-and-environments-for-testing/one-for-the-world/preregistration_oftw_pre_gt.pdf" %}
 
