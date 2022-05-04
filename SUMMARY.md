@@ -3,7 +3,6 @@
 * [EA Market Testing Introduction](README.md)
 * [📕 Gitbook content overview](gitbook-content-overview.md)
 * [EAMT progress and results](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit#)
-* [🗡 (Tip-o-the-spear)](tip-o-the-spear.md)
 * [Goals, trajectory, FAQs](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#)
 * [📖 Forum posts and writings](overview-ea-forum-post.md)
 * [👋 Meet the team](our-team-and-resources.md)
@@ -54,7 +53,7 @@
 
 ## Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
-* [Introduction ...](profiling-and-segmentation/section-introduction.md)
+* [Introduction](profiling-and-segmentation/section-introduction.md)
 * [Previous work/data](profiling-and-segmentation/previous-work.md)
   * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
   * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
@@ -72,7 +71,6 @@
 * [The challenge: drivers of effective/ineffective giving](background/the-challenge-drivers-of-effective-ineffective-giving.md)
   * [How little we know...](background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
 * [Models, theories, psychological norms](background/models-theories-psychological-norms.md)
-* [Literature on animal advocacy messaging](background/literature-on-animal-advocacy-messaging.md)
 * [Tools and trials: overview](background/tools-and-trials-overview/README.md)
   * [Tools/interventions: principles](background/tools-and-trials-overview/tools-interventions-principles.md)
   * [Outcomes: Effective gift/consider impact)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/README.md)
@@ -86,5 +84,6 @@
 
 * [How this 'gitbook' works](appendix/how-this-gitbook-works/README.md)
   * [Other tech](appendix/how-this-gitbook-works/other-tech.md)
+* [Literature on animal advocacy messaging](appendix/literature-on-animal-advocacy-messaging.md)
 * [Charity ratings, rankings, messages](appendix/charity-ratings-rankings-messages.md)
 * ["A large-scale online experiment" (participants-aware)](https://docs.google.com/document/d/1s3d0LYlFzmdV00gGji9AugOM7C7Dh3SVk0JbzlEhMFY/edit?usp=sharing)

@@ -22,7 +22,7 @@ _We believe this approach is likely to be the most fruitful because:_
 
 3\. The trials should _themselves_ have positive direct value (in promoting EA etc), in addition to the research and learning gains. (And the downside risk seems low: We are generally not testing risky messages and are being careful not to dilute or misrepresent EA's core ideas.)
 
-## Key themes and priorities
+## Key themes and priorities ... 'High value questions'
 
 This project primarily aims at:&#x20;
 
@@ -33,7 +33,7 @@ This project primarily aims at:&#x20;
 
 2\. **Outcomes** that are meaningful and relevant,
 
-...not just for (e.g.) "raising a pot of  money once", but for
+...not just for (e.g.) "raising a pot of money once", but for
 
 * "**New strong EAs":** Getting people (more) interested and involved in EA ideas, actions, and the  community,
 * **Key values and practices:** Getting people to consider and identify with key values and practices, such as making meaningful altruistic chocies, considering effectiveness and impact in doing so, strong analytical and epistemic practices, and broad (or carefully considered) moral circles.&#x20;
