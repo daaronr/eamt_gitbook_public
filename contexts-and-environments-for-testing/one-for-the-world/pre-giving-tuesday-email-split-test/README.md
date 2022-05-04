@@ -1,5 +1,15 @@
 # pre-giving-tuesday-email split test (+)
 
+
+Context: Donation 'upsell' to existing pledgers
+
+
+**Question: Are effectiveness-minded (EA-adjacent) donors and pledgers more motivated to donate by**
+
+1. "A": (non-quantitative) **presentation of impact and effectiveness** (as in standard OftW pitch)
+2. "B": **Emotional appeals and 'identified victim' images**
+
+
 {% hint style="info" %}
 **To do:** This is being moved to the public gitbook [(edit link here)](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+).
 
@@ -143,10 +153,8 @@ _the analysis as a 'methodological example'; all context removed_
 ***
 
 {% hint style="info" %}
-**Note:** We may wish to treat the 'email send' as the denominator, as the differig subject seemed to have led to a different number of opens
+**Note:** We may wish to treat the 'email send' as the denominator, as the differing subject seemed to have led to a different number of opens
 {% endhint %}
-
-***
 
 ***
 
