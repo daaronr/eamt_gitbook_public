@@ -20,7 +20,8 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 ### To the best of our knowledge, this is the first organized collaboration of its kind. We aim to:
 
 * Coalesce our understanding and evidence on barriers and facilitators of effective altruism/effective giving/effective action
-* Run a broad set of powerful trials and experiments (esp. in large-scale settings), gathering evidence on ‘what works best to promote meaningful actions (donations and commitments) in specific cases as well as general principles and approaches
+* Run a broad set of powerful trials and experiments (esp. in large-scale settings), gathering evidence on ‘what works best' to promote meaningful actions in specific cases, aiming at generalizable principles and approaches
+  * See our discussion of '[high-value questions' ](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um)
 * Conduct [profiling](broken-reference),[ survey, and segmentation](broken-reference) activities and trials, building evidence on which types of people are most responsive to effective giving messages and appeals
 * Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics
 
