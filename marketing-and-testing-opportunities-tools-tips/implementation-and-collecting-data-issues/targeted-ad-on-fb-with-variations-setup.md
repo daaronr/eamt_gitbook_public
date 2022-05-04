@@ -137,7 +137,7 @@ To do that we need to set up a "meta pixel".
 
 > DR: In my past experience, you ended up paying Facebook based on the number of "clicks" you got not simply on how long your ad was up. But it's probably a combination of these, and there are probably different pricing plans. You can tell Facebook to put a limit on either of these do not go "over budget". Facebook will aim to spend your entire budget and get the most link clicks using the lowest cost bid strategy.
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 Currently EUR 315 is the max for new users ... but for our present pilot we may want less than this (check: how much do we expect to pay for 800 clicks, let's split this up into ... first 100 clicks, next 300 clicks,.. to see if its going OK )
 
