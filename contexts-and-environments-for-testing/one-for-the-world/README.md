@@ -59,7 +59,9 @@ _There is a \~80% drop-out rate_
 
 </details>
 
-#### **27 Sept 2021**
+<details>
+<summary> **27 Sept 2021**</summary>
+
 
 Giving season is coming...Open to testing less disruptive and less risky stuff
 
@@ -91,6 +93,8 @@ Giving season is coming...Open to testing less disruptive and less risky stuff
 Script for 2020 emails below:
 
 ![](<../../.gitbook/assets/image (9).png>)
+
+</details>
 
 ## Resources
 
