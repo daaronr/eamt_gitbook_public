@@ -6,7 +6,7 @@ description: What you can find in the gitbook
 
 ## **Introduction**
 
-* Including our [mission](./), [what we are trying to do and why](overview-ea-forum-post.md), [most recent updates](tip-o-the-spear.md), and the organization of [our team](our-team-and-resources.md)
+Our [mission](./), [what we are trying to do and why](overview-ea-forum-post.md), [most recent updates](tip-o-the-spear.md), and the organization of [our team](our-team-and-resources.md)
 
 ## Five Key Sections
 
@@ -26,7 +26,7 @@ We discuss qualitative and quantiative research design and methodology issues th
 
 Our profiling project aims to help better understand what sorts of people are amenable to EA-related ideas and to taking EA-favored actions.
 
-### **5)** [**(In)effective Altruistic Choices: Review of Theory and Evidence**](background/section-introduction.md)\*\*\*\*
+### **5)** [**(In)effective Altruistic Choices: Review of Theory and Evidence**](background/section-introduction.md)
 
 We've done a thorough review of existing literature to inform the trials we are running and identify important research topics. This includes [What is known/models of effective giving](background/models-theories-psychological-norms.md) and [Principles and theories behind potential trials](background/tools-and-trials-overview/tools-interventions-principles.md).
 
