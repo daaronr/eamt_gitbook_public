@@ -1,12 +1,12 @@
 # pre-giving-tuesday-email split test (+)
 
 {% hint style="info" %}
-**To do:** This is being moved to the public gitbook [(edit link here)](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+).&#x20;
+**To do:** This is being moved to the public gitbook [(edit link here)](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+).
 
 * replace the present information with a link (plus any information that would need to be redacted from the public version)
 {% endhint %}
 
-__
+\_\_
 
 ## General idea, main 'hypothesis' <a href="#general-idea-main-hypothesis" id="general-idea-main-hypothesis"></a>
 
@@ -33,17 +33,15 @@ Academic-linked authors: David Reinstein, Josh Lewis, potentially others
 
 ### Timing of trial
 
-Targeted dates: November 10, November 18, November 23, all in 2021, but these may be delayed for feasibility&#x20;
-
-
+Targeted dates: November 10, November 18, November 23, all in 2021, but these may be delayed for feasibility
 
 {% hint style="info" %}
-Update -- four email dates are recorded in the data&#x20;
+Update -- four email dates are recorded in the data
 {% endhint %}
 
 ### Digital location where project 'lives' (planning, material, data)
 
-Present Gitbook, Google doc linked below, preregistration (OSF), and &#x20;
+Present Gitbook, Google doc linked below, preregistration (OSF), and
 
 {% hint style="info" %}
 Update: github/git repo
@@ -56,13 +54,11 @@ Emails\
 
 > All 10 emails had the same CTA: make an additional $100 donation for the giving season/GivingTuesday on top of their recurring monthly pledge donation.
 
-__
+\_\_
 
 {% hint style="info" %}
-Update -- four email dates are recorded in the data&#x20;
+Update -- four email dates are recorded in the data
 {% endhint %}
-
-
 
 ### **Participant universe and sample size**
 
@@ -78,15 +74,15 @@ Basically: (Chloe's description)
 * Treatment Group A received emails that were focused on the contact's impact
 * while Treatment Group B received emails that were focused on individual stories of beneficiaries
 
-See [Broken link](broken-reference "mention")
+See [broken-reference](broken-reference/ "mention")
 
 ### Treatment assignment procedure
 
-See [Broken link](broken-reference "mention")
+See [broken-reference](broken-reference/ "mention")
 
 ### **Outcome data**
 
-Targeting: Donation incidence and amount in the relevant 'giving season' and over the next year, specifically described in prereg under...[Broken link](broken-reference "mention")
+Targeting: Donation incidence and amount in the relevant 'giving season' and over the next year, specifically described in prereg under...[broken-reference](broken-reference/ "mention")
 
 \
 **Data storage/form:**
@@ -96,7 +92,7 @@ Targeting: Donation incidence and amount in the relevant 'giving season' and ove
 
 ### **Optional/suggested additions**
 
-_Planned analysis methods, preregistration link: see_ [Broken link](broken-reference "mention") and [Broken link](broken-reference "mention") within\
+_Planned analysis methods, preregistration link: see_ [broken-reference](broken-reference/ "mention") and [broken-reference](broken-reference/ "mention") within\
 \_\_
 
 _Cost of running trial/promotion: Time costs only (as far as I know)_
@@ -109,45 +105,43 @@ _Cost of running trial/promotion: Time costs only (as far as I know)_
 
 ## Pre-registration work
 
-Pre-registered on OSF in 'AsPredicted' format, content incorporated here [Broken link](broken-reference "mention")
+Pre-registered on OSF in 'AsPredicted' format, content incorporated here [broken-reference](broken-reference/ "mention")
 
 {% embed url="https://github.com/daaronr/effective_giving_market_testing/blob/main/contexts-and-environments-for-testing/one-for-the-world/preregistration_oftw_pre_gt.pdf" %}
 
 ## Preliminary results
 
-### **Overview:**&#x20;
+### **Overview:**
 
 The Emotion treatment leads to significantly _fewer_ people opening emails, but more people clicking on the in-email donation link (relative to the standard Impact information treatment). However, we are statistically underpowered to detect a difference in actual donations. More evidence is needed.
 
-Chloe:  **those emails that appealed to emotional storytelling performed better (higher in-email click rate) than those that were impact-focused**.
+Chloe: **those emails that appealed to emotional storytelling performed better (higher in-email click rate) than those that were impact-focused**.
 
-**DR, update:** I confirm that this is indeed the case, and this is statistically significant in further analysis.&#x20;
+**DR, update:** I confirm that this is indeed the case, and this is statistically significant in further analysis.
 
-> ### **Evidence on donations**
+> #### **Evidence on donations**
 
 _(preliminary; we are awaiting further donations in the giving season) ..._
 
 {% hint style="info" %}
 _This is 'hard-coded' below. I intend to replace this with a link or embed of a dynamic document (Rmarkdown)._\
 \
-_**The quantitative analysis itself, stripped of any context and connection to OftW, is hosted**_** ** [_**HERE**_](https://rethinkpriorities.github.io/methodology-statistics-design/inference-and-rough-equivalence-testing-with-binomial-outcomes.html#how-likely-are-proportions-this-similar-under-different-size-true-effect-sizes)
+_**The quantitative analysis itself, stripped of any context and connection to OftW, is hosted**_\*\* \*\* [_**HERE**_](https://rethinkpriorities.github.io/methodology-statistics-design/inference-and-rough-equivalence-testing-with-binomial-outcomes.html#how-likely-are-proportions-this-similar-under-different-size-true-effect-sizes)
 {% endhint %}
 
 {% embed url="https://rethinkpriorities.github.io/methodology-statistics-design/inference-and-rough-equivalence-testing-with-binomial-outcomes.html#how-likely-are-proportions-this-similar-under-different-size-true-effect-sizes" %}
 _the analysis as a 'methodological example'; all context removed_
 {% endembed %}
 
-
-
-****
+***
 
 {% hint style="info" %}
-**Note:**   We may wish to treat the 'email send' as the denominator, as the differig subject seemed to have led to  a different number of opens
+**Note:** We may wish to treat the 'email send' as the denominator, as the differig subject seemed to have led to a different number of opens
 {% endhint %}
 
-****
+***
 
-****
+***
 
 **Treatment 1 (Impact)**: We record
 
@@ -156,31 +150,25 @@ _the analysis as a 'methodological example'; all context removed_
 * 15 members making some one-time donation in this period (about 0.11% of openers, 0.075% of total)
 * 8 members emails donating (likely) through the link (0.057%/0.04%)
 
-
-
 {% hint style="info" %}
 **Treatment 2 (Emotional storytelling):**
 {% endhint %}
 
-* 1190 unique emails listed as opening an email (a significantly lower 'open rate', assuming the same shares of members were sent each set of treatment email)&#x20;
+* 1190 unique emails listed as opening an email (a significantly lower 'open rate', assuming the same shares of members were sent each set of treatment email)
 * 56 members clicking on the donation link in an email at least once (4.7% of openers)
 * 11 members making some one-time donation in this period (about 0.9% of openers, about 0.055% of total)
 * 9 unique emails donating (likely) through the link (0.08%/0.045%)
 
-
-
 {% hint style="info" %}
-**Note:**   We may wish to treat the 'email send' as the denominator, as the differing subject seemed to have led to  a different number of opens
+**Note:** We may wish to treat the 'email send' as the denominator, as the differing subject seemed to have led to a different number of opens
 {% endhint %}
 
-****
-
-
+***
 
 **‘Initial impressions of preliminary outcomes’**
 
 * The conversion rates are rather low (0.5%) … but maybe high enough to justify sending these emails? I’m not sure.
-* While people are more likely to O_pen_ at least one Impact email, they are more likely to _Click to donate_ at least once if assigned the Emotion email
+* While people are more likely to O\_pen\_ at least one Impact email, they are more likely to _Click to donate_ at least once if assigned the Emotion email
 * But we can't say much for _actual donations._
 * Given the low conversion rates we don’t have too much power to rule out ‘proportionally large’ differences in conversion rates (or average amounts raised) between treatments …
 
@@ -195,6 +183,6 @@ X-axis: if the “true difference in incidence rates” were of these magnitudes
 _Here:_
 
 * our data is consistent with ‘no difference’ (of course) … but it's also consistent with ‘a fairly large difference in incidence’
-* E.g., even if one treatment truly lead to ‘twice as many donations as the other’, we still have a 33% chance or so of seeing a difference as small as the one we see&#x20;
+* E.g., even if one treatment truly lead to ‘twice as many donations as the other’, we still have a 33% chance or so of seeing a difference as small as the one we see
 * We can reasonably ‘rule out’ differences of maybe 2.5x or greater
 * Main point: given the rareness of donations in this context, our sample size doesn’t let us make very strong conclusions in either direction about donationse

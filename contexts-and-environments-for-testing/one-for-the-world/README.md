@@ -21,13 +21,11 @@ description: >-
 
 {% hint style="info" %}
 _Moved to public gitbook ... link above_\
-__\
-__**Restating key goals:** **activating** more donors who took the pledge at university, so that their donations actually start; retaining donors for longer once they activate;\
+\_\_\
+\_\_**Restating key goals:** **activating** more donors who took the pledge at university, so that their donations actually start; retaining donors for longer once they activate;\
 \
 _There is a \~80% drop-out rate_
 {% endhint %}
-
-
 
 ## Ongoing/completed experiments
 
@@ -88,9 +86,17 @@ Giving season is coming...Open to testing less disruptive and less risky stuff
   * (would need 'audience lists' with possible assigned splits
   * would need a video (or multiple if we need to test it)
 
-Script for 2020 emails below:
 
-![](<../../.gitbook/assets/image (9).png>)
+
+<details>
+
+<summary>Script for 2020 emails</summary>
+
+
+
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="original">
+
+</details>
 
 ## Resources
 
