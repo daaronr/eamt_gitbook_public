@@ -88,6 +88,7 @@ Giving season is coming...Open to testing less disruptive and less risky stuff
   * (would need 'audience lists' with possible assigned splits
   * would need a video (or multiple if we need to test it)
 
+</details>
 
 
 <details>
@@ -100,7 +101,6 @@ Giving season is coming...Open to testing less disruptive and less risky stuff
 
 </details>
 
-</details>
 
 ## Resources
 
