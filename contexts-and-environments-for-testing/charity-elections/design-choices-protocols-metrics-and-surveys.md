@@ -43,6 +43,16 @@ There are six primary goals that were considered in the drafted selection of que
 5. collecting data relevant to schools _\[DR: not sure what this is ... or how it's distinct from 6]_
 6. providing opportunities for continued learning _\[DR: how?]_
 
+<details>
+
+<summary>Examples of data/learning</summary>
+
+![](<../../.gitbook/assets/image (27).png>)
+
+From [Youtube: Fed presentation](https://youtu.be/s32qCDWsw8s?t=441)
+
+</details>
+
 > The primary purposes of the subscales would include (a) prompting student reflection on concepts related to effective giving at the beginning of voting week and (b) if it is cleared, contributing to research by Lucius and Matti. The subscales are included on the second page of the [Voter Registration Form (2022 format)](https://www.surveymonkey.com/r/FFY5B73).
 
 > Although the subscale scores might be associated with other data (e.g. subscribing to EA-related newsletters or receiving a copy of Doing Good Better), the purpose of their inclusion (besides prompting student reflection) would be primarily for the subscale data in itself.
@@ -51,7 +61,7 @@ There are six primary goals that were considered in the drafted selection of que
 
 #### First page of Voter registration form
 
-![3 May 2022 version](<../../.gitbook/assets/image (27).png>)
+![3 May 2022 version](<../../.gitbook/assets/image (27) (1).png>)
 
 > GG: In regard to the first item, my thought was that it captures the "**giving significantly**" portion of the GWWC mission. It would be listed exactly as described in the expansive altruism subscale. \[I.e., it was used in that scale.]
 
@@ -85,7 +95,7 @@ On second thought, if you can't 'test it both ways', maybe go with your instinct
 
 </details>
 
->
+
 
 On the first page of the voting ballot (required) and first page of the voter registration form (required), there is room for 3-6 items that prompt student reflection and contribute to measuring impact (e.g. paired samples t-tests from datasets imported into Airtable). Please see a draft of the items (in part borrowed from the expansive altruism and effectiveness-focus subscales) at the bottom of the document linked above.
 
@@ -93,7 +103,8 @@ On the first page of the voting ballot (required) and first page of the voter re
 
 <summary>On the statistical tests...</summary>
 
-I (David Reinstein) would suggest a Wilcoxon signed-rank test, or a fixed-effects ordered logit if you want this in the context of a model. Or, if you want something that is 'line-of-sight explainable to data scientists' you could do a permutation test.
+I (David Reinstein) would suggest a Wilcoxon signed-rank test, or a fixed-effects ordered logit if you want this in the context of a model. \
+Or, if you want something that is 'line-of-sight explainable to data scientists' you could do a permutation test; this is what I tend do do these days.
 
 </details>
 
