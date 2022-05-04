@@ -74,6 +74,11 @@ _The reason I had used the language "if I were given" was that many high school 
 "You were donating" vs "If I were given" ... it's a tough one. If you had all the space in the world you could consider explaining it further ... "suppose you had $100 that could legally only be given to charity and not kept; but you were not allocating this 'on behalf of someone'" ... but that gets messy​. I guess I'd slightly lean towards "If I were giving $100 to charity" but I'm not sure.​\
 \
 Depending on your sample size and implementation ability you might be able to do a 'survey experiment' here and randomize how it is asked to see if you find a difference.\
+\
+On second thought, if you can't 'test it both ways', maybe go with your instinct. Makes sense to expect the most meaningful answers in contexts people can relate to ... and students could probably imagine being given $100 or so to donate.​But maybe change it to:​\
+\
+\> If I were given $100 to donate to any charity (and asked to use my own judgement in doing so)\
+\
 
 
 
