@@ -40,7 +40,7 @@ There are six primary goals that were considered in the drafted selection of que
 2. facilitating voting _\[DR: I guess you mean like 'registering to ensure you are legit?]_
 3. contributing to research
 4. measuring impact \[DR: this seems most important to me]
-5. collecting data relevant to schools _\[DR: not sure what this is ... or how it's distinct from 6]_
+5. collecting data relevant to schools (See fold below)
 6. providing opportunities for continued learning _\[DR: how?]_
 
 <details>
