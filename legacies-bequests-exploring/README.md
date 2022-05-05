@@ -64,10 +64,6 @@ NB -- its a (high) fee-based model, much of which may go to salaries and support
 
 </details>
 
-1.
-
-&#x20;
-
 ## Ideas/insights/writings
 
 {% embed url="https://davidreinstein.wordpress.com/2018/07/16/inheritance-tax-and-charitable-bequests-an-intergenerational-pact?platform=hootsuite" %}
