@@ -17,11 +17,9 @@ The main focus of this effort has been promoting and building EA groups, especia
 >
 >
 
-[University Group Accelerator Program](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282)d detr
+[University Group Accelerator Program](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282)
 
 {% embed url="https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282" %}
-
-
 
 ## Open Philanthropy Fellowships
 
@@ -30,11 +28,7 @@ The main focus of this effort has been promoting and building EA groups, especia
 > [The University Organizer Fellowship](https://openphilanthropy.org/focus/other-areas/university-organizer-fellowship), which provides funding for organizers and groups expenses for part-time and full-time organizers helping with student groups focused on effective altruism, longtermism, rationality, or other relevant topics at any university (not just focus universities). (Intended to replace the Campus Specialist and Campus Specialist Internship programs.)\
 >
 
->
->
-> * [The Century Fellowship](https://www.openphilanthropy.org/focus/other-areas/century-fellowship), a selective 2-year program that gives resources and support (including $100K+/year in funding) to particularly promising people early in their careers who want to work in areas that could improve the long-term future. (Intended partially for particularly strong Campus Specialist applicants.)
->
->
+> [The Century Fellowship](https://www.openphilanthropy.org/focus/other-areas/century-fellowship), a selective 2-year program that gives resources and support (including $100K+/year in funding) to particularly promising people early in their careers who want to work in areas that could improve the long-term future. (Intended partially for particularly strong Campus Specialist applicants.)
 
 
 
@@ -42,14 +36,15 @@ The main focus of this effort has been promoting and building EA groups, especia
 
 ### **More widespread outreach**
 
-### **See** [ea-university-groups-for-future-leaders-ftx](ea-university-groups-for-future-leaders-ftx/ "mention")
+### ****
+
+**See** [ea-university-groups-for-future-leaders-ftx](ea-university-groups-for-future-leaders-ftx/ "mention")
 
 ## [EA Groups survey](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) (CEA)
 
 ## Other ongoing work in this space
 
-* CEA
-* [80000-hours](80000-hours/ "mention") is activetin targeting university students, especially those with elite career paths; YouTube ads Cambridge
+* [80000-hours](80000-hours/ "mention") is active in targeting university students, especially those with elite career paths; see [80000-hours](80000-hours/ "mention")
 
 ## Student-led: University of Chicago/Michele and Miranda
 
