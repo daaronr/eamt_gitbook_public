@@ -2,7 +2,7 @@
 
 ## Goals and context
 
-## **EA groups at elite universities and programs**
+### **EA groups at elite universities and programs**
 
 The main focus of this effort has been promoting and building EA groups, especially at elite and influential places (Ivy league etc)
 
@@ -11,19 +11,34 @@ The main focus of this effort has been promoting and building EA groups, especia
 3. (Possibly?) influencing research and intellectual conversations at universities, including academia
 4. Maybe focusing on particular programs and career paths
 
-<details>
+## CEA
 
-<summary>How succesful has this been? (Sources/discussion)</summary>
+> CEA will continue to support early stage university groups via the [University Group Accelerator Program ](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282)and city and national groups in key locations via the [Community Building Grants](https://www.centreforeffectivealtruism.org/how-to-join-the-program) Program.&#x20;
+>
+>
 
-See:
+[University Group Accelerator Program](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282)d detr
 
-* EA Groups survey
-* Rethink Priorities (ongoing?) survey on awareness of EA at universities
-* EA Survey on '[How people got involved with EA'](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea)\*\*\*\*
+{% embed url="https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282" %}
 
-</details>
 
-***
+
+## Open Philanthropy Fellowships
+
+
+
+> [The University Organizer Fellowship](https://openphilanthropy.org/focus/other-areas/university-organizer-fellowship), which provides funding for organizers and groups expenses for part-time and full-time organizers helping with student groups focused on effective altruism, longtermism, rationality, or other relevant topics at any university (not just focus universities). (Intended to replace the Campus Specialist and Campus Specialist Internship programs.)\
+>
+
+>
+>
+> * [The Century Fellowship](https://www.openphilanthropy.org/focus/other-areas/century-fellowship), a selective 2-year program that gives resources and support (including $100K+/year in funding) to particularly promising people early in their careers who want to work in areas that could improve the long-term future. (Intended partially for particularly strong Campus Specialist applicants.)
+>
+>
+
+
+
+{% embed url="https://forum.effectivealtruism.org/posts/xTWhXX9HJfKmvpQZi/cea-is-discontinuing-its-focus-university-programming" %}
 
 ### **More widespread outreach**
 
@@ -34,7 +49,7 @@ See:
 ## Other ongoing work in this space
 
 * CEA
-* [80000-hours](80000-hours/ "mention") is active \_ly\_in targeting university students, especially those with elite career paths; YouTube ads Cambridge
+* [80000-hours](80000-hours/ "mention") is activetin targeting university students, especially those with elite career paths; YouTube ads Cambridge
 
 ## Student-led: University of Chicago/Michele and Miranda
 
