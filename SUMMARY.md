@@ -56,6 +56,7 @@
   * [(Social influence - JustGiving)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/social-influence-justgiving.md)
 * [EA university groups/promotion at universities](contexts-and-environments-for-testing/ea-university-groups.md)
 * [EA university groups for future leaders (FTX)](contexts-and-environments-for-testing/ea-university-groups-for-future-leaders-ftx/README.md)
+  * [Project management](contexts-and-environments-for-testing/ea-university-groups-for-future-leaders-ftx/project-management.md)
   * [Conservative outreach](contexts-and-environments-for-testing/ea-university-groups-for-future-leaders-ftx/conservative-outreach.md)
   * [Johns Hopkins 'failed trial'](https://docs.google.com/document/d/1mFk0gdvzZh-qxUZed18aGWKGapP9GEaSGDJMX8oC2oM/edit#heading=h.onnetfl7a1im)
 * [Surveys/survey platforms](contexts-and-environments-for-testing/surveys-survey-platforms.md)
