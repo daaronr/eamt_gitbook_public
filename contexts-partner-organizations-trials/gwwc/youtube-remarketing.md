@@ -4,7 +4,7 @@ description: GWWC youtube remarketing campaign (trial)
 
 # YouTube Remarketing (+)
 
-See also the cross-organization [notes on advertising, google, youtube, etc](broken-reference) (=placeholder for now) and the tips on [doing-and-funding-ads.md](../../core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md "mention"))
+See also the cross-organization [notes on advertising, google, youtube, etc](../../partner-organizations-and-trials/gwwc/broken-reference/) (=placeholder for now) and the tips on [doing-and-funding-ads.md](../../core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md "mention"))
 
 ## YouTube Remarketing
 
@@ -24,8 +24,7 @@ Algorithm decides which video to present to people.
 
 > Q: Is each video assigned to a different situation or are videos randomly chosen to be displayed? If the latter, you could randomize videos by location and see if the different videos were more or less effective. Alternatively, just randomizing the whole campaign seems like a good idea to me....
 
-> A: Videos are selected based on the likelihood of the user watching >30 seconds (by the algorithm)
-> ... randomization by individual will be hard because users don't click and act right away. Instead I think we have to randomize by geography
+> A: Videos are selected based on the likelihood of the user watching >30 seconds (by the algorithm) ... randomization by individual will be hard because users don't click and act right away. Instead I think we have to randomize by geography
 
 ## Results summary (Early, JS Winchell; may need update)
 
@@ -44,7 +43,7 @@ Algorithm decides which video to present to people.
 * Thinking: 'This is not a good tactic for driving site traffic or donations (although we could optimize for this instead if we wanted)'
 
 \
-**Interesting observations**\
+**Interesting observations**\\
 
 1. Efficiency has significantly improved over 3 weeks
 

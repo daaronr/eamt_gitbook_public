@@ -23,7 +23,7 @@ description: >-
 
 ### **Stages of the funnel:**
 
-1. Awareness & Consideration (Curious, [casual visitors etc](web-page-casual-visitors.md))
+1. Awareness & Consideration (Curious, [casual visitors etc](../../partner-organizations-and-trials/gwwc/web-page-casual-visitors.md))
 2. Conversion/acquisition (donate/pledge)
 3. Retention (fulfill and report pledge)
 4. ‘Advocacy’ (promoting GWWC to others)
