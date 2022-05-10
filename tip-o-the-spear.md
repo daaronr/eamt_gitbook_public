@@ -72,19 +72,6 @@ _Previous updates: see tabs_
 
 ### [#80k-tip-of-the-spear](contexts-and-environments-for-testing/80000-hours/#80k-tip-of-the-spear "mention")
 
-<details>
-
-<summary>Bella's goals/interests</summary>
-
-* optimize WoM channels, referral campaign
-
-<!---->
-
-* sponsorships (sponsor a podcast, youtube)
-* 80k and Tim Ferris (a bit confounded with different CtA) ..
-
-</details>
-
 ### Reinstein & Co
 
 Pushing forward 'self and academic-funded large trials', ideally before giving season

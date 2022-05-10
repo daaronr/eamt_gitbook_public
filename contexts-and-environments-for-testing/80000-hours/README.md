@@ -10,7 +10,15 @@
 
 Various procedural and [implementation-questions.md](../../core-knowledge-base/marketing-implementation-and-practical-tips/implementation-questions.md "mention"), e.g., Youtube sponsorship vs ads.&#x20;
 
-Maybe out of our scope: "What should be the bar for receiving 80k careers advice?"
+<details>
+
+<summary>Other questions, maybe out of our scope</summary>
+
+"What should be the bar for receiving 80k careers advice?"
+
+</details>
+
+
 
 ### Targets (outcomes)
 
@@ -19,8 +27,6 @@ Maybe out of our scope: "What should be the bar for receiving 80k careers advice
 * Subscribe to 80 Newsletter, Podcast, etc
 * Engagement time on web site, time reading the articles&#x20;
   * (Be aware of counter-metrics)
-
-
 
 **Middle of funnel**
 
@@ -37,17 +43,22 @@ But this is a long term outcome, hard to measure, slow feedback loop ...&#x20;
 
 Ad hoc idea: Median 2 year lag, 5-6 year upper end&#x20;
 
-
-
 ## Key questions&#x20;
-
-
 
 <details>
 
 <summary>Conversation notes</summary>
 
 'What messages should we be testing'?
+
+
+
+* optimize WoM channels, referral campaig
+* sponsorships (sponsor a podcast, youtube)
+
+<!---->
+
+* 80k and Tim Ferris (a bit confounded with different CtA) ..
 
 </details>
 
