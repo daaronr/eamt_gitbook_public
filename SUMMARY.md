@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Effective Giving and Action: Market Testing and Synthesis](README.md)
+* [Effective Altruism: Market Testing, Evidence Synthesis](README.md)
 * [📕 Purpose of this gitbook](purpose-of-this-gitbook.md)
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
 * [👋 Meet the team](our-team-and-resources.md)
