@@ -21,7 +21,7 @@ Other partner contact: Jon Behar (Giving Games)
 
 TLYCS is considering introducing cause-area funds to allow people with specific cause and beneficiary preferences to nonetheless have effective giving options. They are also considering tools for helping elicit these preferences and guide people.
 
-\_Issues/questions: \_
+\__ssues/questions:_
 
 * Will cause-specific funds increase overall giving? (If not it may be a negative, as it could decrease overall efficiency)
   * How to best present and describe cause-specific funds? Which causes?
@@ -41,24 +41,52 @@ relates to charity entrepreneurs and DPrize
 
 ## Other notes
 
+<details>
+
+<summary>Notes</summary>
+
+
+
 * Target "Giving Season" timing-wise
+
+<!---->
+
 * What would be actionable?
+
+<!---->
+
 * How do people come into this funnel?
   * Searching for most good in the abstract, then this is easy?
   * If somebody already has something in mind…
     * Good to match the donations to a location people are interested in
     * We want to match our offering to the cause people are interested in
+
+<!---->
+
 * Neela and Bilal were keen on targeting particularly in Australia...
+
+<!---->
+
 * Logistics:
   1. Barriers: basically hard to change website cos of team / technical barriers
   2. We were discussing funding
   3. But seems that advertising to get people to website is best… and there are funds
+
+<!---->
+
 * "Obligation vs. supererogatory" (Neela)
   * Drowning child vs. burning building \[EXPLAIN]
+
+<!---->
+
 * [Profiling](broken-reference/)
   * TLYCS are a little bit older / more female than Givewell/GWWC
   * Who is most likely to donate overseas? People who travel…
   * Neela mentioned ["Behavioral Insights To End Global Poverty" (Princeton report for TLYCS, Jan 2021)](https://www.dropbox.com/s/xggx5gz4k0219gt/SPI%20591b%20-%20Behavioral%20Insights%20To%20End%20Global%20Poverty%20-%20Jan%202021.pdf?dl=0)
+
+</details>
+
+
 
 {% file src="../../.gitbook/assets/behavioral_insights_to_end_global_poverty_12-15.pdf" %}
 TLYCS behavioral analysis
