@@ -14,10 +14,10 @@ The main focus of this effort has been promoting and building EA groups, especia
 ## CEA
 
 > CEA will continue to support early stage university groups via the [University Group Accelerator Program ](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282)and city and national groups in key locations via the [Community Building Grants](https://www.centreforeffectivealtruism.org/how-to-join-the-program) Program.&#x20;
->
->
 
-[University Group Accelerator Program](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282)
+__[_From EA forum post_](https://forum.effectivealtruism.org/posts/xTWhXX9HJfKmvpQZi/cea-is-discontinuing-its-focus-university-programming)__
+
+[University Group Accelerator Program](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282) (Notion)
 
 {% embed url="https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282" %}
 
