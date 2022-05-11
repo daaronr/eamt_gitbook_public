@@ -9,9 +9,11 @@ description: >-
 
 <details>
 
-<summary>Notes</summary>
+<summary>Notes on content/building this</summary>
 
-[trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public reading
+This follows the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public reading.
+
+We intend to redo much of this analysis in a more transparent way; directly importing the data and doing our own analyses ....rather than Google's built-in tools. We intend to put this within the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/)
 
 
 
