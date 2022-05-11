@@ -15,7 +15,7 @@
   * [Pledge page (options trial)](contexts-partner-organizations-trials/gwwc/pledge-page-options-trial.md)
   * [Giving guides - Facebook(+)](contexts-partner-organizations-trials/gwwc/giving-guides-+.md)
   * [Message Test (Feb 2022) (+)](contexts-partner-organizations-trials/gwwc/feb-22-message-test.md)
-  * [YouTube Remarketing (+)](contexts-partner-organizations-trials/gwwc/youtube-remarketing.md)
+  * [YouTube Remarketing](contexts-partner-organizations-trials/gwwc/youtube-remarketing.md)
 * [One For the World (OftW)](contexts-partner-organizations-trials/one-for-the-world-oftw/README.md)
   * [pre-giving-tuesday-email split test](contexts-partner-organizations-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
     * [Preregistration: OftW pre-GT](contexts-partner-organizations-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)

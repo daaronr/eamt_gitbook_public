@@ -7,7 +7,15 @@ description: >-
 
 # Pledge page (options trial)
 
-[**Following**](../../contexts-and-environments-for-testing/trial-reporting-template/) [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public presentation
+<details>
+
+<summary>Notes</summary>
+
+[trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public reading
+
+
+
+</details>
 
 ## Summary of trial and results
 
