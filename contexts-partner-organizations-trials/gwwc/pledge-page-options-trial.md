@@ -7,7 +7,17 @@ description: >-
 
 # Pledge page (options trial)
 
-[**Following**](../../contexts-and-environments-for-testing/trial-reporting-template/) [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention")
+[**Following**](../../contexts-and-environments-for-testing/trial-reporting-template/) [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public presentation
+
+## Summary of trial and results
+
+Giving What We Can (GWWC) has three giving pledge options, displayed in the 'Standard presentation version' below.
+
+![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
+
+&#x20;
+
+From April-July 2021  they ran a trial presenting its 'pledge page' options in three slightly different ways. The most successful presentation only showed a box for "The Pledge", with the other options given in less prominent bullet points below. The least successful presentation was like the one displayed above, but with "Try Giving" in the central position.&#x20;
 
 ## General idea, main 'hypothesis'
 
@@ -17,13 +27,13 @@ description: >-
 
 **Theories and mechanisms** to consider:
 
-* Tendency to choose middle options
-* Indecision paralysis ('too many options')
-* Signaling power of choice (e.g., if there's a 'more virtuous choice' I may feel that my 'middle choice' looks less good by comparison)
+* Tendency to choose 'middle options'
+* Too many options may lead to indecision paralysis&#x20;
+* The signaling power of choice; e.g., if there's a 'more virtuous choice' I may feel that my 'middle choice' looks less good by comparison)
 
 ## Background and context
 
-**GWWC has three distinct pledge options:**
+**GWWC has three distinct pledge options, as shown above**
 
 1\. Try Giving (1% of income),
 
@@ -31,11 +41,7 @@ description: >-
 
 3\. The "Further Pledge" (donate all income above a living allowance).
 
-These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/) October 2020).
-
-![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
-
-Following 'become a member' takes you to this 'Take a Pledge' page ([`https://www.givingwhatwecan.org/pledge/`](https://www.givingwhatwecan.org/pledge/))
+These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/) October 2020) Following 'become a member' takes you to this 'Take a Pledge' page ([`https://www.givingwhatwecan.org/pledge/`](https://www.givingwhatwecan.org/pledge/))
 
 ... there may be other ways into this page as well.
 
@@ -86,7 +92,7 @@ Sample size: see below, from Google Analytics
 
 ![](<../../.gitbook/assets/image (7).png>)
 
-2\. "**Pledge before TryGiving**" ... as above but with Try Giving and The Pledge swapped, and Try Giving highlighted
+2\. "**Pledge before TryGiving**" ... as above but with Try Giving and The Pledge swapped, and Try Giving (in the center) highlighted
 
 3\. "**Separate Block for Other Pledges**" (see below)
 
@@ -98,10 +104,11 @@ Sample size: see below, from Google Analytics
 
 * I believe all  of the remaining presentation was otherwise the same, including the relative position of this 'box'
 * There were no other major variations within the period of this trial
+*   Mobile device view looks different __ than the above. Roughly half of users are on mobile devices. Did this lead to important differences?
+
+
 
 </details>
-
-Note: Mobile device view looks different __ than the above. Roughly half of users are on mobile devices.
 
 
 
@@ -273,11 +280,13 @@ Still, it might be that people mainly came in with the desire to take The Pledge
 
 </details>
 
-### _Caveats_
+### Caveats
 
 * I am assuming that the 'outcome being measured here' is whether the person 'clicked on any giving pledge'; this is what Luke has conveyed to me
 * I assume this is 'conversions ever from this IP', and 'sessions' represents 'how many different IPs came to the treatment'. If it's something else (e.g., each 'session' is a 'visit' from an individual), this could reflect these people converting in _fewer sessions_ but not necessarily being more likely to convert overall. Even if this is 'by IP' the alternative interpretation 'not converting now but maybe later' may still have some weight if people are entering through multiple devices.
 
-_Further thoughts:_ We should try to focus more carefully on 'whether this is having any effect on ultimate pledge-taking and pledge-follow-through behavior'. I would be surprised if a moderate difference in the framing of a particular page should have such a large (2.69-1.71/1.71 = 57%) impact on the incidence of such a large life choice, involving at least tens of thousands of dollars. However, I still expect the incidence of 'click this button' to be _likely related_ to that ultimate outcome, thus I suspect these results are still informative and useful as they stand.
+_Further thoughts:_&#x20;
+
+**We should try to focus more carefully on 'whether this is having any effect on ultimate pledge-taking and pledge-follow-through behavior'.** I would be surprised if a moderate difference in the framing of a particular page should have such a large (2.69-1.71/1.71 = 57%) impact on the incidence of such a large life choice, involving at least tens of thousands of dollars. However, I still expect the incidence of 'click this button' to be _likely related_ to that ultimate outcome, thus I suspect these results are still informative and useful as they stand.
 
 ****
