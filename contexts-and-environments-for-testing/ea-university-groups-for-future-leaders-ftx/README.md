@@ -2,7 +2,7 @@
 
 ### **Working with**
 
-* Michael Sadowsky (instigator, previous work, advising)
+* [Michael Sadowsky](https://www.linkedin.com/in/michael-sadowsky-819528b0/) (instigator, previous work, advising)
 * David Reinstein: helping organize and analyze results
 * Pranay Mittal: lead on 'making it happen'
 
