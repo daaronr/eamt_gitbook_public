@@ -12,7 +12,7 @@
 * [Introduction](contexts-partner-organizations-trials/section-introduction.md)
 * [University groups/promotion](contexts-partner-organizations-trials/university-groups-promotion.md)
 * [Giving What We Can (GWWC)](contexts-partner-organizations-trials/gwwc/README.md)
-  * [Pledge page (options trial) (](contexts-partner-organizations-trials/gwwc/pledge-page-options-trial.md)
+  * [Pledge page (options trial)](contexts-partner-organizations-trials/gwwc/pledge-page-options-trial.md)
   * [Giving guides - Facebook(+)](contexts-partner-organizations-trials/gwwc/giving-guides-+.md)
   * [Message Test (Feb 2022) (+)](contexts-partner-organizations-trials/gwwc/feb-22-message-test.md)
   * [YouTube Remarketing (+)](contexts-partner-organizations-trials/gwwc/youtube-remarketing.md)
