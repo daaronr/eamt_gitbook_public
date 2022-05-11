@@ -8,7 +8,7 @@ description: >-
 
 Mapping the key non-obvious features of running and analyzing these A/B trials using the Google analytics/optimize system.
 
-Reporting and considering this in the context of the GWWC [pledge-page-options-trial.md](../../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md "mention")
+Reporting and considering this in the context of the GWWC [pledge-page-options-trial.md](../../contexts-partner-organizations-trials/gwwc/pledge-page-options-trial.md "mention")
 
 ## What is it? How to create a trial
 

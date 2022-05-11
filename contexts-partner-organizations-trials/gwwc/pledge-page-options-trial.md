@@ -5,13 +5,11 @@ description: >-
   individual browser level over a certain period.
 ---
 
-# Pledge page (options trial) (+)
+# Pledge page (options trial) (
 
 [**Following**](../../contexts-and-environments-for-testing/trial-reporting-template/) [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention")
 
 ## General idea, main 'hypothesis'
-
-***
 
 **GWWC**: How can we present pledge options so as to maximize positive outcomes (pledges, fulfillment)?
 
@@ -31,11 +29,9 @@ description: >-
 
 2\. "The Pledge" (10%), and
 
-3\. "Further Pledge" (donate all income above a living allowance).
+3\. The "Further Pledge" (donate all income above a living allowance).
 
 These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/) October 2020).
-
-\_\_
 
 ![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
@@ -43,7 +39,7 @@ Following 'become a member' takes you to this 'Take a Pledge' page ([`https://ww
 
 ... there may be other ways into this page as well.
 
-**Three versions of this page were randomly presented** between (19-21 April 2021 and 10 July 2021) (check `daterange`)
+**Three versions of this page were randomly presented** between (19-21 April 2021 and 10 July 2021)&#x20;
 
 The content of the key 'choice button' part varied between these three versions
 
@@ -55,7 +51,7 @@ The version presented stayed constant according to an individual's IP cookie tra
 
 ### Point of contact
 
-Julian Hazell (julian.hazell@givingwhatwecan.org), Luke Freeman
+Julian Hazell (julian.hazell at givingwhatwecan.org), Luke Freeman
 
 **'Academic' contact:** David Reinstein, and perhaps others.
 
@@ -84,7 +80,7 @@ Sample size: see below, from Google Analytics
 
 ### Key treatment(s)
 
-**Variation in presentation of the pledge options**
+**Variation in the presentation of the pledge options**
 
 1.  "**Original**" (Block of 3 in order of commitment, Middle Pledge in Center)
 
@@ -109,20 +105,24 @@ _Needs some clarification:_
 
 ### Treatment assignment procedure
 
-* Three versions of this page were randomly presented between `daterange`
+* Three versions of this page were randomly presented&#x20;
 * Equal likelihood of assignment
 
 _Minor note_: Alternation or random sampling with/without replacement?
 
-{% hint style="info" %}
-DR: It seems that the non-exact balance below is an imbalance in 'sessions' not an imbalance in 'participants'.
+<details>
+
+<summary>It seems that the non-exact balance below is an imbalance in 'sessions' not an imbalance in 'participants'.</summary>
+
+
 
 Our analysis should focus on outcomes per _participant_; thus, the figures below may need some adjusting (although at first pass, the results go in the same direction).\
 \
 This doesn't seem to be adaptive assignment. In Google's help on 'create an A/B test' they state:
 
-> All variants are weighted equally by default in Optimize. A visitor who is included in your experiment has an equal chance of seeing any of your variants.
-{% endhint %}
+All variants are weighted equally by default in Optimize. A visitor who is included in your experiment has an equal chance of seeing any of your variants.
+
+</details>
 
 The version presented stayed constant according to an individual's IP cookie tracking.
 
@@ -134,14 +134,10 @@ Statistics on Google Analytics
 
 _NOTE: It seems to have recorded only 'pressed any button' (any pledge) as the successful outcome._
 
-**Ideally**:
+<details>
 
-{% tabs %}
-{% tab title="First Tab" %}
-Ideally, this would include (see next tab)
-{% endtab %}
+<summary>Ideally this would include...</summary>
 
-{% tab title="Desired outcomes" %}
 One entry per page view over the interval, detailing
 
 * Whether pledged
@@ -155,8 +151,8 @@ Most importantly:
   * by treatment
   * by type of pledge
 * Follow-up donations etc (if connectable)
-{% endtab %}
-{% endtabs %}
+
+</details>
 
 ### **Optional/suggested additions**
 
@@ -164,11 +160,11 @@ _Consider_: Planned analysis methods, preregistration link, IRB link, connection
 
 ## Ex-post: Reporting results (brief)
 
-See [broken-reference](../../contexts-environments-plans-tests/gwwc/broken-reference/ "mention") for notes, questions, and discussion of how this is documented and reported (and implemented).
-
 ### Implementation and data collection
 
-1. From shared image from Google Analytics:
+_See_ [google-a-b-optimize-analytics-interface.md](../../marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md "mention") for details on data extraction from the interface
+
+1. **From shared image from Google Analytics:**
 
 'Experiment sessions' (observations) by treatment (as labeled on Google Analytics shared image):
 
@@ -178,9 +174,11 @@ Pledge before Try Giving: 2686
 
 Separate Block for Other Pledges: 2718
 
-**Total: 7992 sessions** (=2588+2686+2718)
+Total: 7992 sessions **** (=2588+2686+2718)
 
-_3. Where is the data stored (also link/adjust the above), who has it, and under what conditions?_
+
+
+_**3. Where is the data stored (also link/adjust the above), who has it, and under what conditions?**_
 
 (See above)
 
@@ -188,7 +186,7 @@ _3. Where is the data stored (also link/adjust the above), who has it, and under
 
 ![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1) (1) (1).png>)
 
-**Reinstein quick interpretation** _(if I am understanding what is what)_
+**Reinstein quick interpretation** _(if I am understanding what is what)_&#x20;
 
 Note: Mobile device view looks different! Half of users are mobile.
 
@@ -196,19 +194,31 @@ The **"separate block for other pledges" seems to have been the most successful,
 
 These differences seem unlikely to be statistically significant in a conventional sense. Still, Google analytics (presumably a reasonable Bayesian) model states an 80% chance that this is the best treatment, and this seems useful and informative.
 
-{% hint style="warning" %}
-If anything, these result for 'separate block' seems **potentially understated**, given that GA is reporting conversions based on _sessions_ (contiguous use periods) and not users. We can reasonably assume that a roughly equal number of users were assigned to each treatment (as per the design). As a result, we assume that roughly equal share\_s 'viewed the relevant page at least once'\_ (because of the law of large numbers). However, the most successful treatment, the 'Separate block', is recording _more_ sessions. Thus, the relative conversion rate, as a share of _users_, would be even higher than the one reported here, relative to the baseline.
-{% endhint %}
+<details>
 
-{% hint style="info" %}
-_Aside on stats:_
+<summary>If anything, these result for 'separate block' seems <strong>potentially understated...</strong></summary>
 
-> Optimize uses Bayesian inference to generate its reports._.._ Optimize chooses its priors to be quite uninformed.
+... given that GA is reporting conversions based on _sessions_ (contiguous use periods) and not users. We can reasonably assume that a roughly equal number of users were assigned to each treatment (as per the design). As a result, we assume that roughly equal share\_s 'viewed the relevant page at least once'\_ (because of the law of large numbers). However, the most successful treatment, the 'Separate block', is recording _more_ sessions. Thus, the relative conversion rate, as a share of _users_, would be even higher than the one reported here, relative to the baseline.
+
+__
+
+</details>
+
+<details>
+
+<summary>Aside on statistics </summary>
+
+Optimize uses Bayesian inference to generate its reports._.._ Optimize chooses its priors to be quite uninformed.
 
 DR: But this still doesn't tell us _what_ these priors are. There's a lot of sensitivity to this choice, in my experience.
 
-Dillon thoughts: there is possibly a more sophisticated approach to this than what Google is doing ... the better prior is an 'empirical Bayes' approach (controversial?)
-{% endhint %}
+_Dillon_: there is possibly a more sophisticated approach to this than what Google is doing ... the better prior is an 'empirical Bayes' approach (but it may be controversial). \
+\
+See [this guide](http://varianceexplained.org/r/empirical\_bayes\_baseball/) to empirical Bayes
+
+</details>
+
+__
 
 **The "Pledge Before Try giving" treatment** **performed substantially worse** than the original.
 
