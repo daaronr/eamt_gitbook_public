@@ -11,13 +11,20 @@ description: >-
 
 ## Summary of trial and results
 
-Giving What We Can (GWWC) has three giving pledge options, displayed in the 'Standard presentation version' below.
+Giving What We Can (GWWC) has three giving pledge options, displayed in the 'Original presentation version' below.
 
 ![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
 &#x20;
 
-From April-July 2021  they ran a trial presenting its 'pledge page' options in three slightly different ways. The most successful presentation only showed a box for "The Pledge", with the other options given in less prominent bullet points below. The least successful presentation was like the one displayed above, but with "Try Giving" in the central position.&#x20;
+From April-July 2021  they ran a trial presenting its 'pledge page' options in three slightly different ways. Considering 'clicks on any button' as the outcome, and a Bayesian 'preponderance of evidence' standard...
+
+* "_Separate Bullets for Other Pledges"_: __ The most successful presentation only showed a box for "The Pledge", with the other options given in less prominent bullet points below.  This had about a 20% higher incidence rate than the _Original_ presentation.
+* _Pledge before Try Giving was_ the _least_ successful presentation this was like the one displayed above, but with "Try Giving" in the central position.  This had about a 23% lower incidence rate than the _Original_ presentation.
+
+_These results may only apply narrowly to the GWWC pledge_ case, and even here, we have some [caveats](pledge-page-options-trial.md#caveats). __ However, it loosely suggests that, when making a call to action, it may be most effective to present the most well-known and expected option most prominently, and not to emphasize the range of choices. (See further [discussion](pledge-page-options-trial.md#intuitive-interpretation) below.)
+
+Getting people to take the GWWC pledge may be seen as an important outcome on it's own. It  may have a causal impact (see some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_)) on getting people into, and engaged in the Effective Altruism community and in other effective altruistic activities, such as EA career impact decisions.
 
 ## General idea, main 'hypothesis'
 
@@ -51,7 +58,7 @@ The content of the key 'choice button' part varied between these three versions
 
 1. **"**_Original_**:"** A block of three (in the order of commitment) 'The Pledge' (10%) in the center and highlighted (see above)
 2. _"Pledge before TryGiving":_ A block of 3 with "Try Giving" (1%) in the center and highlighted
-3. "_Separate Block for Other Pledges":_ A single block for 'The Pledge' (10%), with the other pledges given as clickable bullet points below (as well as a bullet for the 'company pledge' ... which had a different presentation in other versions)
+3. "_Separate Bullets for Other Pledges":_ A single block for 'The Pledge' (10%), with the other pledges given as clickable bullet points below (as well as a bullet for the 'company pledge' ... which had a different presentation in other versions)
 
 The version presented stayed constant according to an individual's IP cookie tracking
 
@@ -94,7 +101,7 @@ Sample size: see below, from Google Analytics
 
 2\. "**Pledge before TryGiving**" ... as above but with Try Giving and The Pledge swapped, and Try Giving (in the center) highlighted
 
-3\. "**Separate Block for Other Pledges**" (see below)
+3\. "**Separate Bullets for Other Pledges**" (see below)
 
 ![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
@@ -177,7 +184,7 @@ Original: 2588
 
 Pledge before Try Giving: 2686
 
-Separate Block for Other Pledges: 2718
+Separate Bullets for Other Pledges: 2718
 
 Total: 7992 sessions **** (=2588+2686+2718)
 
@@ -191,13 +198,13 @@ _**3. Where is the data stored  ... \[noted above]**_
 
 ### **Quick interpretation**&#x20;
 
-The **"separate block for other pledges" seems to have been the most successful,** with an 0.49% higher (percentage point) incidence rate than the 'Original', i.e., a 22% higher rate of pledging (2.69 vs 2.20).
+The **"separate bullets for other pledges" seems to have been the most successful,** with an 0.49% higher (percentage point) incidence rate than the 'Original', i.e., a 22% higher rate of pledging (2.69 vs 2.20).
 
 These differences seem unlikely to be statistically significant in a conventional sense. Still, Google analytics (presumably a reasonable Bayesian) model states an 80% chance that this is the best treatment, and this seems useful and informative.
 
 <details>
 
-<summary>If anything, these result for 'separate block' seems <strong>potentially understated...</strong></summary>
+<summary>If anything, these result for 'separate bullets' seems <strong>potentially understated...</strong></summary>
 
 Note that GA is reporting conversions based on _sessions_ (contiguous use periods) and not users. We can reasonably assume that a roughly equal number of users were assigned to each treatment (as per the design). As a result, we assume that roughly equal shares 'viewed the relevant page at least once'  (because of the law of large numbers). However, the most successful treatment, the 'Separate block', is recording _more_ sessions. Thus, the relative conversion rate, as a share of _users_, would be even higher than the one reported here, relative to the baseline.
 
@@ -235,13 +242,13 @@ The poor performance of ‘pledge before try giving’  appears even more substa
 
 Downloading the 'Analytics data' behind the above graphs, we see:
 
-| Variant                          | 2.5th Percentile Modeled Improvement | 25th Percentile Modeled Improvement | Modeled Improvement | 75th Percentile Modeled Improvement | 97.5th Percentile Modeled Improvement |
-| -------------------------------- | ------------------------------------ | ----------------------------------- | ------------------- | ----------------------------------- | ------------------------------------- |
-| Original                         | 0%                                   | 0%                                  | 0%                  | 0%                                  | 0%                                    |
-| Pledge Before Try Giving         | -50%                                 | -33%                                | -23%                | -11%                                | 18%                                   |
-| Separate Block For Other Pledges | -18%                                 | 4%                                  | 20%                 | 36%                                 | 76%                                   |
+| Variant                            | 2.5th Percentile Modeled Improvement | 25th Percentile Modeled Improvement | Modeled Improvement | 75th Percentile Modeled Improvement | 97.5th Percentile Modeled Improvement |
+| ---------------------------------- | ------------------------------------ | ----------------------------------- | ------------------- | ----------------------------------- | ------------------------------------- |
+| Original                           | 0%                                   | 0%                                  | 0%                  | 0%                                  | 0%                                    |
+| Pledge Before Try Giving           | -50%                                 | -33%                                | -23%                | -11%                                | 18%                                   |
+| Separate Bullets For Other Pledges | -18%                                 | 4%                                  | 20%                 | 36%                                 | 76%                                   |
 
-_**This suggests it is very reasonable to think that 'Separate Block' is substantially better**_
+_**This suggests it is very reasonable to think that 'Separate Bullets' is substantially better**_
 
 Our 'posterior' probability thus infers (assuming symmetry) that we should put (considering odds ratios, not percentage points)
 
@@ -266,13 +273,13 @@ _**For 'Pledge before...' we can state, e.g.,**_
 
 Perhaps giving people more options makes them indecisive. They may be particularly reluctant to choose a “relatively ambitious giving pledge” if a less ambitious option is highlighted.
 
-This could also involve issues of self and social- signaling; if the 'main thing' to do is 10% (as in "separate block", then this may seem a straightforward way of conveying 'I am generous'. On the other hand,  if the 'Further pledge' is fairly prominent, perhaps the signal feels less positive. And if the '1% pledge' is made central, 10% might seem more than a necessary signal.
+This could also involve issues of self and social- signaling; if the 'main thing' to do is 10% (as in "separate _bullets_", then this may seem a straightforward way of conveying 'I am generous'. On the other hand,  if the 'Further pledge' is fairly prominent, perhaps the signal feels less positive. And if the '1% pledge' is made central, 10% might seem more than a necessary signal.
 
 The "pledge before try giving" may perform the worst because it makes the 'Try Giving' pledge a particularly salient alternative option. (In contrast, the "Original" at least makes 'The 10% Pledge' the central and the middle option.)
 
 <details>
 
-<summary>But in this case, why should the <em>overall</em> pledge rate (any button-press) be lower with more options (Original vs 'separate block'), and lower still when Try Giving is made central?</summary>
+<summary>But in this case, why should the <em>overall</em> pledge rate (any button-press) be lower with more options (Original vs 'separate bullets'), and lower still when Try Giving is made central?</summary>
 
 It's hard to say too much if we don't know the composition of the pledges people make.
 
@@ -282,8 +289,9 @@ Still, it might be that people mainly came in with the desire to take The Pledge
 
 ### Caveats
 
-* I am assuming that the 'outcome being measured here' is whether the person 'clicked on any giving pledge'; this is what Luke has conveyed to me
-* I assume this is 'conversions ever from this IP', and 'sessions' represents 'how many different IPs came to the treatment'. If it's something else (e.g., each 'session' is a 'visit' from an individual), this could reflect these people converting in _fewer sessions_ but not necessarily being more likely to convert overall. Even if this is 'by IP' the alternative interpretation 'not converting now but maybe later' may still have some weight if people are entering through multiple devices.
+I am assuming that the 'outcome being measured here' is whether the person 'clicked on any giving pledge'; this is what Luke has conveyed to me
+
+I assume this is 'conversions ever from this IP', and 'sessions' represents 'how many different IPs came to the treatment'. If it's something else (e.g., each 'session' is a 'visit' from an individual), this could reflect these people converting in _fewer sessions_ but not necessarily being more likely to convert overall. Even if this is 'by IP' the alternative interpretation 'not converting now but maybe later' may still have some weight if people are entering through multiple devices.
 
 _Further thoughts:_&#x20;
 
