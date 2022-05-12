@@ -1,5 +1,7 @@
 # Design choices: Protocols, metrics and surveys
 
+... [See discussion doc](https://docs.google.com/document/d/1OLTIQmcgEHpfzel\_qJg5uHNPp3PHLXRMPQwT7\_Sggg0/edit#heading=h.xn9mv6s48mzg)
+
 ## Surveys: "Voter registration" and "Voting ballot"
 
 **Proposed content:**
@@ -7,6 +9,8 @@
 [Voter Registration Form (2022 format)](https://www.surveymonkey.com/r/FFY5B73)
 
 [Voting Ballot (2022 format)](https://www.surveymonkey.com/r/FN9Z5DP).
+
+
 
 ### Context
 
@@ -120,3 +124,10 @@ First calculate the proportion of times a paired scoring in T2 is greater than i
 On the second page of the voter registration form (optional), students will respond to items that primarily prompt reflection and secondarily might contribute to research on the [proto-EA subscales](https://forum.effectivealtruism.org/posts/7f3sq7ZHcRsaBBeMD/what-psychological-traits-predict-interest-in-effective) and [speciesism](https://psyarxiv.com/fte9m) in adolescents. Please see a draft of the items in [this document](https://docs.google.com/document/d/1OLTIQmcgEHpfzel\_qJg5uHNPp3PHLXRMPQwT7\_Sggg0/edit?usp=sharing). In the coming days/weeks I will meet with a lawyer regarding data privacy, etc. on the school agreement form.
 
 ![](<../../.gitbook/assets/image (1).png>)\\
+
+
+
+## Embedded: discussion doc
+
+{% embed url="https://docs.google.com/document/d/1OLTIQmcgEHpfzel_qJg5uHNPp3PHLXRMPQwT7_Sggg0/edit#heading=h.xn9mv6s48mzg" %}
+
