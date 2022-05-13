@@ -1,6 +1,6 @@
 # Adaptive design/sampling, reinforcement learning
 
-### Overview: conversation with DB
+### Overview: conversation with Dillon Bowen
 
 {% hint style="info" %}
 **Dillon writes: I've run some very promising MTurk pilots using my adaptive experimentation software.** Compared to traditional random assignment, it increases statistical power, identifies higher-value treatments, and results in more precise estimates of the effectiveness of top-performing treatments. From simulations, I estimate that the gains from adaptive experimentation are approximately **equivalent to increasing your sample size by 2x-8x** (depending on the distribution of effect sizes).
@@ -18,15 +18,11 @@ Dillon Bowen: End of 3rd year of decision processes in Wharton PHd.
 
 > Of potential interest: I've run some very promising MTurk pilots using my adaptive experimentation software. Compared to traditional random assignment, it increases statistical power, identifies higher-value treatments, and results in more precise estimates of the effectiveness of top-performing treatments. From simulations, I estimate that the gains from adaptive experimentation are approximately equivalent to increasing your sample size by 2x-8x (depending on the distribution of effect sizes).
 
-> This would allow us to run studies like Eric Schwitzgebel + Fiery Cushman's study on philosophical arguments to increase charitable giving much more effectively.&#x20;
-
-
+> This would allow us to run studies like Eric Schwitzgebel + Fiery Cushman's study on philosophical arguments to increase charitable giving much more effectively.
 
 I just made a getting started video: [Welcome to Hemlock - YouTube](https://www.youtube.com/watch?v=vL76l5Ebl64)
 
 {% embed url="https://www.youtube.com/watch?v=vL76l5Ebl64" %}
-
-
 
 ### **Adaptive experimentation (discussion)**
 
@@ -46,11 +42,11 @@ Model running in the background trying to figure out ‘things about the effecti
 
 ### **'Explore only' or 'explore & exploit' at the same time**
 
-“Ex post regret versus cumulative regret” … latter suggests Thompson sampling  (Does Thompson's sampling take into account the length of the future period?)
+“Ex post regret versus cumulative regret” … latter suggests Thompson sampling (Does Thompson's sampling take into account the length of the future period?)
 
 ### **Learning and inference**
 
-**Ex-post** … Use machine learning to consider which characteristics  matter and how much they matter … although he doesn’t know of papers that have looked at this, but assumes there are adaptive designs that incorporate this.
+**Ex-post** … Use machine learning to consider which characteristics matter and how much they matter … although he doesn’t know of papers that have looked at this, but assumes there are adaptive designs that incorporate this.
 
 **Statistical inference** can be challenging with adaptive designs, but this is a ripe area of research
 

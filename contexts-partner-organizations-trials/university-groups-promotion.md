@@ -8,7 +8,7 @@ The main focus of this effort has been promoting and building EA groups, especia
 
 1. Membership, participation, connection to EA orgs, markers of post-university involvement
 2. Impacting career plans
-3. (Possibly?) influencing research and intellectual conversations at universities, including academia
+3. (Possibly) influencing research and intellectual conversations at universities, including academia
 4. Maybe focusing on particular programs and career paths
 
 ## CEA
