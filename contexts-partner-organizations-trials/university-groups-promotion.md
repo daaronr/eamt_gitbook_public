@@ -31,7 +31,7 @@ __[_From EA forum post_](https://forum.effectivealtruism.org/posts/xTWhXX9HJfKmv
 
 ### **More widespread outreach**
 
-There are some further initiatives in this area but most of the material cannot be shared atm
+There are some further initiatives in this area but most of the material cannot be shared at the moment (see private gitbook)
 
 ## [EA Groups survey](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) (CEA)
 
@@ -41,4 +41,4 @@ There are some further initiatives in this area but most of the material cannot 
 
 ## Student-led: University of Chicago
 
-(see Work in private Gitbook)
+(see work in private Gitbook)

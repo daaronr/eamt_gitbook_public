@@ -29,12 +29,12 @@ Giving What We Can (GWWC) has three giving pledge options, displayed in the 'Ori
 
 From April-July 2021  they ran a trial presenting its 'pledge page' options in three slightly different ways. Considering 'clicks on any button' as the outcome, and a Bayesian 'preponderance of evidence' standard...
 
-* "_Separate Bullets for Other Pledges"_: __ The most successful presentation only showed a box for "The Pledge", with the other options given in less prominent bullet points below.  This had about a 20% higher incidence rate than the _Original_ presentation.
+* "_Separate Bullets for Other Pledges"_: __ The most successful presentation only showed a box for "The Pledge", with the other options given in less prominent bullet points below. This had about a 20% higher incidence rate than the _Original_ presentation.
 * _Pledge before Try Giving was_ the _least_ successful presentation this was like the one displayed above, but with "Try Giving" in the central position.  This had about a 23% lower incidence rate than the _Original_ presentation.
 
 _These results may only apply narrowly to the GWWC pledge_ case, and even here, we have some [caveats](pledge-page-options-trial.md#caveats). __ However, it loosely suggests that, when making a call to action, it may be most effective to present the most well-known and expected option most prominently, and not to emphasize the range of choices. (See further [discussion](pledge-page-options-trial.md#intuitive-interpretation) below.)
 
-Getting people to take the GWWC pledge may be seen as an important outcome on it's own. It  may have a causal impact (see some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_)) on getting people into, and engaged in the Effective Altruism community and in other effective altruistic activities, such as EA career impact decisions.
+Getting people to take the GWWC pledge may be seen as an important outcome on its own. It  may have a causal impact (see some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_)) on getting people into, and engaged in the Effective Altruism community and in other effective altruistic activities, such as EA career impact decisions.
 
 ## General idea, main 'hypothesis'
 
