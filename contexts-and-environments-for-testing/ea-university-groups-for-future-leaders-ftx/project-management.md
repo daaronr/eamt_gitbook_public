@@ -8,8 +8,11 @@
 
 
 
-{% embed url="https://airtable.com/shrZfvDGC3atKBETs" %}
+{% embed url="https://airtable.com/shrbUh98X03j0WNoX" %}
+
+The full Airtable contains the fields shown below (CRM, plans, surveys, etc.) Please ask for an invitation for access, if you are working on this project
+
+{% embed url="https://airtable.com/shrvRUiV7Fqoe9XME" %}
 
 
 
-{% embed url="https://airtable.com/shrU7dP2NFT80hYw1" %}

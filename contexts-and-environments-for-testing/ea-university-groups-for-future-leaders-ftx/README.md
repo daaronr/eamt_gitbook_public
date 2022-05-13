@@ -19,7 +19,7 @@ _Promoting EA (groups, participation) at universities to get future politicians 
 ## Tasks/kanban-airtable
 
 {% hint style="info" %}
-_See_ [_Airtable Kanban_](https://airtable.com/shrU7dP2NFT80hYw1) _view … click_ [_HERE_](https://airtable.com/invite/l?inviteId=invaagum9BDQbMsp3\&inviteToken=fb75210f65c46364093e8bdac82e92380728a0b878d121506180a15bac2b7b4b) _for Airtable edit access._
+_See_ [_Airtable Kanban_ _view_](https://airtable.com/shrbUh98X03j0WNoX) _… Ask permission for Airtable edit access._
 {% endhint %}
 
 ##
