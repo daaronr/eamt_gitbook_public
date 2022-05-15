@@ -14,5 +14,7 @@ The full Airtable contains the fields shown below (CRM, plans, surveys, etc.) Pl
 
 {% embed url="https://airtable.com/shrvRUiV7Fqoe9XME" %}
 
+## Private github repo for data analysis
 
+{% embed url="https://github.com/daaronr/ea_future_leader" %}
 
