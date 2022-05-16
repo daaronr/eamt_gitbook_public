@@ -99,7 +99,7 @@ We can also combine intervals, to make statements like ...
 * a 50% chance of being 4-36% better
 * a 50% chance of being 20-76% better
 
-We report on this further, for this particular case, under [pledge-page-options-trial.md](../../contexts-and-environments-for-testing/gwwc/pledge-page-options-trial.md#ex-post-reporting-results-brief "mention")
+We report on this further, for this particular case, under [#basic-results-outcomes](../../contexts-partner-organizations-trials/gwwc/pledge-page-options-trial.md#basic-results-outcomes "mention")
 
 There is some repetition (can we 'mirror blocks'?)
 
@@ -144,7 +144,7 @@ In the present context, this suggests that the 'Separate block' page is inspirin
 
 ### Sessions vs. Users
 
-_As noted, essentially_: \_\_ 'Sessions' are the number of 'continuously active' periods of an individual user
+_As noted, essentially_: 'Sessions' are the number of 'continuously active' periods of an individual user
 
 > Analytics measures both sessions and users in your account. Sessions represent the number of individual sessions initiated by all the users to your site. If a user is inactive on your site for 30 minutes or more, any future activity is attributed to a new session. Users that leave your site and return within 30 minutes are counted as part of the original session.
 >
