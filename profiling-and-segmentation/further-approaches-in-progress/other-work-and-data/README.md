@@ -28,3 +28,7 @@ I suspect that this data could be tied to a variety of rich (personality? demogr
 * \***Descriptive**\* (whatever we mean by that)
   * Some things like "Previous donations" might be sort of colliders or 'confounds' (I'm a bit vague here) in interpreting other associations
   * I tried to tackle some of this stuff [(incompletely) in analyzing the EA survey donations](https://rethinkpriorities.github.io/ea\_data\_public/eas\_donations.html)
+
+{% hint style="info" %}
+See [followup-with-thomas-ptashnik.md](followup-with-thomas-ptashnik.md "mention") in next section
+{% endhint %}
