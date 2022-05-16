@@ -34,7 +34,7 @@ From April-July 2021  they ran a trial presenting its 'pledge page' options in t
 
 _These results may only apply narrowly to the GWWC pledge_ case, and even here, we have some [caveats](pledge-page-options-trial.md#caveats). __ However, it loosely suggests that, when making a call to action, it may be most effective to present the most well-known and expected option most prominently, and not to emphasize the range of choices. (See further [discussion](pledge-page-options-trial.md#intuitive-interpretation) below.)
 
-Getting people to take the GWWC pledge may be seen as an important outcome on its own. It  may have a causal impact (see some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_)) on getting people into, and engaged in the Effective Altruism community and in other effective altruistic activities, such as EA career impact decisions.
+Getting people to take the GWWC pledge may be seen as an important outcome on its own. It may have a causal impact (see some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_)) on getting people into and engaged in the Effective Altruism community and in other effective altruistic activities, such as EA career impact decisions.
 
 ## General idea, main 'hypothesis'
 
@@ -44,7 +44,7 @@ Getting people to take the GWWC pledge may be seen as an important outcome on it
 
 **Theories and mechanisms** to consider:
 
-* Tendency to choose 'middle options'
+* Tendency to choose 'middle options' [(Simonson and Tversky 1992)](https://journals.sagepub.com/doi/full/10.1177/002224379202900301?casa\_token=0mCxU1YQ2tAAAAAA%3A5V5RHUYHUSDI2DuvkbS8\_69q31GwHawJNLlNEq8XlXrI1jOlMxJAiKKcMoLIvq\_JsLOeirMo6Cl7Ig)
 * Too many options may lead to indecision paralysis&#x20;
 * The signaling power of choice; e.g., if there's a 'more virtuous choice' I may feel that my 'middle choice' looks less good by comparison)
 
@@ -86,7 +86,7 @@ Start: 19 April 2021 (or 21 April)? End: 10 July 2021 (Source: Google Analytics)
 
 _(Planning, material, data)_
 
-Statistics are  available on Google Analytics/Optimizely. Reinstein has access to this and, is planning to input into R for more detailed analysis, to be reported in the [analysis web book](https://daaronr.github.io/eamt\_data\_analysis/).
+Statistics are available on Google Analytics/Optimizely. Reinstein has access to this and, is planning to input into R for more detailed analysis, to be reported in the [analysis web book](https://daaronr.github.io/eamt\_data\_analysis/).
 
 The present document is currently (11 May 2022) the only writeup./
 
@@ -119,7 +119,7 @@ Sample size: see below, from Google Analytics
 
 <summary>Some things needing possible clarification /doublechecking</summary>
 
-* I believe all  of the remaining presentation was otherwise the same, including the relative position of this 'box'
+* I believe all of the remaining presentation was otherwise the same, including the relative position of this 'box'
 * There were no other major variations within the period of this trial
 *   Mobile device view looks different __ than the above. Roughly half of users are on mobile devices. Did this lead to important differences?
 
@@ -139,8 +139,6 @@ _(Minor question_: Alternation or random sampling with/without replacement?)
 <details>
 
 <summary>The non-exact balance below seems an imbalance in 'sessions' not  in 'participants'.</summary>
-
-
 
 Our analysis should focus on outcomes per _participant_; thus, the figures below may need some adjusting (although at first pass, the results go in the same direction).\
 \
@@ -235,8 +233,6 @@ _Dillon_: there is possibly a more sophisticated approach to this than what Goog
 See [this guide](http://varianceexplained.org/r/empirical\_bayes\_baseball/) to empirical Bayes
 
 </details>
-
-__
 
 **The "Pledge Before Try giving" treatment** **performed substantially worse** than the original.
 
