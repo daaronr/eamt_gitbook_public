@@ -7,13 +7,17 @@ description: >-
 
 # Pledge page (options trial)
 
+A summary of this has been shared as a linkpost on the EA Forum&#x20;
+
+{% embed url="https://forum.effectivealtruism.org/posts/YYm4crzcYmCiLYwyZ/giving-what-we-can-pledge-page-trial-ea-market-testing" %}
+
 <details>
 
 <summary>Notes on content/building this</summary>
 
 This follows the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public reading.
 
-We intend to redo much of this analysis in a more transparent way; directly importing the data and doing our own analyses ....rather than Google's built-in tools. We intend to put this within the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/)
+We intend to redo and augment much of this analysis in a more transparent way; directly importing the data and doing our own analyses ....rather than Google's built-in tools. We intend to put this within the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/)
 
 
 
@@ -76,7 +80,7 @@ The version presented stayed constant according to an individual's IP cookie tra
 
 Julian Hazell (julian.hazell at givingwhatwecan.org), Luke Freeman
 
-**'Academic' contact:** David Reinstein, and perhaps others.
+**'Academic' contact:** David Reinstein.
 
 ### Timing of trial (when will it/did it start and end, if known)
 
@@ -88,7 +92,7 @@ _(Planning, material, data)_
 
 Statistics are available on Google Analytics/Optimizely. Reinstein has access to this and, is planning to input into R for more detailed analysis, to be reported in the [analysis web book](https://daaronr.github.io/eamt\_data\_analysis/).
 
-The present document is currently (11 May 2022) the only writeup./
+The present document is currently (11 May 2022) the only writeup.
 
 ### Environment/context for trial
 
@@ -126,8 +130,6 @@ Sample size: see below, from Google Analytics
 
 
 </details>
-
-
 
 ### Treatment assignment procedure
 
