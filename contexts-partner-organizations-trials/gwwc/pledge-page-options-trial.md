@@ -17,7 +17,7 @@ A summary of this has been shared as a linkpost on the EA Forum&#x20;
 
 This follows the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public reading.
 
-We intend to redo much of this analysis in a more transparent way; directly importing the data and doing our own analyses ....rather than Google's built-in tools. We intend to put this within the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/)
+We intend to redo and augment much of this analysis in a more transparent way; directly importing the data and doing our own analyses ....rather than Google's built-in tools. We intend to put this within the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/)
 
 
 
