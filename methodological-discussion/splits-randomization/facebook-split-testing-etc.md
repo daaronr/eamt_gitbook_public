@@ -45,13 +45,13 @@ Do Facebook “Lift tests/Lift Studies” with ’Multiple Test Groups” give u
 See "[‘Meta for developers’ on Lift Tests](https://developers.facebook.com/docs/marketing-api/guides/lift-studies):"
 
 **No.** \
-****Josh: "what it says is something importantly different: you can compare the number of people who do the action you are interested in (give a mailing address or whatever) according to whether or not they see a given ad or not. So, you **do** have random assignment when comparing the effect of an ad to the effect of no ad. However, in our case, we pretty much know there is no chance of anyone providing an emial (say( without seeing the ad, so, the "lift" is just going to be the difference between the number of people responding to the ad and zero (edited) \
+****Josh: "what it says is something importantly different: you can compare the number of people who do the action you are interested in ... according to whether or not they see a given ad. So, you _do_ have random assignment when comparing the effect of an ad to the effect of no ad. ... if we compare the lift for two different treatments (What these multi-cell lift tests are doing), we are doing almost exactly the same thing as we were without the lift functionality...&#x20;
 
+A and B are displayed to different audiences, so this test does not have random assignment."
 
-\
+_Essentially this allows you to get the correct 'lift' of A and B, on their own distinct audiences, by getting the counterfactual audiences for each of these correct.  But you cannot compare the lift of A and B on any comparable audience._
 
-
-\
+To help understand the context... "Facebook often randomizes the whole audience into different cells and THEN targets the ad WITHIN that audience. So there is random assignment at the initial stage, but that's irrelevant, because not everyone in the potential audience sees each ad"\
 
 
 </details>
