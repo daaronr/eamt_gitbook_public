@@ -7,6 +7,10 @@ description: >-
 
 # Pledge page (options trial)
 
+A summary of this has been shared as a linkpost on the EA Forum&#x20;
+
+{% embed url="https://forum.effectivealtruism.org/posts/YYm4crzcYmCiLYwyZ/giving-what-we-can-pledge-page-trial-ea-market-testing" %}
+
 <details>
 
 <summary>Notes on content/building this</summary>
@@ -126,8 +130,6 @@ Sample size: see below, from Google Analytics
 
 
 </details>
-
-
 
 ### Treatment assignment procedure
 
