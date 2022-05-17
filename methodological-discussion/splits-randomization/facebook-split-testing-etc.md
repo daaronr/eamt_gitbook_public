@@ -33,3 +33,25 @@ Orazi, D. C., & Johnston, A. C. (2020). Running field experiments using Facebook
 
 </details>
 
+<details>
+
+<summary>Notes on Facebook “Lift tests/Lift Studies” with ’Multiple Test Groups”</summary>
+
+Do Facebook “Lift tests/Lift Studies” with ’Multiple Test Groups” give us the freedom we want to …
+
+* Randomize/balance different ad content ‘treatments’ to comparable groups?
+* Make inferences about ‘which treatment (ad) performs better, holding the audience constant’?
+
+See "[‘Meta for developers’ on Lift Tests](https://developers.facebook.com/docs/marketing-api/guides/lift-studies):"
+
+**No.** \
+****Josh: "what it says is something importantly different: you can compare the number of people who do the action you are interested in (give a mailing address or whatever) according to whether or not they see a given ad or not. So, you **do** have random assignment when comparing the effect of an ad to the effect of no ad. However, in our case, we pretty much know there is no chance of anyone providing an emial (say( without seeing the ad, so, the "lift" is just going to be the difference between the number of people responding to the ad and zero (edited) \
+
+
+\
+
+
+\
+
+
+</details>
