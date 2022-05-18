@@ -45,7 +45,7 @@
 
 * [Methods: Overview, discussion, resources](methodological-discussion/section-introduction-wip.md)
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
-* [Splits/randomization in practice](methodological-discussion/splits-randomization/README.md)
+* [Real-world assignment & inference](methodological-discussion/splits-randomization/README.md)
   * [Geographic segmentation/blocked randomization](methodological-discussion/splits-randomization/geographic-segmentation-blocked-randomization.md)
   * [Difference in difference/'Time-based methods'](methodological-discussion/splits-randomization/difference-in-difference-time-based-methods.md)
   * [Facebook split-testing etc](methodological-discussion/splits-randomization/facebook-split-testing-etc.md)
@@ -60,7 +60,7 @@
   * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
   * [Animal welfare attitudes: profiling/surveying](profiling-and-segmentation/previous-work/animal-welfare-attitudes-profiling-surveying.md)
   * [Other data](profiling-and-segmentation/previous-work/other-data.md)
-* [Awareness: RP, etc.](profiling-and-segmentation/rethink-priorities-work.md)
+* [Awareness: RP, etc.](profiling-and-segmentation/further-approaches-in-progress/rethink-priorities-work.md)
 * [Surveys/Predicting  EA interest](profiling-and-segmentation/surveys-predicting-ea-interest.md)
 * [Fehr/SOEP analysis... followup](profiling-and-segmentation/further-approaches-in-progress/other-work-and-data/README.md)
   * [Followup with Thomas Ptashnik](profiling-and-segmentation/further-approaches-in-progress/other-work-and-data/followup-with-thomas-ptashnik.md)
