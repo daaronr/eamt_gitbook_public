@@ -7,7 +7,7 @@ description: >-
 
 # Giving What We Can (GWWC)
 
-[GWWC landing page](https://www.givingwhatwecan.org)
+[GWWC landing page](https://www.givingwhatwecan.org/)
 
 [Note updated 2022 strategy, some refocusing](https://www.givingwhatwecan.org/post/2022/03/public-strategy-update/)
 

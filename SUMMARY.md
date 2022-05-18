@@ -2,8 +2,8 @@
 
 * [EA Market Testing Introduction](README.md)
 * [📕 Gitbook content overview](gitbook-content-overview.md)
-* [EAMT progress and results](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit#)
-* [Goals, trajectory, FAQs](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#)
+* [EAMT progress and results](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit)
+* [Goals, trajectory, FAQs](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit)
 * [📖 Forum posts and writings](overview-ea-forum-post.md)
 * [👋 Meet the team](our-team-and-resources.md)
 
@@ -60,10 +60,11 @@
   * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
   * [Animal welfare attitudes: profiling/surveying](profiling-and-segmentation/previous-work/animal-welfare-attitudes-profiling-surveying.md)
   * [Other data](profiling-and-segmentation/previous-work/other-data.md)
+* [Awareness: RP, etc.](profiling-and-segmentation/rethink-priorities-work.md)
+* [Surveys/Predicting  EA interest](profiling-and-segmentation/surveys-predicting-ea-interest.md)
 * [Fehr/SOEP analysis... followup](profiling-and-segmentation/further-approaches-in-progress/other-work-and-data/README.md)
   * [Followup with Thomas Ptashnik](profiling-and-segmentation/further-approaches-in-progress/other-work-and-data/followup-with-thomas-ptashnik.md)
 * [Further approaches in progress](profiling-and-segmentation/further-approaches-in-progress/README.md)
-  * [Rethink Priorities work](profiling-and-segmentation/further-approaches-in-progress/rethink-priorities-work.md)
   * [Profiling 'existing traffic'](profiling-and-segmentation/further-approaches-in-progress/profiling-existing-traffic.md)
 
 ## (In)effective Altruistic choices: Review of theory and evidence <a href="#background" id="background"></a>

@@ -7,17 +7,17 @@ As individuals and organizations, we are goal-driven and impact-driven: we are i
 _**We are actively collaborating with the following organizations** (links indicate publicly reportable trials)_\
 __
 
-****[**80000 Hours** ](https://80000hours.org)
+****[**80000 Hours** ](https://80000hours.org/)
 
-[[gwwc](contexts-partner-organizations-trials/gwwc/ "mention")](https://80000hours.org)
+[[gwwc](contexts-partner-organizations-trials/gwwc/ "mention")](https://80000hours.org/)
 
 [Charity Elections (run by GWWC) ](https://www.givingwhatwecan.org/events/guides/charity-elections/)
 
 ****[one-for-the-world-oftw](contexts-partner-organizations-trials/one-for-the-world-oftw/ "mention")****
 
-****[The Life You Can Save](https://www.thelifeyoucansave.org)
+****[The Life You Can Save](https://www.thelifeyoucansave.org/)
 
-[University of Chicago Effective Altruism (group)](https://www.uchicagoea.org)
+[University of Chicago Effective Altruism (group)](https://www.uchicagoea.org/)
 
 ****
 
