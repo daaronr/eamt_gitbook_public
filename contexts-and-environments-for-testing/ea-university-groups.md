@@ -32,7 +32,11 @@ See [University groups/promotion](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC
 
 ## Student-led: University of Chicago/Michele and Miranda
 
-They have an interesting set of initiatives. They are hoping to
+<details>
+
+<summary>They have an interesting set of initiatives. They are hoping to</summary>
+
+
 
 1. Survey EA Uni groups and report on what outreach approaches they take (I encouraged them to also try to get even anecdotal reports on how successful these have been)
    1. But note the [EA Groups Survey](ea-university-groups.md#undefined) may cover some of this already
@@ -47,6 +51,8 @@ i. The standard intellectual “here’s what EA is and why is it important”\
 ii. A career based approach … ‘how EA can help you do the most good with your career’\
 \
 iii. An approach that will be ‘more friendly to progressives’. I encouraged them to consider issues of ‘how to track data’ doing a sort of ‘informal preregistration’ to fix their ideas, and to consider the impacts on medium and long-term outcomes, not just ‘which gets the most people in for a free hat.
+
+</details>
 
 ### Trials at the University of Chicago
 
