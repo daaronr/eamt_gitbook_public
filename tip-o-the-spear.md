@@ -77,7 +77,7 @@ Pushing forward 'self and academic-funded large trials', ideally before giving s
 
 * JustGiving 'seed donations' [social-influence-justgiving.md](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/social-influence-justgiving.md "mention")
 * Facebook birthday fundraiser trial [fb-birthday-trial-brief](contexts-and-environments-for-testing/fb-birthday-trial-brief/ "mention")
-* Integrating evidence from (own and others') field experiments on the '[impact of impact information in charitable campaigns'](https://daaronr.github.io/dualprocess/index.html); original and meta-analysis
+* Integrating evidence from (own and others') field experiments on the '[impact of impact information in charitable campaigns'](https://daaronr.github.io/dualprocess/introduction-and-background.html#introduction-and-background); original and meta-analysis
   * "New": DonorsVoice/CRS, ICRC [#icrc-quick-overview](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md#icrc-quick-overview "mention")
   * 'Published': Karlan and Wood (2017), Bergh and Reinstein (2020)
-* Updates to ["Increasing effective giving"](https://daaronr.github.io/ea\_giving\_barriers/index.html) synthesis, and to resources in this gitbook
+* Updates to ["Increasing effective giving"](https://daaronr.github.io/ea_giving_barriers/) synthesis, and to resources in this gitbook
