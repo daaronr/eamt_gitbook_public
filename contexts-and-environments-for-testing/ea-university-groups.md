@@ -1,4 +1,4 @@
-# EA university groups/promotion at universities
+# EA university groups/promo (CEA \&c)
 
 ## Discussion and resources - see public gitbook
 
@@ -16,6 +16,8 @@ See [University groups/promotion](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC
 
 [University Group Accelerator Program](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282)
 
+See private: `notes_mccurdey_cea.md`
+
 #### Open Philanthropy Fellowship
 
 See [University groups/promotion](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC/contexts-partner-organizations-trials/university-groups-promotion) (edit link) in Public gitbook
@@ -24,7 +26,7 @@ See [University groups/promotion](https://app.gitbook.com/s/a3YtWoUiYYfiEQrBNztC
 
 **See** [ea-university-groups-for-future-leaders-ftx](ea-university-groups-for-future-leaders-ftx/ "mention")
 
-## [EA Groups survey](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) (CEA)
+## Data: [EA Groups survey](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) (CEA)
 
 ## Other ongoing work in this space
 
