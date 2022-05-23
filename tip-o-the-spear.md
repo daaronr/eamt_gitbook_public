@@ -10,15 +10,17 @@ See  ["EAMT progress" gdoc](https://docs.google.com/document/d/1buIcG21ChtWiDvAd
 
 ## EAMT: organizational updates and callouts
 
-* GWWC building a ['data analytics' collaborative project](https://www.notion.so/15011d6c7e86496994946e4ea64e4a44?v=1ddb3ea8f788458d95e062dfde1aa99e) (current focus: data engineering & BI)
-* Erin building onboarding, comms, and organizational resources
-  * Seeking EA Funds for her time
-* JS got funding, scoping out 'EA marketing agency'
-* DR: seeking renewal of Longview funding, trying to start big FB birthday campaign, but needs advice on 'how to make an anonymous FB fundraiser donation'
-* Overall: Seeking more general FB ads (and FB fundraisers) expertise
-* Onboarding and advising Charity Elections
-* 80k: we'd love to have/report some details on ongoing trials
-* TLYCS: we're still looking for a data contact and clarification of sharing permissions
+**DR:** Longview renewal funding is coming through partially; funding my time for a 6 month 'prove value to creating EAs'; \
+No funding for RA/ops/data support ATM (seeking funding for this).  I'm pushing forward on some key value-demonstration projects including
+
+* ["EA uni groups for future leaders"](contexts-and-environments-for-testing/ea-university-groups-for-future-leaders-ftx/) \
+  the ['open and clear presentation of results' book](https://daaronr.github.io/eamt\_data\_analysis/index.html), &#x20;
+* 'client-focused creating-EA results' for GWWC, 80k, others,  &#x20;
+* Putting together (gdoc, seeking feedback) ["EAMT: high-value questions (themes/projects)"](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um) ... with cross-organization value
+
+All item listed in March-May tab below are still current (unless crossed out)
+
+
 
 _Previous updates: see tabs_
 
@@ -46,6 +48,18 @@ _Previous updates: see tabs_
 * Post-Jan meeting: (TLCYS I need your approval on ['what can be publicly shared'](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#heading=h.cg90o34wlpye))
 * [EA Forum survey responses](https://airtable.com/shrzLOHLVfB2hW7TV) -- still need to followup
 {% endtab %}
+
+{% tab title="March-May" %}
+* GWWC building/built (?) a ['data analytics' collaborative project](https://www.notion.so/15011d6c7e86496994946e4ea64e4a44?v=1ddb3ea8f788458d95e062dfde1aa99e) (current focus: data engineering & BI) (Status?)
+* ~~Erin building onboarding, comms, and organizational resources~~
+  * ~~Seeking EA Funds for her time~~
+* JS got funding, scoping out 'EA marketing agency'; (status)
+* DR: Longview funding... (see above), trying to start big FB birthday campaign, but needs advice on 'how to make an anonymous FB fundraiser donation'
+* Overall: Seeking more general FB ads (and FB fundraisers) expertise
+* Onboarding and advising Charity Elections
+* 80k: we'd love to have/report some details on ongoing trials
+* TLYCS: we're still looking for a data contact and clarification of sharing permissions
+{% endtab %}
 {% endtabs %}
 
 ## Latest/best campaigns, trials, initiatives
@@ -57,19 +71,6 @@ _Previous updates: see tabs_
 ### [#tlycs-tip-of-the-spear](contexts-and-environments-for-testing/tlycs/#tlycs-tip-of-the-spear "mention")
 
 ### [#80k-tip-of-the-spear](contexts-and-environments-for-testing/80000-hours/#80k-tip-of-the-spear "mention")
-
-<details>
-
-<summary>Bella's goals/interests</summary>
-
-* optimize WoM channels, referral campaign
-
-<!---->
-
-* sponsorships (sponsor a podcast, youtube)
-* 80k and Tim Ferris (a bit confounded with different CtA) ..
-
-</details>
 
 ### Reinstein & Co
 

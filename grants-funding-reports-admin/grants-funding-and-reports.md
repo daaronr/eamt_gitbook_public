@@ -6,11 +6,13 @@ description: >-
 
 # Grants, funding, & reports
 
+[#research-funding](grants-funding-and-reports.md#research-funding "mention") (successful applications; LongView, what else?)
+
 ## Applications
 
 [EA Funds -- Infrastructure fund (link; Erin, unsuccessful, no clear feedback yet)](https://docs.google.com/document/d/1aLiwVnV724ggnS6zSCRixb7stVGOcCosdqdYo0BojL4/edit)
 
-[FTX Future fund](https://docs.google.com/document/d/1G2TGJw\_MhmliT7oVFXE5ttBJFBVTaNZXyZ2xNX127UQ/edit#) (not submitted directly, but pursuing a regrant, and may follow up in next round)
+[FTX Future fund](https://docs.google.com/document/d/1G2TGJw\_MhmliT7oVFXE5ttBJFBVTaNZXyZ2xNX127UQ/edit) (not submitted directly, but pursuing a regranter, and may follow up in next round)
 
 {% embed url="https://docs.google.com/document/d/1G2TGJw_MhmliT7oVFXE5ttBJFBVTaNZXyZ2xNX127UQ/edit#" %}
 
@@ -36,6 +38,6 @@ What are highest value?
 
 ### Research funding
 
-* Reinstein: funding (for 1 year of time, 15 hours per week) from grant administered by Longview: see [reinstein-longview-psychology-of-effective-giving-project.md](reinstein-longview-psychology-of-effective-giving-project.md "mention"); seeking renewal now (March 2022)
+* Reinstein: funding (for 1 year of time, 15 hours per week) from grant administered by Longview: see [reinstein-longview-psychology-of-effective-giving-project.md](reinstein-longview-psychology-of-effective-giving-project.md "mention");  renewed for 6 months from \~May  2022 under specific condidions
 
 ###
