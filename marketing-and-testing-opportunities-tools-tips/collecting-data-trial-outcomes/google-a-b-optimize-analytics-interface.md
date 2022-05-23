@@ -18,27 +18,27 @@ Reporting and considering this in the context of the GWWC [pledge-page-options-t
 
 #### Page and audience targeting
 
-![GWWC pledge "Details" as archived](<../../.gitbook/assets/images\_moved/image (15) (1) (1) (1).png>)
+![GWWC pledge "Details" as archived](<../../.gitbook/assets/image (15) (1).png>)
 
 #### Objectives: The things you are trying to measure and improve
 
-![GWWC Pledge trial objectives viewed ex-post](<../../.gitbook/assets/images\_moved/image (17) (1) (1) (1).png>)
+![GWWC Pledge trial objectives viewed ex-post](<../../.gitbook/assets/image (17) (1) (1).png>)
 
 ## "Activity": Trials created/started/changed/ended/archive
 
-![](<../../.gitbook/assets/images\_moved/image (18) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)
 
 ## Viewing results and Google's analysis
 
 Clicking on a particular 'experience' in the 'container'...
 
-![](<../../.gitbook/assets/images\_moved/image (16) (1) (1).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 (if you have been granted _read and analyze permission),_ will open the useful 'Optimize Report' (which Google explains [here](https://support.google.com/optimize/answer/6218117#pvr-too-high))
 
 ### Optimize report: top
 
-![Overall details at the top](<../../.gitbook/assets/images\_moved/image (20) (1).png>)
+![Overall details at the top](<../../.gitbook/assets/image (20).png>)
 
 The overall start/end and 'sessions' are given first. What are "sessions"? _The short answer:_ 'Sessions' are the number of 'continuously active' periods of an individual user. So individual users may have multiple sessions! (see [#sessions-vs.-users](google-a-b-optimize-analytics-interface.md#sessions-vs.-users "mention")below). Here, there have been 7992 such 'sessions' over 81 days.
 
@@ -49,7 +49,7 @@ The overall start/end and 'sessions' are given first. What are "sessions"? _The 
 
 **The next section compares 'sessions' and 'conversions' by treatment, and does a Bayesian analysis. This seems the most useful part:**
 
-![Pledge experiment ... comparing conversion rates](<../../.gitbook/assets/images\_moved/image (26) (1).png>)
+![Pledge experiment ... comparing conversion rates](<../../.gitbook/assets/image (26).png>)
 
 #### Relative conversion rates, analysis
 
@@ -65,13 +65,13 @@ But if we take this seriously, we might say something like ...
 
 Google also gives confidence intervals for the conversion rates for each treatment, with boxplots and (95%) credible interval statistics:
 
-![](<../../.gitbook/assets/images\_moved/image (21) (1).png>)
+![](<../../.gitbook/assets/image (21) (1) (1).png>)
 
 The grey bar for the baseline is mirrored in all rows. The 95% CI for the 'improvement over the baseline' is given on the right. But this is a rather wide interval. More informatively, if we hover over the image, we are given more useful breakdowns:
 
-![](<../../.gitbook/assets/images\_moved/image (18) (1) (1).png>) ![](<../../.gitbook/assets/images\_moved/image (25) (1).png>)
+![](<../../.gitbook/assets/image (18).png>) ![](<../../.gitbook/assets/image (25).png>)
 
-![](<../../.gitbook/assets/image (12) (2) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (2) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 
 Although this does not exactly tell us the 50% interval 'improvement over the baseline' (this would need a separate computation), we can approximately infer this.
 
@@ -116,15 +116,15 @@ Why? As far as I (DR) understand,
 
 The final section gives the day to day breakdown of the performance of each treatment, presumably, along with confidence intervals. This seems relevant for 'learning and improving while doing' but possibly less relevant for our overall comparison of the pages/treatments.
 
-![](<../../.gitbook/assets/images\_moved/image (10) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 #### Download (top right)
 
-![](<../../.gitbook/assets/images\_moved/image (22) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1).png>)
 
 The 'Analytics data' gives us _sessions_ and _conversions_ by day and by treatment.
 
-![](<../../.gitbook/assets/images\_moved/image (14) (1) (1).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 (Where no session occurs in a day for a treatment, it is coded as blank).
 
@@ -132,7 +132,7 @@ The 'Analytics data' gives us _sessions_ and _conversions_ by day and by treatme
 
 ... this gives some other information, mainly having to do with the user experience.
 
-![analytics view](<../../.gitbook/assets/images\_moved/image (23).png>)
+![analytics view](<../../.gitbook/assets/image (23).png>)
 
 "Unique page views" represent "the number of sessions during which that page was viewed one or more times." ... Recall "sessions" are periods of continuous activity.
 

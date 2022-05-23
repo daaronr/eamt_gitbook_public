@@ -1,4 +1,4 @@
-# Message Test (Feb 2022) (+)
+# Message Test (Feb 2022)
 
 ## Summary
 
@@ -8,7 +8,7 @@
 
 **Future directions:** There were significant differences in link clicks per dollar on the different messages by age. We recommend a systematic test to determine if age makes a difference in the relative effectiveness of social proof and values messages. Future studies could explore why the social proof message was more effective in this study than the previous giving guide study and the importance of the message to “join” the movement as social proof.
 
-_Possible spin connecting this trial and the_ [giving-guides-+.md](giving-guides-+.md "mention"): Note that the two best-performing messages both prompted the user to “join” a movement or large group of people.
+_Possible connection between this trial and the_ [giving-guides-+.md](giving-guides-+.md "mention"): Note that the two best-performing messages both prompted the user to “join” a movement or a group of people (perhaps an elite group); but beware [ex-post theorizing](https://en.wikipedia.org/wiki/HARKing).
 
 [Link](https://docs.google.com/document/d/1yFU3-P3dlwP9IZ0yEbD\_k9ePZQGK0NJ7o8G27HVi6yM/edit?usp=sharing) to report below.
 
@@ -46,7 +46,7 @@ Trial will run for 7 days on GWWC's ad account, from 9.30am AEDT Friday 25 Feb t
 
 ### Digital location where project 'lives' (planning, material, data)
 
-Working document can be found [here ](https://docs.google.com/document/d/1XrENUAD9nZKlrUs3WwuLNC6kij\_q9hNOKaD3w5v-Wik/edit#)but all important details will be listed in this brief
+Working document can be found [here ](https://docs.google.com/document/d/1XrENUAD9nZKlrUs3WwuLNC6kij\_q9hNOKaD3w5v-Wik/edit)but all important details will be listed in this brief
 
 ### Environment/context for trial
 
