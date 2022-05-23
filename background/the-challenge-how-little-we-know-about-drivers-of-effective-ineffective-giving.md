@@ -6,13 +6,14 @@ description: >-
 
 # The challenge: drivers of effective/ineffective giving
 
-Draw from and link [EA Barriers Project (Reinstein) on "Presenting the Puzzle"](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html)
+Draw from and link [EA Barriers Project (Reinstein) on "Presenting the Puzzle"](https://daaronr.github.io/ea_giving_barriers/chapters/present_puzzle.html)
 
 ## Introduction
 
-From [EA Barriers Project](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html):
+From [EA Barriers Project](https://daaronr.github.io/ea_giving_barriers/chapters/present_puzzle.html)
+:
 
-{% embed url="https://daaronr.github.io/ea_giving_barriers/barriers-breakdown.html" %}
+{% embed url="https://daaronr.github.io/ea_giving_barriers/chapters/barriers_breakdown.html" %}
 
 > As [Burum, Nowak, and Hoffman](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html#ref-burumEvolutionaryExplanationIneffective2020) ([2020](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html#ref-burumEvolutionaryExplanationIneffective2020)) state: “We donate billions of dollars to charities each year, yet much of our giving is ineffective. Why are we motivated to give, but not motivated to give effectively?”
 >
@@ -49,7 +50,7 @@ Our main ‘policy’ audience includes both effective nonprofit organisations a
 * introduction to [Caviola et al](http://journal.sjdm.org/19/190810/jdm190810.pdf): "on how both incorrect beliefs and preferences for ineffective charities contribute to ineffective giving"
 * @greenhalghSystematicReviewBarriers2020 (qualitative, focuses on largest philanthropists only)
 
- 
+
 
 **Non-academic/unpublished:**
 
@@ -68,4 +69,4 @@ Overall, these have not been detailed or systematic. While [Caviola et al, 2021]
 
 ## Definitions - "Efficiency" versus impact <a href="def-impact" id="def-impact"></a>
 
-A working definition is provided and discussed [HERE](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html#def-impact) I (Reinstein) provide a critical discussion of some standard economic models of giving in this context [HERE](https://daaronr.github.io/ea_giving_barriers/present-puzzle.html#why-puzzle)
+A working definition is provided and discussed [HERE](https://daaronr.github.io/ea_giving_barriers/chapters/present_puzzle.html#definitions---efficiency-versus-impact-def-impactpresent_puzzle-17) I (Reinstein) provide a critical discussion of some standard economic models of giving in this context [HERE](https://daaronr.github.io/ea_giving_barriers/chapters/present_puzzle.html#why-puzzle)
