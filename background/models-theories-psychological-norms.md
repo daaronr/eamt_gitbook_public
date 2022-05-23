@@ -8,7 +8,7 @@ description: >-
 
 ## Barriers/obstacles to effective giving: classification
 
-{% embed url="https://daaronr.github.io/ea_giving_barriers/barriers-breakdown.html" %}
+{% embed url="https://daaronr.github.io/ea_giving_barriers/chapters/barriers-breakdown.html" %}
 
 We focus on the 'barriers' or 'hurdles to giving effectively' among individuals who _already_ engage in some charitable giving and other-regarding acts. Loosely, a donor would need to "jump over all of these hurdles" and cross each of these barriers in order to be giving effectively.
 

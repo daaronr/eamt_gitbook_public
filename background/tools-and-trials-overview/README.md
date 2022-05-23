@@ -6,7 +6,7 @@ See, and coalesce ideas from the links below (and more)
 
 Here, we propose methods for grouping, organizing, and categorizing these tools for motivating effective giving and action:&#x20;
 
-{% embed url="https://daaronr.github.io/ea_giving_barriers/tools.html" %}
+{% embed url="https://daaronr.github.io/ea_giving_barriers/chapters/tools.html" %}
 Barriers project (Reinstein)
 {% endembed %}
 
@@ -16,7 +16,7 @@ Barriers project (Reinstein)
 
 ## Existing categorisation
 
-{% embed url="https://daaronr.github.io/ea_giving_barriers/tools.html" %}
+{% embed url="https://daaronr.github.io/ea_giving_barriers/chapters/tools.html" %}
 Barriers project (Reinstein)
 {% endembed %}
 
