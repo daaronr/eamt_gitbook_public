@@ -55,13 +55,13 @@
 ## Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
 * [Introduction](profiling-and-segmentation/section-introduction.md)
-* [Previous work/data](profiling-and-segmentation/previous-work.md)
+* [Existing work/data](profiling-and-segmentation/previous-work.md)
+  * [Surveys/Predicting  EA interest](profiling-and-segmentation/previous-work/surveys-predicting-ea-interest.md)
+  * [Awareness: RP, etc.](profiling-and-segmentation/previous-work/rethink-priorities-work.md)
   * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
   * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)
   * [Animal welfare attitudes: profiling/surveying](profiling-and-segmentation/previous-work/animal-welfare-attitudes-profiling-surveying.md)
   * [Other data](profiling-and-segmentation/previous-work/other-data.md)
-* [Awareness: RP, etc.](profiling-and-segmentation/further-approaches-in-progress/rethink-priorities-work.md)
-* [Surveys/Predicting  EA interest](profiling-and-segmentation/surveys-predicting-ea-interest.md)
 * [Fehr/SOEP analysis... followup](profiling-and-segmentation/further-approaches-in-progress/other-work-and-data/README.md)
   * [Followup with Thomas Ptashnik](profiling-and-segmentation/further-approaches-in-progress/other-work-and-data/followup-with-thomas-ptashnik.md)
 * [Further approaches in progress](profiling-and-segmentation/further-approaches-in-progress/README.md)

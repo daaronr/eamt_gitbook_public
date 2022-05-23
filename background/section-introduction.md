@@ -1,4 +1,4 @@
-# Section introduction
+# Introduction...
 
 * Differentiating our work (previous research in psychology, economics) we write down what our basic consensus and knowledge
 * Existing theories, effective altruistic actions existing
@@ -6,4 +6,4 @@
 * What questions do we have what challenges are we facing?
 * What previous work has been done to investigate these questions?
 * What evidence is there so far on these questions?
-* What are the relevant theories of behavior \[<mark style="background-color:green;">think through this</mark>] for this work?
+* What are the relevant theories of behavior  for this work?

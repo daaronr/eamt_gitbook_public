@@ -1,5 +1,5 @@
-# Previous work/data
+# Existing work/data
 
-I found one directly-relevant, but perhaps incomplete research project. There is other work that is adjacent, e.g., work involving 'debiasing'. See sections below
+23 May 2022 update: After a long period with little relevant data, some work is underway from other groups: See sections below
 
 ##
