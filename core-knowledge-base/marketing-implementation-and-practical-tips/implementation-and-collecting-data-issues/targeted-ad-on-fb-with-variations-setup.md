@@ -6,7 +6,7 @@ _**See also:**_
 
 _\*\*\*\*_[broken-reference](broken-reference/ "mention") for a discussion/literature on the limitations of traditional randomization on FB
 
-Our Birthday Facebook procedure is [HERE](https://docs.google.com/document/d/1RPLFPSRu7meHhgKaUPTr9FUSMTSO\_eoPqD7uvw-CIyU/edit#)
+Our Birthday Facebook procedure is [HERE](https://docs.google.com/document/d/1RPLFPSRu7meHhgKaUPTr9FUSMTSO\_eoPqD7uvw-CIyU/edit)
 
 See [#videos-facebook](best-practice-guidelines.md#videos-facebook "mention") for tips on these
 
@@ -184,7 +184,7 @@ Finally, you enter the third and last page of the ad creation process. Here you 
 \
 The last step before publication is to specify the destination for your campaign.
 
-![](<../../../.gitbook/assets/image (12) (1) (1) (1) (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (12) (1) (1) (1) (2) (1) (1) (1).png>)
 
 We chose a website and simply copy the URL into the mask to make sure the ad is linking people to the right destination.
 

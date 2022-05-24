@@ -38,5 +38,5 @@ The public part of the analysis it can be found in the [web-book here](https://d
 
 ## **What to read next?**
 
-1. If this is your first time here, check out [Purpose of this gitbook](purpose-of-this-gitbook.md) and then [Content overview](sections-and-organization.md)
-2. See our publicly shared [Goals/FAQ](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#heading=h.gjcw9rquq2um) doc and [Progress report](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit#) (Google docs)
+1. If this is your first time here, check out [Purpose of this gitbook](purpose-of-this-gitbook.md) and then [Content overview](sections-and-organization/)
+2. See our publicly shared [Goals/FAQ](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#heading=h.gjcw9rquq2um) doc and [Progress report](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit) (Google docs)
