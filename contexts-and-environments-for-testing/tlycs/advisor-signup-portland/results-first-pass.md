@@ -1,4 +1,4 @@
-# Results (first-pass)
+# Results (simple analysis)
 
 ## Cost per user (first-pass)
 
@@ -39,27 +39,23 @@ _Guiding assumptions:_
 * 'uptick as a percentage' is unrelated to city size/visits last year
 * all the cities in the comparison group are 'informative to the counterfactual' in proportion to their total number of sessions\\
 
-_This yields_&#x20;
+_This yields_
 
 * 112.5% visits uptick (Year on Year) for Portland in 2020
 
 For ‘all North American cities other than Portland (with greater than 250,000 people ):
 
-The average is 46.5 users in the 2020 period and 64.5 users in the 2021 period, an uptick of 64.5 - 46.5)/46.5 = about 38.8%. _(_This is very similar to the result if we look at all cities which has an uptick of 43.1%)
+The average is 46.5 users in the 2020 period and 64.5 users in the 2021 period, an uptick of 64.5 - 46.5)/46.5 = about 38.8%. \_(\_This is very similar to the result if we look at all cities which has an uptick of 43.1%)
 
 * 38.8% uptick X 144 users = 55.9 ‘counterfactual uptick’ in users for Portland
 * 162 -55.9 = 106 ‘uptick relative to counterfactual’
 * <mark style="color:orange;background-color:red;">**USD 4000 /106 = $37.7 cost per additional user through this ad**</mark>
 
-This  seems realistic at a first-pass. Note this is a midpoint estimate. I have not (yet) given statistical bounds.
-
-
+This seems realistic at a first-pass. Note this is a midpoint estimate. I have not (yet) given statistical bounds.
 
 {% hint style="info" %}
 These calculations are precisely computed from the data in the bookdown -- all code will be shared soon.
 {% endhint %}
-
-
 
 ## Other outcomes (quick look)
 
@@ -72,7 +68,7 @@ _DR: I took a quick look through Google Analytics on this. A few quick results:_
 ## The data (access, quick peeks)
 
 {% hint style="info" %}
-Google Analytics is a bit annoying; do you know if there is a way to ‘just get the raw data’? (DR: I found a partial fix (see [Broken link](broken-reference "mention")), and now I can 'get all the data' ... will analyze soon
+Google Analytics is a bit annoying; do you know if there is a way to ‘just get the raw data’? (DR: I found a partial fix (see [broken-reference](broken-reference/ "mention")), and now I can 'get all the data' ... will analyze soon
 {% endhint %}
 
 **A quick look: Cities with most sessions in 2022**
@@ -106,11 +102,11 @@ From "Estimating Ad Effectiveness using Geo Experiments in a Time-Based Regressi
 
 DR: Yes, if we are interested in the page views, IMO this is the next approach we should take, both graphically and with formal statistical analysis/in a model allowing year effects, seasonality, trends etc. We should consider something like the 'year to year difference in difference in difference': "how much _more_ of a bump did Portland get pre/post test, relative to the similar bump in the prior year, relative to comparison cities". There are probably some first-pass intuitive ways to do this (ideally first capturing rich raw data), as seen above, and there are also formal ways worth exploring. For this analysis on its own, it might not merit 'going formal', but once we have the techniques and code, we can apply this again and again.\
 \
-I suggest we outline/link the 'go-to approaches for each analysis situation' in the (new) [Broken link](broken-reference "mention") section. (Which should link to Rethink Priority's public methods notes, IMO)
+I suggest we outline/link the 'go-to approaches for each analysis situation' in the (new) [broken-reference](broken-reference/ "mention") section. (Which should link to Rethink Priority's public methods notes, IMO)
 
 Notes, JS: We want to know more about the impact on _sessions ('lift test'), how much it costs to get page views,_ to get a sense of the ROI.
 
-#### __
+#### \_\_
 
 ### _DR: a proposed modeling approach_
 
@@ -120,8 +116,7 @@ $$Y = visits/day$$ $$= constant + (D_{city}) + (D_{year}) + (D_{month}) + B D_{t
 
 $$D_{treated}$$: Whether I’m in a city in a ‘treated month’ (of which we have only one atm, Portland in December)\
 We should be able to ‘run the model’ and estimate B, the coefficient of interest here.I suspect the unbiased (but not necessarily lowest-variance) point estimate will be\
-Let the "Nov to Dec difference in Y in city j in a year t" be $$\Delta_m(Y_{jt})$$\
-
+Let the "Nov to Dec difference in Y in city j in a year t" be $$\Delta_m(Y_{jt})$$\\
 
 For Portland (PL) 2021 (21) , this is
 
@@ -146,11 +141,11 @@ Of course, there _are_ more grounded approaches than simulation we could use, su
 
 ## Scratch work on Google Analytics
 
-Here are some graphs of the relevant period vs the same period in the previous year ![](<../../../.gitbook/assets/image (21) (1).png>)
+Here are some graphs of the relevant period vs the same period in the previous year ![](<../../../.gitbook/assets/image (21) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (18) (1) (1).png>)
 
-I figured out (at least a hacky way) of getting 'all the data from Google Analytics'. See...&#x20;
+I figured out (at least a hacky way) of getting 'all the data from Google Analytics'. See...
 
 {% embed url="https://effective-giving-marketing.gitbook.io/untitled/marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-analytics-interface" %}
 
