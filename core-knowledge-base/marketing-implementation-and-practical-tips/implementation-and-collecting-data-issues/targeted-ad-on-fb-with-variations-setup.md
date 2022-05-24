@@ -206,7 +206,7 @@ Landing page views or link clicks? What is the difference? (this should be discu
 
 You can also add suggested categories: ![](<../../../.gitbook/assets/image (24).png>)
 
-![](<../../../.gitbook/assets/image (13) (1).png>)
+![](<../../../.gitbook/assets/image (13) (1) (1).png>)
 
 ### Payment (and monitoring)
 

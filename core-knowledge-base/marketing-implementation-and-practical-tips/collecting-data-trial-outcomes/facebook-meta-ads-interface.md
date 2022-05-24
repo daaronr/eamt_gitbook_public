@@ -77,11 +77,24 @@ It seems to have removed the "bid strategy" column, and added 'reporting starts'
 
 ### **Campaigns, ad sets, ads**
 
+<img src="../../../.gitbook/assets/image (30).png" alt="" data-size="original">&#x20;
+
+We see three tabs
+
+1. Campaigns
+2. Ad sets for 1 campaign
+3. Ads for 1 campaign
+
+Here we have 7 campaigns, each with separate budgets, and start and end dates (although these mainly overlap).
+
+It looks like some campaigns were set up for direct comparison or "A/B" perhaps, with the exact same budgets and end dates, and similar names:\
 
 
-![](<../../../.gitbook/assets/image (21).png>)
+![](<../../../.gitbook/assets/image (8).png>)
 
 
 
-### **Pivot tables**
+
+
+**Pivot tables**
 
