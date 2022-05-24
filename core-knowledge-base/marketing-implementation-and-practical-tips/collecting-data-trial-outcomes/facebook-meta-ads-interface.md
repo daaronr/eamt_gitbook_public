@@ -26,7 +26,7 @@ URL should look like:\
 </details>
 
 2\. Specify some filters:\
-![](<../../../.gitbook/assets/image (29).png>)
+![](<../../../.gitbook/assets/image (29) (1).png>)
 
 This gets us the screen below
 
@@ -121,7 +121,21 @@ Here, there are 52 total 'ad sets' across all campaigns.
 
 ![](<../../../.gitbook/assets/image (21).png>)
 
+I'm going to export this as a csv too, in case it's useful.
 
+
+
+**Ads**
+
+There are also 52 ads; it seems in this case, one per ad set:
+
+![](<../../../.gitbook/assets/image (29).png>)  &#x20;
+
+{% hint style="info" %}
+_But in theory ad sets could contain multiple ads.  I wonder when/whether/why it would be worth doing this_
+{% endhint %}
+
+The information in the 'ads' table seems the same as in the 'ad sets table' ... other than a link to preview the ad content itself (which I don't seem to have access to atm).
 
 ### **Pivot tables**
 
