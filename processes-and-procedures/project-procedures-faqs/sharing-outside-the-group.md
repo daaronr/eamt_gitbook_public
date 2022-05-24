@@ -32,11 +32,11 @@ Basically OK to share, with some sensitivities. Luke: generally happy to share t
 
 #### OftW Jack Lewars
 
-> Fine for you to share everything in anonymised format David, thanks - as in, as long as all participant data is anonymised. You can say you were working with us.&#x20;
+> Fine for you to share everything in anonymised format David, thanks - as in, as long as all participant data is anonymised. You can say you were working with us.
 
 **80k, Bella Forristal:**
 
-&#x20;… right now share approx nothing because everything is ongoing, but once we wrap something up we can share it (and I’ll let you know when that is).**...** when we have details of trials which are no longer ongoing, I’m happy for them to be shared
+… right now share approx nothing because everything is ongoing, but once we wrap something up we can share it (and I’ll let you know when that is).**...** when we have details of trials which are no longer ongoing, I’m happy for them to be shared
 
 ## The 'public version' of this resource
 
@@ -44,7 +44,7 @@ Basically OK to share, with some sensitivities. Luke: generally happy to share t
 The proposed 'public' versino of this gitbook, redacted, semi-automating integration
 {% endembed %}
 
-![](<../../.gitbook/assets/image (14) (1) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (1) (1).png>)
 
 > DR I was thinking we may want a version of our gitbook we can share publicly. Many of the tools we are building are not confidential (e.g., the methodology, the background, the tips on making ads). We may want to share these in the EA community and with academic and other partners, or even on the WWW, without having to share ’all the details of our ongoing trials.'
 
@@ -57,6 +57,3 @@ To this end … see [HERE](https://effective-giving-marketing.gitbook.io/untitle
 ### Specific content examples to consider inclusion/redaction
 
 EA marketing -- screenshots, what to make public
-
-
-

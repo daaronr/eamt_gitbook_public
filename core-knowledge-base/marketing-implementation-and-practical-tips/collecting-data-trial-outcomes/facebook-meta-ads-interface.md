@@ -6,8 +6,10 @@ description: How to get data from trials of Facebook ad
 
 ## Using Meta ads manager reporting suite
 
-1. Go to "the reporting suite in Meta ads manager"\
-   ![](<../../../.gitbook/assets/image (21).png>)
+### Extracting simple results
+
+1. **Go to "the reporting suite in Meta ads manager"**\
+   ![](<../../../.gitbook/assets/image (22).png>)
 
 <details>
 
@@ -24,11 +26,11 @@ URL should look like:\
 </details>
 
 2\. Specify some filters:\
-![](<../../../.gitbook/assets/image (27).png>)
+![](<../../../.gitbook/assets/image (29).png>)
 
 This gets us the screen below
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (25).png>)
 
 
 
@@ -38,15 +40,17 @@ Here “Effective Giving Guide Lead Generation campaign … ran late November 20
 ![](<../../../.gitbook/assets/image (20).png>)
 
 After specifying these dates, more information comes up in the basic columns:\
-![](<../../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (27).png>)
 
 **5. Export simple results for Campaigns**
 
-\*\*\*\* ![](../../.gitbook/assets/image%20\(22\).png) \*\*\*\*
+![](<../../../.gitbook/assets/image (28).png>)
 
 Click 'Reports' ... upper right. We can 'create a custom report', which saves this for later tweaking. or merely 'export table data'. I will do the latter for now:
 
-I ![](../../.gitbook/assets/image%20\(8\).png)
+![](../../../.gitbook/assets/image.png)
+
+
 
 <details>
 
@@ -56,20 +60,28 @@ I ![](../../.gitbook/assets/image%20\(8\).png)
 
 </details>
 
-Hmm, it did not seem to choose the same columns I saw in the table in the ads manager. \\
+Now I import this data into R (I usually use a command but let's do the interactive for illustration)...
 
-```
-Reporting starts	Reporting ends	Campaign name	Campaign Delivery	Attribution setting	Results	Result indicator	Reach	Impressions	Cost per results	Amount spent (USD)	Ends	Frequency	Unique link clicks	Ad set budget	Ad set budget type
-```
+![](<../../../.gitbook/assets/image (17).png>)
 
-<details>
+_It seems that the option_ 'include summary row' was probably not wanted here, and that row with blank 'campaign name' could cause confusion.
 
-<summary>The 'tabs' for campaigns, ad sets, and ads.</summary>
+\
 
 
+![inputting into R, data preview](<../../../.gitbook/assets/image (5).png>)
 
-</details>
+It seems to have removed the "bid strategy" column, and added 'reporting starts' and ...'ends' from the filter. Otherwise everything else seems the same as in the ad manager view, although some labels have changed
 
-**4. Pivot table**
 
-As far as I know, the only way to
+
+### **Campaigns, ad sets, ads**
+
+
+
+![](<../../../.gitbook/assets/image (21).png>)
+
+
+
+### **Pivot tables**
+

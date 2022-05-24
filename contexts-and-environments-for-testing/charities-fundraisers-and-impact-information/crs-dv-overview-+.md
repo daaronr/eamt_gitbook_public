@@ -15,4 +15,4 @@ fuller writeup
 
 ![](<../../.gitbook/assets/image (3) (1) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png>)
 
-![Bayesian Credible intervals for 'impact of impact information' on probability of donating](<../../.gitbook/assets/image (16) (1) (1) (1).png>)
+![Bayesian Credible intervals for 'impact of impact information' on probability of donating](<../../.gitbook/assets/image (16) (1) (1) (1) (1).png>)

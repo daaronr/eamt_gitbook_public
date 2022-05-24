@@ -117,7 +117,7 @@ First calculate the proportion of times a paired scoring in T2 is greater than i
 
 </details>
 
-![3 May 2022 cersion](<../../.gitbook/assets/image (14).png>)
+![3 May 2022 cersion](<../../.gitbook/assets/image (14) (1).png>)
 
 #### Second page
 

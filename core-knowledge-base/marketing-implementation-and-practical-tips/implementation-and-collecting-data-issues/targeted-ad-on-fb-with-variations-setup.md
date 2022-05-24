@@ -60,7 +60,7 @@ Targeting for this audience leaves us with more than 4 million people (a more th
 
 > [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") maybe we want to target a little narrower, perhaps rule out some particular unlikely groups? Or target people who also donated money to charity in past? Or people with incomes over some amount? Thoughts?
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (16) (1).png>)
 
 Facebook estimates that spending the maximum of 315 euros/day ("amount can be increased of some weeks of compliance" \[?]) on the ad campaign will lead to 750 to 2200 click-throughs.
 
@@ -87,7 +87,7 @@ Using the lower end of the estimate (172) implies that we have to spend **10 eur
 
 But you can target it more closely, you end up clicking "Ads Manager".
 
-![](<../../../.gitbook/assets/image (18) (1).png>)
+![](<../../../.gitbook/assets/image (18) (1) (1).png>)
 
 If you don't have an existing contact list or comparison group, you may prefer to simply specify characteristics. (And this may also be relevant for particular trials). That is "Create a Saved Audience".\
 \
@@ -161,7 +161,7 @@ However, we might instead want FB to optimize the ad presentation in terms of wh
 \
 To do that we need to set up a "meta pixel".
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (17) (1).png>)
 
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") How do we set up such a pixel? Presumably something in our webpage also needs to integrate this so it knows what the "action on your page", to feed back to Facebook to optimize over.
 
