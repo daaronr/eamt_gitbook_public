@@ -116,7 +116,7 @@ Why? As far as I (DR) understand,
 
 The final section gives the day to day breakdown of the performance of each treatment, presumably, along with confidence intervals. This seems relevant for 'learning and improving while doing' but possibly less relevant for our overall comparison of the pages/treatments.
 
-![](<../../.gitbook/assets/image (10) (1) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1) (1).png>)
 
 #### Download (top right)
 

@@ -36,6 +36,7 @@
   * [Video ads/Best-practice guidelines](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
   * [Targeted ad on FB, with variations: setup](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
 * [Collecting data/trial outcomes](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/README.md)
+  * [Facebook (Meta) ads interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface.md)
   * [Issues: tracking and observing outcomes](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
   * [Google A/B, optimize interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
   * [Google analytics interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
@@ -56,7 +57,7 @@
 
 * [Introduction](profiling-and-segmentation/section-introduction.md)
 * [Existing work/data](profiling-and-segmentation/previous-work.md)
-  * [Surveys/Predicting  EA interest](profiling-and-segmentation/previous-work/surveys-predicting-ea-interest.md)
+  * [Surveys/Predicting EA interest](profiling-and-segmentation/previous-work/surveys-predicting-ea-interest.md)
   * [Awareness: RP, etc.](profiling-and-segmentation/previous-work/rethink-priorities-work.md)
   * [Kagan and Fitz survey](profiling-and-segmentation/previous-work/kagan-and-fitz-survey.md)
   * [Longtermism attitudes/profiling](profiling-and-segmentation/previous-work/longtermism-attitudes-profiling.md)

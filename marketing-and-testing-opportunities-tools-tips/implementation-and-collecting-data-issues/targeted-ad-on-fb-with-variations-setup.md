@@ -16,7 +16,7 @@ Next, click on "Ads" (See the megaphone on the left). At this point, you have to
 
 The next step is to select "Create Ad", and to choose a goal.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 ### **Budget optimization**
 
@@ -47,7 +47,7 @@ We can use the "schedule and duration" function not only to automate the timing 
 
 Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day for (a different\_ case.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 These numbers seems over-optimistic in general, we've seen figures of $1-2 per click elsewhere. Some potentially reliable figures below (sources "[Wordstream](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)" and re-reporting of Wordstream [here](https://fitsmallbusiness.com/how-much-does-facebook-advertising-cost/))
 
@@ -83,12 +83,12 @@ You can specify
 
 {% hint style="info" %}
 Don't forget to use the search tool within 'browse' to find ways to do careful targeting\
-![](<../../.gitbook/assets/image (27).png>)![](<../../.gitbook/assets/image (13) (1).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)![](<../../.gitbook/assets/image (13) (1).png>)
 {% endhint %}
 
 \
 During this process, you can see a concise statement of your choices, and the estimated audience size further up on the page:\
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 #### **How should we (EA, effective giving) target ads?**
 
@@ -137,7 +137,7 @@ To do that we need to set up a "meta pixel".
 
 > DR: In my past experience, you ended up paying Facebook based on the number of "clicks" you got not simply on how long your ad was up. But it's probably a combination of these, and there are probably different pricing plans. You can tell Facebook to put a limit on either of these do not go "over budget". Facebook will aim to spend your entire budget and get the most link clicks using the lowest cost bid strategy.
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)
 
 Currently EUR 315 is the max for new users ... but for our present pilot we may want less than this (check: how much do we expect to pay for 800 clicks, let's split this up into ... first 100 clicks, next 300 clicks,.. to see if its going OK )
 
@@ -150,7 +150,7 @@ Finally, you enter the third and last page of the ad creation process. Here you 
 \
 The last step before publication is to specify the destination for your campaign.
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
 
 We chose a website and simply copy the URL into the mask to make sure the ad is linking people to the right destination.
 

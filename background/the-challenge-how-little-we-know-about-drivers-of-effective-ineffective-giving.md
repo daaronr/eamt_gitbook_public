@@ -41,7 +41,7 @@ Our main ‘policy’ audience includes both effective nonprofit organisations a
 
 **Academic work:**
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 * [Caviola et al, 2021 (abstract pictured above)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(21\)00090-5#secst0005)
 * @loewensteinScarecrowTinMan2007
@@ -64,4 +64,4 @@ Ideas42 wrote (ibid)
 
 ## Definitions - "Efficiency" versus impact <a href="#def-impact" id="def-impact"></a>
 
-A working definition is provided and discussed [HERE](https://daaronr.github.io/ea_giving_barriers/chapters/present_puzzle.html#definitions---efficiency-versus-impact-def-impactpresent_puzzle-17) I (Reinstein) provide a critical discussion of some standard economic models of giving in this context [HERE](https://daaronr.github.io/ea_giving_barriers/chapters/present_puzzle.html#why-puzzle)
+A working definition is provided and discussed [HERE](https://daaronr.github.io/ea\_giving\_barriers/chapters/present\_puzzle.html#definitions---efficiency-versus-impact-def-impactpresent\_puzzle-17) I (Reinstein) provide a critical discussion of some standard economic models of giving in this context [HERE](https://daaronr.github.io/ea\_giving\_barriers/chapters/present\_puzzle.html#why-puzzle)
