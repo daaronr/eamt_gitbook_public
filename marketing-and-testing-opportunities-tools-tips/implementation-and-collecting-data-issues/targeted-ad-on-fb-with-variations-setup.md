@@ -83,7 +83,7 @@ You can specify
 
 {% hint style="info" %}
 Don't forget to use the search tool within 'browse' to find ways to do careful targeting\
-![](<../../.gitbook/assets/image (27) (1).png>)![](<../../.gitbook/assets/image (13) (1).png>)
+![](<../../.gitbook/assets/image (27) (1) (1).png>)![](<../../.gitbook/assets/image (13) (1).png>)
 {% endhint %}
 
 \

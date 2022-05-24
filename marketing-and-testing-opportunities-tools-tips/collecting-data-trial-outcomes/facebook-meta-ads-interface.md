@@ -20,13 +20,22 @@ URL should look like: \
 1. Go to [https://business.facebook.com/adsmanager/](https://business.facebook.com/adsmanager/manage/campaigns?act=204215465)
 2. Click on the relevant account/campaign
 
-![](<../../.gitbook/assets/image (17).png>)\
-3\. Put in some filters:\
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 </details>
 
-&#x20;
+&#x20;2\. Specify some filters:\
+![](<../../.gitbook/assets/image (9).png>)
+
+
+
+This gets us the screen below
+
+![](<../../.gitbook/assets/image (27).png>)
+
+
+
+
 
 
 
