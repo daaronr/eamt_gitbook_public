@@ -4,10 +4,14 @@ description: How to get data from trials of Facebook ad
 
 # Facebook (Meta) ads interface
 
+## Version with graphics
+
+[See private gitbook HERE](https://app.gitbook.com/s/-Mf8cHxdwePMZXRTKnEE/core-knowledge-base/marketing-implementation-and-practical-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface), if you have access. Removed graphics here because of sensitivity issues
+
 ## Using Meta ads manager reporting suite
 
 1. **Go to  "the reporting suite in Meta ads manager"** \
-   ****<img src="../../.gitbook/assets/image (24).png" alt="" data-size="original">
+   ****
 
 <details>
 
@@ -20,30 +24,26 @@ URL should look like: \
 1. Go to [https://business.facebook.com/adsmanager/](https://business.facebook.com/adsmanager/manage/campaigns?act=204215465)
 2. Click on the relevant account/campaign
 
-![](<../../.gitbook/assets/image (17).png>)
+
 
 </details>
 
 &#x20;**2. Specify some filters:**\
-****![](<../../.gitbook/assets/image (9).png>)
+****
 
 
-
-This gets us the screen below
-
-![](<../../.gitbook/assets/image (5).png>)
 
 **3. Specify the date range.**&#x20;
 
 Here “Effective Giving Guide Lead Generation campaign … ran late November 2021 - January 2022"\
-![](<../../.gitbook/assets/image (28).png>)
+
 
 After specifying these dates, more information comes up in the basic columns:\
-![](<../../.gitbook/assets/image (11).png>)
+
 
 **5. Export simple results for Campaigns**
 
-&#x20;**** ![](<../../.gitbook/assets/image (22).png>) ****&#x20;
+&#x20;****&#x20;
 
 Click 'Reports' ... upper right. We can 'create a custom report', which saves this for later tweaking. or merely 'export table data'. I will do the latter for now:
 
@@ -59,22 +59,7 @@ I ![](<../../.gitbook/assets/image (8).png>)
 
 </details>
 
-Hmm, it did not  seem to choose the same columns I saw in the table in the ads manager. \
 
-
-```
-Reporting starts	Reporting ends	Campaign name	Campaign Delivery	Attribution setting	Results	Result indicator	Reach	Impressions	Cost per results	Amount spent (USD)	Ends	Frequency	Unique link clicks	Ad set budget	Ad set budget type
-```
-
-
-
-<details>
-
-<summary>The 'tabs' for campaigns, ad sets, and ads. </summary>
-
-
-
-</details>
 
 
 
