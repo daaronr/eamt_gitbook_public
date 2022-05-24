@@ -33,7 +33,54 @@ This gets us the screen below
 
 ![](<../../.gitbook/assets/image (27).png>)
 
+**3. Specify the date range.**&#x20;
 
+Here “Effective Giving Guide Lead Generation campaign … ran late November 2021 - January 2022"\
+![](<../../.gitbook/assets/image (28).png>)
+
+After specifying these dates, more information comes up in the basic columns:\
+![](<../../.gitbook/assets/image (11).png>)
+
+**5. Export simple results for Campaigns**
+
+&#x20;**** ![](<../../.gitbook/assets/image (22).png>) ****&#x20;
+
+Click 'Reports' ... upper right. We can 'create a custom report', which saves this for later tweaking. or merely 'export table data'. I will do the latter for now:
+
+I ![](<../../.gitbook/assets/image (8).png>)
+
+<details>
+
+<summary>csv or xls?</summary>
+
+`.csv` and `.xls` formats are about equally good; R and other software can import either one. I'll choose csv because it's a tiny bit simpler... but in other contexts, xls might be useful for exporting multiple sheets.
+
+
+
+</details>
+
+Hmm, it did not  seem to choose the same columns I saw in the table in the ads manager. \
+
+
+```
+Reporting starts	Reporting ends	Campaign name	Campaign Delivery	Attribution setting	Results	Result indicator	Reach	Impressions	Cost per results	Amount spent (USD)	Ends	Frequency	Unique link clicks	Ad set budget	Ad set budget type
+```
+
+
+
+<details>
+
+<summary>The 'tabs' for campaigns, ad sets, and ads. </summary>
+
+
+
+</details>
+
+
+
+**4. Pivot table**
+
+As far as I know, the only way to&#x20;
 
 
 
