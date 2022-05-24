@@ -78,6 +78,7 @@
     * [General cost/benefit issues](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/general-cost-benefit-issues.md)
     * [Targeted ad on FB, with variations: setup](core-knowledge-base/marketing-implementation-and-practical-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
   * [Collecting data/trial outcomes](core-knowledge-base/marketing-implementation-and-practical-tips/collecting-data-trial-outcomes/README.md)
+    * [Facebook (Meta) ads interface](core-knowledge-base/marketing-implementation-and-practical-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface.md)
     * [Issues: tracking and observing outcomes](core-knowledge-base/marketing-implementation-and-practical-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
     * [Google A/B optimize interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface)
     * [Google analytics interface](https://effective-giving-marketing.gitbook.io/untitled/implementation-and-practical-tips/collecting-data-trial-outcomes/google-analytics-interface)
