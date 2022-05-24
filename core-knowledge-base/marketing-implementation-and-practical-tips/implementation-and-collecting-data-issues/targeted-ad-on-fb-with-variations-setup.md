@@ -200,7 +200,7 @@ We chose a website and simply copy the URL into the mask to make sure the ad is 
 
 Landing page views or link clicks? What is the difference? (this should be discussed in the 'targeting section' by the way)
 
-![](<../../../.gitbook/assets/image (21) (1).png>)
+![](<../../../.gitbook/assets/image (21) (1) (1).png>)
 
 ### ![](<../../../.gitbook/assets/image (23) (1).png>)
 

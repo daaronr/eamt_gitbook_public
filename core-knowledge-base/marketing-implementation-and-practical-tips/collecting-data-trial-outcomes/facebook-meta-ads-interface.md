@@ -77,6 +77,25 @@ It seems to have removed the "bid strategy" column, and added 'reporting starts'
 
 ### **Campaigns, ad sets, ads**
 
+<details>
+
+<summary><strong>What's the difference?</strong></summary>
+
+FB/Meta gives some explanation [HERE](https://www.facebook.com/business/help/706063442820839?id=802745156580214), although it leaves some open questions.&#x20;
+
+_You set the advertising objective at the **campaign** level. Here you decide the end goal for your ads, like driving more likes to your Page. At the **ad set** level, you define your targeting strategy by setting up parameters like targeting, budget and schedule. Finally, your **ads** are creative visuals, like pictures or videos, that drive the audience to what you are trying to promote._
+
+_Keep in mind that a campaign can include multiple ad sets, each with different targeting, scheduling and budgeting options selected._
+
+**Still unclear:** \
+****Can multiple 'ad sets' use the same 'ads'? \
+Why do we seem to see budget and schedule choices listed under 'campaign' in the ads manager?\
+
+
+</details>
+
+****
+
 <img src="../../../.gitbook/assets/image (30).png" alt="" data-size="original">&#x20;
 
 We see three tabs
@@ -85,6 +104,10 @@ We see three tabs
 2. Ad sets for 1 campaign
 3. Ads for 1 campaign
 
+
+
+**Campaigns**
+
 Here we have 7 campaigns, each with separate budgets, and start and end dates (although these mainly overlap).
 
 It looks like some campaigns were set up for direct comparison or "A/B" perhaps, with the exact same budgets and end dates, and similar names:\
@@ -92,9 +115,13 @@ It looks like some campaigns were set up for direct comparison or "A/B" perhaps,
 
 ![](<../../../.gitbook/assets/image (8).png>)
 
+**Ad sets**
+
+Here, there are 52 total 'ad sets' across all campaigns.
+
+![](<../../../.gitbook/assets/image (21).png>)
 
 
 
-
-**Pivot tables**
+### **Pivot tables**
 
