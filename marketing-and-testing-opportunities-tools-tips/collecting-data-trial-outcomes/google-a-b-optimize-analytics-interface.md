@@ -69,7 +69,7 @@ Google also gives confidence intervals for the conversion rates for each treatme
 
 The grey bar for the baseline is mirrored in all rows. The 95% CI for the 'improvement over the baseline' is given on the right. But this is a rather wide interval. More informatively, if we hover over the image, we are given more useful breakdowns:
 
-![](<../../.gitbook/assets/image (18).png>) ![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (18) (2).png>) ![](<../../.gitbook/assets/image (25).png>)
 
 ![](<../../.gitbook/assets/image (12) (2) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 
@@ -120,7 +120,7 @@ The final section gives the day to day breakdown of the performance of each trea
 
 #### Download (top right)
 
-![](<../../.gitbook/assets/image (22) (1) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1) (1).png>)
 
 The 'Analytics data' gives us _sessions_ and _conversions_ by day and by treatment.
 

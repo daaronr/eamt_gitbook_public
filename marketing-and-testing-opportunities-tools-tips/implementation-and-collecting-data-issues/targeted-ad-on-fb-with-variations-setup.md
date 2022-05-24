@@ -24,7 +24,7 @@ When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE
 
 You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager." Since there is no downside (we would like to learn which ad design works best), we decide to _opt-in to each of these._
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 Budget optimization is closely related to the choice of the target group. In general, the larger the target group, the cheaper it becomes to reach a certain amount of "link clicks".
 
@@ -47,7 +47,7 @@ We can use the "schedule and duration" function not only to automate the timing 
 
 Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day for (a different\_ case.
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 These numbers seems over-optimistic in general, we've seen figures of $1-2 per click elsewhere. Some potentially reliable figures below (sources "[Wordstream](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)" and re-reporting of Wordstream [here](https://fitsmallbusiness.com/how-much-does-facebook-advertising-cost/))
 
@@ -63,7 +63,7 @@ Note that (maybe obviously) 'clicking on a Facebook ad' is a rare thing for peop
 
 It seems you can target more carefully in the "Ads Manager".
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 If you don't have an existing contact list or comparison group, you may prefer to simply specify characteristics. That is "Create a Saved Audience".\
 \
@@ -116,7 +116,7 @@ We can set up Facebook's ("meta") algorithm to dynamically optimize over which w
 
 "Dynamic creative" can be either switched on or off. (Given that we want to optimize over several versions, I see no downside to this feature. Thus, we switch it on.)
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 > Where do we actually specify, enter, and style our ad content?
 
