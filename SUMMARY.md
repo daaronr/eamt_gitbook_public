@@ -4,7 +4,7 @@
 * [📕 Purpose of this gitbook](purpose-of-this-gitbook.md)
 * [🗡 Tip-o-the-spear](tip-o-the-spear.md)
 * [👋 Meet the team](our-team-and-resources.md)
-* [📑 Content overview](sections-and-organization/README.md)
+* [📑 Content overview](sections-and-organization.md)
   * [EAMT: high-value questions (themes/projects)](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit)
 * [🗓 Team meetings](team-meetings.md)
 * [Accomplishments](accomplishments.md)
