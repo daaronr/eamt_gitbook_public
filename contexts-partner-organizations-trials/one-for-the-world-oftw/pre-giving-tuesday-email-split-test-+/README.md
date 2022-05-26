@@ -131,7 +131,7 @@ _(preliminary; we are awaiting further donations in the giving season) ..._
 {% hint style="info" %}
 _This is 'hard-coded' below. I intend to replace this with a link or embed of a dynamic document (Rmarkdown)._\
 \
-_**The quantitative analysis itself, stripped of any context and connection to OftW, is hosted**_\*\* \*\* [_**HERE**_](https://rethinkpriorities.github.io/methodology-statistics-design/inference-and-rough-equivalence-testing-with-binomial-outcomes.html#how-likely-are-proportions-this-similar-under-different-size-true-effect-sizes)
+_**The quantitative analysis itself, stripped of any context and connection to OftW, is hosted**_ [_**HERE**_](https://rethinkpriorities.github.io/methodology-statistics-design/inference-and-rough-equivalence-testing-with-binomial-outcomes.html#how-likely-are-proportions-this-similar-under-different-size-true-effect-sizes)
 {% endhint %}
 
 {% embed url="https://rethinkpriorities.github.io/methodology-statistics-design/inference-and-rough-equivalence-testing-with-binomial-outcomes.html#how-likely-are-proportions-this-similar-under-different-size-true-effect-sizes" %}
@@ -153,9 +153,7 @@ _the analysis as a 'methodological example'; all context removed_
 * 15 members making some one-time donation in this period (about 0.11% of openers, 0.075% of total)
 * 8 members emails donating (likely) through the link (0.057%/0.04%)
 
-{% hint style="info" %}
 **Treatment 2 (Emotional storytelling):**
-{% endhint %}
 
 * 1190 unique emails listed as opening an email (a significantly lower 'open rate', assuming the same shares of members were sent each set of treatment email)
 * 56 members clicking on the donation link in an email at least once (4.7% of openers)

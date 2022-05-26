@@ -50,6 +50,7 @@
   * [Geographic segmentation/blocked randomization](methodological-discussion/splits-randomization/geographic-segmentation-blocked-randomization.md)
   * [Difference in difference/'Time-based methods'](methodological-discussion/splits-randomization/difference-in-difference-time-based-methods.md)
   * [Facebook split-testing etc](methodological-discussion/splits-randomization/facebook-split-testing-etc.md)
+* [Simple quant design](methodological-discussion/simple-quant-design.md)
 * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * [Analysis: Statistical approaches](methodological-discussion/analysis-statistical-approaches.md)
 

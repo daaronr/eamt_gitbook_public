@@ -36,10 +36,6 @@ On choosing an objective of this test, originally I planned to use link clicks, 
 
 _Grace Adams_
 
-_Add 'academic/research lead' here if there is one_
-
-\_\_
-
 ### Timing of trial (when will it/did it start and end, if known)
 
 Trial will run for 7 days on GWWC's ad account, from 9.30am AEDT Friday 25 Feb to 9.30am AEDT Friday 4 Mar.
