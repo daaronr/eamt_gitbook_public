@@ -12,17 +12,13 @@ description: >-
 [https://momentumbirthdayfundraisers.com/](https://momentumbirthdayfundraisers.com)
 {% endembed %}
 
+**See:**
 
+* [**Outline of all Gdocs in project**](https://docs.google.com/document/d/1HP53yTjbfYbGx5vsu5jIjYhXjjGKKTu6ZKxcFoYAlz0/edit)
+* [**Project summary**](https://docs.google.com/document/d/13fD6t21FaxlKxS3D0PK5abHHbrBd7ykfJ0rP7mfk6Hw/edit)
+* **Airtable** [**view of design decisions**](https://airtable.com/shrlfyb3JEX0KxoVZ)
 
-**See:**&#x20;
-
-* ****[**Outline of all Gdocs in project**](https://docs.google.com/document/d/1HP53yTjbfYbGx5vsu5jIjYhXjjGKKTu6ZKxcFoYAlz0/edit#)****
-* ****[**Project summary**](https://docs.google.com/document/d/13fD6t21FaxlKxS3D0PK5abHHbrBd7ykfJ0rP7mfk6Hw/edit#)****
-* **Airtable** [**view of design decisions**](https://airtable.com/shrlfyb3JEX0KxoVZ)****
-
-****
-
-
+***
 
 ## Brief Overview
 
@@ -42,7 +38,5 @@ Field experiment: incentivize birthday Facebook fundraisers
 * We make the promised $5 donations (with possible messages added to these)
 
 Measured outcomes: 1. do 'people who click the ad' start a fundraising page, 2. How much/many donations do these pages raise?, 3. (if API) Which messages do they choose?, 4. Other messages/discussion on their fundraising page
-
-
 
 {% embed url="https://docs.google.com/document/d/13fD6t21FaxlKxS3D0PK5abHHbrBd7ykfJ0rP7mfk6Hw/edit#" %}

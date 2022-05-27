@@ -8,7 +8,7 @@ description: This 'wiki-style' gitbook organizes our joint project.
 **See also**
 
 * [The 'public version' of this](https://effective-giving-marketing.gitbook.io/untitled/) book, which contains much additional content (which is also linked in the present book)
-* Our regularly updated 'data analysis report' on the trials and evidence , which you can [download HERE](https://www.dropbox.com/s/jyxj2jen6e9ptjz/eamt\_bookdown.zip?dl=0) as a protected zip file
+* Our regularly updated 'data analysis report' on all the trials and evidence , which you can [download HERE](https://www.dropbox.com/s/jyxj2jen6e9ptjz/eamt\_bookdown.zip?dl=0) as a protected zip file
   * Password: `reinstein (do not share)`
   * Open `index.html` (or any html file in that folder) to see the content (it should open in a browser)
   * _Note: we will 'host this content publicly' once we have permission_

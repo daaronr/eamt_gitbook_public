@@ -6,31 +6,29 @@ description: >-
 
 # 🗡 Tip-o-the-spear
 
-See  ["EAMT progress" gdoc](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit?usp=sharing) for publicly reported work
+See ["EAMT progress" gdoc](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit?usp=sharing) for publicly reported work
 
 ## EAMT: organizational updates and callouts
 
-**DR:** Longview renewal funding is coming through partially; funding my time for a 6 month 'prove value to creating EAs'; \
-No funding for RA/ops/data support ATM (seeking funding for this).  I'm pushing forward on some key value-demonstration projects including
+**DR:** Longview renewal funding is coming through partially; funding my time for a 6 month 'prove value to creating EAs';\
+No funding for RA/ops/data support ATM (seeking funding for this). I'm pushing forward on some key value-demonstration projects including
 
-* ["EA uni groups for future leaders"](contexts-and-environments-for-testing/ea-university-groups-for-future-leaders-ftx/) \
-  the ['open and clear presentation of results' book](https://daaronr.github.io/eamt\_data\_analysis/index.html), &#x20;
-* 'client-focused creating-EA results' for GWWC, 80k, others,  &#x20;
+* ["EA uni groups for future leaders"](contexts-and-environments-for-testing/ea-university-groups-for-future-leaders-ftx/)\
+  the ['open and clear presentation of results' book](https://daaronr.github.io/eamt\_data\_analysis/index.html),
+* 'client-focused creating-EA results' for GWWC, 80k, others,
 * Putting together (gdoc, seeking feedback) ["EAMT: high-value questions (themes/projects)"](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um) ... with cross-organization value
 
 All item listed in March-May tab below are still current (unless crossed out)
-
-
 
 _Previous updates: see tabs_
 
 {% tabs %}
 {% tab title="Dec " %}
-* Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
+* Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit)
 {% endtab %}
 
 {% tab title="Jan " %}
-* Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit#)
+* Second meeting [Jan 7/9](tip-o-the-spear.md#planned-meeting-s-for-early-january) ([Doodle poll](https://doodle.com/poll/zbkiiikfia99bbtc) results), [#agenda](tip-o-the-spear.md#agenda "mention"), [Gdoc of more extensive agenda, and for rapid shared discussion](https://docs.google.com/document/d/1WCvQq7HEHDzJ\_DcvejzM9Y67hFr9UHYaBXVY260Dlj4/edit)
 * New team members including Nick Fitz (Momentum) and Thomas Ptashnik (PhD candidate, working on [profiling](profiling-project/profiling/ "mention")
 * Considering "Public version" of gitbook, sharing; project management
 {% endtab %}
@@ -77,8 +75,8 @@ _Previous updates: see tabs_
 Pushing forward 'self and academic-funded large trials', ideally before giving season
 
 * JustGiving 'seed donations' [social-influence-justgiving.md](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/social-influence-justgiving.md "mention")
-* Facebook birthday fundraiser trial [fb-birthday-trial-brief](contexts-and-environments-for-testing/fb-birthday-trial-brief/ "mention")
+* Facebook birthday fundraiser trial [fb-birthday-trial-brief.md](contexts-and-environments-for-testing/fb-birthday-trial-brief.md "mention")
 * Integrating evidence from (own and others') field experiments on the '[impact of impact information in charitable campaigns'](https://daaronr.github.io/dualprocess/introduction-and-background.html#introduction-and-background); original and meta-analysis
   * "New": DonorsVoice/CRS, ICRC [#icrc-quick-overview](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md#icrc-quick-overview "mention")
   * 'Published': Karlan and Wood (2017), Bergh and Reinstein (2020)
-* Updates to ["Increasing effective giving"](https://daaronr.github.io/ea_giving_barriers/) synthesis, and to resources in this gitbook
+* Updates to ["Increasing effective giving"](https://daaronr.github.io/ea\_giving\_barriers/) synthesis, and to resources in this gitbook
