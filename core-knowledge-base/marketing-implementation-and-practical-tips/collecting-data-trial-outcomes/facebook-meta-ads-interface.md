@@ -21,8 +21,6 @@ URL should look like:\
 1. Go to [https://business.facebook.com/adsmanager/](https://business.facebook.com/adsmanager/manage/campaigns?act=204215465)
 2. Click on the relevant account/campaign
 
-<img src="../../.gitbook/assets/image%20(17).png" alt="" data-size="original">
-
 </details>
 
 2\. Specify some filters:\
@@ -37,16 +35,20 @@ This gets us the screen below
 **3. Specify the date range.**
 
 Here “Effective Giving Guide Lead Generation campaign … ran late November 2021 - January 2022"\
-![](<../../../.gitbook/assets/image (20).png>)
+![](<../../../.gitbook/assets/image (20).png>) _(Careful in specifying the dates; the interface is weird)_
 
 After specifying these dates, more information comes up in the basic columns:\
 ![](<../../../.gitbook/assets/image (27).png>)
 
+
+
 **5. Export simple results for Campaigns**
+
+Click 'Reports' ... upper right.
 
 ![](<../../../.gitbook/assets/image (28).png>)
 
-Click 'Reports' ... upper right. We can 'create a custom report', which saves this for later tweaking. or merely 'export table data'. I will do the latter for now:
+We can 'create a custom report', which saves this for later tweaking**,** or merely 'export table data'. I will do the latter for now:
 
 ![](../../../.gitbook/assets/image.png)
 
@@ -60,18 +62,17 @@ Click 'Reports' ... upper right. We can 'create a custom report', which saves th
 
 </details>
 
-Now I import this data into R (I usually use a command but let's do the interactive for illustration)...
+Now I import this data into R (I usually use code but let's do it the interactive way for illustration)...
 
 ![](<../../../.gitbook/assets/image (17).png>)
 
 _It seems that the option_ 'include summary row' was probably not wanted here, and that row with blank 'campaign name' could cause confusion.
 
-\
 
 
 ![inputting into R, data preview](<../../../.gitbook/assets/image (5).png>)
 
-It seems to have removed the "bid strategy" column, and added 'reporting starts' and ...'ends' from the filter. Otherwise everything else seems the same as in the ad manager view, although some labels have changed
+It seems to have removed the "bid strategy" column, and added 'reporting starts' and ...'ends' from the filter. Otherwise, everything else seems the same as in the ad manager view, although some labels have changed.
 
 
 
@@ -79,7 +80,7 @@ It seems to have removed the "bid strategy" column, and added 'reporting starts'
 
 <details>
 
-<summary><strong>What's the difference?</strong></summary>
+<summary><strong>What's the difference between these?</strong></summary>
 
 FB/Meta gives some explanation [HERE](https://www.facebook.com/business/help/706063442820839?id=802745156580214), although it leaves some open questions.&#x20;
 
@@ -87,7 +88,7 @@ _You set the advertising objective at the **campaign** level. Here you decide th
 
 _Keep in mind that a campaign can include multiple ad sets, each with different targeting, scheduling and budgeting options selected._
 
-**Still unclear:** \
+**Some things are still unclear:** \
 ****Can multiple 'ad sets' use the same 'ads'? \
 Why do we seem to see budget and schedule choices listed under 'campaign' in the ads manager?\
 
