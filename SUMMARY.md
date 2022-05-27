@@ -49,7 +49,7 @@
   * [Advisor signup (Portland) (+)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/README.md)
     * [Results (simple analysis)](contexts-and-environments-for-testing/tlycs/advisor-signup-portland/results-first-pass.md)
   * [Funds/recommendations trial (proposed)](contexts-and-environments-for-testing/tlycs/funds-recommendations-trial.md)
-* [FB birthday trial](contexts-and-environments-for-testing/fb-birthday-trial-brief.md)
+* [FB birthday trial](contexts-and-environments-for-testing/fb-birthday-trial-brief/README.md)
 * [Charities/fundraisers and impact information](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview (+)](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)

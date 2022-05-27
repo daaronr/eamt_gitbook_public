@@ -75,7 +75,7 @@ _Previous updates: see tabs_
 Pushing forward 'self and academic-funded large trials', ideally before giving season
 
 * JustGiving 'seed donations' [social-influence-justgiving.md](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/social-influence-justgiving.md "mention")
-* Facebook birthday fundraiser trial [fb-birthday-trial-brief.md](contexts-and-environments-for-testing/fb-birthday-trial-brief.md "mention")
+* Facebook birthday fundraiser trial [fb-birthday-trial-brief](contexts-and-environments-for-testing/fb-birthday-trial-brief/ "mention")
 * Integrating evidence from (own and others') field experiments on the '[impact of impact information in charitable campaigns'](https://daaronr.github.io/dualprocess/introduction-and-background.html#introduction-and-background); original and meta-analysis
   * "New": DonorsVoice/CRS, ICRC [#icrc-quick-overview](contexts-and-environments-for-testing/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md#icrc-quick-overview "mention")
   * 'Published': Karlan and Wood (2017), Bergh and Reinstein (2020)
