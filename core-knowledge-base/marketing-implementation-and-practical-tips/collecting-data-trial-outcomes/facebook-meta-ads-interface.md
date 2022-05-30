@@ -9,7 +9,7 @@ description: How to get data from trials of Facebook ad
 ### Extracting simple results
 
 1. **Go to "the reporting suite in Meta ads manager"**\
-   ![](<../../../../.gitbook/assets/image (22).png>)
+   ![](<../../../.gitbook/assets/image (22).png>)
 
 <details>
 
@@ -28,15 +28,15 @@ URL should look like:\
 
 This gets us the screen below
 
-![](<../../../../.gitbook/assets/image (25) (1).png>)
+![](<../../../.gitbook/assets/image (25) (1).png>)
 
 **3. Specify the date range.**
 
 Here “Effective Giving Guide Lead Generation campaign … ran late November 2021 - January 2022"\
-![](<../../../../.gitbook/assets/image (20).png>) _(Careful in specifying the dates; the interface is weird)_
+![](<../../../.gitbook/assets/image (20) (1).png>) _(Careful in specifying the dates; the interface is weird)_
 
 After specifying these dates, more information comes up in the basic columns:\
-![](<../../../../.gitbook/assets/image (27) (1).png>)
+![](<../../../.gitbook/assets/image (27) (1).png>)
 
 
 
@@ -44,11 +44,11 @@ After specifying these dates, more information comes up in the basic columns:\
 
 Click 'Reports' ... upper right.
 
-![](<../../../../.gitbook/assets/image (28) (1).png>)
+![](<../../../.gitbook/assets/image (28) (1).png>)
 
 We can 'create a custom report', which saves this for later tweaking**,** or merely 'export table data'. I will do the latter for now:
 
-![](../../../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image.png)
 
 
 
@@ -62,13 +62,13 @@ We can 'create a custom report', which saves this for later tweaking**,** or mer
 
 Now I import this data into R (I usually use code but let's do it the interactive way for illustration)...
 
-![](<../../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (17) (1).png>)
 
 _It seems that the option_ 'include summary row' was probably not wanted here, and that row with blank 'campaign name' could cause confusion.
 
 
 
-![inputting into R, data preview](<../../../../.gitbook/assets/image (5).png>)
+![inputting into R, data preview](<../../../.gitbook/assets/image (5) (1).png>)
 
 It seems to have removed the "bid strategy" column, and added 'reporting starts' and ...'ends' from the filter. Otherwise, everything else seems the same as in the ad manager view, although some labels have changed.
 
@@ -95,7 +95,7 @@ Why do we seem to see budget and schedule choices listed under 'campaign' in the
 
 ****
 
-<img src="../../../../.gitbook/assets/image (30).png" alt="" data-size="original">&#x20;
+<img src="../../../.gitbook/assets/image (30) (1).png" alt="" data-size="original">&#x20;
 
 We see three tabs
 
@@ -111,13 +111,13 @@ Here we have 7 campaigns, each with separate budgets, and start and end dates (a
 It looks like some campaigns were set up for direct comparison or "A/B" perhaps, with the exact same budgets and end dates, and similar names:\
 
 
-![](<../../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8).png>)
 
 **Ad sets**
 
 Here, there are 52 total 'ad sets' across all campaigns.
 
-![](<../../../../.gitbook/assets/image (21) (1).png>)
+![](<../../../.gitbook/assets/image (21) (1).png>)
 
 I'm going to export this as a csv too, in case it's useful.
 
@@ -127,7 +127,7 @@ I'm going to export this as a csv too, in case it's useful.
 
 There are also 52 "ads"; it seems in this case, one per ad set:
 
-![](<../../../../.gitbook/assets/image (29).png>)  &#x20;
+![](<../../../.gitbook/assets/image (29) (1).png>)  &#x20;
 
 {% hint style="info" %}
 _But in theory ad sets could contain multiple ads.  I wonder when/whether/why it would be worth doing this._

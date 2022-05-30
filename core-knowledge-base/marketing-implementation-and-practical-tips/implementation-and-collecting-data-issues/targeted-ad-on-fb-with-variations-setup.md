@@ -161,7 +161,7 @@ However, we might instead want FB to optimize the ad presentation in terms of wh
 \
 To do that we need to set up a "meta pixel".
 
-![](<../../../.gitbook/assets/image (17) (1).png>)
+![](<../../../.gitbook/assets/image (17) (1) (1).png>)
 
 > DR [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention") How do we set up such a pixel? Presumably something in our webpage also needs to integrate this so it knows what the "action on your page", to feed back to Facebook to optimize over.
 
@@ -171,7 +171,7 @@ To do that we need to set up a "meta pixel".
 >
 > UPDATE: Some discussions suggest that ultimately you end up 'paying per impression'. The cost per click is higher if there are more clicks per impression.
 
-![](<../../../.gitbook/assets/image (20) (1).png>)
+![](<../../../.gitbook/assets/image (20) (1) (1).png>)
 
 Currently EUR 315 is the max for new users ... but for our present pilot we may want less than this (check: how much do we expect to pay for 800 clicks, let's split this up into ... first 100 clicks, next 300 clicks,.. to see if its going OK )
 
@@ -206,7 +206,7 @@ Landing page views or link clicks? What is the difference? (this should be discu
 
 You can also add suggested categories: ![](<../../../.gitbook/assets/image (24).png>)
 
-![](<../../../.gitbook/assets/image (13) (1) (1).png>)
+![](<../../../.gitbook/assets/image (13) (1) (1) (1).png>)
 
 ### Payment (and monitoring)
 
