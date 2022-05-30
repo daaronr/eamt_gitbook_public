@@ -87,7 +87,7 @@ Using the lower end of the estimate (172) implies that we have to spend **10 eur
 
 But you can target it more closely, you end up clicking "Ads Manager".
 
-![](<../../../.gitbook/assets/image (18) (1) (1).png>)
+![](<../../../.gitbook/assets/image (18) (1) (1) (2).png>)
 
 If you don't have an existing contact list or comparison group, you may prefer to simply specify characteristics. (And this may also be relevant for particular trials). That is "Create a Saved Audience".\
 \
@@ -194,15 +194,15 @@ We chose a website and simply copy the URL into the mask to make sure the ad is 
 
 "Campaigns"
 
-![](<../../../.gitbook/assets/image (19).png>)
+![](<../../../.gitbook/assets/image (19) (2).png>)
 
 ### ![](<../../../.gitbook/assets/image (12).png>)
 
 Landing page views or link clicks? What is the difference? (this should be discussed in the 'targeting section' by the way)
 
-![](<../../../.gitbook/assets/image (21) (1) (1).png>)
+![](<../../../.gitbook/assets/image (21) (1) (1) (1).png>)
 
-### ![](<../../../.gitbook/assets/image (23) (1).png>)
+### ![](<../../../.gitbook/assets/image (23) (1) (1).png>)
 
 You can also add suggested categories: ![](<../../../.gitbook/assets/image (24).png>)
 

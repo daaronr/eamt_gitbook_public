@@ -141,9 +141,9 @@ Of course, there _are_ more grounded approaches than simulation we could use, su
 
 ## Scratch work on Google Analytics
 
-Here are some graphs of the relevant period vs the same period in the previous year ![](<../../../.gitbook/assets/image (21) (1) (1) (1).png>)
+Here are some graphs of the relevant period vs the same period in the previous year ![](<../../../.gitbook/assets/image (21) (1) (1) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (18) (1) (1) (2).png>)
+![](<../../../.gitbook/assets/image (18) (1) (1) (2) (1).png>)
 
 I figured out (at least a hacky way) of getting 'all the data from Google Analytics'. See...
 

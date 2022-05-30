@@ -51,7 +51,7 @@ There are six primary goals that were considered in the drafted selection of que
 
 <summary>Examples of data/learning</summary>
 
-![](<../../.gitbook/assets/image (27) (1).png>)
+![](<../../.gitbook/assets/image (27) (1) (1).png>)
 
 From [Youtube: Fed presentation](https://youtu.be/s32qCDWsw8s?t=441)
 
@@ -65,7 +65,7 @@ From [Youtube: Fed presentation](https://youtu.be/s32qCDWsw8s?t=441)
 
 #### First page of Voter registration form
 
-![3 May 2022 version](<../../.gitbook/assets/image (27) (1) (1).png>)
+![3 May 2022 version](<../../.gitbook/assets/image (27) (1) (1) (1).png>)
 
 > GG: In regard to the first item, my thought was that it captures the "**giving significantly**" portion of the GWWC mission. It would be listed exactly as described in the expansive altruism subscale. \[I.e., it was used in that scale.]
 
