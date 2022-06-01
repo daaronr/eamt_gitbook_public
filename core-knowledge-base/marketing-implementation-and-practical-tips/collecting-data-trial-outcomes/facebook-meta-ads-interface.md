@@ -2,7 +2,7 @@
 description: How to get data from trials of Facebook ad
 ---
 
-# Facebook (Meta) ads interface
+# FB (Meta) ads interface
 
 ## Using Meta ads manager reporting suite
 
@@ -102,7 +102,8 @@ We see three tabs
 1. Campaigns
 2. Ad sets for 1 campaign
 3. Ads for 1 campaign
-4.
+
+
 
 **Campaigns**
 
@@ -129,9 +130,17 @@ There are also 52 "ads"; it seems in this case, one per ad set:
 
 ![](<../../../.gitbook/assets/image (29) (1).png>)  &#x20;
 
-{% hint style="info" %}
-_But in theory ad sets could contain multiple ads.  I wonder when/whether/why it would be worth doing this._
-{% endhint %}
+
+
+<details>
+
+<summary>Ad sets with multiple ads?</summary>
+
+_In theory ad sets could contain multiple ads.  I wonder when/whether/why it would be worth doing this._\
+__\
+_Luke:_ In the Giving Guides trial ... we used a smart ad format where you upload lots of creatives (images, videos, post text etc) and it tests them all as a single ad. That particular ad format has a 1:1 relationship with the ad set, and then you investigate the success by pulling other specific reports for the attributes (e.g. “Post Text” or “Image or Video”)
+
+</details>
 
 The information in the 'ads' table seems the same as in the 'ad sets table' ... other than a link to preview the ad content itself (which I don't seem to have access to atm).
 
