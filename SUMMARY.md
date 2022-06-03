@@ -27,6 +27,7 @@
 * [Environments, plans, tests](contexts-and-environments-for-testing/environments-and-plans/README.md)
   * [Testing contexts: overview](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/environments-and-plans/future-avenues)
 * [GWWC](contexts-and-environments-for-testing/gwwc/README.md)
+  * [Proposed 2022 big trials](contexts-and-environments-for-testing/gwwc/proposed-2022-big-trials.md)
   * [Pledge page options trial (+)](https://effective-giving-marketing.gitbook.io/untitled/contexts-environments-plans-tests/gwwc/pledge-page-options-trial)
   * [Giving guides - Facebook(+)](contexts-and-environments-for-testing/gwwc/giving-guides-+/README.md)
   * [Home page header versions (+)](contexts-and-environments-for-testing/gwwc/home-page-header-versions-+.md)
