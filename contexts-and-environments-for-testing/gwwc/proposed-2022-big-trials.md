@@ -1,8 +1,26 @@
 # Proposed 2022 big trials
 
+__[_See Airtable Conditions table, 'gwwc\_priority'  view_](https://airtable.com/shrgdjaK6GY8gp2mP)
+
 ## 1. ‘**Accountability partners**’:
 
-Has a good chance of making an important difference, both in pledging and in being brought into EA. _Can we start to treat this as a project to start managing and make happen?_&#x20;
+_"Does ‘assigning/facilitating accountability partners’ improve retention and follow-through (on giving and other EA activities?_
+
+High-value question?: Has a good chance of making an important difference, both in pledging and in being brought into EA.&#x20;
+
+<details>
+
+<summary>Brief case for impact</summary>
+
+People seem to lose contact and drop out of EA after university (source?). E.g., OftW reports a loss of contact and lack of pledge fulfillment after graduation.&#x20;
+
+Living up to promises we made to ourselves is hard. It is hard to maintain motivation, and our values and beliefs may be very much influenced by our peer groups, and by a sense of competition.&#x20;
+
+</details>
+
+[Discussion space - Gdoc](https://docs.google.com/document/d/17aiUFbPMQAunMiha8imOoYTWtbTApO35QNU35TEeS5A/edit#heading=h.gb9ep3dl26n0)
+
+__
 
 ## **2. Measuring/testing early-funnel messages/cause focus/CtA/Appeal**
 
