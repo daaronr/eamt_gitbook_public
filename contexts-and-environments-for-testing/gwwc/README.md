@@ -13,11 +13,15 @@ We also are also working to present a more detailed statistical and graphical an
 See also the slide presentation [here](https://docs.google.com/presentation/d/1VaO3WDH\_3OxnhhQC2e1ejUYBjBxKoaoMhbqza-vVjQo/edit#slide=id.g11dc561c35c\_0\_0)
 {% endhint %}
 
-## GWWC: Tip of the Spear
+## GWWC: Tip of the Spear (A bit outdated)
 
-*   "[Pledge page" split-test](broken-reference); vary presentations of pledge options (tied to cookies/IP addresses)
+See also [proposed-2022-big-trials.md](proposed-2022-big-trials.md "mention")
 
-    _<mark style="background-color:yellow;">We have</mark>_ [some results](broken-reference) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
+
+
+*   "[Pledge page" split-test](broken-reference/); vary presentations of pledge options (tied to cookies/IP addresses)
+
+    _<mark style="background-color:yellow;">We have</mark>_ [some results](broken-reference/) <mark style="background-color:yellow;">(incidence rates and Google's metrics); see DR's summary suggesting that 'presenting the simple 10% pledge in relative isolation' might lead to the most conversions</mark>
 
     * <mark style="background-color:orange;">Next steps</mark>_<mark style="background-color:yellow;">: more detailed analysis and write-up (check/replicate/extend Google optimize Bayesian analysis in code)</mark>_
 * [YouTube remarketing](youtube-remarketing.md).
