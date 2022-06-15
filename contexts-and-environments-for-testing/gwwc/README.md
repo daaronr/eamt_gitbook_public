@@ -73,4 +73,12 @@ Brainstorms: [See shared GDOC](https://docs.google.com/document/d/1Sps58H0LKvoLv
 
 #### Giving What We Can is running trials and interventions, producing videos and funding ads, and interested in doing more, systematically and robustly
 
+
+
+## Other resources
+
+### GWWC Style guide
+
+{% embed url="https://docs.google.com/presentation/d/1PUYMArmxOwElHs_dCuqeX1JfyypJvyk_sO4wGUg6OYI/edit#slide=id.XC59h5V0" %}
+
 ###
