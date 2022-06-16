@@ -77,6 +77,10 @@ Brainstorms: [See shared GDOC](https://docs.google.com/document/d/1Sps58H0LKvoLv
 
 ## Other resources
 
+### Staging server (to try out platform)
+
+{% embed url="https://lyra-staging.givingwhatwecan.org/" %}
+
 ### GWWC Style guide
 
 {% embed url="https://docs.google.com/presentation/d/1PUYMArmxOwElHs_dCuqeX1JfyypJvyk_sO4wGUg6OYI/edit#slide=id.XC59h5V0" %}
