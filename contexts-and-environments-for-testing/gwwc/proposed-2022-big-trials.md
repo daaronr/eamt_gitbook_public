@@ -52,7 +52,9 @@ _But what I think we should **focus on next** is building a ‘**generic practic
 * How we will measure and track the outcomes.
 * What sample sizes and inference strategies we will use
 
-Once we have that in place, we can choose exactly what variations want to test, optimize it, and make it happen._What do you think?_ (edited)&#x20;
+Once we have that in place, we can choose exactly what variations want to test, optimize it, and make it happen. _What do you think?_&#x20;
+
+{% embed url="https://docs.google.com/document/d/1VPNEFybfANws-u3DkeLup-aMuAVUw5f2sBCgUsPw5M8/edit" %}
 
 ## See top prioritized 'conditions' in Airtable view below, links to discussions within
 
