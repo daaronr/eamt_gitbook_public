@@ -7,24 +7,24 @@
 * [📖 Forum posts and writings](overview-ea-forum-post.md)
 * [👋 Meet the team](our-team-and-resources.md)
 
-## Contexts, partner organizations, trials
+## 🤝 Partner Organizations and Trials
 
-* [Introduction](contexts-partner-organizations-trials/section-introduction.md)
-* [University groups/promotion](contexts-partner-organizations-trials/university-groups-promotion.md)
-* [Giving What We Can (GWWC)](contexts-partner-organizations-trials/gwwc/README.md)
-  * [Pledge page (options trial)](contexts-partner-organizations-trials/gwwc/pledge-page-options-trial.md)
-  * [Giving guides - Facebook](contexts-partner-organizations-trials/gwwc/giving-guides-+.md)
-  * [Message Test (Feb 2022)](contexts-partner-organizations-trials/gwwc/feb-22-message-test.md)
-  * [YouTube Remarketing](contexts-partner-organizations-trials/gwwc/youtube-remarketing.md)
-* [One For the World (OftW)](contexts-partner-organizations-trials/one-for-the-world-oftw/README.md)
-  * [pre-giving-tuesday-email split test](contexts-partner-organizations-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
-    * [Preregistration: OftW pre-GT](contexts-partner-organizations-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
-* [Charities/fundraisers and impact information](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/README.md)
-  * [ICRC - quick overview (+)](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
-  * [CRS/DV: overview (+)](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
-* [Other orgs/approaches in progress](contexts-partner-organizations-trials/other.md)
+* [Introduction](partner-organizations-and-trials/section-introduction.md)
+* [University groups/promotion](partner-organizations-and-trials/university-groups-promotion.md)
+* [Giving What We Can (GWWC)](partner-organizations-and-trials/gwwc/README.md)
+  * [Pledge page (options trial)](partner-organizations-and-trials/gwwc/pledge-page-options-trial.md)
+  * [Giving guides - Facebook](partner-organizations-and-trials/gwwc/giving-guides-+.md)
+  * [Message Test (Feb 2022)](partner-organizations-and-trials/gwwc/feb-22-message-test.md)
+  * [YouTube Remarketing](partner-organizations-and-trials/gwwc/youtube-remarketing.md)
+* [One For the World (OftW)](partner-organizations-and-trials/one-for-the-world-oftw/README.md)
+  * [pre-giving-tuesday-email split test](partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
+    * [Preregistration: OftW pre-GT](partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
+* [Charities/fundraisers and impact information](partner-organizations-and-trials/charities-fundraisers-and-impact-information/README.md)
+  * [ICRC - quick overview (+)](partner-organizations-and-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
+  * [CRS/DV: overview (+)](partner-organizations-and-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
+* [Other orgs/approaches in progress](partner-organizations-and-trials/other.md)
 
-## Marketing & testing: opportunities, tools, tips
+## 🪧 Marketing & testing: opportunities, tools, tips
 
 * [Trial reporting template](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md)
 * [Environments, tests, tools](marketing-and-testing-opportunities-tools-tips/environments-and-plans/README.md)
@@ -41,7 +41,7 @@
   * [Google analytics interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
   * [(Survey and marketing platforms)](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/survey-and-marketing-platforms.md)
 
-## Research Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
+## 🎨 Research Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 
 * [Methods: Overview, discussion, resources](methodological-discussion/section-introduction-wip.md)
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)

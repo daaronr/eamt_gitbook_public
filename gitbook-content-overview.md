@@ -10,15 +10,15 @@ Our [mission](./), [what we are trying to do and why](overview-ea-forum-post.md)
 
 ## Five Key Sections
 
-### 1) [Partner Organizations and Trials](contexts-partner-organizations-trials/section-introduction.md)
+### 1)  [Partner Organizations and Trials](partner-organizations-and-trials/section-introduction.md) 🤝
 
 In this section of the gitbook, you will find reports of the trials we have run with organizations, including Giving What We Can and One For the World. We also include background on the organization and their priorities for testing.
 
-### 2) [Marketing & Testing: Opportunities, Tools, Tips](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md)
+### 2) [Marketing & Testing: Opportunities, Tools, Tips](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md) 🪧
 
 Here we share tools to implement planned trials, as well as tips relevant to 'doing marketing'. We answer questions like how to set up campaigns and track outcomes on various platforms.
 
-### 3) [Research Design and Methodology](methodological-discussion/section-introduction-wip.md)
+### 3) [Research Design and Methodology](methodological-discussion/section-introduction-wip.md) 🎨
 
 We discuss qualitative and quantiative research design and methodology issues that are relevant to the trials we are running. Pages in this section will be linked in reports when relevant to a particular trial.
 

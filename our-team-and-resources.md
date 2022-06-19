@@ -9,11 +9,11 @@ __
 
 ****[**80000 Hours** ](https://80000hours.org/)
 
-[[gwwc](contexts-partner-organizations-trials/gwwc/ "mention")](https://80000hours.org/)
+[[gwwc](partner-organizations-and-trials/gwwc/ "mention")](https://80000hours.org/)
 
 [Charity Elections (run by GWWC) ](https://www.givingwhatwecan.org/events/guides/charity-elections/)
 
-****[one-for-the-world-oftw](contexts-partner-organizations-trials/one-for-the-world-oftw/ "mention")****
+****[one-for-the-world-oftw](partner-organizations-and-trials/one-for-the-world-oftw/ "mention")****
 
 ****[The Life You Can Save](https://www.thelifeyoucansave.org/)
 
