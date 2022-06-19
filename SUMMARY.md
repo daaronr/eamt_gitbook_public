@@ -26,7 +26,6 @@
 
 ## Marketing & testing: opportunities, tools, tips
 
-* [(Introduction)](marketing-and-testing-opportunities-tools-tips/section-introduction-wip.md)
 * [Trial reporting template](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md)
 * [Environments, tests, tools](marketing-and-testing-opportunities-tools-tips/environments-and-plans/README.md)
   * [Testing Contexts: Overview](marketing-and-testing-opportunities-tools-tips/environments-and-plans/future-avenues.md)

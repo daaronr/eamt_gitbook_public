@@ -14,7 +14,7 @@ Our [mission](./), [what we are trying to do and why](overview-ea-forum-post.md)
 
 In this section of the gitbook, you will find reports of the trials we have run with organizations, including Giving What We Can and One For the World. We also include background on the organization and their priorities for testing.
 
-### 2) [Marketing & Testing: Opportunities, Tools, Tips](marketing-and-testing-opportunities-tools-tips/section-introduction-wip.md)
+### 2) [Marketing & Testing: Opportunities, Tools, Tips](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md)
 
 Here we share tools to implement planned trials, as well as tips relevant to 'doing marketing'. We answer questions like how to set up campaigns and track outcomes on various platforms.
 

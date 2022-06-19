@@ -1,2 +1,0 @@
-# Section introduction (WIP)
-
