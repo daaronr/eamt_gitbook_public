@@ -25,9 +25,9 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 * Conduct [profiling](broken-reference),[ survey, and segmentation](broken-reference) activities and trials, building evidence on which types of people are most responsive to effective giving messages and appeals
 * Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics
 
-## Goals and FAQ ([LINK](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#))
+## Goals and FAQ ([LINK](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit))
 
-_Building a set of interactive notes..._
+[Goals/FAQ linked](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#heading=h.gjcw9rquq2um) (below in detail, scroll outside margin to skip past it)
 
 {% embed url="https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf_e7vsjnDWzWdU_Zv3eUCtEL4/edit#" %}
 

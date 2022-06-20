@@ -10,7 +10,7 @@ Our [mission](./), [what we are trying to do and why](overview-ea-forum-post.md)
 
 ## Five Key Sections
 
-### 1)  [Partner Organizations and Trials](partner-organizations-and-trials/section-introduction.md) 🤝
+### 1)  [Partner Organizations and Trials](contexts-partner-organizations-trials/section-introduction.md) 🤝
 
 In this section of the gitbook, you will find reports of the trials we have run with organizations, including Giving What We Can and One For the World. We also include background on the organization and their priorities for testing.
 

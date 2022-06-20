@@ -13,7 +13,7 @@ _What is OftW and how does it differ from others in this space?_
 * Chloe: Focus on youth and university students at a pivotal point in their life
   * Accessible messaging, more of a starting point, less gatekeeping
 * David: 1% is 'more manageable' as a starting point perhaps
-*   Luke: Narrow focus on type of charities: global health and poverty
+* Luke: Narrow focus on type of charities: global health and poverty
 
 OFTW has a donor base of \~700 active donors, \~1650 pledged donors (who pledged but haven't started donating yet) and \~2000 lapsed donors.
 
@@ -105,5 +105,5 @@ OFTW has a donor base of \~700 active donors,
 
 ### University experiment - redacted as being prepared
 
-- Homepage message testing
-- Activation trial
+* Homepage message testing
+* Activation trial
