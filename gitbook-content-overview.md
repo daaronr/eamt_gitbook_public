@@ -22,11 +22,11 @@ Here we share tools to implement planned trials, as well as tips relevant to 'do
 
 We discuss qualitative and quantiative research design and methodology issues that are relevant to the trials we are running. Pages in this section will be linked in reports when relevant to a particular trial.
 
-### 4) [Profiling and Segmentation Project](profiling-and-segmentation/section-introduction.md)
+### 4) [Profiling and Segmentation Project](profiling-and-segmentation/section-introduction.md) 🧮
 
 Our profiling project aims to help better understand what sorts of people are amenable to EA-related ideas and to taking EA-favored actions.
 
-### **5)** [**(In)effective Altruistic Choices: Review of Theory and Evidence**](background/section-introduction.md)
+### **5)** [**(In)effective Altruistic Choices: Review of Theory and Evidence**](background/section-introduction.md) **** 📋
 
 We've done a thorough review of existing literature to inform the trials we are running and identify important research topics. This includes [What is known/models of effective giving](background/models-theories-psychological-norms.md) and [Principles and theories behind potential trials](background/tools-and-trials-overview/tools-interventions-principles.md).
 

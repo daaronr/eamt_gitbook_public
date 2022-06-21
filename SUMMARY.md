@@ -41,7 +41,7 @@
   * [Google analytics interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
   * [(Survey and marketing platforms)](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/survey-and-marketing-platforms.md)
 
-## Research Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
+## 🎨 Research Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 
 * [Methods: Overview, discussion, resources](methodological-discussion/section-introduction-wip.md)
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
@@ -53,7 +53,7 @@
 * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
 * [Analysis: Statistical approaches](methodological-discussion/analysis-statistical-approaches.md)
 
-## Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
+## 🧮 Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
 * [Introduction](profiling-and-segmentation/section-introduction.md)
 * [Existing work/data](profiling-and-segmentation/previous-work.md)
@@ -68,7 +68,7 @@
 * [Further approaches in progress](profiling-and-segmentation/further-approaches-in-progress/README.md)
   * [Profiling 'existing traffic'](profiling-and-segmentation/further-approaches-in-progress/profiling-existing-traffic.md)
 
-## (In)effective Altruistic choices: Review of theory and evidence <a href="#background" id="background"></a>
+## 📋 (In)effective Altruistic choices: Review of theory and evidence <a href="#background" id="background"></a>
 
 * [Introduction...](background/section-introduction.md)
 * [The challenge: drivers of effective/ineffective giving](background/the-challenge-drivers-of-effective-ineffective-giving.md)
