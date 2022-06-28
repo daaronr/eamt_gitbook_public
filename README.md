@@ -27,13 +27,13 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 
 ## Goals and FAQ ([LINK](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit))
 
-[Goals/FAQ linked](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#heading=h.gjcw9rquq2um) (below in detail, scroll outside margin to skip past it)
+[Goals/FAQ linked](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#heading=h.gjcw9rquq2um) _(below in detail, scroll outside margin to skip past it)_
 
 {% embed url="https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf_e7vsjnDWzWdU_Zv3eUCtEL4/edit#" %}
 
 ## What have we accomplished?
 
-For an overview of our progress and ongoing work, see the ['progress and results' doc](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit) we are building.
+For an overview of our progress and ongoing work, see the ['progress and results' doc](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit) we are building.  _(Below in detail, scroll outside margin to skip past it)_
 
 {% embed url="https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit" %}
 
@@ -60,6 +60,6 @@ Note that we cannot publicly share details of _ongoing, upcoming, and continuing
 
 ## How to get involved?
 
-If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr at gmail.com or Erin Morrissey at edonovanmorrissey at gmail.com.
+If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr at gmail.com.&#x20;
 
 ### Next, check out the [Gitbook content overview](gitbook-content-overview.md).
