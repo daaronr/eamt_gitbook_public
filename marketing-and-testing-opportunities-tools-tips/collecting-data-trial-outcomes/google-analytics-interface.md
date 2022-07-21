@@ -1,8 +1,18 @@
 # Google analytics interface
 
+_Add section: How to set up GA_
+
 ## Tracking the progress of a trial in GA
 
 ...
+
+<details>
+
+<summary>How delayed is the data you see... in various parts of GA?</summary>
+
+[An article from Google's support](https://support.google.com/analytics/answer/1070983?hl=en#zippy=%2Cin-this-article) suggests there may be substantial delay. But does this only apply to sites with a great deal of traffic?
+
+</details>
 
 ## "Getting the data"
 
