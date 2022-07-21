@@ -6,6 +6,10 @@ _Add section: How to set up GA_
 
 ...
 
+{% embed url="https://www.youtube.com/watch?v=njri8_gJTs0" %}
+This video is useful
+{% endembed %}
+
 <details>
 
 <summary>How delayed is the data you see... in various parts of GA?</summary>
@@ -13,6 +17,24 @@ _Add section: How to set up GA_
 [An article from Google's support](https://support.google.com/analytics/answer/1070983?hl=en#zippy=%2Cin-this-article) suggests there may be substantial delay. But does this only apply to sites with a great deal of traffic?
 
 </details>
+
+<details>
+
+<summary>Some open questions</summary>
+
+* How to 'exclude your own testing the page' from GA results? &#x20;
+
+<!---->
+
+* How accurate are the timings presented?
+
+<!---->
+
+* How to get at unique _users_ for the key stats
+
+</details>
+
+
 
 ## "Getting the data"
 
