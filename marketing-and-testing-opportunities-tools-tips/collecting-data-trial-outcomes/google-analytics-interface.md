@@ -4,7 +4,13 @@ _Add section: How to set up GA_
 
 ## Tracking the progress of a trial in GA
 
-...
+**Some key 'flows and tips'**
+
+* **'**Home'
+* 'behavior', 'site content', 'all pages'
+  * _remember to set date range!_&#x20;
+* Acquisition, all traffic, channels: here 'social' (probably) tells you who came from Facebook etc
+  * Acquisition, all traffic, Source/medium drills down into this
 
 {% embed url="https://www.youtube.com/watch?v=njri8_gJTs0" %}
 This video is useful
@@ -22,15 +28,10 @@ This video is useful
 
 <summary>Some open questions</summary>
 
-* How to 'exclude your own testing the page' from GA results? &#x20;
-
-<!---->
-
-* How accurate are the timings presented?
-
-<!---->
-
-* How to get at unique _users_ for the key stats
+1. How to 'exclude your own testing the page' from GA results? &#x20;
+2. How accurate are the timings presented?
+3. How to get at unique _users_ for the key stats
+4. Date filters don't seem to work on home page graphs ... choosing custom dates doesn't change it
 
 </details>
 
