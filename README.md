@@ -1,20 +1,27 @@
 ---
-description: >-
- 
-NOTE: THIS 'make_publicable' branch has been moved to https://github.com/daaronr/eamt_gitbook_public!!! THAT IS THE ONE syncing with the gitbook
- Welcome to the EA Market Testing gitbook! Explore the resources here to learn
-  about who we are, the knowledge base we are building, and how our work can be
-  used to promote effective giving and action.
+NOTE: >-
+  THIS 'make_publicable' branch has been moved to
+  https://github.com/daaronr/eamt_gitbook_public!!! THAT IS THE ONE syncing with
+  the gitbook Welcome to the EA Market Testing gitbook! Explore the resources
+  here to learn about who we are, the knowledge base we are building, and how
+  our work can be used to promote effective giving and action.
 ---
 
 # EA Market Testing Introduction
 
-NOTE: THIS 'make_publicable' branch has been moved to https://github.com/daaronr/eamt_gitbook_public!!!
 
 
 {% hint style="warning" %}
 This is the public version of the gitbook; the private version has more details on upcoming and ongoing trials, which we hope to share as soon as possible
 {% endhint %}
+
+<details>
+
+<summary>Note to developers</summary>
+
+This is now synced with the github repo [https://github.com/daaronr/eamt\_gitbook\_public](https://github.com/daaronr/eamt\_gitbook\_public)&#x20;
+
+</details>
 
 ## What is the "EA Market Testing Team"?
 
@@ -26,8 +33,8 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 
 * Coalesce our understanding and evidence on barriers and facilitators of effective altruism/effective giving/effective action
 * Run a broad set of powerful trials and experiments (esp. in large-scale settings), gathering evidence on ‘what works best' to promote meaningful actions in specific cases, aiming at generalizable principles and approaches
-  * See our discussion of '[high-value questions' ](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um)
-* Conduct [profiling](broken-reference),[ survey, and segmentation](broken-reference) activities and trials, building evidence on which types of people are most responsive to effective giving messages and appeals
+  * See our discussion of '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um)
+* Conduct [profiling](broken-reference/),[ survey, and segmentation](broken-reference/) activities and trials, building evidence on which types of people are most responsive to effective giving messages and appeals
 * Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics
 
 ## Goals and FAQ ([LINK](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit))
@@ -38,19 +45,15 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 
 ## What have we accomplished?
 
-For an overview of our progress and ongoing work, see the ['progress and results' doc](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit) we are building.  _(Below in detail, scroll outside margin to skip past it)_
+For an overview of our progress and ongoing work, see the ['progress and results' doc](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit) we are building. _(Below in detail, scroll outside margin to skip past it)_
 
 {% embed url="https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit" %}
 
-Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible.&#x20;
-
-
-
-
+Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible.
 
 ## **"Testimonials" (putting this together)**
 
-****
+***
 
 **Luke Freeman, Executive Director of Giving What We Can:**
 
@@ -60,11 +63,12 @@ Note that we cannot publicly share details of _ongoing, upcoming, and continuing
 
 **Grace Adams, Head of Marketing, Giving What We Can:**
 
-> It’s been extremely useful to hear what others in EA, individuals and orgs are doing and sharing learnings between us. I hope that we can develop a set of tactics that we know successfully convert people and get them more involved in EA. A reliable set of best practices for marketing EA would be a great outcome\
-> ****
+> It’s been extremely useful to hear what others in EA, individuals and orgs are doing and sharing learnings between us. I hope that we can develop a set of tactics that we know successfully convert people and get them more involved in EA. A reliable set of best practices for marketing EA would be a great outcome\\
+>
+> ***
 
 ## How to get involved?
 
-If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr at gmail.com.&#x20;
+If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr at gmail.com.
 
 ### Next, check out the [Gitbook content overview](gitbook-content-overview.md).
