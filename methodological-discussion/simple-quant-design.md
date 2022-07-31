@@ -16,7 +16,7 @@ Drawing from Lakens' excellent resource:
 
 {% embed url="https://lakens.github.io/statistical_inferences/bayes.html" %}
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (3).png>)
 
 _You are considering a new and an old message._
 

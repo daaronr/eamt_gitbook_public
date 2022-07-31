@@ -6,7 +6,7 @@ description: How to get data from trials of Facebook ad
 
 ## Version with graphics
 
-[See private gitbook HERE](https://app.gitbook.com/s/-Mf8cHxdwePMZXRTKnEE/core-knowledge-base/marketing-implementation-and-practical-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface), if you have access. Removed graphics here because of sensitivity issues
+[See private gitbook HERE](https://app.gitbook.com/s/-Mf8cHxdwePMZXRTKnEE/core-knowledge-base/marketing-implementation-and-practical-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface), if you have access. Removed some graphics here because of sensitivity issues ... but as we are releasing a forum post with most of this, the difference between private and public is small.
 
 ## Using Meta ads manager reporting suite
 
@@ -28,7 +28,9 @@ URL should look like: \
 
 </details>
 
-&#x20;**2. Specify some filters:**\
+&#x20;**2. Specify some filters: ... yielding**
+
+****![](<../../.gitbook/assets/image (15).png>)****\
 ****
 
 
@@ -38,14 +40,23 @@ URL should look like: \
 Here “Effective Giving Guide Lead Generation campaign … ran late November 2021 - January 2022"\
 
 
+Here “Effective Giving Guide Lead Generation campaign … ran late November 2021 - January 2022"\
+![](<../../.gitbook/assets/image (19).png>) _(Careful in specifying the dates; the interface is weird)_
+
 After specifying these dates, more information comes up in the basic columns:\
+
+
+![](<../../.gitbook/assets/image (6).png>)
+
 
 
 **5. Export simple results for Campaigns**
 
 &#x20;****&#x20;
 
-Click 'Reports' ... upper right. We can 'create a custom report', which saves this for later tweaking. or merely 'export table data'. I will do the latter for now:
+Click 'Reports' **** in the upper right.
+
+&#x20;We can 'create a custom report', which saves this for later tweaking. or merely 'export table data'. I will do the latter for now:
 
 I ![](<../../.gitbook/assets/image (8).png>)
 
@@ -58,6 +69,14 @@ I ![](<../../.gitbook/assets/image (8).png>)
 
 
 </details>
+
+
+
+Now I import this data into R (I usually use code but let's do it the interactive way for illustration)...
+
+![](broken-reference)
+
+_It seems that the option_ 'include summary row' was probably not wanted here, and that row with blank 'campaign name' could cause confusion.
 
 
 
