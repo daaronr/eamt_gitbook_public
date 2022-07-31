@@ -1,11 +1,16 @@
 ---
 description: >-
-  Welcome to the EA Market Testing gitbook! Explore the resources here to learn
+ 
+NOTE: THIS 'make_publicable' branch has been moved to https://github.com/daaronr/eamt_gitbook_public!!! THAT IS THE ONE syncing with the gitbook
+ Welcome to the EA Market Testing gitbook! Explore the resources here to learn
   about who we are, the knowledge base we are building, and how our work can be
   used to promote effective giving and action.
 ---
 
 # EA Market Testing Introduction
+
+NOTE: THIS 'make_publicable' branch has been moved to https://github.com/daaronr/eamt_gitbook_public!!!
+
 
 {% hint style="warning" %}
 This is the public version of the gitbook; the private version has more details on upcoming and ongoing trials, which we hope to share as soon as possible
