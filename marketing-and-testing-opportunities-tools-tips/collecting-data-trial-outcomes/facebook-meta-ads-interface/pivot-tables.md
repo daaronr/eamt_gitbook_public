@@ -33,7 +33,7 @@ Here I add a filter for 'campaign name **'** contains 'general'. Because I'm spe
 * timing, demographics\
 
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../.gitbook/assets/image (11) (2).png>)
 
 * Drill down to "Custom breakdowns", "Dynamic Creative Asset", to get it broken down by the text linked to the ads:\
 
@@ -87,6 +87,8 @@ If you think the report is useful in-situ, you can also share a link
 
 
 **7. Export the data**
+
+****![](../../../.gitbook/assets/image.png)****
 
 As in [#extracting-simple-results](./#extracting-simple-results "mention")...
 
