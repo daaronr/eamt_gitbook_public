@@ -71,7 +71,7 @@ The grey bar for the baseline is mirrored in all rows. The 95% CI for the 'impro
 
 ![](<../../.gitbook/assets/image (18) (2).png>) ![](<../../.gitbook/assets/image (25).png>)
 
-![](<../../.gitbook/assets/image (12) (2) (1) (1) (1) (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (12) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1).png>)
 
 Although this does not exactly tell us the 50% interval 'improvement over the baseline' (this would need a separate computation), we can approximately infer this.
 

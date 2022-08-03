@@ -25,7 +25,7 @@ We intend to redo and augment much of this analysis in a more transparent way; d
 
 Giving What We Can (GWWC) has three giving pledge options, displayed in the 'Original presentation version' below.
 
-![Pledge page "Original"](<../../.gitbook/assets/image (7).png>)
+![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1) (1) (1) (2).png>)
 
 From April-July 2021 they ran a trial presenting its 'pledge page' options in three slightly different ways. Considering 'clicks on any button' as the outcome, and a Bayesian 'preponderance of evidence' standard...
 
@@ -196,7 +196,7 @@ _**3. Where is the data stored ... \[noted above]**_
 
 ### Basic results/outcomes
 
-![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/images\_moved/image (17) (1) (1) (1) (1).png>)
+![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1) (1) (1) (1).png>)
 
 ### **Quick interpretation**
 
