@@ -35,6 +35,8 @@
   * [Video ads/Best-practice guidelines](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
   * [Targeted ad on FB, with variations: setup](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
 * [Collecting data/trial outcomes](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/README.md)
+  * [Facebook (Meta) ads interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface/README.md)
+      * [Pivot tables](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface/pivot-tables.md)
   * [Issues: tracking and observing outcomes](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
   * [Google A/B, optimize interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
   * [Google analytics interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
