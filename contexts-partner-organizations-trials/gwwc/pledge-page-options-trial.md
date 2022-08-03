@@ -196,7 +196,7 @@ _**3. Where is the data stored ... \[noted above]**_
 
 ### Basic results/outcomes
 
-![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1) (1) (1) (1).png>)
+![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1) (1) (1) (1) (3).png>)
 
 ### **Quick interpretation**
 

@@ -12,11 +12,11 @@ _**See also:**_ [facebook-split-testing-etc.md](../../methodological-discussion/
 
 Next, click on "Ads" (See the megaphone on the left). At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access to an existing page or Instagram account:
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 The next step is to select "Create Ad", and to choose a goal.
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (2).png>)
 
 ### **Budget optimization**
 
@@ -24,7 +24,7 @@ When creating a new "Traffic campaign" ('cold traffic campaign' referenced [HERE
 
 You need to opt-in to these tools by ticking "create A/B test" and "Budget Optimization" on the first page of your "ad campaign manager." Since there is no downside (we would like to learn which ad design works best), we decide to _opt-in to each of these._
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 Budget optimization is closely related to the choice of the target group. In general, the larger the target group, the cheaper it becomes to reach a certain amount of "link clicks".
 
@@ -37,11 +37,11 @@ Suppose we wish to create a targeted ad for a particular Facebook audience. For 
 
 Here, I chose "Get more website Visitors". ... Then "Edit Audience". Below, I chose people in the US over age 18 who are interested in any of a set of things related to charity, volunteering, or philosophy. This is a very broad audience, with about 80 million potential people
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 Facebook estimates that spending $5 per day over 5 days will lead 358-1000 people seeing the ad and 72-208 clicks. That implies a cost of between 12 cents and 34 cents per click
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (2).png>)
 
 We can use the "schedule and duration" function not only to automate the timing of our campaign, but also to estimate its cost. For example, we assume that we need 800 participants to click-through to start the 20 fundraisers (i.e., a rate of 2.5%).
 
@@ -51,7 +51,7 @@ Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day
 
 These numbers seems over-optimistic in general, we've seen figures of $1-2 per click elsewhere. Some potentially reliable figures below (sources "[Wordstream](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)" and re-reporting of Wordstream [here](https://fitsmallbusiness.com/how-much-does-facebook-advertising-cost/))
 
-![](<../../.gitbook/assets/image (4).png>)![](<../../.gitbook/assets/image (21).png>)\
+![](<../../.gitbook/assets/image (4) (1).png>)![](<../../.gitbook/assets/image (21) (2).png>)\
 \
 From a recent relevant experience in our group's context...
 
@@ -63,15 +63,15 @@ Note that (maybe obviously) 'clicking on a Facebook ad' is a rare thing for peop
 
 It seems you can target more carefully in the "Ads Manager".
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (2).png>)
 
 If you don't have an existing contact list or comparison group, you may prefer to simply specify characteristics. That is "Create a Saved Audience".\
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (29).png>)
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 You can specify
 
@@ -94,7 +94,7 @@ During this process, you can see a concise statement of your choices, and the es
 
 We have some evidence that narrower targeting helps. An obvious candidate is
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ### **Traffic choice**
 
@@ -137,7 +137,7 @@ To do that we need to set up a "meta pixel".
 
 > DR: In my past experience, you ended up paying Facebook based on the number of "clicks" you got not simply on how long your ad was up. But it's probably a combination of these, and there are probably different pricing plans. You can tell Facebook to put a limit on either of these do not go "over budget". Facebook will aim to spend your entire budget and get the most link clicks using the lowest cost bid strategy.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 Currently EUR 315 is the max for new users ... but for our present pilot we may want less than this (check: how much do we expect to pay for 800 clicks, let's split this up into ... first 100 clicks, next 300 clicks,.. to see if its going OK )
 

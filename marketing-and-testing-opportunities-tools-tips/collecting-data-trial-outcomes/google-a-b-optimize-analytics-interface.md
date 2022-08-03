@@ -32,13 +32,13 @@ Reporting and considering this in the context of the GWWC [pledge-page-options-t
 
 Clicking on a particular 'experience' in the 'container'...
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (2).png>)
 
 (if you have been granted _read and analyze permission),_ will open the useful 'Optimize Report' (which Google explains [here](https://support.google.com/optimize/answer/6218117#pvr-too-high))
 
 ### Optimize report: top
 
-![Overall details at the top](<../../.gitbook/assets/image (20).png>)
+![Overall details at the top](<../../.gitbook/assets/image (20) (1).png>)
 
 The overall start/end and 'sessions' are given first. What are "sessions"? _The short answer:_ 'Sessions' are the number of 'continuously active' periods of an individual user. So individual users may have multiple sessions! (see [#sessions-vs.-users](google-a-b-optimize-analytics-interface.md#sessions-vs.-users "mention")below). Here, there have been 7992 such 'sessions' over 81 days.
 
@@ -69,9 +69,9 @@ Google also gives confidence intervals for the conversion rates for each treatme
 
 The grey bar for the baseline is mirrored in all rows. The 95% CI for the 'improvement over the baseline' is given on the right. But this is a rather wide interval. More informatively, if we hover over the image, we are given more useful breakdowns:
 
-![](<../../.gitbook/assets/image (18) (2).png>) ![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (18) (2).png>) ![](<../../.gitbook/assets/image (25) (2).png>)
 
-![](<../../.gitbook/assets/image (12) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (12) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1).png>)
 
 Although this does not exactly tell us the 50% interval 'improvement over the baseline' (this would need a separate computation), we can approximately infer this.
 

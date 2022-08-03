@@ -84,7 +84,7 @@ And there are some special code elements like
 for embedded content (esp. Google docs),\
 \
 ... multi-tab tab elements:\
-![](<../../.gitbook/assets/image (1) (1) (1) (2).png>)\
+![](<../../.gitbook/assets/image (1) (1) (1) (2) (1).png>)\
 \
 ..And callout boxes, including 'hints'\\
 
