@@ -42,7 +42,7 @@
   * [Google analytics interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
   * [(Survey and marketing platforms)](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/survey-and-marketing-platforms.md)
 
-## 🎨 Research Design and methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
+## 🎨 Research Design, methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 
 * [Methods: Overview, discussion, resources](methodological-discussion/section-introduction-wip.md)
 * ["Qualitative" design issues](methodological-discussion/qualitative-design-issues.md)
