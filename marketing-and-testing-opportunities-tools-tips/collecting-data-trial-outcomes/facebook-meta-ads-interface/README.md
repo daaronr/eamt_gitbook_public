@@ -57,6 +57,18 @@ We can 'create a custom report', which saves this for later tweaking, or merely 
 
 _**Note**_: I chose CSV and do _not_ include summary rows, to avoid confusion later.
 
+
+
+<details>
+
+<summary>Exploring alternative: direct input into R </summary>
+
+See tools like the `rfacebookstat` package; docs here
+
+
+
+</details>
+
 Now I import this data into R (I usually use code but let's do it the interactive way for illustration)...
 
 ![](<../../../.gitbook/assets/fb\_ad\_images/image (5).png>)
@@ -80,8 +92,8 @@ _You set the advertising objective at the **campaign** level. Here you decide th
 _Keep in mind that a campaign can include multiple ad sets, each with different targeting, scheduling and budgeting options selected._
 
 **Some things are still unclear:**\
-\*\*\*\*Can multiple 'ad sets' use the same 'ads'?\
-Why do we seem to see budget and schedule choices listed under 'campaign' in the ads manager?\\
+Can multiple 'ad sets' use the same 'ads'? (I think so)\
+Why do we seem to see budget and schedule choices listed under 'campaign' in the ads manager?
 
 </details>
 

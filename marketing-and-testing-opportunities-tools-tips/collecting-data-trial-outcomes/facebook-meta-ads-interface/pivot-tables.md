@@ -10,7 +10,7 @@ You may want to see or export crosstabs of one outcome, user feature, or design 
 ****![](<../../../.gitbook/assets/image (7).png>) **** \
 
 
-Click "Create Report" --> Pivot tabl\
+Click "Create Report" --> Pivot table\
 
 
 **2. As before, make sure you've selected the right date range, and (redo) any relevant filters**
@@ -66,7 +66,7 @@ I added a few features I thought might be interesting or useful. Was anyone draw
 
 **5. (Optional) Conditional formatting**
 
-This could also be helpful if you are using the Ads Manager tools in situ, but obviously this has no value for downloading\
+This could also be helpful if you are using the Ads Manager tools _in situ_, but obviously this has no value for downloading.\
 
 
 ![](<../../../.gitbook/assets/image (21).png>)
@@ -93,3 +93,8 @@ If you think the report is useful in-situ, you can also share a link
 As in [#extracting-simple-results](./#extracting-simple-results "mention")...
 
 ![](<../../../.gitbook/assets/image (25).png>)
+
+
+
+&#x20;(or consider direct import into R using tools like the `rfacebookstat` package)
+
