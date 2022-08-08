@@ -9,19 +9,17 @@ NOTE: >-
 
 # EA Market Testing Introduction
 
-
-
-{% hint style="warning" %}
-This is the public version of the gitbook; the private version has more details on upcoming and ongoing trials, which we hope to share as soon as possible
-{% endhint %}
-
 <details>
 
-<summary>Note to developers</summary>
+<summary>This "Public" version; note to developers </summary>
 
-This is now synced with the github repo [https://github.com/daaronr/eamt\_gitbook\_public](https://github.com/daaronr/eamt\_gitbook\_public)&#x20;
+The private version of the Gitbook, shared within our group .has more details on upcoming and ongoing trials; we hope to share everything publicly  as we can as soon as possible.
+
+Developers: The current Gitbook  is now synced with the github repo [https://github.com/daaronr/eamt\_gitbook\_public](https://github.com/daaronr/eamt\_gitbook\_public)
 
 </details>
+
+
 
 ## What is the "EA Market Testing Team"?
 
@@ -32,10 +30,10 @@ The “EA Market Testing Team” represents a small group of researchers and pra
 ### To the best of our knowledge, this is the first organized collaboration of its kind. We aim to:
 
 * Coalesce our understanding and evidence on barriers and facilitators of effective altruism/effective giving/effective action
-* Run a broad set of powerful trials and experiments (esp. in large-scale settings), gathering evidence on ‘what works best' to promote meaningful actions in specific cases, aiming at generalizable principles and approaches
-  * See our discussion of '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um)
-* Conduct [profiling](broken-reference/),[ survey, and segmentation](broken-reference/) activities and trials, building evidence on which types of people are most responsive to effective giving messages and appeals
-* Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics
+* Run a broad set of powerful trials and experiments. gathering evidence on _what works best_ to promote meaningful actions in specific cases. We aim at generalizable principles and approaches. See our discussion of '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um)
+* Do [profiling](broken-reference/),[ survey, and segmentation](broken-reference/) activities and trials, building evidence on which types of people are most responsive to effective giving messages and appeals
+* Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics.
+* Enable more outreach and promotion, as well as more testing, by offering templates and [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)
 
 ## Goals and FAQ ([LINK](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit))
 

@@ -190,7 +190,7 @@ Pledge before Try Giving: 2686
 
 Separate Bullets for Other Pledges: 2718
 
-Total: 7992 sessions \*\*\*\* (=2588+2686+2718)
+Total: 7992 sessions (=2588+2686+2718)
 
 _**3. Where is the data stored ... \[noted above]**_
 
@@ -292,6 +292,8 @@ Still, it might be that people mainly came in with the desire to take The Pledge
 I am assuming that the 'outcome being measured here' is whether the person 'clicked on any giving pledge'; this is what Luke has conveyed to me
 
 I assume this is 'conversions ever from this IP', and 'sessions' represents 'how many different IPs came to the treatment'. If it's something else (e.g., each 'session' is a 'visit' from an individual), this could reflect these people converting in _fewer sessions_ but not necessarily being more likely to convert overall. Even if this is 'by IP' the alternative interpretation 'not converting now but maybe later' may still have some weight if people are entering through multiple devices.
+
+
 
 _Further thoughts:_
 
