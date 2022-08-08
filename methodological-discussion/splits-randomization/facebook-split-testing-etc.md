@@ -1,15 +1,15 @@
-# Facebook split-testing etc
+# Facebook split-testing issues
 
-## Facebook trials: limited inference
+## Facebook trials: "divergent delivery" --> limited inference
 
 {% hint style="info" %}
-**The main point**&#x20;
+**The main point**
 
 Facebook serves each ad variation to the people it thinks are most likely to click on it.
 
 Thus, in comparing one ad variation to another... you may learn:
 
-* "Which variation performs best on the 'best audience for that variation' (according to  Facebook)" &#x20;
+* "Which variation performs best on the 'best audience for that variation' (according to Facebook)"
 * But you don't learn "which variation performs better than others on any single comparable audience."
 {% endhint %}
 
@@ -20,6 +20,16 @@ Researchers are interested in running trials using Facebook ads. However, infere
 2. Segmentation and composition of population: Facebook's 'PageRank' algorithm determines who sees an ad. I don't think you can turn this off.
    1. We haven't found a way to be able to set it to "show all versions of an ad to comparable populations"
    2. (And even if you could, it would be difficult for you to specifically describe "which population" your results pertain to.)
+
+
+
+## Divergent delivery and "the A/B test deception"
+
+
+
+{% embed url="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3896024" %}
+
+{% embed url="https://deliverypdf.ssrn.com/delivery.php?ID=132088086121073001083080077127104108125018001047091022000126083006124123094095115126045055003101126027111029072099097094075071009041023059084026026078112114121098091072003004001121021088083096006085084101119103123065081122008080126069118090005117066093&EXT=pdf&INDEX=TRUE" %}
 
 <details>
 
@@ -33,6 +43,8 @@ Orazi, D. C., & Johnston, A. C. (2020). Running field experiments using Facebook
 
 </details>
 
+
+
 <details>
 
 <summary>Notes on Facebook “Lift tests/Lift Studies” with ’Multiple Test Groups”</summary>
@@ -44,14 +56,13 @@ Do Facebook “Lift tests/Lift Studies” with ’Multiple Test Groups” give u
 
 See "[‘Meta for developers’ on Lift Tests](https://developers.facebook.com/docs/marketing-api/guides/lift-studies):"
 
-**No.** \
-****Josh: "what it says is something importantly different: you can compare the number of people who do the action you are interested in ... according to whether or not they see a given ad. So, you _do_ have random assignment when comparing the effect of an ad to the effect of no ad. ... if we compare the lift for two different treatments (What these multi-cell lift tests are doing), we are doing almost exactly the same thing as we were without the lift functionality...&#x20;
+**No.**\
+\*\*\*\*Josh: "what it says is something importantly different: you can compare the number of people who do the action you are interested in ... according to whether or not they see a given ad. So, you _do_ have random assignment when comparing the effect of an ad to the effect of no ad. ... if we compare the lift for two different treatments (What these multi-cell lift tests are doing), we are doing almost exactly the same thing as we were without the lift functionality...
 
 A and B are displayed to different audiences, so this test does not have random assignment."
 
-_Essentially this allows you to get the correct 'lift' of A and B, on their own distinct audiences, by getting the counterfactual audiences for each of these correct.  But you cannot compare the lift of A and B on any comparable audience._
+_Essentially this allows you to get the correct 'lift' of A and B, on their own distinct audiences, by getting the counterfactual audiences for each of these correct. But you cannot compare the lift of A and B on any comparable audience._
 
-To help understand the context... "Facebook often randomizes the whole audience into different cells and THEN targets the ad WITHIN that audience. So there is random assignment at the initial stage, but that's irrelevant, because not everyone in the potential audience sees each ad"\
-
+To help understand the context... "Facebook often randomizes the whole audience into different cells and THEN targets the ad WITHIN that audience. So there is random assignment at the initial stage, but that's irrelevant, because not everyone in the potential audience sees each ad"\\
 
 </details>
