@@ -9,7 +9,9 @@ Note that the content below follows the [trial-reporting-template.md](../../mark
 
 ## Summary
 
-**Context**: Facebook ads on a range of audiences.
+**Context**: Facebook ads on a range of audiences&#x20;
+
+... \[with text and rich content promoting effective giving and a "giving guide" -- links people to [a Giving What We Can page](https://www.givingwhatwecan.org/giving-guide) asking for their email in exchange for the guide]
 
 **Objective**: Test distinct approaches to messaging, aiming to get people to download our Giving Guide. (Previously called "emotional and factual" approaches; basically these were "Charity research facts" vs. "cause focus")
 
@@ -32,7 +34,7 @@ Note this had several 'versions' during the campaign (see 'Test 1 - Test 4')
   * I.e., we can make statements about "what works better on Facebook in this context and maybe similar contexts"
   * but not about "which audience, as defined, is more receptive" (as the targeting _within_ each audience may differ in unobserved ways),
   * nor about "which message works better on a particular comparable audience" (for the same reason)
-* **Outcome** is 'click to download the giving guide'.&#x20;
+* **Outcome** is 'click to download the giving guide'.
 
 ## Writeup and results
 
@@ -42,4 +44,4 @@ Note this had several 'versions' during the campaign (see 'Test 1 - Test 4')
 
 ###
 
-## \*\*\*\*
+##
