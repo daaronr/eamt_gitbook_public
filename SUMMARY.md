@@ -37,10 +37,9 @@
 * [Collecting data/trial outcomes](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/README.md)
   * [Facebook (Meta) ads interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface/README.md)
     * [Pivot tables](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface/pivot-tables.md)
-  * [Issues: tracking and observing outcomes](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/issues-tracking-and-observing-outcomes.md)
   * [Google A/B, optimize interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
   * [Google analytics interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
-  * [(Survey and marketing platforms)](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/survey-and-marketing-platforms.md)
+  * [Survey and marketing platforms](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/survey-and-marketing-platforms.md)
 
 ## 🎨 Research Design, methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 
