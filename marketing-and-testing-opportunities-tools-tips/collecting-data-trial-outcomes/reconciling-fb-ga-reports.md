@@ -1,5 +1,7 @@
 # Reconciling FB/GA reports
 
+Facebook's Ad Manager and Google Analytics often report results that seem to have discrepancies. Below, one particular case, and possible explanations.
+
 ## What is going on 'in our latest trial'?
 
 ## ![](<../../.gitbook/assets/image (9).png>)
