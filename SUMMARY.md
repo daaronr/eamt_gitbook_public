@@ -39,6 +39,7 @@
     * [Pivot tables](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface/pivot-tables.md)
   * [Google A/B, optimize interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
   * [Google analytics interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-analytics-interface.md)
+  * [Reconciling FB/GA reports](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/reconciling-fb-ga-reports.md)
   * [Survey and marketing platforms](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/survey-and-marketing-platforms.md)
 
 ## 🎨 Research Design, methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
