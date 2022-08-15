@@ -61,9 +61,13 @@ Note that we cannot publicly share details of _ongoing, upcoming, and continuing
 
 **Grace Adams, Head of Marketing, Giving What We Can:**
 
-> It’s been extremely useful to hear what others in EA, individuals and orgs are doing and sharing learnings between us. I hope that we can develop a set of tactics that we know successfully convert people and get them more involved in EA. A reliable set of best practices for marketing EA would be a great outcome\\
->
-> ***
+> It’s been extremely useful to hear what others in EA, individuals and orgs are doing and sharing learnings between us. I hope that we can develop a set of tactics that we know successfully convert people and get them more involved in EA. A reliable set of best practices for marketing EA would be a great outcome.
+
+
+
+#### Greg Gianopoulis, Charity Elections
+
+> As a quick testimonial relevant to this stage of the process, David \[Reinstein]'s support has been critical to the Charity Elections team's development of plans for marketing and program evaluation. Our first ad campaign was particularly impactful, generating one click to the [Charity Elections page](https://www.givingwhatwecan.org/events/guides/charity-elections) on the Giving What We Can website per $0.01 spent on the campaign. We will continue to incorporate his advice into our advertising to spread awareness of the Charity Elections program among high school students and teachers.
 
 ## How to get involved?
 
