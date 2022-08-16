@@ -24,7 +24,11 @@ Facebook's Ad Manager and Google Analytics often report results that seem to hav
 > 2\.  ... If a user clicks on the FB ad twice within 30 minutes, then Google Analytics would record that only as a single user and a single session.
 >
 > 3\. If a user has JavaScript disabled or doesn’t accept cookies, then Google Analytics doesn’t track.
->
+
+
+
+Leticia at Facebook: can be mistaken clicks, this is common.. need a pixel to fix this ..., can change it to 'landing page view'
+
 > ****
 
 #### 2,. How is it possible that 455 people come to the page and only 20 (under  5%) of them actually even do anything on the page?
