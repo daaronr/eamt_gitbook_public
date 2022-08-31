@@ -9,21 +9,14 @@ NOTE: >-
 
 # EA Market Testing Introduction
 
-<details>
-
-<summary>This "Public" version; note to developers </summary>
-
-The private version of the Gitbook, shared within our group .has more details on upcoming and ongoing trials; we hope to share everything publicly  as we can as soon as possible.
-
-Developers: The current Gitbook  is now synced with the github repo [https://github.com/daaronr/eamt\_gitbook\_public](https://github.com/daaronr/eamt\_gitbook\_public)
-
-</details>
-
-
-
 ## What is the "EA Market Testing Team"?
 
-The “EA Market Testing Team” represents a small group of researchers and practitioners interested in promoting effective altruism and effective charitable giving and learning more about what motivates this.
+We are a small group of researchers and practitioners. We work to promote effective altruism and effective charitable giving. We are running marketing campaigns, appeals, and events, both with our [partner organizations](broken-reference) and in independent surveys and trials. We also work to improve the design and messaging of organizations like [Giving What We Can](contexts-partner-organizations-trials/gwwc/) and 80000 hours. \
+\
+While _doing_ marketing we are also _analyzing_ this scientifically. We run carefully controlled trials and robustly analyze the results. However, we are careful to be _efficient_, recognizing the tradeoffs between rigorous experimental design and practical marketing.  \
+\
+We track, organize, and share what we have learned with the EA community, building resources and a knowledge and evidence base.  This covers 'how to [implement](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/) and test marketing campaigns', '[what has worked](https://daaronr.github.io/eamt\_data\_analysis/) to promote EA', 'what [motivates/blocks effective giving](https://daaronr.github.io/ea\_giving\_barriers/),' and 'what [profiles of people are](broken-reference) most likely to be interested in effective altruism'.  We strive to be open–  reporting and sharing our data, procedures, and code– as well as _transparent_ – reporting the state of the evidence without overselling the results.\
+
 
 ## What is our mission?
 
