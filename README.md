@@ -20,13 +20,14 @@ We track, organize, and share what we have learned with the EA community, buildi
 
 ## What is our mission?
 
-### To the best of our knowledge, this is the first organized collaboration of its kind. We aim to:
+### We believe this is the first organized collaboration of its kind. We aim to:
 
-* Coalesce our understanding and evidence on barriers and facilitators of effective altruism/effective giving/effective action
-* Run a broad set of powerful trials and experiments. gathering evidence on _what works best_ to promote meaningful actions in specific cases. We aim at generalizable principles and approaches. See our discussion of '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um)
+* Coalesce our understanding and evidence on barriers and facilitators of effective altruism, effective giving, and effective action
+* Run a broad set of high-powered trials (large sample sizes, high-stake real-world environments, substantial differences between conditions).  Gather evidence on _what works best_ to promote meaningful actions in _specific_ cases, while... &#x20;
+* ... Aiming for _generalizable_ principles and approaches (see  '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um).). This will enable further outreach and promotion in new contexts as well as more testing and insight. These principles will be applied to templates and implementation tips for ease of accessibility to the EA community. while aiming at _generalizable_ principles and approaches.&#x20;
 * Do [profiling](broken-reference/),[ survey, and segmentation](broken-reference/) activities and trials, building evidence on which types of people are most responsive to effective giving messages and appeals
 * Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics.
-* Enable more outreach and promotion, as well as more testing, by offering templates and [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)
+* Enable more outreach and promotion, as well as more testing, by offering [testing templates](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md) and guides as well as [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/).
 
 ## Goals and FAQ ([LINK](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit))
 
