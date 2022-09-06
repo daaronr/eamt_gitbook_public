@@ -41,7 +41,7 @@ For an overview of our progress and ongoing work, see the ['progress and results
 
 {% embed url="https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit" %}
 
-Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible.
+Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible. (To do: integrate shareable aspects of [this private doc.](https://docs.google.com/document/d/1w9kUiJguWZx4EIvGBd7l0qMTJHWdlHV5z-pvKcdNPOA/edit))
 
 ## **"Testimonials" (putting this together)**
 
