@@ -11,11 +11,18 @@ NOTE: >-
 
 ## What is the "EA Market Testing Team"?
 
-We are a small group of researchers and practitioners. We work to promote effective altruism and effective charitable giving. We are running marketing campaigns, appeals, and events, both with our [partner organizations](broken-reference) and in independent surveys and trials. We also work to improve the design and messaging of organizations like [Giving What We Can](contexts-partner-organizations-trials/gwwc/) and 80000 hours. \
+We are a small group of researchers and practitioners. Our goal is to promote effective altruism and effective charitable giving through marketing campaigns, appeals, and events, both with our [partner organizations](broken-reference) and in independent surveys and trials. We want to improve the design and messaging of organizations like [Giving What We Can](contexts-partner-organizations-trials/gwwc/) and 80000 Hours to maximize their outreach and eventual impact.\
 \
-While _doing_ marketing we are also _analyzing_ this scientifically. We run carefully controlled trials and robustly analyze the results. However, we are careful to be _efficient_, recognizing the tradeoffs between rigorous experimental design and practical marketing.  \
+While _doing_ marketing we are also _testing and analyzing_ this rigorously. We run carefully controlled trials and robustly analyze the results. However, we are careful to be _efficient_, recognizing the tradeoffs between rigorous experimental design and practical marketing.  \
 \
-We track, organize, and share what we have learned with the EA community, building resources and a knowledge and evidence base.  This covers 'how to [implement](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/) and test marketing campaigns', '[what has worked](https://daaronr.github.io/eamt\_data\_analysis/) to promote EA', 'what [motivates/blocks effective giving](https://daaronr.github.io/ea\_giving\_barriers/),' and 'what [profiles of people are](broken-reference) most likely to be interested in effective altruism'.  We strive to be open–  reporting and sharing our data, procedures, and code– as well as _transparent_ – reporting the state of the evidence without overselling the results.\
+We track, organize, and share what we have learned with the EA community, building and organizing resources and a knowledge base.  This will address questions such as:&#x20;
+
+* How to [implement](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/) and test marketing campaigns?
+* [What has worked](https://daaronr.github.io/eamt\_data\_analysis/) to promote EA?
+* What [motivates/blocks effective giving](https://daaronr.github.io/ea\_giving\_barriers/)?&#x20;
+* What [profiles of people are](broken-reference) most likely to be interested in effective altruism? &#x20;
+
+We strive to be transparent. We want to report and share our data, procedures, code, and evidence without overselling the results.\
 
 
 ## What is our mission?
@@ -23,11 +30,11 @@ We track, organize, and share what we have learned with the EA community, buildi
 ### We believe this is the first organized collaboration of its kind. We aim to:
 
 * Coalesce our understanding and evidence on barriers and facilitators of effective altruism, effective giving, and effective action
-* Run a broad set of high-powered trials (large sample sizes, high-stake real-world environments, substantial differences between conditions).  Gather evidence on _what works best_ to promote meaningful actions in _specific_ cases, while... &#x20;
-* ... Aiming for _generalizable_ principles and approaches (see  '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um).). This will enable further outreach and promotion in new contexts as well as more testing and insight. These principles will be applied to templates and implementation tips for ease of accessibility to the EA community. while aiming at _generalizable_ principles and approaches.&#x20;
-* Do [profiling](broken-reference/),[ survey, and segmentation](broken-reference/) activities and trials, building evidence on which types of people are most responsive to effective giving messages and appeals
-* Share our results, data, and tools with the larger community interested in effective giving; report our work both for practitioners and researchers/academics.
-* Enable more outreach and promotion, as well as more testing, by offering [testing templates](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md) and guides as well as [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/).
+* Run a broad set of high-powered trials (large samples, high-stake real-world contexts, substantial differences between conditions)&#x20;
+  * ... to gather evidence on _what works best_ to promote meaningful actions in _specific_ cases...
+  * ... while aiming at _generalizable_ principles and approaches (see  '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um))
+* Do [profiling](broken-reference/),[ survey, and segmentation](broken-reference/) activities and trials, building evidence on 'which types of people' are most responsive to effective giving messages and appeals
+* Share our results, data, and tools, (and [testing templates](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md), guides and [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)) with the relevant EA and research-interested communitoes. This will enable more and better outreach, promotion, testing, and insight.
 
 ## Goals and FAQ ([LINK](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit))
 
