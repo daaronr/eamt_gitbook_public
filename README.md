@@ -50,25 +50,37 @@ For an overview of our progress and ongoing work, see the ['progress and results
 
 Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible. (To do: integrate shareable aspects of [this private doc.](https://docs.google.com/document/d/1w9kUiJguWZx4EIvGBd7l0qMTJHWdlHV5z-pvKcdNPOA/edit))
 
-## **"Testimonials" (putting this together)**
+{% hint style="info" %}
+For a data-driven dynamic document covering (some of) our trials and evidence see [HERE.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)
+{% endhint %}
+
+## **"Testimonials"**&#x20;
 
 ***
 
-**Luke Freeman, Executive Director of Giving What We Can:**
+<details>
 
-> “The EA Market Testing team has been very helpful in helping us to pursue our mission of creating a world where giving effectively and significantly is a cultural norm. They have helped us at each stage along the process of ideation through to analysis so that we can base our outreach activities on sound theory and strong evidence. This is at a particularly important time as we have been scaling up our marketing activities to reach and engage new audiences with effective giving and the ideas of effective altruism more broadly. We look forward to an ongoing collaboration with EAMT so that we can continue to iterate and increase our impact.”
+<summary><strong>Luke Freeman, Executive Director of Giving What We Can</strong></summary>
 
-***
+"The EA Market Testing team has been very helpful in helping us to pursue our mission of creating a world where giving effectively and significantly is a cultural norm. They have helped us at each stage along the process of ideation through to analysis so that we can base our outreach activities on sound theory and strong evidence. This is at a particularly important time as we have been scaling up our marketing activities to reach and engage new audiences with effective giving and the ideas of effective altruism more broadly. We look forward to an ongoing collaboration with EAMT so that we can continue to iterate and increase our impact.”
 
-**Grace Adams, Head of Marketing, Giving What We Can:**
+</details>
 
-> It’s been extremely useful to hear what others in EA, individuals and orgs are doing and sharing learnings between us. I hope that we can develop a set of tactics that we know successfully convert people and get them more involved in EA. A reliable set of best practices for marketing EA would be a great outcome.
+<details>
 
+<summary><strong>Grace Adams, Head of Marketing, Giving What We Can:</strong></summary>
 
+It’s been extremely useful to hear what others in EA, individuals and orgs are doing and sharing learnings between us. I hope that we can develop a set of tactics that we know successfully convert people and get them more involved in EA. A reliable set of best practices for marketing EA would be a great outcome.
 
-#### Greg Gianopoulis, Charity Elections
+</details>
 
-> As a quick testimonial relevant to this stage of the process, David \[Reinstein]'s support has been critical to the Charity Elections team's development of plans for marketing and program evaluation. Our first ad campaign was particularly impactful, generating one click to the [Charity Elections page](https://www.givingwhatwecan.org/events/guides/charity-elections) on the Giving What We Can website per $0.01 spent on the campaign. We will continue to incorporate his advice into our advertising to spread awareness of the Charity Elections program among high school students and teachers.
+<details>
+
+<summary>Greg Gianoupolis, Charity Elections</summary>
+
+"As a quick testimonial relevant to this stage of the process, David \[Reinstein]'s support has been critical to the Charity Elections team's development of plans for marketing and program evaluation. Our first ad campaign was particularly impactful, generating one click to the [Charity Elections page](https://www.givingwhatwecan.org/events/guides/charity-elections) on the Giving What We Can website per $0.01 spent on the campaign. We will continue to incorporate his advice into our advertising to spread awareness of the Charity Elections program among high school students and teachers."
+
+</details>
 
 ## How to get involved?
 

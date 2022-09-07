@@ -1,5 +1,11 @@
 # Introduction
 
+{% hint style="info" %}
+For a data-driven dynamic document covering (some of) our trials & evidence see [HERE.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)
+
+****
+{% endhint %}
+
 ### **Our primary approach and goals**
 
 Our main approach "to identify the most effective, scalable strategies for marketing EA and EA-adjacent ideas and actions" ... is 'running real-world marketing trials and experiments with EA-aligned organizations'. We systematically vary the messaging, framing, and contexts, and map out the space of 'what works better where?'
@@ -37,6 +43,6 @@ This project primarily aims at:
 * **Key values and practices:** Getting people to consider and identify with key values and practices, such as making meaningful altruistic chocies, considering effectiveness and impact in doing so, strong analytical and epistemic practices, and broad (or carefully considered) moral circles.
 * And across a range of EA causes and groups (long-termist, global health and welfare, animals)
 
-In the doc below \[[LINK](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit?usp=sharing)], we consider shared goals, paths, and questions and _**identify specific actionable and promising themes and projects**_ we will implement, measure, and communicate across organizations (and more generally).
+In the doc below ([linked here](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit?usp=sharing)), we consider shared goals, paths, and questions and _**identify specific actionable and promising themes and projects**_ we will implement, measure, and communicate across organizations (and more generally).
 
 {% embed url="https://docs.google.com/document/d/1Jyn_6aFt7z1kDo-6sHm9o_ccPgEvig1b6c8OqPRH2eI/edit?usp=sharing" %}

@@ -8,11 +8,15 @@ description: What you can find in the gitbook
 
 Our [mission](./), [what we are trying to do and why](overview-ea-forum-post.md), [most recent updates](broken-reference/), and the organization of [our team](our-team-and-resources.md)
 
+{% hint style="info" %}
+For a data-driven dynamic document covering (some of) our trials & evidence see [HERE.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)
+{% endhint %}
+
 ## Five Key Sections
 
 ### 1) [Partner Organizations and Trials](contexts-partner-organizations-trials/section-introduction.md) 🤝
 
-In this section of the gitbook, you will find reports of the trials we have run with organizations, including Giving What We Can and One For the World. We also include background on the organization and their priorities for testing.
+In this section of the gitbook, you will find **reports of the trials we have run** with organizations, including Giving What We Can and One For the World. (More detailed statistical analysis is presented in the dynamic document [here](https://daaronr.github.io/eamt\_data\_analysis/)). We include background information on each organization and its priorities for testing.
 
 ### 2) [Marketing & Testing: Opportunities, Tools, Tips](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md) 🪧
 
@@ -28,6 +32,6 @@ Our profiling project aims to help better understand what sorts of people are am
 
 ### **5)** [**(In)effective Altruistic Choices: Review of Theory and Evidence**](background/section-introduction.md)  📋
 
-We've done a thorough review of existing literature to inform the trials we are running and identify important research topics. This includes [What is known/models of effective giving](background/models-theories-psychological-norms.md) and [Principles and theories behind potential trials](background/tools-and-trials-overview/tools-interventions-principles.md).
+We've done a  review of existing literature: to inform the trials we are running, and to identify important research topics. This includes [What is known/models of effective giving](background/models-theories-psychological-norms.md) and [Principles and theories behind potential trials](background/tools-and-trials-overview/tools-interventions-principles.md).
 
-### You can find references and other resources in the [appendix](appendix/how-this-gitbook-works/).
+### You can find references, tech support, and other resources in the [appendix](appendix/how-this-gitbook-works/).
