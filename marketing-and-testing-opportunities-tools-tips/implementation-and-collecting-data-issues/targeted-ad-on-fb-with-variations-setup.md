@@ -2,7 +2,13 @@
 
 _Below, we give one example from a relevant context, illustrating (with screenshots) what choices you might make, what it would look like, and how to implement it._
 
-_**See also:**_ [facebook-split-testing-etc.md](../../methodological-discussion/splits-randomization/facebook-split-testing-etc.md "mention") and [#videos-facebook](best-practice-guidelines.md#videos-facebook "mention")\_\_
+_**See also:**_ [facebook-split-testing-etc.md](../../methodological-discussion/splits-randomization/facebook-split-testing-etc.md "mention") and [#videos-facebook](best-practice-guidelines.md#videos-facebook "mention")
+
+
+
+{% hint style="info" %}
+**Updates/general advice:** (7 Sep 2022) **** To do any sort of good tracking and optimization through Facebook, you should set up the Meta Pixel and Conversion API as soon as possible.
+{% endhint %}
 
 ### Getting started
 
