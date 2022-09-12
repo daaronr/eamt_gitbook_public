@@ -15,11 +15,11 @@ Click "Create Report" --> Pivot table\
 
 **2. As before, make sure you've selected the right date range, and (redo) any relevant filters**
 
-****![](<../../../.gitbook/assets/image (1) (1).png>)****
+****![](<../../../.gitbook/assets/image (1) (1) (2).png>)****
 
 
 
-****![](<../../../.gitbook/assets/image (10).png>)****
+****![](<../../../.gitbook/assets/image (10) (1).png>)****
 
 ****
 
@@ -77,7 +77,7 @@ This could also be helpful if you are using the Ads Manager tools _in situ_, but
 
 **6.   Save report for later use, share**
 
-****![](<../../../.gitbook/assets/image (12) (1).png>)****\
+****![](<../../../.gitbook/assets/image (12).png>)****\
 ****
 
 If you think the report is useful in-situ, you can also share a link
@@ -88,7 +88,7 @@ If you think the report is useful in-situ, you can also share a link
 
 **7. Export the data**
 
-****![](<../../../.gitbook/assets/image (9).png>)****
+****![](<../../../.gitbook/assets/image (9) (2).png>)****
 
 As in [#extracting-simple-results](./#extracting-simple-results "mention")...
 
