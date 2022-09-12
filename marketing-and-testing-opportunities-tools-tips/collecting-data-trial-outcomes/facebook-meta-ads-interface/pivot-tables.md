@@ -15,7 +15,7 @@ Click "Create Report" --> Pivot table\
 
 **2. As before, make sure you've selected the right date range, and (redo) any relevant filters**
 
-****![](<../../../.gitbook/assets/image (1).png>)****
+****![](<../../../.gitbook/assets/image (1) (1).png>)****
 
 
 
@@ -45,7 +45,7 @@ Here I add a filter for 'campaign name **'** contains 'general'. Because I'm spe
 \
 For example, if I tick 'Gender' I cannot have it broken down by 'Image, video, and slideshow', at least in the present case ... (perhaps because it narrows down too few observations?) &#x20;
 
-![](<../../../.gitbook/assets/image (5).png>) \
+![](<../../../.gitbook/assets/image (5) (3).png>) \
 \
 
 {% endhint %}
@@ -60,7 +60,7 @@ Other stuff like 'video play time' could sometimes be very relevant, but I'll le
 
 I added a few features I thought might be interesting or useful. Was anyone drawn in to pledge? When did each campaign start/end (doublecheck)? How many _unique_ link clicks?\
 \
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (1).png>)
 
 
 
@@ -82,13 +82,13 @@ This could also be helpful if you are using the Ads Manager tools _in situ_, but
 
 If you think the report is useful in-situ, you can also share a link
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (13) (1).png>)
 
 
 
 **7. Export the data**
 
-****![](../../../.gitbook/assets/image.png)****
+****![](<../../../.gitbook/assets/image (26).png>)****
 
 As in [#extracting-simple-results](./#extracting-simple-results "mention")...
 

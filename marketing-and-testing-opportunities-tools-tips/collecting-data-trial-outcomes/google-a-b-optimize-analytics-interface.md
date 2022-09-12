@@ -32,7 +32,7 @@ Reporting and considering this in the context of the GWWC [pledge-page-options-t
 
 Clicking on a particular 'experience' in the 'container'...
 
-![](<../../.gitbook/assets/image (16) (2).png>)
+![](<../../.gitbook/assets/image (16) (2) (1).png>)
 
 (if you have been granted _read and analyze permission),_ will open the useful 'Optimize Report' (which Google explains [here](https://support.google.com/optimize/answer/6218117#pvr-too-high))
 
@@ -49,7 +49,7 @@ The overall start/end and 'sessions' are given first. What are "sessions"? _The 
 
 **The next section compares 'sessions' and 'conversions' by treatment, and does a Bayesian analysis. This seems the most useful part:**
 
-![Pledge experiment ... comparing conversion rates](<../../.gitbook/assets/image (26).png>)
+![Pledge experiment ... comparing conversion rates](<../../.gitbook/assets/image (26) (1).png>)
 
 #### Relative conversion rates, analysis
 

@@ -7,22 +7,30 @@ _**See also:**_ [facebook-split-testing-etc.md](../../methodological-discussion/
 
 
 {% hint style="info" %}
-**Updates/general advice:** (7 Sep 2022) **** To do any sort of good tracking and optimization through Facebook, you should set up the Meta Pixel and Conversion API as soon as possible.
+**Updates/general advice:** (Sep 2022) **** To do 'any good tracking and optimization through 'Facebook, you should set up the Meta Pixel and Conversion API as soon as possible.
 {% endhint %}
 
 ### Getting started
 
-"Meta Business Suite"([https://business.facebook.com/latest/settings/](https://business.facebook.com/latest/settings/)) is the starting point of your ad campaign. If you have a Facebook Business account, you should have a "Meta Business Suite":
+"Meta Business Suite"([https://business.facebook.com/](https://business.facebook.com/latest/settings/)) is the starting point of your ad campaign. If you have a Facebook Business account, you should have a "Meta Business Suite":
 
-![](<../../.gitbook/assets/image (12) (2).png>)
+Next, click on "Ads manager" (See the megaphone on the left).&#x20;
 
-Next, click on "Ads" (See the megaphone on the left). At this point, you have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access to an existing page or Instagram account:
+<details>
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+<summary>Link a page?</summary>
 
-The next step is to select "Create Ad", and to choose a goal.
+You have to link a "Facebook Page" or "Instagram Account" to your ad campaign to have a visible front ground of your business that users could connect with the ad. You can create a new page or manage access to an existing page or Instagram account:
 
-![](<../../.gitbook/assets/image (9) (1) (2).png>)
+</details>
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+The next step is to select "Create a campaign" and choose an "objective"... the interface gives you some idea of what these aim for:\
+\
+![](<../../.gitbook/assets/image (13).png>)![](<../../.gitbook/assets/image (16).png>)![](<../../.gitbook/assets/image (29).png>)![](<../../.gitbook/assets/image (11).png>)
+
+![](<../../.gitbook/assets/image (4).png>)
 
 ### **Budget optimization**
 
@@ -57,7 +65,7 @@ Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day
 
 These numbers seems over-optimistic in general, we've seen figures of $1-2 per click elsewhere. Some potentially reliable figures below (sources "[Wordstream](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)" and re-reporting of Wordstream [here](https://fitsmallbusiness.com/how-much-does-facebook-advertising-cost/))
 
-![](<../../.gitbook/assets/image (4) (1).png>)![](<../../.gitbook/assets/image (21) (2).png>)\
+![](<../../.gitbook/assets/image (4) (1) (2).png>)![](<../../.gitbook/assets/image (21) (2).png>)\
 \
 From a recent relevant experience in our group's context...
 
@@ -75,7 +83,7 @@ If you don't have an existing contact list or comparison group, you may prefer t
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (29) (1).png>)
 
 ![](<../../.gitbook/assets/image (3) (1).png>)
 
@@ -89,7 +97,7 @@ You can specify
 
 {% hint style="info" %}
 Don't forget to use the search tool within 'browse' to find ways to do careful targeting\
-![](<../../.gitbook/assets/image (27) (1) (1).png>)![](<../../.gitbook/assets/image (13) (1).png>)
+![](<../../.gitbook/assets/image (27) (1) (1).png>)![](<../../.gitbook/assets/image (13) (1) (1).png>)
 {% endhint %}
 
 \
@@ -100,7 +108,7 @@ During this process, you can see a concise statement of your choices, and the es
 
 We have some evidence that narrower targeting helps. An obvious candidate is
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (2).png>)
 
 ### **Traffic choice**
 
