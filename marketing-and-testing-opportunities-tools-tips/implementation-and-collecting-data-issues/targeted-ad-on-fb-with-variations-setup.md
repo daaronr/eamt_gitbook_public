@@ -29,11 +29,11 @@ You have to link a "Facebook Page" or "Instagram Account" to your ad campaign to
 
 </details>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 
 The next step is to select "Create a campaign" and choose an "objective"... the interface gives you some idea of what these aim for:\
 \
-![](<../../.gitbook/assets/image (3).png>)![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (20).png>)![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (7).png>)![](<../../.gitbook/assets/image (20).png>)![](<../../.gitbook/assets/image (18).png>)
 
 ![](<../../.gitbook/assets/image (11).png>)
 
@@ -54,41 +54,102 @@ Suppose we wish to create a targeted ad for a particular Facebook audience. For 
 * in the 'feed' of US Americans who are interested in charity or volunteering or philosophy
 * giving them a link to a page encouraging them to learn about EA
 
+
+
+<details>
+
+<summary>Targeting example</summary>
+
 Here, I chose "Get more website Visitors". ... Then "Edit Audience". Below, I chose people in the US over age 18 who are interested in any of a set of things related to charity, volunteering, or philosophy. This is a very broad audience, with about 80 million potential people
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+<img src="../../.gitbook/assets/image (12) (1) (1).png" alt="" data-size="original">
+
+\
+\
+
 
 Facebook estimates that spending $5 per day over 5 days will lead 358-1000 people seeing the ad and 72-208 clicks. That implies a cost of between 12 cents and 34 cents per click
 
-![](<../../.gitbook/assets/image (13) (2).png>)
+<img src="../../.gitbook/assets/image (13) (2).png" alt="" data-size="original">
+
+
+
+Facebook estimates that spending $5 per day over 5 days will lead 358-1000 people seeing the ad and 72-208 clicks. That implies a cost of between 12 cents and 34 cents per click
+
+
+
+</details>
 
 We can use the "schedule and duration" function not only to automate the timing of our campaign, but also to estimate its cost. For example, we assume that we need 800 participants to click-through to start the 20 fundraisers (i.e., a rate of 2.5%).
 
 Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day for (a different\_ case.
 
-![](<../../.gitbook/assets/image (5) (1) (1) (2).png>)
+![
 
-These numbers seems over-optimistic in general, we've seen figures of $1-2 per click elsewhere. Some potentially reliable figures below (sources "[Wordstream](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)" and re-reporting of Wordstream [here](https://fitsmallbusiness.com/how-much-does-facebook-advertising-cost/))
+](<../../.gitbook/assets/image (5) (1) (1) (2).png>)
+
+<details>
+
+<summary>Benchmarking these numbers</summary>
+
+These numbers seem over-optimistic in general, we've seen figures of $1-2 per click elsewhere. Some potentially reliable figures below (sources "[Wordstream](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)" and re-reporting of Wordstream [here](https://fitsmallbusiness.com/how-much-does-facebook-advertising-cost/))
 
 ![](<../../.gitbook/assets/image (4) (1) (1).png>)![](<../../.gitbook/assets/image (21) (2).png>)\
 \
 From a recent relevant experience in our group's context...
 
-> The last campaign based on clicks I ran got 461 clicks for $244 USD over 2 weeks with 113k impressions. \[i.e., $0.50 per click]
+The last campaign based on clicks I ran got 461 clicks for $244 USD over 2 weeks with 113k impressions. \[i.e., $0.50 per click]
 
 Note that (maybe obviously) 'clicking on a Facebook ad' is a rare thing for people to do. In the quote above, thats about 4 clicks per 1000 impressions.
 
-#### Narrower targeting
+</details>
+
+<details>
+
+<summary>Narrower targeting in the 'ads manager'</summary>
+
+
 
 It seems you can target more carefully in the "Ads Manager".
 
-![](<../../.gitbook/assets/image (11) (1) (2).png>)
+<img src="../../.gitbook/assets/image (11) (1) (2).png" alt="" data-size="original">
+
+
+
+
 
 If you don't have an existing contact list or comparison group, you may prefer to simply specify characteristics. That is "Create a Saved Audience".\
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
-![](<../../.gitbook/assets/image (29).png>)
+<img src="../../.gitbook/assets/image (29).png" alt="" data-size="original">
+
+\
+\
+**More detailed targeting**
+
+​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fa3YtWoUiYYfiEQrBNztC%2Fuploads%2Fgit-blob-bbb25146f43740394059424b56e73ecd4621d6e3%2Fimage.png?alt=media)Write a caption​You can specify
+
+1. Demographics
+2. Interests
+3. Behaviors
+
+"Include" seems to be the default when specifying these ... it 'expands the audience'. You can click 'narrow further' to constrain the audience.Don't forget to use the search tool within 'browse' to find ways to do careful targeting ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fa3YtWoUiYYfiEQrBNztC%2Fuploads%2Fgit-blob-52d839ba05c4c66a0ec495a86f19c3ba4086b3c2%2Fimage.png?alt=media)​​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fa3YtWoUiYYfiEQrBNztC%2Fuploads%2Fgit-blob-75d945610b99d8bf9da347036ac9bd96a9d468cd%2Fimage.png?alt=media)​Exit with⌘↩\
+
+
+</details>
+
+<details>
+
+<summary>Create a saved audience</summary>
+
+
+
+<img src="../../.gitbook/assets/image (29).png" alt="" data-size="original">
+
+</details>
+
+
 
 ![](<../../.gitbook/assets/image (3) (1) (1).png>)
 
@@ -125,7 +186,7 @@ Since we want people to click our web app, we chose "website".
 
 ### **Version testing**
 
-We may have several versions of the ad we want to try out, and we want Facebook to iterate towards the one that is more successful using their algorithm. Ideally, we would like to learn \*\*\*\* as much as we can about 'which ads perform better on which audiences'**.**
+We may have several versions of the ad we want to try out, and we want Facebook to iterate towards the one that is more successful using their algorithm. Ideally, we would like to learn as much as we can about 'which ads perform better on which audiences'**.**
 
 We can set up Facebook's ("meta") algorithm to dynamically optimize over which will get the most clicks.
 
@@ -164,8 +225,6 @@ Currently EUR 315 is the max for new users ... but for our present pilot we may 
 
 Finally, you enter the third and last page of the ad creation process. Here you have to verify your ID and Facebook page and choose the actual design of your ad versions. \["of which the most important one is whether you want to have a video or single image." (?) ]
 
-> DR: [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention")Can you show how this design process would work?
-
 \
 The last step before publication is to specify the destination for your campaign.
 
@@ -187,12 +246,60 @@ The pixel includes content from Facebook that needs to be integrated into your w
 
 ### Adding pixel 'events' to your web page
 
-**One simple way of doing this...**
+**One simple way of doing this: "Events setup tool"**
 
-Once you are in the ads manager for an ad, go to the 'Events Manager'\
-![](<../../.gitbook/assets/image (4).png>)![](<../../.gitbook/assets/image (7).png>)
+Once you are in the ads manager for an ad, go to the 'Events Manager':
 
-![](<../../.gitbook/assets/image (1).png>)
+\
+![](<../../.gitbook/assets/image (4).png>)
+
+
+
+"Add events", choose "from the pixel"
+
+
+
+![](<../../.gitbook/assets/image (7) (2).png>)
+
+
+
+"Events setup tool"
+
+![](<../../.gitbook/assets/image (1) (2).png>)
+
+
+
+Put the URL for your site in and 'Open website'
+
+![](<../../.gitbook/assets/image (12).png>)
+
+\
+As seen below, this opens our page, and show what things have already been associated with a Pixel. Here the "create fundraiser" button on this page has been associated with a button on this page with the  "Initiate Checkout". (We use default names Facebook is familiar with, even though there is no 'checkout' in this case).&#x20;
+
+![](<../../.gitbook/assets/image (6).png>)
+
+("Facebook Pixel Helper" extension in Chromium might be helping here, but I'm not sure how).
+
+
+
+
+
+"Track new button" lets you see what click options you could associate with a pixel.This highlights clickable things you can do this with. ('Create fundraiser' is not highlighted, probably because it's already been assigned).\
+![](<../../.gitbook/assets/image (1).png>)&#x20;
+
+
+
+For example, I could click 'who are we' on a page and associate it with 'view content'
+
+![](<../../.gitbook/assets/image (2).png>)
+
+I could 'add a value' to this, if it makes sense.&#x20;
+
+{% hint style="info" %}
+_Can I use this later to have FB optimize for 'net value'_ of a user generated on the page? This might be a useful way to assign greater importance to certain things, even if they aren't actually monetized.
+{% endhint %}
+
+After this 'finish setup' ... it gives you the chance to see what you have asked it to do and confirm or cancel it.&#x20;
 
 
 
