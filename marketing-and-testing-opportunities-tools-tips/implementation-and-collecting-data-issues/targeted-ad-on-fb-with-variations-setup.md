@@ -8,7 +8,12 @@ _**See also:**_ [facebook-split-testing-etc.md](../../methodological-discussion/
 
 {% hint style="info" %}
 **Updates/general advice:** (Sep 2022) **** To do 'any good tracking and optimization through 'Facebook, you should set up the Meta Pixel and Conversion API as soon as possible.
+
+\
+You may want to jump to the [#optimizing-and-pixels](targeted-ad-on-fb-with-variations-setup.md#optimizing-and-pixels "mention") (WIP) section.
 {% endhint %}
+
+
 
 ### Getting started
 
@@ -28,9 +33,9 @@ You have to link a "Facebook Page" or "Instagram Account" to your ad campaign to
 
 The next step is to select "Create a campaign" and choose an "objective"... the interface gives you some idea of what these aim for:\
 \
-![](<../../.gitbook/assets/image (13).png>)![](<../../.gitbook/assets/image (16).png>)![](<../../.gitbook/assets/image (29).png>)![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (12).png>)![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (20).png>)
 
-![](<../../.gitbook/assets/image (4).png>)
+![](../../.gitbook/assets/image.png)
 
 ### **Budget optimization**
 
@@ -51,7 +56,7 @@ Suppose we wish to create a targeted ad for a particular Facebook audience. For 
 
 Here, I chose "Get more website Visitors". ... Then "Edit Audience". Below, I chose people in the US over age 18 who are interested in any of a set of things related to charity, volunteering, or philosophy. This is a very broad audience, with about 80 million potential people
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 Facebook estimates that spending $5 per day over 5 days will lead 358-1000 people seeing the ad and 72-208 clicks. That implies a cost of between 12 cents and 34 cents per click
 
@@ -83,9 +88,9 @@ If you don't have an existing contact list or comparison group, you may prefer t
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
-![](<../../.gitbook/assets/image (29) (1).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (2).png>)
 
 You can specify
 
@@ -97,7 +102,7 @@ You can specify
 
 {% hint style="info" %}
 Don't forget to use the search tool within 'browse' to find ways to do careful targeting\
-![](<../../.gitbook/assets/image (27) (1) (1).png>)![](<../../.gitbook/assets/image (13) (1) (1).png>)
+![](<../../.gitbook/assets/image (27) (1) (1).png>)![](<../../.gitbook/assets/image (13) (1).png>)
 {% endhint %}
 
 \
@@ -171,3 +176,22 @@ We chose a website and simply copy the URL into the mask to make sure the ad is 
 ### Payment (and monitoring)
 
 > [Janek Kretschmer](https://app.gitbook.com/u/6WafaQakuhP8Gb7iyAbABpmQQvZ2 "mention")how does the payment work? Are there any other checks we need to go through?
+
+
+
+## Optimizing and pixels
+
+### Setting up the pixel&#x20;
+
+The pixel includes content from Facebook that needs to be integrated into your website/page of interest. (To do: link instructions for this).&#x20;
+
+### Adding pixel 'events' to your web page
+
+(One simple way)&#x20;
+
+Once you are in the ads manager for an ad, go to the 'Events Manager'\
+![](<../../.gitbook/assets/image (4).png>)
+
+### Using the pixel events for Facebook ad optimization  &#x20;
+
+Once uyo

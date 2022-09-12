@@ -19,7 +19,7 @@ Click "Create Report" --> Pivot table\
 
 
 
-****![](<../../../.gitbook/assets/image (10).png>)****
+****![](<../../../.gitbook/assets/image (10) (1).png>)****
 
 ****
 
@@ -38,7 +38,7 @@ Here I add a filter for 'campaign name **'** contains 'general'. Because I'm spe
 * Drill down to "Custom breakdowns", "Dynamic Creative Asset", to get it broken down by the text linked to the ads:\
 
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)
 
 {% hint style="warning" %}
 **However**, some breakdowns are not compatible with other breakdowns (maybe for privacy reasons?)\
@@ -77,18 +77,18 @@ This could also be helpful if you are using the Ads Manager tools _in situ_, but
 
 **6.   Save report for later use, share**
 
-****![](<../../../.gitbook/assets/image (12).png>)****\
+****![](<../../../.gitbook/assets/image (12) (1).png>)****\
 ****
 
 If you think the report is useful in-situ, you can also share a link
 
-![](<../../../.gitbook/assets/image (13) (1).png>)
+![](<../../../.gitbook/assets/image (13).png>)
 
 
 
 **7. Export the data**
 
-****![](<../../../.gitbook/assets/image (26).png>)****
+****![](<../../../.gitbook/assets/image (15).png>)****
 
 As in [#extracting-simple-results](./#extracting-simple-results "mention")...
 
