@@ -7,7 +7,7 @@ You may want to see or export crosstabs of one outcome, user feature, or design 
 1. **Start new pivot table**&#x20;
 
 ~~From within Ads Manager~~  ****  From 'ads reporting' (3 Aug 2022 updated interface)\
-****![](<../../../.gitbook/assets/image (7).png>) **** \
+****![](<../../../.gitbook/assets/image (7) (1).png>) **** \
 
 
 Click "Create Report" --> Pivot table\
@@ -19,7 +19,7 @@ Click "Create Report" --> Pivot table\
 
 
 
-****![](<../../../.gitbook/assets/image (10) (1).png>)****
+****![](<../../../.gitbook/assets/image (10).png>)****
 
 ****
 
@@ -77,7 +77,7 @@ This could also be helpful if you are using the Ads Manager tools _in situ_, but
 
 **6.   Save report for later use, share**
 
-****![](<../../../.gitbook/assets/image (12) (1).png>)****\
+****![](<../../../.gitbook/assets/image (12).png>)****\
 ****
 
 If you think the report is useful in-situ, you can also share a link
@@ -88,7 +88,7 @@ If you think the report is useful in-situ, you can also share a link
 
 **7. Export the data**
 
-****![](<../../../.gitbook/assets/image (15).png>)****
+****![](<../../../.gitbook/assets/image (9).png>)****
 
 As in [#extracting-simple-results](./#extracting-simple-results "mention")...
 

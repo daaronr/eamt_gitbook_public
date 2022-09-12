@@ -18,7 +18,7 @@ Reporting and considering this in the context of the GWWC [pledge-page-options-t
 
 #### Page and audience targeting
 
-![GWWC pledge "Details" as archived](<../../.gitbook/assets/image (15) (1) (1).png>)
+![GWWC pledge "Details" as archived](<../../.gitbook/assets/image (15) (1).png>)
 
 #### Objectives: The things you are trying to measure and improve
 
@@ -26,7 +26,7 @@ Reporting and considering this in the context of the GWWC [pledge-page-options-t
 
 ## "Activity": Trials created/started/changed/ended/archive
 
-![](<../../.gitbook/assets/image (18) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1).png>)
 
 ## Viewing results and Google's analysis
 

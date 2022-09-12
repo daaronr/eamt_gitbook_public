@@ -4,7 +4,7 @@ Facebook's Ad Manager and Google Analytics often report results that seem to hav
 
 ## What is going on 'in our latest trial'?
 
-## ![](<../../.gitbook/assets/image (9).png>)
+## ![](<../../.gitbook/assets/image (9) (2).png>)
 
 ## ![](<../../.gitbook/assets/image (8).png>) 
 

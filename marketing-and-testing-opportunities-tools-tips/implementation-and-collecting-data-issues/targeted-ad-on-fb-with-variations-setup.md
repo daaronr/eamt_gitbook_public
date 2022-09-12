@@ -29,13 +29,13 @@ You have to link a "Facebook Page" or "Instagram Account" to your ad campaign to
 
 </details>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 The next step is to select "Create a campaign" and choose an "objective"... the interface gives you some idea of what these aim for:\
 \
-![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (12).png>)![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (3).png>)![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (20).png>)![](<../../.gitbook/assets/image (18).png>)
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (11).png>)
 
 ### **Budget optimization**
 
@@ -56,7 +56,7 @@ Suppose we wish to create a targeted ad for a particular Facebook audience. For 
 
 Here, I chose "Get more website Visitors". ... Then "Edit Audience". Below, I chose people in the US over age 18 who are interested in any of a set of things related to charity, volunteering, or philosophy. This is a very broad audience, with about 80 million potential people
 
-![](<../../.gitbook/assets/image (12) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 Facebook estimates that spending $5 per day over 5 days will lead 358-1000 people seeing the ad and 72-208 clicks. That implies a cost of between 12 cents and 34 cents per click
 
@@ -70,7 +70,7 @@ Below, we see that FB estimates 172-497 link clicks per day for 10 Euros per day
 
 These numbers seems over-optimistic in general, we've seen figures of $1-2 per click elsewhere. Some potentially reliable figures below (sources "[Wordstream](https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks)" and re-reporting of Wordstream [here](https://fitsmallbusiness.com/how-much-does-facebook-advertising-cost/))
 
-![](<../../.gitbook/assets/image (4) (1) (2).png>)![](<../../.gitbook/assets/image (21) (2).png>)\
+![](<../../.gitbook/assets/image (4) (1) (1).png>)![](<../../.gitbook/assets/image (21) (2).png>)\
 \
 From a recent relevant experience in our group's context...
 
@@ -90,7 +90,7 @@ For example, you can specify age groups and then 'detailed targeting' categories
 
 ![](<../../.gitbook/assets/image (29).png>)
 
-![](<../../.gitbook/assets/image (3) (1) (2).png>)
+![](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 You can specify
 
@@ -135,7 +135,7 @@ We can set up Facebook's ("meta") algorithm to dynamically optimize over which w
 
 "Dynamic creative" can be either switched on or off. (Given that we want to optimize over several versions, I see no downside to this feature. Thus, we switch it on.)
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (2).png>)
 
 > Where do we actually specify, enter, and style our ad content?
 
@@ -187,11 +187,17 @@ The pixel includes content from Facebook that needs to be integrated into your w
 
 ### Adding pixel 'events' to your web page
 
-(One simple way)&#x20;
+**One simple way of doing this...**
 
 Once you are in the ads manager for an ad, go to the 'Events Manager'\
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4).png>)![](<../../.gitbook/assets/image (7).png>)
+
+![](<../../.gitbook/assets/image (1).png>)
+
+
+
+
 
 ### Using the pixel events for Facebook ad optimization  &#x20;
 
-Once uyo
+Once you
