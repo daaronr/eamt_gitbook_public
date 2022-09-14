@@ -7,7 +7,7 @@ You may want to see or export crosstabs of one outcome, user feature, or design 
 1. **Start new pivot table**&#x20;
 
 ~~From within Ads Manager~~  ****  From 'ads reporting' (3 Aug 2022 updated interface)\
-****![](<../../../.gitbook/assets/image (7).png>) **** \
+****![](<../../../.gitbook/assets/image (7) (1).png>) **** \
 
 
 Click "Create Report" --> Pivot table\
@@ -15,11 +15,11 @@ Click "Create Report" --> Pivot table\
 
 **2. As before, make sure you've selected the right date range, and (redo) any relevant filters**
 
-****![](<../../../.gitbook/assets/image (1).png>)****
+****![](<../../../.gitbook/assets/image (1) (2).png>)****
 
 
 
-****![](<../../../.gitbook/assets/image (10).png>)****
+****![](<../../../.gitbook/assets/image (10) (3).png>)****
 
 ****
 
@@ -38,14 +38,14 @@ Here I add a filter for 'campaign name **'** contains 'general'. Because I'm spe
 * Drill down to "Custom breakdowns", "Dynamic Creative Asset", to get it broken down by the text linked to the ads:\
 
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (3).png>)
 
 {% hint style="warning" %}
 **However**, some breakdowns are not compatible with other breakdowns (maybe for privacy reasons?)\
 \
 For example, if I tick 'Gender' I cannot have it broken down by 'Image, video, and slideshow', at least in the present case ... (perhaps because it narrows down too few observations?) &#x20;
 
-![](<../../../.gitbook/assets/image (5).png>) \
+![](<../../../.gitbook/assets/image (5) (3).png>) \
 \
 
 {% endhint %}
@@ -60,7 +60,7 @@ Other stuff like 'video play time' could sometimes be very relevant, but I'll le
 
 I added a few features I thought might be interesting or useful. Was anyone drawn in to pledge? When did each campaign start/end (doublecheck)? How many _unique_ link clicks?\
 \
-![](<../../../.gitbook/assets/image (4) (4).png>)
+![](<../../../.gitbook/assets/image (4) (2).png>)
 
 
 
@@ -82,7 +82,7 @@ This could also be helpful if you are using the Ads Manager tools _in situ_, but
 
 If you think the report is useful in-situ, you can also share a link
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (13) (3).png>)
 
 
 

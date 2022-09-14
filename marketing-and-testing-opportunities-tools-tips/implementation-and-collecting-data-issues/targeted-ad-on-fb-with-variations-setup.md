@@ -29,13 +29,13 @@ You have to link a "Facebook Page" or "Instagram Account" to your ad campaign to
 
 </details>
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 The next step is to select "Create a campaign" and choose an "objective"... the interface gives you some idea of what these aim for:\
 \
-![](<../../.gitbook/assets/image (3) (2) (1).png>)![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (20) (2).png>)![](<../../.gitbook/assets/image (18) (3).png>)
+![](<../../.gitbook/assets/image (3) (2).png>)![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (20) (2).png>)![](<../../.gitbook/assets/image (18) (3).png>)
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 ### **Budget optimization**
 
@@ -174,7 +174,7 @@ During this process, you can see a concise statement of your choices, and the es
 
 We have some evidence that narrower targeting helps. An obvious candidate is
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ### **Traffic choice**
 
@@ -202,7 +202,7 @@ We can set up Facebook's ("meta") algorithm to dynamically optimize 'over which 
 
 "Dynamic creative" can be either switched on or off. (Given that we want to optimize over several versions, I see no downside to this feature. Thus, we switch it on.)
 
-<img src="../../.gitbook/assets/image (6) (1) (3).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (6) (1) (2).png" alt="" data-size="original">
 
 </details>
 
@@ -225,7 +225,7 @@ To do that we need to set up a "meta pixel". See [#optimizing-and-pixels](target
 
 DR: In my past experience, you ended up paying Facebook based on the number of "clicks" you got not simply on how long your ad was up. But it's probably a combination of these, and there are probably different pricing plans. You can tell Facebook to put a limit on either of these do not go "over budget". Facebook will aim to spend your entire budget and get the most link clicks using the lowest cost bid strategy.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 Currently EUR 315 is the max for new users ... but for our present pilot we may want less than this (check: how much do we expect to pay for 800 clicks, let's split this up into ... first 100 clicks, next 300 clicks,.. to see if its going OK )
 
@@ -255,7 +255,7 @@ The pixel includes content from Facebook that needs to be integrated into your w
 Once you are in the ads manager for an ad, go to the 'Events Manager':
 
 \
-![](<../../.gitbook/assets/image (4) (2).png>)
+![](<../../.gitbook/assets/image (4) (2) (1).png>)
 
 
 
@@ -269,25 +269,25 @@ Once you are in the ads manager for an ad, go to the 'Events Manager':
 
 "Events setup tool"
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 
 
 Put the URL for your site in and 'Open website'
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (2).png>)
 
 \
 As seen below, this opens our page, and show what things have already been associated with a Pixel. Here the "create fundraiser" button on this page has been associated with a button on this page with the  "Initiate Checkout". (We use default names Facebook is familiar with, even though there is no 'checkout' in this case).&#x20;
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (2).png>)
 
 ("Facebook Pixel Helper" extension in Chromium might be helping here, but I'm not sure how).
 
 
 
 "Track new button" lets you see what click options you could associate with a pixel.This highlights clickable things you can do this with. ('Create fundraiser' is not highlighted, probably because it's already been assigned).\
-![](<../../.gitbook/assets/image (10) (3).png>)&#x20;
+![](<../../.gitbook/assets/image (10).png>)&#x20;
 
 
 
@@ -312,13 +312,13 @@ Once you have nice pixels set up, you can use this in helping Facebook decide wh
 
 
 Define your goal as 'conversion', and define what 'conversion' corresponds to in terms of pixels:\
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (3).png>)
 
 
 
 Here we're choosing 'initiate checkout', which we defined as clicking on a  'create fundraiser' button on the first page of our site (early in the funnel)
 
-![](<../../.gitbook/assets/image (5) (3).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 \
 The warning below might not matter as we&#x20;
@@ -330,19 +330,19 @@ you first need to have the pixel set up and the ad running, optimizing for views
 
 {% endhint %}
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 
 
 Facebook tracks people for a while. So in optimizing, you can change 'what time period of  outcomes it attributes to which (version of the ad)':\
-![](<../../.gitbook/assets/image (4) (3).png>) \
+![](<../../.gitbook/assets/image (4).png>) \
 
 
 
 
 I assume that the same 'conversions' target defined above is used in optimizing the 'dynamic creative' if you turn that on.&#x20;
 
-![](<../../.gitbook/assets/image (2) (3).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 
 

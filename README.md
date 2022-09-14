@@ -50,7 +50,7 @@ For an overview of our progress and ongoing work, see the ['progress and results
 
 _Note that we cannot publicly share details of ongoing and upcoming trials._ _We aim to share the results when it is possible._&#x20;
 
-(To do: integrate shareable aspects of [this private doc.](https://docs.google.com/document/d/1w9kUiJguWZx4EIvGBd7l0qMTJHWdlHV5z-pvKcdNPOA/edit))
+(We aim to integrate shareable aspects of [this private doc.](https://docs.google.com/document/d/1w9kUiJguWZx4EIvGBd7l0qMTJHWdlHV5z-pvKcdNPOA/edit))
 
 {% hint style="info" %}
 For a data-driven dynamic document covering (some of) our trials and evidence see [HERE.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)
@@ -86,6 +86,6 @@ It’s been extremely useful to hear what others in EA, individuals and orgs are
 
 ## How to get involved?
 
-If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr@gmail.com.
+If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr AT gmail.com.&#x20;
 
 ### Next, check out the [Gitbook content overview](gitbook-content-overview.md).
