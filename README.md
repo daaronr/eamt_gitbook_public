@@ -34,21 +34,23 @@ We strive to be transparent. We want to report and share our data, procedures, c
   * ... to gather evidence on _what works best_ to promote meaningful actions in _specific_ cases...
   * ... while aiming at _generalizable_ principles and approaches (see  '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um))
 * Do [profiling](broken-reference/),[ survey, and segmentation](broken-reference/) activities and trials, building evidence on 'which types of people' are most responsive to effective giving messages and appeals
-* Share our results, data, and tools, (and [testing templates](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md), guides and [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)) with the relevant EA and research-interested communitoes. This will enable more and better outreach, promotion, testing, and insight.
+* Share our results, data, and tools, (and [testing templates](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md), guides and [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)) with the relevant EA and research-interested communities. This will enable more and better outreach, promotion, testing, and insight.
 
-## Goals and FAQ ([LINK](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit))
+## Goals and FAQ
 
-[Goals/FAQ linked](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#heading=h.gjcw9rquq2um) _(below in detail, scroll outside margin to skip past it)_
+[Goals/FAQ link](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit#heading=h.gjcw9rquq2um) _(below in detail, scroll outside margin to skip past it)_
 
 {% embed url="https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf_e7vsjnDWzWdU_Zv3eUCtEL4/edit#" %}
 
 ## What have we accomplished?
 
-For an overview of our progress and ongoing work, see the ['progress and results' doc](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit) we are building. _(Below in detail, scroll outside margin to skip past it)_
+For an overview of our progress and ongoing work, see the ['progress and results' document](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit) we are building. _(Below in detail, scroll outside margin to skip past it)_
 
 {% embed url="https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit" %}
 
-Note that we cannot publicly share details of _ongoing, upcoming, and continuing_ trials, but we aim to share the results when it is possible. (To do: integrate shareable aspects of [this private doc.](https://docs.google.com/document/d/1w9kUiJguWZx4EIvGBd7l0qMTJHWdlHV5z-pvKcdNPOA/edit))
+_Note that we cannot publicly share details of ongoing and upcoming trials._ _We aim to share the results when it is possible._&#x20;
+
+(To do: integrate shareable aspects of [this private doc.](https://docs.google.com/document/d/1w9kUiJguWZx4EIvGBd7l0qMTJHWdlHV5z-pvKcdNPOA/edit))
 
 {% hint style="info" %}
 For a data-driven dynamic document covering (some of) our trials and evidence see [HERE.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)
@@ -84,6 +86,6 @@ It’s been extremely useful to hear what others in EA, individuals and orgs are
 
 ## How to get involved?
 
-If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr at gmail.com.
+If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr@gmail.com.
 
 ### Next, check out the [Gitbook content overview](gitbook-content-overview.md).

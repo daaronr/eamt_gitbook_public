@@ -4,9 +4,9 @@ Facebook's Ad Manager and Google Analytics often report results that seem to hav
 
 ## What is going on 'in our latest trial'?
 
-## ![](<../../.gitbook/assets/image (9) (2) (1).png>)
+## ![](<../../.gitbook/assets/image (9).png>)
 
-## ![](<../../.gitbook/assets/image (8) (3).png>) 
+## ![](<../../.gitbook/assets/image (8) (2).png>) 
 
 * Facebook: We have 50k+ unique impressions, and 1335 clicks
 * Google Analytics records only 455 page views, 403 users

@@ -29,11 +29,11 @@ You have to link a "Facebook Page" or "Instagram Account" to your ad campaign to
 
 </details>
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The next step is to select "Create a campaign" and choose an "objective"... the interface gives you some idea of what these aim for:\
 \
-![](<../../.gitbook/assets/image (3) (2).png>)![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (20).png>)![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (3) (2).png>)![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (20) (1).png>)![](<../../.gitbook/assets/image (18).png>)
 
 ![](<../../.gitbook/assets/image (11).png>)
 
@@ -122,7 +122,7 @@ If you don't have an existing contact list or comparison group, you may prefer t
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
-<img src="../../.gitbook/assets/image (29).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (29) (1).png" alt="" data-size="original">
 
 \
 \
@@ -145,7 +145,7 @@ For example, you can specify age groups and then 'detailed targeting' categories
 
 
 
-<img src="../../.gitbook/assets/image (29).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (29) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -168,13 +168,13 @@ Don't forget to use the search tool within 'browse' to find ways to do careful t
 
 \
 During this process, you can see a concise statement of your choices, and the estimated audience size further up on the page:\
-![](<../../.gitbook/assets/image (10) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 #### **How should we (EA, effective giving) target ads?**
 
 We have some evidence that narrower targeting helps. An obvious candidate is
 
-![](<../../.gitbook/assets/image (1) (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (2).png>)
 
 ### **Traffic choice**
 
@@ -202,7 +202,7 @@ We can set up Facebook's ("meta") algorithm to dynamically optimize 'over which 
 
 "Dynamic creative" can be either switched on or off. (Given that we want to optimize over several versions, I see no downside to this feature. Thus, we switch it on.)
 
-<img src="../../.gitbook/assets/image (6) (1) (2).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -269,25 +269,25 @@ Once you are in the ads manager for an ad, go to the 'Events Manager':
 
 "Events setup tool"
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (3).png>)
 
 
 
 Put the URL for your site in and 'Open website'
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 \
 As seen below, this opens our page, and show what things have already been associated with a Pixel. Here the "create fundraiser" button on this page has been associated with a button on this page with the  "Initiate Checkout". (We use default names Facebook is familiar with, even though there is no 'checkout' in this case).&#x20;
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (2).png>)
 
 ("Facebook Pixel Helper" extension in Chromium might be helping here, but I'm not sure how).
 
 
 
 "Track new button" lets you see what click options you could associate with a pixel.This highlights clickable things you can do this with. ('Create fundraiser' is not highlighted, probably because it's already been assigned).\
-![](<../../.gitbook/assets/image (10).png>)&#x20;
+![](<../../.gitbook/assets/image (10) (1).png>)&#x20;
 
 
 
@@ -335,14 +335,14 @@ you first need to have the pixel set up and the ad running, optimizing for views
 
 
 Facebook tracks people for a while. So in optimizing, you can change 'what time period of  outcomes it attributes to which (version of the ad)':\
-![](<../../.gitbook/assets/image (4).png>) \
+![](<../../.gitbook/assets/image (4) (1).png>) \
 
 
 
 
 I assume that the same 'conversions' target defined above is used in optimizing the 'dynamic creative' if you turn that on.&#x20;
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 
 

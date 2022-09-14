@@ -74,7 +74,7 @@ The markdown and project organization syntax is a little bit distinct from other
 
 The folders have meaning for the structure of sections, I think, but the SUMMARY.md file seems to govern most of it. \\
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (3).png>)
 
 There is a particular dash-separated 'description' section at the top of each .md\
 And there are some special code elements like
