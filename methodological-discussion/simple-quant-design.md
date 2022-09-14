@@ -35,7 +35,7 @@ Now suppose you have the ‘Baby prior’, and think all of the following ten th
 
 You run tests on 20 people, and you get 15 people preferring the new message.
 
-![](<../.gitbook/assets/image (17) (1).png>)
+![](<../.gitbook/assets/image (17).png>)
 
 Now you update substantially. From some calculations (starting from Lakens' code, `pbeta(0.65, aposterior, bposterior)`) you put about an 80% posterior probability that the new message is preferred by at least 65% of the population. (And only about 1.5% probability on the control being better)
 
