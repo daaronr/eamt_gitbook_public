@@ -8,31 +8,33 @@ description: >-
 
 ## Background on OftW
 
-_What is OftW and how does it differ from others in this space?_
+<details>
 
-* Chloe: Focus on youth and university students at a pivotal point in their life
-  * Accessible messaging, more of a starting point, less gatekeeping
-* David: 1% is 'more manageable' as a starting point perhaps
-* Luke: Narrow focus on type of charities: global health and poverty
+<summary><em>How does OftW  differ from others in this space?</em></summary>
 
-OFTW has a donor base of \~700 active donors, \~1650 pledged donors (who pledged but haven't started donating yet) and \~2000 lapsed donors.
+Chloe: Focus on youth and university students at a pivotal point in their life
 
-80 percent (of donors?) are in the USA
+Accessible messaging, more of a starting point, less gatekeeping
 
-Focus on global health charities
+David: 1% is 'more manageable' as a starting point perhaps
 
-They focus on donations to GiveWell charities ... but technically OftW pledgers can give to any 510c3
+Luke: Narrow focus on one type of charities: global health and poverty
+
+</details>
+
+* OFTW has a donor base of \~700 active donors, \~1650 pledged donors (who pledged but haven't started donating yet) and \~2000 lapsed donors.&#x20;
+* 80 percent (of donors?) are in the USA
+* Focus on global health charities
+* They focus on donations to GiveWell charities ... but technically OftW pledgers can give to any 510c3
 
 ### Some key goals
 
-**Reinstein/Lewars conversation notes (rough)**
+**Reinstein/Lewars conversation notes**&#x20;
 
-* activating more donors who took the pledge at university, so that their donations actually start;
-* retaining donors for longer once they activate;
-* Upselling donors to give more over time (either more as a raw amount, e.g. 'keeping pace' at 1% of their income; or more as a percentage, e.g. 'graduating' to take the 10% GWWC pledge)
-* acquiring new donors with fewer touchpoints, e.g. via online advertising, via our website etc. (we currently get \~0 organic sign ups)
-
-**Cudaback**
+* **Activating** more donors who took the pledge at university, so their donations actually start;
+* **Retaining** donors for longer once they activate;
+* **Upselling** donors to give more over time (either more as a raw amount, e.g. 'keeping pace' at 1% of their income; or more as a percentage, e.g. 'graduating' to take the 10% GWWC pledge)
+* **Acquiring** new donors with fewer touchpoints, e.g. via online advertising, via our website etc. (we currently get \~0 organic sign ups)
 
 [Chloe's OKRs Notion](https://aquamarine-tennis-e2f.notion.site/Chlo-s-OKRs-eb3e27f1356f4bf28829817a3f44e50d)
 
@@ -70,12 +72,12 @@ They focus on donations to GiveWell charities ... but technically OftW pledgers 
 
 Typical audience have been students and young professionals, but there is interest in corporate outreach
 
-* Zoom and **lunchtime talks in corporate contexts** (How many? These seem extremely promising)
+* Zoom and **lunchtime talks in corporate contexts** (How many? Seems very promising!)
   * How many people are activating/pledging following these lunch+learn?
 
 ## Typical donor journey:
 
-We are in the process of creating these homepages and setting up conversion tracking. As OFTW has \~0 organic sign ups currently, we are testing for a variety of conversion routes, including: \[Todo: clarify this]
+> We are in the process of creating these homepages and setting up conversion tracking. As OFTW has \~0 organic sign ups currently, we are testing for a variety of conversion routes, including: \[Todo: clarify this]
 
 * university campus, someone I like tells me they are involved in OftW, asks me to come along with free food
 * at some point I take the pledge

@@ -88,7 +88,7 @@ If you think the report is useful in-situ, you can also share a link
 
 **7. Export the data**
 
-****![](../../../.gitbook/assets/image.png)****
+****![](<../../../.gitbook/assets/image (11).png>)****
 
 As in [#extracting-simple-results](./#extracting-simple-results "mention")...
 

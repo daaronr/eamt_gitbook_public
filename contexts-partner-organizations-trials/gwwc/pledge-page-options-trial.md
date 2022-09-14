@@ -32,21 +32,25 @@ From April-July 2021 they ran a trial presenting its 'pledge page' options in th
 * "_Separate Bullets for Other Pledges"_: \_\_ The most successful presentation only showed a box for "The Pledge", with the other options given in less prominent bullet points below. This had about a 20% higher incidence rate than the _Original_ presentation.
 * _Pledge before Try Giving was_ the _least_ successful presentation this was like the one displayed above, but with "Try Giving" in the central position. This had about a 23% lower incidence rate than the _Original_ presentation.
 
-_These results may only apply narrowly to the GWWC pledge_ case, and even here, we have some [caveats](pledge-page-options-trial.md#caveats). \_\_ However, it loosely suggests that, when making a call to action, it may be most effective to present the most well-known and expected option most prominently, and not to emphasize the range of choices. (See further [discussion](pledge-page-options-trial.md#intuitive-interpretation) below.)
+_These results may only apply narrowly to the GWWC pledge_ case, and even here, we have some [caveats](pledge-page-options-trial.md#caveats).  However, it loosely suggests that _**when making a call to action, it may be most effective to present the most well-known and expected option most prominently, and not to emphasize the range of choices.**_ (See further [discussion](pledge-page-options-trial.md#intuitive-interpretation) below.)
 
-Getting people to take the GWWC pledge may be seen as an important outcome on its own. It may have a causal impact (see some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_)) on getting people into and engaged in the Effective Altruism community and in other effective altruistic activities, such as EA career impact decisions.
+Getting people to take the GWWC pledge may be seen as an important outcome on its own. It may have a causal impact (see some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_)) on getting people into and engaged in the Effective Altruism community and other EA activities, such as EA career impact decisions.
 
 ## General idea, main 'hypothesis'
 
-**GWWC**: How can we present pledge options so as to maximize positive outcomes (pledges, fulfillment)?
+**GWWC**: How can we present pledge options to maximize positive outcomes (pledges, fulfillment)?
 
 **General**: For those considering making substantial giving pledges (of a share of their income), how does the presentation of these 'pledge options' matter?
 
 **Theories and mechanisms** to consider:
 
 * Tendency to choose 'middle options' [(Simonson and Tversky 1992)](https://journals.sagepub.com/doi/full/10.1177/002224379202900301?casa\_token=0mCxU1YQ2tAAAAAA%3A5V5RHUYHUSDI2DuvkbS8\_69q31GwHawJNLlNEq8XlXrI1jOlMxJAiKKcMoLIvq\_JsLOeirMo6Cl7Ig)
-* Too many options may lead to indecision paralysis
-* The signaling power of choice; e.g., if there's a 'more virtuous choice' I may feel that my 'middle choice' looks less good by comparison)
+* Too many options may lead to 'indecision paralysis'
+* The signaling power of choice; e.g., if there's a 'more virtuous choice' I may feel that my 'middle choice' looks less good by comparison&#x20;
+
+![](<../../.gitbook/assets/image (1).png>)![](../../.gitbook/assets/image.png)
+
+
 
 ## Background and context
 
@@ -58,11 +62,13 @@ Getting people to take the GWWC pledge may be seen as an important outcome on it
 
 3\. The "Further Pledge" (donate all income above a living allowance).
 
-These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/) October 2020) Following 'become a member' takes you to this 'Take a Pledge' page ([`https://www.givingwhatwecan.org/pledge/`](https://www.givingwhatwecan.org/pledge/))
+These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/) October 2020). Following 'become a member' takes you to this 'Take a Pledge' page ([`https://www.givingwhatwecan.org/pledge/`](https://www.givingwhatwecan.org/pledge/)),
 
 ... there may be other ways into this page as well.
 
-**Three versions of this page were randomly presented** between (19-21 April 2021 and 10 July 2021)
+
+
+**Three versions of this page were randomly presented** between (19-21 April and 10 July 2021)
 
 The content of the key 'choice button' part varied between these three versions
 
@@ -70,11 +76,15 @@ The content of the key 'choice button' part varied between these three versions
 2. _"Pledge before TryGiving":_ A block of 3 with "Try Giving" (1%) in the center and highlighted
 3. "_Separate Bullets for Other Pledges":_ A single block for 'The Pledge' (10%), with the other pledges given as clickable bullet points below (as well as a bullet for the 'company pledge' ... which had a different presentation in other versions)
 
-The version presented stayed constant according to an individual's IP cookie tracking
+The version presented stayed constant according to an individual's IP cookie tracking.
 
-### Point of contact
+<details>
 
-Julian Hazell (julian.hazell at givingwhatwecan.org), Luke Freeman
+<summary>Points of content, Timing of trial, Digital location of project/data, Environment </summary>
+
+### Points of contact
+
+Julian Hazell (julian.hazell at givingwhatwecan.org), Luke Freeman&#x20;
 
 **'Academic' contact:** David Reinstein.
 
@@ -93,6 +103,10 @@ The present document is currently (11 May 2022) the only writeup.
 ### Environment/context for trial
 
 https://www.givingwhatwecan.org/pledge/ ... see above
+
+</details>
+
+
 
 ### **Participant universe and sample size**
 

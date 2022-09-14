@@ -35,7 +35,7 @@ The next step is to select "Create a campaign" and choose an "objective"... the 
 \
 ![](<../../.gitbook/assets/image (3) (2).png>)![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (20) (2).png>)![](<../../.gitbook/assets/image (18) (3).png>)
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (3).png>)
 
 ### **Budget optimization**
 
@@ -174,7 +174,7 @@ During this process, you can see a concise statement of your choices, and the es
 
 We have some evidence that narrower targeting helps. An obvious candidate is
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (2).png>)
 
 ### **Traffic choice**
 

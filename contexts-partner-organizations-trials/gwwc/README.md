@@ -5,7 +5,7 @@ description: >-
   lead is Luke Freeman
 ---
 
-# Giving What We Can (GWWC)
+# Giving What We Can
 
 [GWWC landing page](https://www.givingwhatwecan.org/)
 
@@ -15,7 +15,7 @@ description: >-
 
 {% embed url="https://docs.google.com/presentation/d/1VaO3WDH_3OxnhhQC2e1ejUYBjBxKoaoMhbqza-vVjQo/edit#slide=id.g11dc561c35c_0_0" %}
 
-##
+
 
 ## Giving What We Can: ideas and opportunities
 
@@ -31,7 +31,7 @@ description: >-
 ### Some key questions
 
 * “What should the call to action for the casual person in the funnel?”
-* Testing all parts of site and funnel/pledge journey; web site, welcome messages/welcome packages, reminders and thank-yous
+* Testing all parts of site and funnel/pledge journey; web site, welcome messages/welcome packages, reminders and thank-you's
 
 ## Completed studies:
 

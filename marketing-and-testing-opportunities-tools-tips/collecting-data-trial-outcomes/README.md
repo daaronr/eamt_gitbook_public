@@ -1,24 +1,17 @@
 # Collecting data/trial outcomes
 
-For a trial to yield insight, we need to be able to track and measure meaningful outcomes, and connect these to the particular 'arm' of the trial the person saw ... or whether they saw any arm at all.
+For a trial to yield insight, we need to be able to track and measure meaningful outcomes, and connect these to the particular 'arm' of the trial the person saw ... (if they saw any arm at all)
 
 
 
 ## Notes from conversations (need explanation)
 
 \
-In this section we discuss how to see the _results_ of your promotions and trials, and how to access data sets of these results that you can analyze.\
-\
+In this section we discuss **how to see the **_**results**_** of your promotions and trials, and how to access data sets of these results that you can analyze.**\
 
 
 * [facebook-meta-ads-interface](facebook-meta-ads-interface/ "mention") and [pivot-tables.md](facebook-meta-ads-interface/pivot-tables.md "mention")
 * [google-a-b-optimize-analytics-interface.md](google-a-b-optimize-analytics-interface.md "mention") and [google-analytics-interface.md](google-analytics-interface.md "mention")
-
-
-
-
-
-
 
 <details>
 

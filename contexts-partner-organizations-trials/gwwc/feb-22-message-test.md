@@ -14,7 +14,7 @@ _Possible connection between this trial and the_ [giving-guides-+.md](giving-gui
 
 {% embed url="https://docs.google.com/document/d/1yFU3-P3dlwP9IZ0yEbD_k9ePZQGK0NJ7o8G27HVi6yM/edit?usp=sharing" %}
 
-## Pretrial reporting template:
+## Pre-trial reporting template:
 
 ### **General idea, main 'hypothesis' (if there is one)**
 

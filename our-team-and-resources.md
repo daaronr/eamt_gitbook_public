@@ -5,20 +5,20 @@ We are a group of researchers and practitioners across a range of fields (Econom
 As individuals and organizations, we are goal-driven and impact-driven: we are in this to improve the world, particularly through directing funds and support to the most effective causes and interventions. Because we share these common goals, _we are better aligned for collaboration_ than typical academics and charitable organizations. We have an unprecedented opportunity to collaborate, learn what works, and 'move the needle'.
 
 _**We are actively collaborating with the following organizations** (links indicate publicly reportable trials)_\
-__
 
-****[**80000 Hours** ](https://80000hours.org/)
 
-[[gwwc](contexts-partner-organizations-trials/gwwc/ "mention")](https://80000hours.org/)
+[**80000 Hours**](https://80000hours.org/)
 
-[Charity Elections (run by GWWC) ](https://www.givingwhatwecan.org/events/guides/charity-elections/)
+[gwwc](contexts-partner-organizations-trials/gwwc/ "mention")&#x20;
 
-****[one-for-the-world-oftw](contexts-partner-organizations-trials/one-for-the-world-oftw/ "mention")****
+[Charity Elections (run by GWWC)](https://www.givingwhatwecan.org/events/guides/charity-elections/)&#x20;
 
-****[The Life You Can Save](https://www.thelifeyoucansave.org/)
+[one-for-the-world-oftw](contexts-partner-organizations-trials/one-for-the-world-oftw/ "mention")
+
+[The Life You Can Save](https://www.thelifeyoucansave.org/)
 
 [University of Chicago Effective Altruism (group)](https://www.uchicagoea.org/)
 
-****
+***
 
 {% embed url="https://airtable.com/shroW5VTMAJDafbi3" %}

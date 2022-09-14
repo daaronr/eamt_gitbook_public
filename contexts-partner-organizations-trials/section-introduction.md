@@ -2,8 +2,6 @@
 
 {% hint style="info" %}
 For a data-driven dynamic document covering (some of) our trials & evidence see [HERE.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)
-
-****
 {% endhint %}
 
 _<mark style="background-color:yellow;">In the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Partner Organizations and Trials section**</mark><mark style="background-color:yellow;">, you will find reports of the trials we have run with organizations, including</mark>_ [gwwc](gwwc/ "mention") _<mark style="background-color:yellow;">and</mark>_ [one-for-the-world-oftw](one-for-the-world-oftw/ "mention")_<mark style="background-color:yellow;">.</mark>_

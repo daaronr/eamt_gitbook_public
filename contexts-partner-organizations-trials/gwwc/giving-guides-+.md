@@ -2,10 +2,12 @@
 
 ## Other writeups
 
-Note that the content below follows the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public reading.
+Note the content below follows the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public reading.
 
-* We are building the results and analysis in a transparent way; directly importing the data and doing our own analyses ... within the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)
-* We are preparing an EA Forum post, spinning off [this Google Doc](https://docs.google.com/document/d/1FfrXhD1YAIjrATy9PR6ScP20NMQa82sd80YvMb62iUQ/edit), also embedded below
+* We build the results and analysis in a transparently in the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)
+* We posted on the EA Forum[ "Marketing Messages Trial..."](https://forum.effectivealtruism.org/posts/nhbeKbwMgFKfrzLNb/marketing-messages-trial-for-gwwc-giving-guide-campaign)
+
+{% embed url="https://forum.effectivealtruism.org/posts/nhbeKbwMgFKfrzLNb/marketing-messages-trial-for-gwwc-giving-guide-campaign" %}
 
 ## Summary
 
@@ -36,12 +38,13 @@ Note this had several 'versions' during the campaign (see 'Test 1 - Test 4')
   * nor about "which message works better on a particular comparable audience" (for the same reason)
 * **Outcome** is 'click to download the giving guide'.
 
-## Writeup and results
+<details>
 
-[**Link**](https://docs.google.com/document/d/1FfrXhD1YAIjrATy9PR6ScP20NMQa82sd80YvMb62iUQ/edit?usp=sharing) **to the report below**
+<summary>Previous writeup and results</summary>
 
-{% embed url="https://docs.google.com/document/d/1FfrXhD1YAIjrATy9PR6ScP20NMQa82sd80YvMb62iUQ/edit" %}
+[**Link**](https://docs.google.com/document/d/1FfrXhD1YAIjrATy9PR6ScP20NMQa82sd80YvMb62iUQ/edit?usp=sharing) **to the previous Gdoc report**
 
-###
+</details>
 
-##
+
+

@@ -13,9 +13,9 @@ The main focus of this effort has been promoting and building EA groups, especia
 
 ## CEA
 
-> CEA will continue to support early stage university groups via the [University Group Accelerator Program ](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282)and city and national groups in key locations via the [Community Building Grants](https://www.centreforeffectivealtruism.org/how-to-join-the-program) Program.&#x20;
+> CEA will continue to support early stage university groups via the [University Group Accelerator Program ](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282)and city and national groups in key locations via the [Community Building Grants](https://www.centreforeffectivealtruism.org/how-to-join-the-program) Program.
 
-__[_From EA forum post_](https://forum.effectivealtruism.org/posts/xTWhXX9HJfKmvpQZi/cea-is-discontinuing-its-focus-university-programming)__
+[_**From EA forum post**_](https://forum.effectivealtruism.org/posts/xTWhXX9HJfKmvpQZi/cea-is-discontinuing-its-focus-university-programming)
 
 [University Group Accelerator Program](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282) (Notion)
 
@@ -37,7 +37,7 @@ There are some further initiatives in this area but most of the material cannot 
 
 ## Other ongoing work in this space
 
-80k is active in targeting university students, especially those with elite career paths; see private Gitbook
+80k is actively targeting university students, focusing on elite career paths (see private Gitbook)
 
 ## Student-led: University of Chicago
 

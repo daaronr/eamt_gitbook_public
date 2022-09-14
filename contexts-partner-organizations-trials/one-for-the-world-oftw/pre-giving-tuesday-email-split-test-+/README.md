@@ -1,4 +1,4 @@
-# pre-giving-tuesday-email split test
+# Pre-giving-tues. email A/B
 
 Context: Donation 'upsell' to existing pledgers
 
@@ -8,10 +8,7 @@ Context: Donation 'upsell' to existing pledgers
 2. "B": **Emotional appeals and 'identified victim' images**
 
 {% hint style="info" %}
-**To do:** This is being moved to the public gitbook [(edit link here)](./).
-
-* replace the present information with a link (plus any information that would need to be redacted from the public version)
-* In depth replicable analysis will be organized in the dynamic document [here](https://daaronr.github.io/eamt\_data\_analysis/chapters/oftw\_upsell\_input\_first\_analysis.html)
+**To do:** Integrate w/ in-depth replicable analysis, organized in dynamic document [here](https://daaronr.github.io/eamt\_data\_analysis/chapters/oftw\_upsell\_input\_first\_analysis.html)
 {% endhint %}
 
 ## General idea, main 'hypothesis' <a href="#general-idea-main-hypothesis" id="general-idea-main-hypothesis"></a>
@@ -39,7 +36,7 @@ Academic-linked authors: David Reinstein, Josh Lewis, potentially others
 
 ### Timing of trial
 
-Targeted dates: November 10, November 18, November 23, all in 2021, but these may be delayed for feasibility
+Targeted dates: November 10, 18, 23, all in 2021, but may be delayed for feasibility
 
 {% hint style="info" %}
 Update -- four email dates are recorded in the data
