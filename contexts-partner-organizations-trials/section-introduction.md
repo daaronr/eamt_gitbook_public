@@ -6,7 +6,7 @@ For a data-driven dynamic document covering (some of) our trials & evidence see 
 
 _<mark style="background-color:yellow;">In the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Partner Organizations and Trials section**</mark><mark style="background-color:yellow;">, you will find reports of the trials we have run with organizations, including</mark>_ [gwwc](gwwc/ "mention") _<mark style="background-color:yellow;">and</mark>_ [one-for-the-world-oftw](one-for-the-world-oftw/ "mention")_<mark style="background-color:yellow;">.</mark>_
 
-### **Our primary approach and goals**
+## **Our primary approach and goals**
 
 We want to identify the most effective and scalable strategies for marketing EA and EA-adjacent ideas and actions. To do this, we believe that running real-world marketing trials and experiments with EA-aligned organizations will provide the best evidence to act upon. By systematically varying the messaging, framing, and contexts, we can map out _what works better where_.
 
@@ -25,7 +25,7 @@ _**We believe this approach is likely to be the most fruitful because:**_
 This project primarily aims at:
 
 1. **Robust and generalizable insights** that improve communication and messaging
-2. **Outcomes** that are meaningful and relevant in the long run, such as;
+2. **Meaningful and relevant long-run outcomes**, such as;
    * Creating **new, strong EAs** by getting people more interested and involved in EA ideas, actions, and the community
    * Having people consider and identify with **key values and practices**, such as making meaningful altruistic choices, considering effectiveness and impact in doing so, strong analytical and epistemic practices, and broad (or carefully considered) moral circles
 3. **Across a range of EA causes and groups** (longtermism, global health, animal welfare)

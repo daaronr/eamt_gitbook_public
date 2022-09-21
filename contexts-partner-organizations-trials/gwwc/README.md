@@ -2,7 +2,7 @@
 description: >-
   Giving What We Can is running trials and interventions, producing videos and
   funding ads, and interested in doing more, systematically and robustly. The
-  lead is Luke Freeman
+  lead is Luke Freeman.
 ---
 
 # Giving What We Can

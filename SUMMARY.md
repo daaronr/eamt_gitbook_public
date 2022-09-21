@@ -10,7 +10,7 @@
 ## 🤝 Partner Organizations and Trials
 
 * [Introduction](contexts-partner-organizations-trials/section-introduction.md)
-* [University groups/promotion](contexts-partner-organizations-trials/university-groups-promotion.md)
+* [University groups](contexts-partner-organizations-trials/university-groups-promotion.md)
 * [Giving What We Can](contexts-partner-organizations-trials/gwwc/README.md)
   * [Pledge page (options trial)](contexts-partner-organizations-trials/gwwc/pledge-page-options-trial.md)
   * [Giving guides - Facebook](contexts-partner-organizations-trials/gwwc/giving-guides-+.md)

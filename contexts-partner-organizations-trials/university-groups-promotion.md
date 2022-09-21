@@ -1,44 +1,59 @@
-# University groups/promotion
+# University groups
 
-## Goals and context
+EA seeks to amplify its impact through _movement-building._ Organizations like 80000 hours and CEA are [putting substantial resources](https://80000hours.org/problem-profiles/promoting-effective-altruism/) into developing and expanding the EA community. Building EA groups has been at the core of this agenda, especially in elite and influential places (such as top universities).  Key aims include 'creating highly engaged EAs' and encouraging people to pursue impactful careers. &#x20;
 
-### **EA groups at elite universities and programs**
+## Our collaborative goals
 
-The main focus of this effort has been promoting and building EA groups, especially at elite and influential places (Ivy league etc)
+Currently, university EA groups operate in conjunction with the Centre for Effective Altruism, but with high levels of autonomy. There is only limited collaboration between groups. Such collaboration could allow them to achieve economies of scale and scope, run more systematic and powerful trials, and share insights and methods that increase student engagement. The EAMT hopes to help coordinate this, consolidate the evidence, and provide accessible tools to newly-formed groups. We want to help avoid repeating errors and 'reinventing the wheel' each time.
 
-1. Membership, participation, connection to EA orgs, markers of post-university involvement
-2. Impacting career plans
-3. (Possibly) influencing research and intellectual conversations at universities, including academia
-4. Maybe focusing on particular programs and career paths
+### **EA groups at universities**
 
-## CEA
+The efforts and experience of individual EA groups can provide contextual evidence and insights. The EAMT aims to aggregate this knowledge, find generalizable principles, and disseminate this to the wider EA community. We are focused on meaningful medium-term outcomes, e.g.:
 
-> CEA will continue to support early stage university groups via the [University Group Accelerator Program ](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282)and city and national groups in key locations via the [Community Building Grants](https://www.centreforeffectivealtruism.org/how-to-join-the-program) Program.
+1. Membership and participation in EA organizations, and markers of post-university involvement
+2. How career plans are impacted (_with a focus on particular programs and career paths.)_
+3. How research and discourse at universities can be influenced (including academia)
 
-[_**From EA forum post**_](https://forum.effectivealtruism.org/posts/xTWhXX9HJfKmvpQZi/cea-is-discontinuing-its-focus-university-programming)
+## Relevant organizations and programs
 
-[University Group Accelerator Program](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282) (Notion)
+We believe our efforts will be highly valuable for the following programs, as we can introduce impactful insights for increasing engagement. These programs already aim for generalizable principles by default in their starter toolkits, as they are being implemented across a range of cities, universities and settings. As such, our approach aligns with these programs and the findings can be easily integrated.
 
-{% embed url="https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282" %}
+### Centre for Effective Altruism
 
-## Open Philanthropy Fellowships
+CEA has [discontinued its focus on university programming](https://forum.effectivealtruism.org/posts/xTWhXX9HJfKmvpQZi/cea-is-discontinuing-its-focus-university-programming), passing funding and efforts on to Open Philanthropy. They still continue their own efforts in university group promotion through the [University Group Accelerator Program](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282), which offers guidance and resources to newly formed groups. Beyond university groups, CEA utilises the [Community Building Grants](https://www.centreforeffectivealtruism.org/how-to-join-the-program) Program to develop national and city-based groups.
 
-[The University Organizer Fellowship](https://openphilanthropy.org/focus/other-areas/university-organizer-fellowship), which provides funding for organizers and groups expenses for part-time and full-time organizers helping with student groups focused on effective altruism, longtermism, rationality, or other relevant topics at any university (not just focus universities). (Intended to replace the Campus Specialist and Campus Specialist Internship programs.)
+### Open Philanthropy
+
+[The University Organizer Fellowship](https://openphilanthropy.org/focus/other-areas/university-organizer-fellowship) provides funding for part-time and full-time organizers helping with student groups focused on effective altruism, longtermism, rationality, or other relevant topics at any university (not just focus universities). This has replaced CEA's Campus Specialist and Campus Specialist Internship programs.&#x20;
 
 > [The Century Fellowship](https://www.openphilanthropy.org/focus/other-areas/century-fellowship), a selective 2-year program that gives resources and support (including $100K+/year in funding) to particularly promising people early in their careers who want to work in areas that could improve the long-term future. (Intended partially for particularly strong Campus Specialist applicants.)
 
-{% embed url="https://forum.effectivealtruism.org/posts/xTWhXX9HJfKmvpQZi/cea-is-discontinuing-its-focus-university-programming" %}
+### EA Group Organizers Survey
 
-### **More widespread outreach**
+The [EA Group Organizers Survey](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) is a collaboration between CEA and Rethink Priorities.&#x20;
 
-There are some further initiatives in this area but most of the material cannot be shared at the moment (see private gitbook)
+\*EXPAND HERE\*
 
-## [EA Groups survey](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) (CEA)
+### 80 000 Hours
 
-## Other ongoing work in this space
+80 000 Hours is actively targeting university students and offering them guidance on high-impact career paths. _(see private Gitbook)_
 
-80k is actively targeting university students, focusing on elite career paths (see private Gitbook)
+### **Further outreach**
+
+_There are some further initiatives in this area but most of the material cannot be shared at the moment (see private Gitbook)._
 
 ## Student-led: University of Chicago
 
-(see work in private Gitbook)
+_(see work in private Gitbook)_
+
+__
+
+
+
+<details>
+
+<summary>Writing credits for this page</summary>
+
+Kynan Behan helped create and write this page.
+
+</details>
