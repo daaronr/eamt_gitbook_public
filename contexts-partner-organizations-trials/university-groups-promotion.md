@@ -30,9 +30,12 @@ CEA has [discontinued its focus on university programming](https://forum.effecti
 
 ### EA Group Organizers Survey
 
-The [EA Group Organizers Survey](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) is a collaboration between CEA and Rethink Priorities.&#x20;
+The [EA Group Organizers Survey](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) is a collaboration between CEA and Rethink Priorities. It analyzes the changes in EA groups yearly, with two main components:&#x20;
 
-\*EXPAND HERE\*
+1. The growth and composition of EA groups and their activities
+2. The opinions of the group's status from the organizer's point of view
+
+The first component gives insight into priorities and progress. The second can help guide our research and provide insight into the tools required by group organizers to increase group interaction and outreach.
 
 ### 80 000 Hours
 
