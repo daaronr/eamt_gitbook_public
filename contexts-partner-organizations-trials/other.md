@@ -1,4 +1,4 @@
-# Other orgs/approaches in progress
+# Other partners
 
 * Schools (see  ["Charity Elections"](https://www.givingwhatwecan.org/events/guides/charity-elections)): trials in preparation
 * GiveWell (discussions and consultation)

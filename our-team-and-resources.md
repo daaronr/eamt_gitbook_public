@@ -9,11 +9,11 @@ _**We are actively collaborating with the following organizations** (links indic
 
 [**80000 Hours**](https://80000hours.org/)
 
-[gwwc](partner-orgs-trials/gwwc/ "mention")&#x20;
+[gwwc](contexts-partner-organizations-trials/gwwc/ "mention")&#x20;
 
 [Charity Elections (run by GWWC)](https://www.givingwhatwecan.org/events/guides/charity-elections/)&#x20;
 
-[one-for-the-world-oftw](partner-orgs-trials/one-for-the-world-oftw/ "mention")
+[one-for-the-world-oftw](contexts-partner-organizations-trials/one-for-the-world-oftw/ "mention")
 
 [The Life You Can Save](https://www.thelifeyoucansave.org/)
 

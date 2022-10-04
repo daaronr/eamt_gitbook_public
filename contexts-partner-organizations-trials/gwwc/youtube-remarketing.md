@@ -4,7 +4,7 @@ description: GWWC youtube remarketing campaign (trial)
 
 # YouTube Remarketing
 
-See also the cross-organization [notes on advertising, google, youtube, etc](../../partner-organizations-and-trials/gwwc/broken-reference/) (=placeholder for now) and the tips on \
+See also the cross-organization [notes on advertising, google, youtube, etc](../../partner-organizations-and-trials/gwwc/broken-reference/) (=placeholder for now) and the tips on\
 [doing-and-funding-ads](../../marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads/ "mention")
 
 ## YouTube Remarketing

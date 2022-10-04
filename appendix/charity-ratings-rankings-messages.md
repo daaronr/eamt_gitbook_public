@@ -12,7 +12,7 @@ What are the existing sources of information and ratings about charity effective
 
 ## SoGive
 
-## Charity Navigator 'impact rating' (from impact Matters)
+## Charity Navigator 'impact rating' (impact Matters)
 
 Some weaknesses in their metrics -- See earlier post HERE
 

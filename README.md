@@ -11,7 +11,7 @@ NOTE: >-
 
 ## What is the "EA Market Testing Team"?
 
-We are a small group of researchers and practitioners. Our goal is to promote effective altruism and effective charitable giving through marketing campaigns, appeals, and events, both with our [partner organizations](broken-reference) and in independent surveys and trials. We want to improve the design and messaging of organizations like [Giving What We Can](partner-orgs-trials/gwwc/) and 80000 Hours to maximize their outreach and eventual impact.\
+We are a small group of researchers and practitioners. Our goal is to promote effective altruism and effective charitable giving through marketing campaigns, appeals, and events, both with our [partner organizations](broken-reference) and in independent surveys and trials. We want to improve the design and messaging of organizations like [Giving What We Can](contexts-partner-organizations-trials/gwwc/) and 80000 Hours to maximize their outreach and eventual impact.\
 \
 While _doing_ marketing we are also _testing and analyzing_ this rigorously. We run carefully controlled trials and robustly analyze the results. However, we are careful to be _efficient_, recognizing the tradeoffs between rigorous experimental design and practical marketing.  \
 \
