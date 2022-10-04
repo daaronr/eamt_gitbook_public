@@ -13,6 +13,10 @@ Thus, in comparing one ad variation to another... you may learn:
 * But you don't learn "which variation performs better than others on any single comparable audience."
 {% endhint %}
 
+{% hint style="info" %}
+**Update 4 Oct 2022:** We may have found a partial solution to this, with ads targeting 'Reach' rather than optimizing for other measures like 'clicks'.  We are discussing this further and will report back.&#x20;
+{% endhint %}
+
 \
 Researchers are interested in running trials using Facebook ads. However, inference can be difficult. Facebook doesn't give you full control of who sees what version of an advertisement.
 

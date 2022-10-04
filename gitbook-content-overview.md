@@ -2,7 +2,7 @@
 description: What you can find in the gitbook
 ---
 
-# 📕 Gitbook content overview
+# 📕 Content overview
 
 ## **Introduction**
 
@@ -14,7 +14,7 @@ For a data-driven dynamic document covering (some of) our trials & evidence see 
 
 ## Five Key Sections
 
-### 1) [Partner Organizations and Trials](contexts-partner-organizations-trials/section-introduction.md) 🤝
+### 1) [Partner Organizations and Trials](partner-orgs-trials/section-introduction.md) 🤝
 
 In this section of the gitbook, you will find **reports of the trials we have run** with organizations, including Giving What We Can and One For the World. (More detailed statistical analysis is presented in the dynamic document [here](https://daaronr.github.io/eamt\_data\_analysis/)). We include background information on each organization and its priorities for testing.
 

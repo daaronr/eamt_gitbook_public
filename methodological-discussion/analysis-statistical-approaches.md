@@ -6,7 +6,7 @@ description: >-
 
 # Analysis: Statistical approaches
 
-## Impact of a treatment on incidence of a 'rare event'
+## Impact of treatment on 'rare event' incidence
 
 _Notes from slack:_
 
@@ -21,16 +21,14 @@ _Notes from slack:_
 
 > My colleague Jamie Elsey has some expertise with the latter; [we’re putting together our discussion HERE](https://rethinkpriorities.github.io/methodology-statistics-design/power-workflow.html), although it’s mainly frequentist and not Bayesian ATM.
 
-
-
 ## Open and robust science: Preregistration and Preanalysis plans
 
-There are reasons 'some pre-registration' or at least 'declaring your intentions in advance' is worth doing even if you aren't aiming at scientific publication&#x20;
+There are reasons 'some pre-registration' or at least 'declaring your intentions in advance' is worth doing even if you aren't aiming at scientific publication
 
 ## Which statistical tests/methods
 
 [https://gitlab.com/dsbowen/conditional-inference/-/blob/master/examples/bayes\_primer.ipynb](https://gitlab.com/dsbowen/conditional-inference/-/blob/master/examples/bayes\_primer.ipynb)
 
-## [From Sample to Population: Multilevel Regression and Poststratification (MRP) and Survey Weighting ](https://docs.google.com/document/d/14uTZqOpnKAK8\_oRwgqlAhEXfyQPQUKK9/edit)
+## [From Sample to Population: Multilevel Regression and Poststratification (MRP) and Survey Weighting](https://docs.google.com/document/d/14uTZqOpnKAK8\_oRwgqlAhEXfyQPQUKK9/edit)
 
 {% embed url="https://docs.google.com/document/d/14uTZqOpnKAK8_oRwgqlAhEXfyQPQUKK9/edit" %}

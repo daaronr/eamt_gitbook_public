@@ -27,7 +27,9 @@ Mitigating this, in our context, most of our experiments will be conducted in su
 
 ## Incentives and 'more meaningful responses'?
 
-## Other issues to consider and flesh out
+## Other issues to consider&#x20;
+
+_(To be fleshed out in more detail)_
 
 * Universe (population) of interest, representativeness
 * Design study to measure 'cheap' behavior like 'clicks' (easier to observe, quicker feedback) versus meaningful and long-run behavior (like donations and pledges)
