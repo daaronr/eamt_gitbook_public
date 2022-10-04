@@ -26,7 +26,6 @@
 
 ## 🪧 Marketing & testing: opportunities, tools, tips
 
-* [Trial reporting template](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md)
 * [Environments, tests, tools](marketing-and-testing-opportunities-tools-tips/environments-and-plans/README.md)
   * [Testing Contexts: Overview](marketing-and-testing-opportunities-tools-tips/environments-and-plans/future-avenues.md)
 * [Implementing ads, messages, and designs](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/README.md)
@@ -41,6 +40,7 @@
   * [Google A/B, optimize interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/google-a-b-optimize-analytics-interface.md)
   * [Reconciling FB/GA reports](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/reconciling-fb-ga-reports.md)
   * [Survey/marketing platforms](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/survey-and-marketing-platforms.md)
+* [Trial reporting template](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md)
 
 ## 🎨 Research Design, methodology <a href="#methodological-discussion" id="methodological-discussion"></a>
 
