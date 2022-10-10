@@ -18,7 +18,7 @@ We want to learn from existing work, run tests on the GWWC platform, and support
 
 1.  **Awareness & Consideration**&#x20;
 
-    Increase [casual visitors](../../partner-organizations-and-trials/gwwc/web-page-casual-visitors.md) and raise curiosity&#x20;
+    Increase casual visitors and raise curiosity&#x20;
 2.  **Conversion & Acquisition**&#x20;
 
     Donate or pledge to donate
@@ -32,7 +32,7 @@ We want to learn from existing work, run tests on the GWWC platform, and support
 ### Some key questions
 
 * “What should the call to action for the casual person in the funnel?”
-* Testing all parts of site and funnel/pledge journey; website, welcome messages/welcome packages, reminders and thank-you's
+* Testing all parts of funnel/pledge journey; website, welcome messages/welcome packages, reminders and thank-you's
 
 ## Completed studies:
 
