@@ -1,13 +1,18 @@
 # Giving guides - Facebook
 
-## Other writeups
+Along with GWWC, we tested marketing and messaging themes on Facebook in their [Effective Giving Guide](https://www.givingwhatwecan.org/giving-guide) Facebook Lead campaigns. Across four trials we compared the effectiveness of different types of (1) messages, (2) videos, and (3) targeted audiences.
 
-Note the content below follows the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public reading.
+A summary of this has been shared as a [post](https://forum.effectivealtruism.org/posts/nhbeKbwMgFKfrzLNb/marketing-messages-trial-for-gwwc-giving-guide-campaign) on the EA Forum
 
-* We build the results and analysis in a transparently in the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)
-* We posted on the EA Forum[ "Marketing Messages Trial..."](https://forum.effectivealtruism.org/posts/nhbeKbwMgFKfrzLNb/marketing-messages-trial-for-gwwc-giving-guide-campaign)
+<details>
 
-{% embed url="https://forum.effectivealtruism.org/posts/nhbeKbwMgFKfrzLNb/marketing-messages-trial-for-gwwc-giving-guide-campaign" %}
+<summary>Notes on content/building this</summary>
+
+This follows the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public reading.
+
+We build the results and analysis transparently in the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)
+
+</details>
 
 ## Summary
 

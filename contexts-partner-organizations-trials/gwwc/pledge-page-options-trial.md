@@ -1,15 +1,8 @@
----
-description: >-
-  The presentation of options on GWWC's 'pledge page'
-  `https://www.givingwhatwecan.org/pledge/` were randomly varied at the
-  individual browser level over a certain period.
----
-
 # Pledge page (options trial)
 
-A summary of this has been shared as a linkpost on the EA Forum
+The presentation of options on GWWC's '[pledge page](https://www.givingwhatwecan.org/pledge/)' were randomly varied at the individual browser level over a certain period to see which option increased pledges.&#x20;
 
-{% embed url="https://forum.effectivealtruism.org/posts/YYm4crzcYmCiLYwyZ/giving-what-we-can-pledge-page-trial-ea-market-testing" %}
+A summary of this has been shared as a [post](https://forum.effectivealtruism.org/posts/YYm4crzcYmCiLYwyZ/giving-what-we-can-pledge-page-trial-ea-market-testing) on the EA Forum.
 
 <details>
 
@@ -36,7 +29,7 @@ _These results may only apply narrowly to the GWWC pledge_ case, and even here, 
 
 Getting people to take the GWWC pledge may be seen as an important outcome on its own. It may have a causal impact (see some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_)) on getting people into and engaged in the Effective Altruism community and other EA activities, such as EA career impact decisions.
 
-## General idea, main 'hypothesis'
+## General idea and main hypothesis
 
 **GWWC**: How can we present pledge options to maximize positive outcomes (pledges, fulfillment)?
 
