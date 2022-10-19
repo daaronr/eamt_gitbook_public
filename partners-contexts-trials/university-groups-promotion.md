@@ -6,6 +6,8 @@ EA seeks to amplify its impact through _movement-building._ Organizations like 8
 
 {% embed url="https://resources.eagroups.org/home" %}
 
+{% embed url="https://centreforeffectivealtruism.notion.site/UGAP-s-Outreach-Handbook-6eca98516a5d4151b50a492fccfe24ec" %}
+
 ## Our collaborative goals
 
 Currently, university EA groups operate in conjunction with the Centre for Effective Altruism, but with high levels of autonomy. There is only limited collaboration between groups. Such collaboration could allow them to achieve economies of scale and scope, run more systematic and powerful trials, and share insights and methods that increase student engagement. The EAMT hopes to help coordinate this, consolidate the evidence, and provide accessible tools to newly-formed groups. We want to help avoid repeating errors and 'reinventing the wheel' each time.
@@ -15,8 +17,8 @@ Currently, university EA groups operate in conjunction with the Centre for Effec
 The efforts and experience of individual EA groups can provide contextual evidence and insights. The EAMT aims to aggregate this knowledge, find generalizable principles, and disseminate this to the wider EA community. We are focused on meaningful medium-term outcomes, e.g.:
 
 1. Membership and participation in EA organizations, and markers of post-university involvement
-2. How career plans are impacted (_with a focus on particular programs and career paths.)_
-3. How research and discourse at universities can be influenced (including academia)
+2. How career plans are impacted (_focusing on particular programs and paths.)_
+3. How research and discourse at universities can be influenced
 
 ## Relevant organizations and programs
 
@@ -34,12 +36,14 @@ CEA has [discontinued its focus on university programming](https://forum.effecti
 
 ### EA Group Organizers Survey
 
-The [EA Group Organizers Survey](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) is a collaboration between CEA and Rethink Priorities. It analyzes the changes in EA groups yearly, with two main components:&#x20;
+The [EA Group Organizers Survey (2020) ](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020)  is a collaboration between CEA and Rethink Priorities. It analyzes the changes in EA groups yearly, with two main components:&#x20;
 
 1. The growth and composition of EA groups and their activities
 2. The opinions of the group's status from the organizer's point of view
 
 The first component gives insight into priorities and progress. The second can help guide our research and provide insight into the tools required by group organizers to increase group interaction and outreach.
+
+See especially: ["Events and outreach"](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020#Events\_and\_outreach)
 
 ### 80 000 Hours
 
@@ -54,6 +58,10 @@ _There are some further initiatives in this area but most of the material cannot
 _(see work in private Gitbook)_
 
 __
+
+## Work in progress
+
+Mapping [the funnel here (preliminary)](https://docs.google.com/document/d/19jyPub9GwbOiZ2IPgR74j5-uttrTgYgQNkBhCJCrYDY/edit)
 
 
 
