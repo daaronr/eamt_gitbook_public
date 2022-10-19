@@ -9,20 +9,20 @@
 
 ## 🤝 Partners, contexts, trials
 
-* [Introduction](partners-contexts-trials/section-introduction.md)
-* [Giving What We Can](partners-contexts-trials/gwwc/README.md)
-  * [Pledge page (options trial)](partners-contexts-trials/gwwc/pledge-page-options-trial.md)
-  * [Giving guides - Facebook](partners-contexts-trials/gwwc/giving-guides-+.md)
-  * [Message Test (Feb 2022)](partners-contexts-trials/gwwc/feb-22-message-test.md)
-  * [YouTube Remarketing](partners-contexts-trials/gwwc/youtube-remarketing.md)
-* [One For the World (OftW)](partners-contexts-trials/one-for-the-world-oftw/README.md)
-  * [Pre-giving-tues. email A/B](partners-contexts-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
-    * [Preregistration: OftW pre-GT](partners-contexts-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
-* [Charities/fundraisers and impact information](partners-contexts-trials/charities-fundraisers-and-impact-information/README.md)
-  * [ICRC - quick overview](partners-contexts-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
-  * [CRS/DV: overview](partners-contexts-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
-* [University groups](partners-contexts-trials/university-groups-promotion.md)
-* [Other partners](partners-contexts-trials/other.md)
+* [Introduction](contexts-partner-organizations-trials/section-introduction.md)
+* [Giving What We Can](contexts-partner-organizations-trials/gwwc/README.md)
+  * [Pledge page (options trial)](contexts-partner-organizations-trials/gwwc/pledge-page-options-trial.md)
+  * [Giving guides - Facebook](contexts-partner-organizations-trials/gwwc/giving-guides-+.md)
+  * [Message Test (Feb 2022)](contexts-partner-organizations-trials/gwwc/feb-22-message-test.md)
+  * [YouTube Remarketing](contexts-partner-organizations-trials/gwwc/youtube-remarketing.md)
+* [One For the World (OftW)](contexts-partner-organizations-trials/one-for-the-world-oftw/README.md)
+  * [Pre-giving-tues. email A/B](contexts-partner-organizations-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
+    * [Preregistration: OftW pre-GT](contexts-partner-organizations-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
+* [Charities/fundraisers and impact information](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/README.md)
+  * [ICRC - quick overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
+  * [CRS/DV: overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
+* [University groups](contexts-partner-organizations-trials/university-groups-promotion.md)
+* [Other partners](contexts-partner-organizations-trials/other.md)
 
 ## 🪧 Marketing & testing: opportunities, tools, tips
 
