@@ -16,11 +16,13 @@ We intend to redo and augment much of this analysis in a more transparent way; d
 
 ## Summary of trial and results
 
-In December 2021, TLYCS ran a YouTube advertising campaign in Portland Oregon, involving ‘donation advice’. The top 10% household-income households were targeted with (one of) three categories of videos.
+In December 2021, TLYCS ran a YouTube advertising campaign in Portland Oregon, involving ‘donation advice’. The top 10% household-income households were targeted with (one of) three categories of videos. One of the ultimate goals was to get households to sign up for a 'concierge' personal donor advising service &#x20;
 
 ### Quick takeaways
 
-
+* There were very few signups for the concierge advising service. (About 16 in December 2021 , only 1  from Portland.)
+* We consider a 'difference in difference', to compare the year-on-year changes in visits to TLYCS during this period for Portland vs other comparison cities
+* This comparison yields a 'middle estimate cost' of $37.7 additional visitor to the site. This seems relatively expensive. We could look into this further to build a more careful model and consider statistical bounds, if the work was warranted.
 
 ## General idea and main questions
 
@@ -66,23 +68,15 @@ Each video comes with a site-link extension with a Call to Action:
 
 ### Treatment assignment procedure
 
-Uses a YouTube/Google optimization algorithm.
-
-Optimizing for: Advisor form fills (maximizing the probability that a user fills out the linked form)
+We assigned the particular video treatments to audiences using a YouTube/Google optimization algorithm. This chose videos to maximize the probability that a user chose 'Speak to an Advisor' and filled out the linked form.
 
 ### **Outcome data**
 
 * How long people watch for
 * Whether they click through
 * **Whether they fill out the form (Algorithm is serving to optimize this)**
-* What will be collected, when and how
-* Where will the data be stored, who will have access
 
-### **Optional/suggested additions**
 
-Planned analysis methods, preregistration link, IRB link, connection to other projects and promotions.
-
-[https://www.thelifeyoucansave.org/advisor/](https://www.thelifeyoucansave.org/advisor/)
 
 ## Results (simple analysis)
 
