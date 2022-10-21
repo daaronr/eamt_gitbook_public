@@ -21,8 +21,8 @@ In December 2021, TLYCS ran a YouTube advertising campaign in Portland Oregon, i
 ### Quick takeaways
 
 * There were very few signups for the concierge advising service. (About 16 in December 2021 , only 1  from Portland.)
-* We consider a 'difference in difference', to compare the year-on-year changes in visits to TLYCS during this period for Portland vs other comparison cities
-* This comparison yields a 'middle estimate cost' of $37.7 additional visitor to the site. This seems relatively expensive. We could look into this further to build a more careful model and consider statistical bounds, if the work was warranted.
+* We consider a 'difference in difference', to compare the year-on-year changes in visits to TLYCS during this period for Portland vs other comparison cities.
+* This comparison yields a 'middle estimate cost' of $37.7 per additional visitor to the site. This seems relatively expensive. We could look into this further to build a more careful model and consider statistical bounds, if such work was warranted.
 
 ## General idea and main questions
 
