@@ -8,9 +8,9 @@ description: TLYCS ran a campaign in a single city involving 'donation advice'
 
 <summary>Notes on content/building this</summary>
 
-This follows the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention"), edited slightly for public reading.
+This was adapted from  the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention") and edited slightly for public reading (the extra details are in the private gitbook).
 
-We intend to redo and augment much of this analysis in a more transparent way; directly importing the data and doing our own analyses ....rather than Google's built-in tools. We intend to put this within the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/)
+We recoded and augmented this analysis within the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/) More work could be done, if warranted.
 
 </details>
 
