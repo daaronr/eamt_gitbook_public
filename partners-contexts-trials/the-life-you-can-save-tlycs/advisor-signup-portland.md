@@ -72,17 +72,17 @@ We assigned the particular video treatments to audiences using a YouTube/Google 
 
 ### **Outcome data**
 
-* How long people watch for
-* Whether they click through
-* **Whether they fill out the form (Algorithm is serving to optimize this)**
-
-
+* How long people watch the videos for
+* Whether they 'click through'
+* **Whether they fill out the form for advising** (Algorithm is serving to optimize this)
 
 ## Results (simple analysis)
 
 {% hint style="info" %}
 **Note:** we present some more in-depth analyses and graphs in the Quarto [HERE](https://daaronr.github.io/eamt\_data\_analysis/chapters/tlycs\_input\_simple\_analysis.html), along with a code and data pipeline
 {% endhint %}
+
+{% embed url="https://daaronr.github.io/eamt_data_analysis/chapters/tlycs_input_simple_analysis.html" %}
 
 ### Cost per user (first-pass)
 
@@ -135,11 +135,12 @@ The average is 46.5 users in the 2020 period and 64.5 users in the 2021 period, 
 * 162 - 55.9 = 106 (uptick relative to counterfactual)
 * <mark style="color:orange;background-color:red;">**USD 4000 /106 = $37.7 cost per additional user through this ad**</mark>
 
-Note this is a midpoint estimate, not yet given statistical bounds.
+_Note this is a midpoint estimate, we have not yet given statistical bounds._
+
+**In the graph below** (pasted from the Quarto [here](https://daaronr.github.io/eamt\_data\_analysis/chapters/tlycs\_input\_simple\_analysis.html#plotting-the-difference-in-difference)), we show these year-on-year upticks in context.
+
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p><em>Year to year uptick by CIty</em></p></figcaption></figure>
 
 ## Other outcomes
 
 There are very few signups for the concierge advising service. Only about 16 in December 2021 globally, only 1 of which was from Portland.
-
-1. While the number of sessions is higher for the Dec 2021 period than for the Dec 2020 period, this increase is pretty common across cities, Portland doesn’t seem to be an exception.
-2. The statistical bounds on the 'maximum size of the impact of this promotion on site traffic from Portland’ could be quantified should it be deemed important.
