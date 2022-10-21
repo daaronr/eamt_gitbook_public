@@ -21,7 +21,7 @@ In December 2021, TLYCS ran a YouTube advertising campaign in Portland Oregon, i
 ### Quick takeaways
 
 * There were very few signups for the concierge advising service. (About 16 in December 2021 , only 1  from Portland.)
-* We consider a 'difference in difference', to compare the year-on-year changes in visits to TLYCS during this period for Portland vs other comparison cities.
+* We consider a 'difference in difference', to compare the year-on-year changes in _visits to TLYCS_ during this period for Portland vs other comparison cities.
 * This comparison yields a 'middle estimate cost' of $37.7 per additional visitor to the site. This seems relatively expensive. We could look into this further to build a more careful model and consider statistical bounds, if such work was warranted.
 
 ## General idea and main questions
@@ -62,6 +62,11 @@ _these variations were crossed with..._
 
 These are organized and linked [**here**](https://docs.google.com/document/d/1NIXQNZH8O8XajXBpKocpbZ1yT3hblIv8E0vMfNg1J14/edit?pli=1)**.**
 
+{% hint style="info" %}
+**Note/limitation:**\
+Unfortunately, we were not able to track 'which video got more clicks'.
+{% endhint %}
+
 Each video comes with a site-link extension with a Call to Action:
 
 ![](https://lh5.googleusercontent.com/vE-xSY0cH9Y\_L\_4SOGicVc0BM2LJX5V3TPGcRV22EMil6goxm6MtPClHIay083ToIspDmPlNXG0\_8wqSxc6D1UPP0yHHynX5hLsclj6JzfK56Ffa4z5-h6nP6ziymxsS41J\_sxwu)
@@ -72,9 +77,9 @@ We assigned the particular video treatments to audiences using a YouTube/Google 
 
 ### **Outcome data**
 
-* How long people watch the videos for
-* Whether they 'click through'
-* **Whether they fill out the form for advising** (Algorithm is serving to optimize this)
+* How long people watched the videos for
+* **Whether they 'clicked through'**
+* Whether they filled out the form for advising **** (Algorithm is serving to optimize this)
 
 ## Results (simple analysis)
 
@@ -139,7 +144,7 @@ _Note this is a midpoint estimate, we have not yet given statistical bounds._
 
 **In the graph below** (pasted from the Quarto [here](https://daaronr.github.io/eamt\_data\_analysis/chapters/tlycs\_input\_simple\_analysis.html#plotting-the-difference-in-difference)), we show these year-on-year upticks in context.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p><em>Year to year uptick by CIty</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><em>Year to year uptick by CIty</em></p></figcaption></figure>
 
 ## Other outcomes
 

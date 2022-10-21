@@ -41,7 +41,7 @@ Getting people to take the GWWC pledge may be seen as an important outcome on it
 * Too many options may lead to 'indecision paralysis'
 * The signaling power of choice; e.g., if there's a 'more virtuous choice' I may feel that my 'middle choice' looks less good by comparison&#x20;
 
-![](<../../.gitbook/assets/image (1).png>)![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (5).png>)
 
 ## Background and context
 

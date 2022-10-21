@@ -318,7 +318,7 @@ Define your goal as 'conversion', and define what 'conversion' corresponds to in
 
 Here we're choosing 'initiate checkout', which we defined as clicking on a  'create fundraiser' button on the first page of our site (early in the funnel)
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (3).png>)
 
 \
 The warning below might not matter as we&#x20;
