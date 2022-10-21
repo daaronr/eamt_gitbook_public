@@ -2,7 +2,12 @@
 
 Along with GWWC, we tested marketing and messaging themes on Facebook in their [Effective Giving Guide](https://www.givingwhatwecan.org/giving-guide) Facebook Lead campaigns. Across four trials we compared the effectiveness of different types of (1) messages, (2) videos, and (3) targeted audiences.
 
-A summary of this has been shared as a [post](https://forum.effectivealtruism.org/posts/nhbeKbwMgFKfrzLNb/marketing-messages-trial-for-gwwc-giving-guide-campaign) on the EA Forum.
+A summary of this has been shared as a [post](https://forum.effectivealtruism.org/posts/nhbeKbwMgFKfrzLNb/marketing-messages-trial-for-gwwc-giving-guide-campaign) on the EA Forum:
+
+{% embed url="https://forum.effectivealtruism.org/posts/nhbeKbwMgFKfrzLNb/marketing-messages-trial-for-gwwc-giving-guide-campaign" %}
+\
+
+{% endembed %}
 
 <details>
 

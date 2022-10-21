@@ -10,7 +10,7 @@ description: >-
 
 <details>
 
-<summary><em>How does OftW differ from others in this space?</em></summary>
+<summary><em>How does OftW  differ from others in this space?</em></summary>
 
 Chloe: Focus on youth and university students at a pivotal point in their life
 
@@ -22,8 +22,8 @@ Luke: Narrow focus on one type of charities: global health and poverty
 
 </details>
 
-* OftW has a donor base of \~700 active donors, \~1650 pledged donors (who pledged but haven't started donating yet) and \~2000 lapsed donors.&#x20;
-* 80% (of donors?) are in the USA
+* OFTW has a donor base of \~700 active donors, \~1650 pledged donors (who pledged but haven't started donating yet) and \~2000 lapsed donors.&#x20;
+* 80 percent (of donors?) are in the USA
 * Focus on global health charities
 * They focus on donations to GiveWell charities ... but technically OftW pledgers can give to any 510c3
 
@@ -34,7 +34,7 @@ Luke: Narrow focus on one type of charities: global health and poverty
 * **Activating** more donors who took the pledge at university, so their donations actually start;
 * **Retaining** donors for longer once they activate;
 * **Upselling** donors to give more over time (either more as a raw amount, e.g. 'keeping pace' at 1% of their income; or more as a percentage, e.g. 'graduating' to take the 10% GWWC pledge)
-* **Acquiring** new donors with fewer touchpoints, e.g. via online advertising, via our website etc. (we currently get \~0 organic sign-ups)
+* **Acquiring** new donors with fewer touchpoints, e.g. via online advertising, via our website etc. (we currently get \~0 organic sign ups)
 
 [Chloe's OKRs Notion](https://aquamarine-tennis-e2f.notion.site/Chlo-s-OKRs-eb3e27f1356f4bf28829817a3f44e50d)
 
@@ -44,7 +44,7 @@ Luke: Narrow focus on one type of charities: global health and poverty
 
 1. **Pledgers**
 2. **Active donors, i.e., "Activated pledgers"** (Chloe is thinking of segments to this and how to appeal to them)
-   1. Second tier -- people who have given each month for 12+ months; "Legacy donors" (DR: maybe 1x per year high-value donors should be in this group)
+   1. Second tier -- people who have given each months for 12+ months; "Legacy donors" (DR: maybe 1x per year high-value donors should be in this group)
 3. One-time donors (these may or may not be pledgers)
 4. Cancelled
 5. Payment failures
@@ -68,9 +68,9 @@ Luke: Narrow focus on one type of charities: global health and poverty
 ### **Communications contexts**
 
 * Platforms: Social media, email flows
-* Telling stories in a corporate context
+* Telling stories in corporate context
 
-Typical audiences have been students and young professionals, but there is interest in corporate outreach
+Typical audience have been students and young professionals, but there is interest in corporate outreach
 
 * Zoom and **lunchtime talks in corporate contexts** (How many? Seems very promising!)
   * How many people are activating/pledging following these lunch+learn?

@@ -1,10 +1,8 @@
 ---
-description: TLYCS ran a campaign in single city involving 'donation advice'
+description: TLYCS ran a campaign in a single city involving 'donation advice'
 ---
 
 # Advisor signup (Portland)
-
-A number of ads were shown to a select demographic in Portland to see if YouTube Ads could get people to sign up for donation advice or increase their engagement with TLYCS, whilst simultaneously raising awareness for TLYCS.
 
 <details>
 
@@ -18,11 +16,17 @@ We intend to redo and augment much of this analysis in a more transparent way; d
 
 ## Summary of trial and results
 
-## General idea and main hypothesis
+In December 2021, TLYCS ran a YouTube advertising campaign in Portland Oregon, involving ‘donation advice’. The top 10% household-income households were targeted with (one of) three categories of videos.
 
-**TLYCS**_:_ To get people to click on the ad and go to the 'landing page' of TLYCS. Here, they will fill out [a form](https://www.thelifeyoucansave.org/advisor/) to request an appointment with a donation advisor. We will simultaneously be raising awareness for TLYCS.
+### Quick takeaways
 
-**General**_:_
+
+
+## General idea and main questions
+
+**Specific goal of TLYCS promotion**_:_ To get people to click on the ad and go to the 'landing page' of TLYCS. Here, they will fill out [a form](https://www.thelifeyoucansave.org/advisor/) to request an appointment with a donation advisor. We will simultaneously be raising awareness for TLYCS.
+
+**General questions**_:_
 
 1. Can we get people to sign up for donation advice using videos in YouTube Ads?
    * How many sign-up and what sorts of people?
@@ -46,7 +50,7 @@ Exposure to a sequence of nine versions of YouTube ad videos. Frequency cap: 6/w
 
 **Three main 'theme/header' variations (similar, slightly different phrasings)**
 
-_interacted with..._
+_these variations were crossed with..._
 
 **Three categories of videos** within each theme:
 
@@ -82,9 +86,13 @@ Planned analysis methods, preregistration link, IRB link, connection to other pr
 
 ## Results (simple analysis)
 
+{% hint style="info" %}
+**Note:** we present some more in-depth analyses and graphs in the Quarto [HERE](https://daaronr.github.io/eamt\_data\_analysis/chapters/tlycs\_input\_simple\_analysis.html), along with a code and data pipeline
+{% endhint %}
+
 ### Cost per user (first-pass)
 
-_**A first pass and upper bound on impact and (lower bound on) cost/session**_
+A first pass and upper bound on impact and (lower bound on) cost/session
 
 \
 **Assumptions/data interpretations**
