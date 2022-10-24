@@ -37,6 +37,10 @@ Workshop: a guided discussion ... why do you give etc. "I want to help more" etc
 
 </details>
 
+{% hint style="info" %}
+**Next to consider: "**Opportunities" (to 'do', measure, learn) ... we should make an inventory here
+{% endhint %}
+
 \
 Discussion space
 ----------------
