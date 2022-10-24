@@ -23,7 +23,8 @@
 * [Charities/fundraisers and impact information](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
-* [University groups](contexts-partner-organizations-trials/university-groups-promotion.md)
+* [University/city groups](contexts-partner-organizations-trials/university-groups-promotion.md)
+* [Workplaces/orgs](partners-contexts-trials/workplaces-orgs.md)
 * [Other partners](contexts-partner-organizations-trials/other.md)
 
 ## 🪧 Marketing & testing: opportunities, tools, tips
