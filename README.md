@@ -22,8 +22,7 @@ We track, organize, and share what we have learned with the EA community, buildi
 * What [motivates/blocks effective giving](https://daaronr.github.io/ea\_giving\_barriers/)?&#x20;
 * What [profiles of people are](broken-reference) most likely to be interested in effective altruism? &#x20;
 
-We strive to be transparent. We want to report and share our data, procedures, code, and evidence without overselling the results.\
-
+We strive to be transparent. We want to report and share our data, procedures, code, and evidence without overselling the results.
 
 ## What is our mission?
 
@@ -37,11 +36,7 @@ _We are moving towards a heightened focus on_&#x20;
 2. [Transparent presentation](https://daaronr.github.io/eamt\_data\_analysis/) of the results, rigorous statistical analysis&#x20;
 3. Synthesizing, sharing, and communicating this knowledge and skills base
 
-
-
-
-
-
+_This work provides substantial public goods, whose benefit is shared among the partner organizations and the EA community._
 
 {% hint style="info" %}
 _**Watch this space:**_ We will be discussing our new approach here shortly, as well as differentiating what we do from the organizations listed below.
