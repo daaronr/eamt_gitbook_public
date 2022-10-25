@@ -29,7 +29,19 @@ We strive to be transparent. We want to report and share our data, procedures, c
 
 ### October 2022 note: Updating and pivoting; other orgs
 
-As EAMT has progressed, we have encouraged others to do work and pursue initiatives in the 'space' of studying EA messaging, and marketing EA and effective giving. We hope that the resources we have provided, and the connections we have made have contributed to this. As the space changes the EAMT mission, scope, and activities is adjusting as well.&#x20;
+As EAMT has progressed, we have encouraged others to do work and pursue initiatives in the 'space' of studying EA messaging, and marketing EA and effective giving. We hope that the resources we have provided, and the connections we have made have contributed to this. As the space changes, the EAMT mission, scope, and activities are adjusting as well.&#x20;
+
+_We are moving towards a heightened focus on_&#x20;
+
+1. Advising, proposing, and helping to design and coordinate experiments, trials, and initiatives.
+2. [Transparent presentation](https://daaronr.github.io/eamt\_data\_analysis/) of the results, rigorous statistical analysis&#x20;
+3. Synthesizing, sharing, and communicating this knowledge and skills base
+
+
+
+
+
+
 
 {% hint style="info" %}
 _**Watch this space:**_ We will be discussing our new approach here shortly, as well as differentiating what we do from the organizations listed below.
@@ -38,16 +50,10 @@ _**Watch this space:**_ We will be discussing our new approach here shortly, as 
 #### Other relevant/new organizations and initiatives&#x20;
 
 * [#other-marketing-implementation-resources](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/#other-marketing-implementation-resources "mention") (including 'User Friendly', 'Good Impressions' and 'Altruistic Agency' )
-* Giving What We Can '[Bequests](https://www.givingwhatwecan.org/get-involved/bequests)' (a project we are encouraging and advising)
+* Giving What We Can '[Bequests](https://www.givingwhatwecan.org/get-involved/bequests)' (a project we have encouraged and advised)
 * [Effective Altruism Psychology Lab (NYU)](https://www.eapsychology.org/members)
 * Effective Giving Collaboration and Summit
 * _More to be added here_
-
-{% embed url="https://www.givingwhatwecan.org/get-involved/bequests" %}
-
-
-
-
 
 ### We believe this is the first organized collaboration of its kind. We aim to:
 
