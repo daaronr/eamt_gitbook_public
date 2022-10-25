@@ -40,6 +40,7 @@ _**Watch this space:**_ We will be discussing our new approach here shortly, as 
 * [#other-marketing-implementation-resources](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/#other-marketing-implementation-resources "mention") (including 'User Friendly', 'Good Impressions' and 'Altruistic Agency' )
 * Giving What We Can '[Bequests](https://www.givingwhatwecan.org/get-involved/bequests)' (a project we are encouraging and advising)
 * [Effective Altruism Psychology Lab (NYU)](https://www.eapsychology.org/members)
+* Effective Giving Collaboration and Summit
 * _More to be added here_
 
 {% embed url="https://www.givingwhatwecan.org/get-involved/bequests" %}
