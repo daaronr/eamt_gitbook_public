@@ -27,6 +27,27 @@ We strive to be transparent. We want to report and share our data, procedures, c
 
 ## What is our mission?
 
+### October 2022 note: Updating and pivoting; other orgs
+
+As EAMT has progressed, we have encouraged others to do work and pursue initiatives in the 'space' of studying EA messaging, and marketing EA and effective giving. We hope that the resources we have provided, and the connections we have made have contributed to this. As the space changes the EAMT mission, scope, and activities is adjusting as well.&#x20;
+
+{% hint style="info" %}
+_**Watch this space:**_ We will be discussing our new approach here shortly, as well as differentiating what we do from the organizations listed below.
+{% endhint %}
+
+#### Other relevant/new organizations and initiatives&#x20;
+
+* [#other-marketing-implementation-resources](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/#other-marketing-implementation-resources "mention") (including 'User Friendly', 'Good Impressions' and 'Altruistic Agency' )
+* Giving What We Can '[Bequests](https://www.givingwhatwecan.org/get-involved/bequests)' (a project we are encouraging and advising)
+* [Effective Altruism Psychology Lab (NYU)](https://www.eapsychology.org/members)
+* _More to be added here_
+
+{% embed url="https://www.givingwhatwecan.org/get-involved/bequests" %}
+
+
+
+
+
 ### We believe this is the first organized collaboration of its kind. We aim to:
 
 * Coalesce our understanding and evidence on barriers and facilitators of effective altruism, effective giving, and effective action
@@ -48,9 +69,7 @@ For an overview of our progress and ongoing work, see the ['progress and results
 
 {% embed url="https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit" %}
 
-_Note that we cannot publicly share details of ongoing and upcoming trials._ _We aim to share the results when it is possible._&#x20;
-
-(We aim to integrate shareable aspects of [this private doc.](https://docs.google.com/document/d/1w9kUiJguWZx4EIvGBd7l0qMTJHWdlHV5z-pvKcdNPOA/edit))
+_Note that we cannot publicly share details of ongoing and upcoming trials._ _We aim to share the results when it is possible.  We aim to integrate shareable aspects of_ [_this private doc._](https://docs.google.com/document/d/1w9kUiJguWZx4EIvGBd7l0qMTJHWdlHV5z-pvKcdNPOA/edit)__
 
 {% hint style="info" %}
 For a data-driven dynamic document covering (some of) our trials and evidence see [HERE.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)

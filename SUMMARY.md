@@ -30,7 +30,7 @@
 ## 🪧 Marketing & testing: opportunities, tools, tips
 
 * [Testing Contexts: Overview](marketing-and-testing-opportunities-tools-tips/environments-and-plans/future-avenues.md)
-* [Implementing ads, messages, and designs](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/README.md)
+* [Implementing ads, messages, designs](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/README.md)
   * [Doing and funding ads](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads/README.md)
     * [WIP... 'Cost of ads' - benchmarks](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads/wip...-cost-of-ads-benchmarks.md)
   * [Video ads/Best-practice guidelines](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
