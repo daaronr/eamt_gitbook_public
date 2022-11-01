@@ -8,6 +8,8 @@ EA seeks to amplify its impact through _movement-building._ Organizations like 8
 
 {% embed url="https://centreforeffectivealtruism.notion.site/UGAP-s-Outreach-Handbook-6eca98516a5d4151b50a492fccfe24ec" %}
 
+Also see the links to extensive guides and reports from university and regional groups below.
+
 ## Our collaborative goals
 
 Currently, university EA groups operate in conjunction with the Centre for Effective Altruism, but with high levels of autonomy. There is only limited collaboration between groups. Such collaboration could allow them to achieve economies of scale and scope, run more systematic and powerful trials, and share insights and methods that increase student engagement. The EAMT hopes to help coordinate this, consolidate the evidence, and provide accessible tools to newly-formed groups. We want to help avoid repeating errors and 'reinventing the wheel' each time.
@@ -45,25 +47,25 @@ The first component gives insight into priorities and progress. The second can h
 
 See especially: ["Events and outreach"](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020#Events\_and\_outreach)
 
-### 80 000 Hours
+### 80,000 Hours
 
-80 000 Hours is actively targeting university students and offering them guidance on high-impact career paths. _(see private Gitbook)_
+80,000 Hours is actively targeting university students and offering them guidance on high-impact career paths. _(see private Gitbook)_
 
 ### **Further outreach**
 
 _There are some further initiatives in this area but most of the material cannot be shared at the moment (see private Gitbook)._
 
-## Independent group testing
+__
 
-An area for documents, trials and knowledge currently being gathered by different EA groups.
+## Independent group testing and coordination
 
-_As we increase our collaboration with these groups, these trials, ideas and documents will become integrated with the Gitbook and EAMT's work, forming a basis for future work and testing._
+In this section, we are putting together documents, trials and knowledge currently being gathered by different EA groups. _As we increase our collaboration with these groups, these trials, ideas and documents will become integrated with the Gitbook and EAMT's work, forming a basis for future work and testing._
 
 ### Columbia University (CUEA)
 
 1.  [Columbia EA Experiments](https://docs.google.com/document/d/1wzJm71sUO4Y5Hgh14gWjtBQKzRyIUEmh1ZX6Ry7pwaw/edit)
 
-    Current and potential 'trials' being run by Dave Banerjee and the Columbia EA team. The document provides a good basis for future testing across different universities beyond Columbia. With our collaboration they can become formalised with outcome data and control trials.
+    Current and potential 'trials' being run by Dave Banerjee and the Columbia EA team. The document provides a good basis for future testing across different universities beyond Columbia. We hope to work with them to gain insight from these trials, tracking relevant outcome data and measuring differences from comparison group.
 2.  [Columbia EA Master Marketing Guide](https://docs.google.com/document/d/1marDZUHn1AUBR4mRlM-BKyUSDV\_P5V\_6U9S8tVtBePI/edit#heading=h.nmt7y1dgudhm)
 
     This guide summarizes the marketing strategy of CUEA. Their methods (a few formal trials and a lot of anecdotal knowledge) have been synthesised here. Provides a basis for other universities to market themselves in conjunction with [UGAP’s Outreach Guide](https://debonair-makemake-89e.notion.site/Outreach-Handbook-a6a0e8e059554a2193b85c1aa0cf7cc3).
