@@ -1,4 +1,4 @@
-# University groups
+# University/city groups
 
 EA seeks to amplify its impact through _movement-building._ Organizations like 80000 Hours and CEA are [putting substantial resources](https://80000hours.org/problem-profiles/promoting-effective-altruism/) into developing and expanding the EA community. Building EA groups has been at the core of this agenda, especially in elite and influential places (such as top universities).  Key aims include 'creating highly engaged EAs' and encouraging people to pursue impactful careers. &#x20;
 
@@ -17,7 +17,7 @@ Currently, university EA groups operate in conjunction with the Centre for Effec
 The efforts and experience of individual EA groups can provide contextual evidence and insights. The EAMT aims to aggregate this knowledge, find generalizable principles, and disseminate this to the wider EA community. We are focused on meaningful medium-term outcomes, e.g.:
 
 1. Membership and participation in EA organizations, and markers of post-university involvement
-2. How career plans are impacted (_focusing on particular programs and paths.)_
+2. How career plans are impacted (_focusing on particular programs and paths)_
 3. How research and discourse at universities can be influenced
 
 ## Relevant organizations and programs
@@ -36,7 +36,7 @@ CEA has [discontinued its focus on university programming](https://forum.effecti
 
 ### EA Group Organizers Survey
 
-The [EA Group Organizers Survey (2020) ](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020)  is a collaboration between CEA and Rethink Priorities. It analyzes the changes in EA groups yearly, with two main components:&#x20;
+The [EA Group Organizers Survey (2020)](https://forum.effectivealtruism.org/posts/Q4aF9T5PuBM2akxp6/ea-groups-survey-2020) is a collaboration between CEA and Rethink Priorities. It analyzes the changes in EA groups yearly, with two main components:&#x20;
 
 1. The growth and composition of EA groups and their activities
 2. The opinions of the group's status from the organizer's point of view
@@ -53,15 +53,41 @@ See especially: ["Events and outreach"](https://forum.effectivealtruism.org/post
 
 _There are some further initiatives in this area but most of the material cannot be shared at the moment (see private Gitbook)._
 
-## Student-led: University of Chicago
+## Independent group testing
 
-_(see work in private Gitbook)_
+An area for documents, trials and knowledge currently being gathered by different EA groups.
 
-__
+_As we increase our collaboration with these groups, these trials, ideas and documents will become integrated with the Gitbook and EAMT's work, forming a basis for future work and testing._
+
+### Columbia University (CUEA)
+
+1.  [Columbia EA Experiments](https://docs.google.com/document/d/1wzJm71sUO4Y5Hgh14gWjtBQKzRyIUEmh1ZX6Ry7pwaw/edit)
+
+    Current and potential 'trials' being run by Dave Banerjee and the Columbia EA team. The document provides a good basis for future testing across different universities beyond Columbia. With our collaboration they can become formalised with outcome data and control trials.
+2.  [Columbia EA Master Marketing Guide](https://docs.google.com/document/d/1marDZUHn1AUBR4mRlM-BKyUSDV\_P5V\_6U9S8tVtBePI/edit#heading=h.nmt7y1dgudhm)
+
+    This guide summarizes the marketing strategy of CUEA. Their methods (a few formal trials and a lot of anecdotal knowledge) have been synthesised here. Provides a basis for other universities to market themselves in conjunction with [UGAP’s Outreach Guide](https://debonair-makemake-89e.notion.site/Outreach-Handbook-a6a0e8e059554a2193b85c1aa0cf7cc3).
+3. [Summer 2022 Marketing Report](https://docs.google.com/document/d/150PJSBmcx7SJNwTePxV-ioOLwP8FiY4aKWUNdCe4Nc0/edit)
+4. [Spring 2022 Marketing Report](https://docs.google.com/document/d/18puc673IfSqK-D9v3ul5olV7y9PsfbMFgakMYbq1n44/edit)
+
+### Stanford University
+
+_Awaiting response from Stanford EA._
+
+### University of Chicago
+
+_Currently limited to private Gitbook._
+
+### EA Israel
+
+[EA Israel's Strategy Document](https://docs.google.com/document/d/1UoAdSID0crufgE6S\_vLWxu8huCj0L1snCnbYSZygPCk/edit?usp=sharing)\
+This discusses their strategy in-depth. A lot of their findings are not specific to Israel or country-wide EA groups. Useful as a resource for EA groups.
+
+_Useful findings will be synthesised and integrated here in the future._
 
 ## Work in progress
 
-Mapping [the funnel here (preliminary)](https://docs.google.com/document/d/19jyPub9GwbOiZ2IPgR74j5-uttrTgYgQNkBhCJCrYDY/edit)
+Mapping [the funnel here (preliminary)](https://docs.google.com/document/d/19jyPub9GwbOiZ2IPgR74j5-uttrTgYgQNkBhCJCrYDY/edit).
 
 
 
