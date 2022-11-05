@@ -22,12 +22,12 @@ Giving What We Can (GWWC) has three giving pledge options, displayed in the 'Ori
 
 From April-July 2021 they ran a trial presenting its 'pledge page' options in three slightly different ways. Considering 'clicks on any button' as the outcome, and a Bayesian 'preponderance of evidence' standard...
 
-* "_Separate Bullets for Other Pledges"_: \_\_ The most successful presentation only showed a box for "The Pledge", with the other options given in less prominent bullet points below. This had about a 20% higher incidence rate than the _Original_ presentation.
-* _Pledge before Try Giving was_ the _least_ successful presentation this was like the one displayed above, but with "Try Giving" in the central position. This had about a 23% lower incidence rate than the _Original_ presentation.
+* "_Separate Bullets for Other Pledges"_ was the _most_ successful presentation. It only showed a box for "The Pledge", with the other options given in less prominent bullet points below. This had about a 20% higher incidence rate than the _Original_ presentation.
+* _"Pledge before Try Giving"_ was the _least_ successful presentation this was like the one displayed above, but with "Try Giving" in the central position. This had about a 23% lower incidence rate than the _Original_ presentation.
 
-_These results may only apply narrowly to the GWWC pledge_ case, and even here, we have some [caveats](pledge-page-options-trial.md#caveats).  However, it loosely suggests that _**when making a call to action, it may be most effective to present the most well-known and expected option most prominently, and not to emphasize the range of choices.**_ (See further [discussion](pledge-page-options-trial.md#intuitive-interpretation) below.)
+These results may only apply narrowly to the GWWC pledge case, and even here, we have some [caveats](pledge-page-options-trial.md#caveats). However, it loosely suggests that _****_** when making a call to action, it may be most effective to present the most well-known and expected option most prominently, and not to emphasize the range of choices **_****_ (see further [discussion](pledge-page-options-trial.md#intuitive-interpretation) below).
 
-Getting people to take the GWWC pledge may be seen as an important outcome on its own. It may have a causal impact (see some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_)) on getting people into and engaged in the Effective Altruism community and other EA activities, such as EA career impact decisions.
+Getting people to take the GWWC pledge may be seen as an important outcome on its own. It may have a causal impact (see some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_)) on getting people engaged in the Effective Altruism community and other EA activities, such as EA career impact decisions.
 
 ## General idea and main hypothesis
 
@@ -41,21 +41,19 @@ Getting people to take the GWWC pledge may be seen as an important outcome on it
 * Too many options may lead to 'indecision paralysis'
 * The signaling power of choice; e.g., if there's a 'more virtuous choice' I may feel that my 'middle choice' looks less good by comparison&#x20;
 
-![](<../../.gitbook/assets/image (1).png>)![](../../.gitbook/assets/image.png)
-
-
+![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (5).png>)
 
 ## Background and context
 
 **GWWC has three distinct pledge options, as shown above**
 
-1\. Try Giving (1% of income),
+1\. "Try Giving" (1% of income),
 
-2\. "The Pledge" (10%), and
+2\. "The Pledge" (10% of income)
 
 3\. The "Further Pledge" (donate all income above a living allowance).
 
-These can be seen, e.g., on the 'pledge page' [HERE (wayback machine link](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/) October 2020). Following 'become a member' takes you to this 'Take a Pledge' page ([`https://www.givingwhatwecan.org/pledge/`](https://www.givingwhatwecan.org/pledge/)),
+These can be seen on the 'pledge page' [here ](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/)(link from October 2020). Following 'become a member' takes you to this 'Take a Pledge' page ([`https://www.givingwhatwecan.org/pledge/`](https://www.givingwhatwecan.org/pledge/)),
 
 ... there may be other ways into this page as well.
 
@@ -280,7 +278,7 @@ _**For 'Pledge before...' we can state, e.g.,**_
 
 Perhaps giving people more options makes them indecisive. They may be particularly reluctant to choose a “relatively ambitious giving pledge” if a less ambitious option is highlighted.
 
-This could also involve issues of self and social- signaling; if the 'main thing' to do is 10% (as in "separate _bullets_", then this may seem a straightforward way of conveying 'I am generous'. On the other hand, if the 'Further pledge' is fairly prominent, perhaps the signal feels less positive. And if the '1% pledge' is made central, 10% might seem more than a necessary signal.
+This could also involve issues of self and social signaling. If the 'main thing' to do is 10% (as in "separate bullets"), then this may seem a straightforward way of conveying 'I am generous'. On the other hand, if the 'Further pledge' is fairly prominent, perhaps the signal feels less positive. And if the '1% pledge' is made central, 10% might seem more than a necessary signal.
 
 The "pledge before try giving" may perform the worst because it makes the 'Try Giving' pledge a particularly salient alternative option. (In contrast, the "Original" at least makes 'The 10% Pledge' the central and the middle option.)
 

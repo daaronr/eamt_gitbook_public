@@ -45,7 +45,7 @@ Here I add a filter for 'campaign name **'** contains 'general'. Because I'm spe
 \
 For example, if I tick 'Gender' I cannot have it broken down by 'Image, video, and slideshow', at least in the present case ... (perhaps because it narrows down too few observations?) &#x20;
 
-![](<../../../.gitbook/assets/image (5) (3).png>) \
+![](<../../../.gitbook/assets/image (5) (3) (1).png>) \
 \
 
 {% endhint %}

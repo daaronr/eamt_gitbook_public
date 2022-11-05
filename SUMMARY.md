@@ -7,7 +7,7 @@
 * [📖 Posts and writings](overview-ea-forum-post.md)
 * [👋 Meet the team](our-team-and-resources.md)
 
-## 🤝 Partner Orgs, Trials
+## 🤝 Partners, contexts, trials
 
 * [Introduction](contexts-partner-organizations-trials/section-introduction.md)
 * [Giving What We Can](contexts-partner-organizations-trials/gwwc/README.md)
@@ -18,16 +18,19 @@
 * [One For the World (OftW)](contexts-partner-organizations-trials/one-for-the-world-oftw/README.md)
   * [Pre-giving-tues. email A/B](contexts-partner-organizations-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/README.md)
     * [Preregistration: OftW pre-GT](contexts-partner-organizations-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
+* [The Life You Can Save (TLYCS)](partners-contexts-trials/the-life-you-can-save-tlycs/README.md)
+  * [Advisor signup (Portland)](partners-contexts-trials/the-life-you-can-save-tlycs/advisor-signup-portland.md)
 * [Charities/fundraisers and impact information](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
-* [University groups](contexts-partner-organizations-trials/university-groups-promotion.md)
+* [University/city groups](contexts-partner-organizations-trials/university-groups-promotion.md)
+* [Workplaces/orgs](partners-contexts-trials/workplaces-orgs.md)
 * [Other partners](contexts-partner-organizations-trials/other.md)
 
 ## 🪧 Marketing & testing: opportunities, tools, tips
 
 * [Testing Contexts: Overview](marketing-and-testing-opportunities-tools-tips/environments-and-plans/future-avenues.md)
-* [Implementing ads, messages, and designs](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/README.md)
+* [Implementing ads, messages, designs](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/README.md)
   * [Doing and funding ads](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads/README.md)
     * [WIP... 'Cost of ads' - benchmarks](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads/wip...-cost-of-ads-benchmarks.md)
   * [Video ads/Best-practice guidelines](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
