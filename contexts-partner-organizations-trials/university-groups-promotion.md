@@ -63,7 +63,7 @@ In this section, we are putting together documents, trials and knowledge current
 
 ### Columbia University (CUEA)
 
-1.  [Columbia EA Experiments](https://docs.google.com/document/d/1wzJm71sUO4Y5Hgh14gWjtBQKzRyIUEmh1ZX6Ry7pwaw/edit)
+1.  [Columbia EA Experiments](https://docs.google.com/document/d/1HnDGkafYAMhzOxSkp3OS9YRsqQi1hnf4XFzdye\_nwQs/edit)
 
     Current and potential 'trials' being run by Dave Banerjee and the Columbia EA team. The document provides a good basis for future testing across different universities beyond Columbia. We hope to work with them to gain insight from these trials, tracking relevant outcome data and measuring differences from comparison group.
 2.  [Columbia EA Master Marketing Guide](https://docs.google.com/document/d/1marDZUHn1AUBR4mRlM-BKyUSDV\_P5V\_6U9S8tVtBePI/edit#heading=h.nmt7y1dgudhm)
@@ -71,6 +71,10 @@ In this section, we are putting together documents, trials and knowledge current
     This guide summarizes the marketing strategy of CUEA. Their methods (a few formal trials and a lot of anecdotal knowledge) have been synthesised here. Provides a basis for other universities to market themselves in conjunction with [UGAP’s Outreach Guide](https://debonair-makemake-89e.notion.site/Outreach-Handbook-a6a0e8e059554a2193b85c1aa0cf7cc3).
 3. [Summer 2022 Marketing Report](https://docs.google.com/document/d/150PJSBmcx7SJNwTePxV-ioOLwP8FiY4aKWUNdCe4Nc0/edit)
 4. [Spring 2022 Marketing Report](https://docs.google.com/document/d/18puc673IfSqK-D9v3ul5olV7y9PsfbMFgakMYbq1n44/edit)
+
+### Cambridge University
+
+[Brief summary](https://docs.google.com/document/d/1h62tC2UHSWlJ0fRxgvqSW6bIP1dIkx9hed5KDRzNOas/edit?usp=sharing) of their outreach methods and operations.&#x20;
 
 ### Stanford University
 
