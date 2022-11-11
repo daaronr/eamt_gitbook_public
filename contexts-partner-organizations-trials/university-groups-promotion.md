@@ -1,6 +1,6 @@
 # University/city groups
 
-EA seeks to amplify its impact through _movement-building._ Organizations like 80000 Hours and CEA are [putting substantial resources](https://80000hours.org/problem-profiles/promoting-effective-altruism/) into developing and expanding the EA community. Building EA groups has been at the core of this agenda, especially in elite and influential places (such as top universities).  Key aims include 'creating highly engaged EAs' and encouraging people to pursue impactful careers. &#x20;
+EA seeks to amplify its impact through _movement-building._ Organizations like 80,000 Hours and CEA are [putting substantial resources](https://80000hours.org/problem-profiles/promoting-effective-altruism/) into developing and expanding the EA community. Building EA groups has been at the core of this agenda, especially in elite and influential places (such as top universities).  Key aims include 'creating highly engaged EAs' and encouraging people to pursue impactful careers. &#x20;
 
 ## Resources and tips
 
