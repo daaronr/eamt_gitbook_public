@@ -61,6 +61,12 @@ __
 
 In this section, we are putting together documents, trials and knowledge currently being gathered by different EA groups. _As we increase our collaboration with these groups, these trials, ideas and documents will become integrated with the Gitbook and EAMT's work, forming a basis for future work and testing._
 
+__
+
+### UGAP data tracking &#x20;
+
+{% embed url="https://outreach-handbook.notion.site/UGAP-Data-Tracking-Pilot-dc56d3236eb94d7eb70339176985a423" %}
+
 ### Columbia University (CUEA)
 
 1.  [Columbia EA Experiments](https://docs.google.com/document/d/1HnDGkafYAMhzOxSkp3OS9YRsqQi1hnf4XFzdye\_nwQs/edit)
