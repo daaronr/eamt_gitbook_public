@@ -54,6 +54,7 @@
   * [Facebook split-testing issues](methodological-discussion/splits-randomization/facebook-split-testing-etc.md)
 * [Simple quant design issues](methodological-discussion/simple-quant-design.md)
 * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
+* ['Observational' studies: misc. issues](methodological-discussion/observational-studies-misc.-issues.md)
 * [Analysis: Statistical approaches](methodological-discussion/analysis-statistical-approaches.md)
 
 ## 🧮 Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
