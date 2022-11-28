@@ -31,9 +31,9 @@
 
 * [Testing Contexts: Overview](marketing-and-testing-opportunities-tools-tips/environments-and-plans/future-avenues.md)
 * [Implementing ads, messages, designs](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/README.md)
-  * [Doing and funding ads](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads/README.md)
-    * [Facebook](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads/wip...-cost-of-ads-benchmarks.md)
+  * [Doing and funding ads](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
   * [Video ads/Best-practice guidelines](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
+  * [Facebook](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/wip...-cost-of-ads-benchmarks.md)
   * [Targeted ad on FB, with variations: setup](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
 * [Collecting outcome data](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/README.md)
   * [Facebook ads interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface/README.md)

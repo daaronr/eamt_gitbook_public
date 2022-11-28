@@ -4,9 +4,9 @@ description: >-
   these and making reliable inferences -- see subsections below
 ---
 
-# Implementing ads, messages, and designs
+# Implementing ads, messages, designs
 
-[doing-and-funding-ads](doing-and-funding-ads/ "mention")
+[doing-and-funding-ads.md](doing-and-funding-ads.md "mention")
 
 [best-practice-guidelines.md](best-practice-guidelines.md "mention")
 

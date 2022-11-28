@@ -57,8 +57,8 @@ If you run a lot of ads FB will assign you external consultant helpers. They are
 
 ## Other links and issues
 
-[facebook-meta-ads-interface](../../collecting-data-trial-outcomes/facebook-meta-ads-interface/ "mention") (collecting data)
+[facebook-meta-ads-interface](../collecting-data-trial-outcomes/facebook-meta-ads-interface/ "mention") (collecting data)
 
-[facebook-split-testing-etc.md](../../../methodological-discussion/splits-randomization/facebook-split-testing-etc.md "mention")
+[facebook-split-testing-etc.md](../../methodological-discussion/splits-randomization/facebook-split-testing-etc.md "mention")
 
 [Facebook Fundraiser API   ](https://developers.facebook.com/docs/fundraiser-api/integrate#create\_fundraiser)Seems particularly useful but access is limited; they hope to make it more generally available some thing like mid- spring 2023.
