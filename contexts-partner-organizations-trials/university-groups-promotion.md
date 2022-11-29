@@ -49,7 +49,7 @@ See especially: ["Events and outreach"](https://forum.effectivealtruism.org/post
 
 ### 80,000 Hours
 
-80,000 Hours is actively targeting university students and offering them guidance on high-impact career paths. _(see private Gitbook)_
+80,000 Hours is actively targeting university students and offering them guidance on high-impact career paths. _(see private Gitbook, if you have access)_
 
 ### **Further outreach**
 
@@ -61,20 +61,30 @@ __
 
 In this section, we are putting together documents, trials and knowledge currently being gathered by different EA groups. _As we increase our collaboration with these groups, these trials, ideas and documents will become integrated with the Gitbook and EAMT's work, forming a basis for future work and testing._
 
-__
+### Funnel Map
+
+We are preparing [a basic outline](https://docs.google.com/document/d/19jyPub9GwbOiZ2IPgR74j5-uttrTgYgQNkBhCJCrYDY/edit?usp=sharing) of the 'funnel' process for EA groups (more specifically university groups). This funnel map is our basic understanding of the processes used to draw in new members to EA university groups and fellowships, and how members progress through different stages of engagement. Each of these stages gives us grounds for testing through the different variations of these approaches. This is not just about testing which methods work for attracting the highest number of new members (i.e., which 'call to action' to use at activity fairs, etc), but also increasing engagement and developing high-level EAs (i.e., fellowship program alternatives, discussion group topics, etc).
+
+![](https://lh3.googleusercontent.com/Ejzre\_vWaSHu7kop6foPVTSnE6X9TQzy\_101noWUjqgAxS4W1w43DIo4hL0uLDq5TgZDPCte943SMJSf-okYMpCT0nJHQ55lgzFKU1wESsPZ4HOtSRsbhEfrM0fmxZT-IS5bxuqowxy16yg\_DjeMbUTbcZc3s-XlDWkZhEd3\_MO\_wF87PsDoSCrRGjM42g)
+
+(Above: preview of funnel map; [see Google Doc](https://docs.google.com/document/d/19jyPub9GwbOiZ2IPgR74j5-uttrTgYgQNkBhCJCrYDY/edit?usp=sharing) for full description and work in progress)&#x20;
+
+
 
 ### UGAP data tracking &#x20;
 
 {% embed url="https://outreach-handbook.notion.site/UGAP-Data-Tracking-Pilot-dc56d3236eb94d7eb70339176985a423" %}
+Max's preliminary work on tracking outreach data for university groups.
+{% endembed %}
 
 ### Columbia University (CUEA)
 
 1.  [Columbia EA Experiments](https://docs.google.com/document/d/1HnDGkafYAMhzOxSkp3OS9YRsqQi1hnf4XFzdye\_nwQs/edit)
 
-    Current and potential 'trials' being run by Dave Banerjee and the Columbia EA team. The document provides a good basis for future testing across different universities beyond Columbia. We hope to work with them to gain insight from these trials, tracking relevant outcome data and measuring differences from comparison group.
+    Current and potential 'trials' being run by Dave Banerjee and the Columbia EA team. The document provides a good basis for future testing across different universities beyond Columbia. We hope to work with them to gain insight from these trials, tracking relevant outcome data and measuring differences from the comparison groups.
 2.  [Columbia EA Master Marketing Guide](https://docs.google.com/document/d/1marDZUHn1AUBR4mRlM-BKyUSDV\_P5V\_6U9S8tVtBePI/edit#heading=h.nmt7y1dgudhm)
 
-    This guide summarizes the marketing strategy of CUEA. Their methods (a few formal trials and a lot of anecdotal knowledge) have been synthesised here. Provides a basis for other universities to market themselves in conjunction with [UGAP’s Outreach Guide](https://debonair-makemake-89e.notion.site/Outreach-Handbook-a6a0e8e059554a2193b85c1aa0cf7cc3).
+    This guide summarizes the marketing strategy of CUEA. Their methods (a few formal trials and a lot of anecdotal knowledge) have been synthesized here. Provides a basis for other universities to market themselves in conjunction with [UGAP’s Outreach Guide](https://debonair-makemake-89e.notion.site/Outreach-Handbook-a6a0e8e059554a2193b85c1aa0cf7cc3).
 3. [Summer 2022 Marketing Report](https://docs.google.com/document/d/150PJSBmcx7SJNwTePxV-ioOLwP8FiY4aKWUNdCe4Nc0/edit)
 4. [Spring 2022 Marketing Report](https://docs.google.com/document/d/18puc673IfSqK-D9v3ul5olV7y9PsfbMFgakMYbq1n44/edit)
 
@@ -93,13 +103,9 @@ _Currently limited to private Gitbook._
 ### EA Israel
 
 [EA Israel's Strategy Document](https://docs.google.com/document/d/1UoAdSID0crufgE6S\_vLWxu8huCj0L1snCnbYSZygPCk/edit?usp=sharing)\
-This discusses their strategy in-depth. A lot of their findings are not specific to Israel or country-wide EA groups. Useful as a resource for EA groups.
+This discusses their strategy in-depth. Most of their findings are not specific to Israel or country-wide EA groups. Useful as a resource for EA groups.
 
-_Useful findings will be synthesised and integrated here in the future._
-
-## Work in progress
-
-Mapping [the funnel here (preliminary)](https://docs.google.com/document/d/19jyPub9GwbOiZ2IPgR74j5-uttrTgYgQNkBhCJCrYDY/edit).
+_Useful findings will be synthesized and integrated here in the future._
 
 
 
