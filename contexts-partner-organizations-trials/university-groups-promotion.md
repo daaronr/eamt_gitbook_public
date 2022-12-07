@@ -28,7 +28,7 @@ We believe our efforts will be highly valuable for the following programs, as we
 
 ### Centre for Effective Altruism
 
-CEA has [discontinued its focus on university programming](https://forum.effectivealtruism.org/posts/xTWhXX9HJfKmvpQZi/cea-is-discontinuing-its-focus-university-programming), passing funding and efforts on to Open Philanthropy. They still continue their own efforts in university group promotion through the [University Group Accelerator Program](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282), which offers guidance and resources to newly formed groups. Beyond university groups, CEA utilises the [Community Building Grants](https://www.centreforeffectivealtruism.org/how-to-join-the-program) Program to develop national and city-based groups.
+CEA has [discontinued its focus on university programming](https://forum.effectivealtruism.org/posts/xTWhXX9HJfKmvpQZi/cea-is-discontinuing-its-focus-university-programming), passing funding and efforts on to Open Philanthropy. However, CEA is still inolved in _promotion_ through the [University Group Accelerator Program](https://centreforeffectivealtruism.notion.site/centreforeffectivealtruism/University-Group-Accelerator-Program-6df8c8fccf8b4ffbb6488d9dfa275282), which offers guidance and resources to newly formed groups. Furthermore,  CEA's  [Community Building Grants](https://www.centreforeffectivealtruism.org/how-to-join-the-program) Program helps develop national and city-based groups (outside of universities).
 
 ### Open Philanthropy
 
