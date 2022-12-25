@@ -1,7 +1,3 @@
----
-description: What you can find in the gitbook
----
-
 # 📕 Content overview
 
 ## **Introduction**
@@ -16,11 +12,11 @@ For a data-driven dynamic document covering (some of) our trials & evidence see 
 
 ### 1) [Partner Organizations and Trials](contexts-partner-organizations-trials/section-introduction.md) 🤝
 
-In this section of the gitbook, you will find **reports of the trials we have run** with organizations, including Giving What We Can and One For the World. (More detailed statistical analysis is presented in the dynamic document [here](https://daaronr.github.io/eamt\_data\_analysis/)). We include background information on each organization and its priorities for testing.
+In this section, you will find [**reports of the trials we have run**](#user-content-fn-1)[^1] with organizations[^2], including Giving What We Can and One For the World.
 
 ### 2) [Marketing & Testing: Opportunities, Tools, Tips](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md) 🪧
 
-Here we share tools to implement planned trials, as well as tips relevant to 'doing marketing'. We answer questions like how to set up campaigns and track outcomes on various platforms. See especially "[Implementing ads](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)..." (on Facebook etc)... and "[Collecting data](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/)..."
+Here we share tools to implement planned trials, as well as tips relevant to 'doing marketing'. We answer questions like how to set up campaigns and track outcomes on various platforms. See especially[^3] "[Implementing ads](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)..." and "[Collecting data](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/)..."
 
 ### 3) [Research Design and Methodology](methodological-discussion/section-introduction-wip.md) 🎨
 
@@ -35,3 +31,9 @@ Our profiling project aims to help better understand what sorts of people are am
 We've done a  review of existing literature: to inform the trials we are running, and to identify important research topics. This includes [What is known/models of effective giving](background/models-theories-psychological-norms.md) and [Principles and theories behind potential trials](background/tools-and-trials-overview/tools-interventions-principles.md).
 
 ### You can find references, tech support, and other resources in the [appendix](appendix/how-this-gitbook-works/).
+
+[^1]: More detailed statistical analysis is presented in the dynamic document [here](https://daaronr.github.io/eamt\_data\_analysis/).&#x20;
+
+[^2]: We include background information on each organization and its priorities for testing.
+
+[^3]: &#x20;(on Facebook etc)

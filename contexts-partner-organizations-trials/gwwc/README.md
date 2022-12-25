@@ -4,7 +4,7 @@ description: Luke Freeman is the lead contact.
 
 # Giving What We Can
 
-[GWWC](https://www.givingwhatwecan.org/) has updated their[ 2022 strategy](https://www.givingwhatwecan.org/post/2022/03/public-strategy-update/). They are looking to significantly increase their marketing activity by producing videos, funding ads, and conducting systematic and robust research. As such there will be a large crossover between our work and theirs. This section highlights our collaborative efforts.
+Giving What We Can's mission is to **make giving effectively and significantly a cultural norm**. [GWWC](https://www.givingwhatwecan.org/) has updated their[ 2022 strategy](https://www.givingwhatwecan.org/post/2022/03/public-strategy-update/). They are looking to significantly increase their marketing activity by producing videos, funding ads, and conducting systematic and robust research. As such there will be a large crossover between our work and theirs. This section highlights our collaborative efforts.
 
 ## Presentation: overview
 
@@ -31,7 +31,7 @@ We want to learn from existing work, run tests on the GWWC platform, and support
 
 ### Some key questions
 
-* “What should the call to action for the casual person in the funnel?”
+* “What should the call to action be for the casual person in the funnel?”
 * Testing all parts of funnel/pledge journey; website, welcome messages/welcome packages, reminders and thank-you's
 
 ## Completed studies

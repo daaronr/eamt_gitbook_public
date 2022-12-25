@@ -26,7 +26,7 @@ We strive to be transparent. We want to report and share our data, procedures, c
 
 ## What is our mission?
 
-### October 2022 note: Updating and pivoting; other orgs
+### __[_October 2022 note_: Updating and pivoting; other organizations](#user-content-fn-1)[^1]
 
 As EAMT has progressed, we have encouraged others to do work and pursue initiatives in the 'space' of studying EA messaging, and marketing EA and effective giving. We hope that the resources we have provided, and the connections we have made have contributed to this. As the space changes, the EAMT mission, scope, and activities are adjusting as well.&#x20;
 
@@ -38,17 +38,16 @@ _We are moving towards a heightened focus on_&#x20;
 
 _This work provides substantial public goods, whose benefit is shared among the partner organizations and the EA community._
 
-{% hint style="info" %}
-_**Watch this space:**_ We will be discussing our new approach here shortly, as well as differentiating what we do from the organizations listed below.
-{% endhint %}
+_****_
 
-#### Other relevant/new organizations and initiatives&#x20;
+#### [Other relevant/new organizations and initiatives ](#user-content-fn-2)[^2]
 
 * [#other-marketing-implementation-resources](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/#other-marketing-implementation-resources "mention") (including 'User Friendly', 'Good Impressions' and 'Altruistic Agency' )
 * Giving What We Can '[Bequests](https://www.givingwhatwecan.org/get-involved/bequests)' (a project we have encouraged and advised)
 * [Effective Altruism Psychology Lab (NYU)](https://www.eapsychology.org/members)
 * Effective Giving Collaboration and Summit
-* _More to be added here_
+
+__
 
 ### We believe this is the first organized collaboration of its kind. We aim to:
 
@@ -57,7 +56,7 @@ _**Watch this space:**_ We will be discussing our new approach here shortly, as 
   * ... to gather evidence on _what works best_ to promote meaningful actions in _specific_ cases...
   * ... while aiming at _generalizable_ principles and approaches (see  '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um))
 * Do [profiling](broken-reference/),[ survey, and segmentation](broken-reference/) activities and trials, building evidence on 'which types of people' are most responsive to effective giving messages and appeals
-* Share our results, data, and tools, (and [testing templates](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md), guides and [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)) with the relevant EA and research-interested communities. This will enable more and better outreach, promotion, testing, and insight.
+* Share our results, data, and tools[^3], with the relevant EA and research-interested communities. This will enable more and better outreach, promotion, testing, and insight.
 
 ## Goals and FAQ
 
@@ -110,3 +109,9 @@ It’s been extremely useful to hear what others in EA, individuals and orgs are
 If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr AT gmail.com.&#x20;
 
 ### Next, check out the [Gitbook content overview](gitbook-content-overview.md).
+
+[^1]: _**Watch this space:**_ We aim to discuss our new approach here shortly, as well as differentiating what we do from the organizations listed below.
+
+[^2]: _More to be added here_
+
+[^3]: including  [testing templates](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md), guides and [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)

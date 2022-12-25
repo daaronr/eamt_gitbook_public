@@ -27,7 +27,7 @@ From April-July 2021 they ran a trial presenting its 'pledge page' options in th
 
 These results may only apply narrowly to the GWWC pledge case, and even here, we have some [caveats](pledge-page-options-trial.md#caveats). However, it loosely suggests that _****_** when making a call to action, it may be most effective to present the most well-known and expected option most prominently, and not to emphasize the range of choices **_****_ (see further [discussion](pledge-page-options-trial.md#intuitive-interpretation) below).
 
-Getting people to take the GWWC pledge may be seen as an important outcome on its own. It may have a causal impact (see some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_)) on getting people engaged in the Effective Altruism community and other EA activities, such as EA career impact decisions.
+Getting people to take the GWWC pledge may be seen as an important outcome on its own. It [may have a causal impact](#user-content-fn-1)[^1] on getting people engaged in the Effective Altruism community and other EA activities, such as EA career impact decisions.
 
 ## General idea and main hypothesis
 
@@ -45,7 +45,7 @@ Getting people to take the GWWC pledge may be seen as an important outcome on it
 
 ## Background and context
 
-**GWWC has three distinct pledge options, as shown above**
+**GWWC has three distinct pledge options, as shown** [**above**](pledge-page-options-trial.md#summary-of-trial-and-results)****
 
 1\. "Try Giving" (1% of income),
 
@@ -53,13 +53,11 @@ Getting people to take the GWWC pledge may be seen as an important outcome on it
 
 3\. The "Further Pledge" (donate all income above a living allowance).
 
-These can be seen on the 'pledge page' [here ](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/)(link from October 2020). Following 'become a member' takes you to this 'Take a Pledge' page ([`https://www.givingwhatwecan.org/pledge/`](https://www.givingwhatwecan.org/pledge/)),
-
-... there may be other ways into this page as well.
+[These can be seen on the 'pledge page'](#user-content-fn-2)[^2] [here ](https://web.archive.org/web/20201001001547/https://www.givingwhatwecan.org/pledge/)(link from October 2020).&#x20;
 
 
 
-**Three versions of this page were randomly presented** between (19-21 April and 10 July 2021)
+**Three versions of this page were randomly presented** (between 19-21 April and 10 July 2021)
 
 The content of the key 'choice button' part varied between these three versions
 
@@ -71,7 +69,7 @@ The version presented stayed constant according to an individual's IP cookie tra
 
 <details>
 
-<summary>Points of content, Timing of trial, Digital location of project/data, Environment </summary>
+<summary>Points of contact, Timing of trial, Digital location of project/data, Environment </summary>
 
 ### Points of contact
 
@@ -101,14 +99,14 @@ https://www.givingwhatwecan.org/pledge/ ... see above
 
 ### **Participant universe and sample size**
 
-* Everyone going to the above page within the above time duration.
+* 'Everyone going to the above page' within the above time duration.
 * People interested in GWWC pledges'
 
 Sample size: see below, from Google Analytics
 
 ### Key treatment(s)
 
-**Variation in the presentation of the pledge options**
+****[**Variation in the presentation of the pledge options**](#user-content-fn-3)[^3]****
 
 1. "**Original**" (Block of 3 in order of commitment, Middle Pledge in Center)
 
@@ -120,22 +118,10 @@ Sample size: see below, from Google Analytics
 
 ![](<../../.gitbook/assets/images\_moved/image (12) (1) (1) (1) (1) (1).png>)
 
-<details>
-
-<summary>Some things needing possible clarification /doublechecking</summary>
-
-* I believe all of the remaining presentation was otherwise the same, including the relative position of this 'box'
-* There were no other major variations within the period of this trial
-* Mobile device view looks different \_\_ than the above. Roughly half of users are on mobile devices. Did this lead to important differences?
-
-</details>
-
 ### Treatment assignment procedure
 
 * Three versions of this page were randomly presented
-* Equal likelihood of assignment
-
-_(Minor question_: Alternation or random sampling with/without replacement?)
+* Equal likelihood of assignment[^4]
 
 <details>
 
@@ -149,15 +135,15 @@ All variants are weighted equally by default in Optimize. A visitor who is inclu
 
 </details>
 
-The version presented stayed constant according to an individual's IP cookie tracking.
+The version presented stayed constant [for each individual across visits.](#user-content-fn-5)[^5]
 
 ### **Outcome data**
 
-Statistics on Google Analytics _NOTE: It seems to have recorded only 'pressed any button' (any pledge) as the successful outcome._
+Statistics on Google Analytics: _This records only 'pressed any button' (any pledge) as the successful outcome._
 
 <details>
 
-<summary>Ideally this would include...</summary>
+<summary>Ideally, for future trials, this would include...</summary>
 
 One entry per page view over the interval, detailing
 
@@ -175,9 +161,7 @@ Most importantly:
 
 </details>
 
-### **Optional/suggested additions**
-
-_Consider_: Planned analysis methods, preregistration link, IRB link, connection to other projects and promotions
+****
 
 ## Ex-post: Reporting results (brief)
 
@@ -255,21 +239,21 @@ Downloading the 'Analytics data' behind the above graphs, we see:
 
 _**This suggests it is very reasonable to think that 'Separate Bullets' is substantially better**_
 
-Our 'posterior' probability thus infers (assuming symmetry) that we should put (considering odds ratios, not percentage points)
+Our 'posterior' probability thus infers that [we should put](#user-content-fn-6)[^6]
 
-* a 2.5% chance of SB having an 18% (or more) _lower_ rate of conversion than 'Original'
+* a 2.5% chance that 'Separate Bullets' (SB) has an 18% (or more) _lower_ conversion rate than 'Original'
 * a 22.5% chance on SB being between 18% worse and 4% better
-* a 25% chance of being 4-20% better
-* a 25% chance of being 20-36% better
-* A 22.5% chance of being 36-76% better
-* A 2.5% chance of being more than 76% better
+* a 25% chance of SB being 4-20% better
+* a 25% chance of SB being 20-36% better
+* A 22.5% chance of SB being 36-76% better
+* A 2.5% chance of SB being more than 76% better
 
 We can also combine intervals, to make statements like ...
 
 * a 50% chance of being 4-36% better
 * a 50% chance of being 20-76% better
 
-_**For 'Pledge before...' we can state, e.g.,**_
+_**For 'Pledge before...' (PB) we can state, e.g.,**_
 
 * PB has a 75% chance of being at least 11% worse than Original
 * and a 50% chance of being at least 23% worse than Original
@@ -278,7 +262,7 @@ _**For 'Pledge before...' we can state, e.g.,**_
 
 Perhaps giving people more options makes them indecisive. They may be particularly reluctant to choose a “relatively ambitious giving pledge” if a less ambitious option is highlighted.
 
-This could also involve issues of self and social signaling. If the 'main thing' to do is 10% (as in "separate bullets"), then this may seem a straightforward way of conveying 'I am generous'. On the other hand, if the 'Further pledge' is fairly prominent, perhaps the signal feels less positive. And if the '1% pledge' is made central, 10% might seem more than a necessary signal.
+This could also involve issues of self and social signaling. If the 'main thing' to do is a 10% pledge (as in "separate bullets"), then this may seem a straightforward way of conveying 'I am generous'. On the other hand, if the 'Further pledge' is fairly prominent, perhaps the signal feels less positive. And if the '1% pledge' is made central, 10% might seem more than a necessary signal.
 
 The "pledge before try giving" may perform the worst because it makes the 'Try Giving' pledge a particularly salient alternative option. (In contrast, the "Original" at least makes 'The 10% Pledge' the central and the middle option.)
 
@@ -300,8 +284,38 @@ I assume this is 'conversions ever from this IP', and 'sessions' represents 'how
 
 
 
-_Further thoughts:_
+<details>
 
-**We should try to focus more carefully on 'whether this is having any effect on ultimate pledge-taking and pledge-follow-through behavior'.** I would be surprised if a moderate difference in the framing of a particular page should have such a large (2.69-1.71/1.71 = 57%) impact on the incidence of such a large life choice, involving at least tens of thousands of dollars. However, I still expect the incidence of 'click this button' to be _likely related_ to that ultimate outcome, thus I suspect these results are still informative and useful as they stand.
+<summary><strong>We should try to focus more carefully on 'whether this is having any effect on ultimate pledge-taking and pledge-follow-through behavior'.</strong></summary>
+
+I would be surprised if a moderate difference in the framing of a particular page should have such a large (2.69-1.71/1.71 = 57%) impact on the incidence of such a large life choice, involving at least tens of thousands of dollars. However, I still expect the incidence of 'click this button' to be _likely related_ to that ultimate outcome, thus I suspect these results are still informative and useful as they stand.
+
+</details>
+
+
 
 ***
+
+[^1]: See some descriptive evidence [here](https://forum.effectivealtruism.org/posts/tzFcqGmCA6ePeD5wm/ea-survey-2020-how-people-get-involved-in-ea#What\_factors\_are\_important\_for\_getting\_involved\_).
+
+
+
+[^2]: Following 'become a member' takes you to this 'Take a Pledge' page ([`https://www.givingwhatwecan.org/pledge/`](https://www.givingwhatwecan.org/pledge/)),
+
+    ... there may be other ways into this page as well.
+
+[^3]: * I believe all of the remaining presentation was otherwise the same, including the relative position of this 'box'
+
+    <!---->
+
+    * There were no other major variations within the period of this trial
+
+    <!---->
+
+    * Mobile device view looks different from the above. Roughly half of users are on mobile devices. Did this lead to important differences?
+
+[^4]: _Minor question_: Alternation or random sampling with/without replacement?
+
+[^5]: At least according to an individual's IP cookie tracking.
+
+[^6]: The below considers odds ratios, not percentage points. The inference assumes a symmetric distribution.

@@ -9,7 +9,7 @@ See also the cross-organization [notes on advertising, google, youtube, etc](../
 
 ## YouTube Remarketing
 
-July 20, 2021: GWWClaunched a YouTube remarketing campaign. That means that when someone goes to the GWWC website, leaves, and then goes to YouTube we show them one of the following videos:
+July 20, 2021: GWWC launched a YouTube remarketing campaign. That means that when someone goes to the GWWC website, leaves, and then goes to YouTube we show them one of the following videos:
 
 Algorithm decides which video to present to people.
 
