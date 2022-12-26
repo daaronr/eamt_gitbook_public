@@ -32,23 +32,19 @@ _**Academic framing**_: "Does the Identifiable Victims Effect (see e.g., the met
 
 [Chloë Cudaback](https://app.gitbook.com/u/wTqRK0aZqff8Tbm0WPvAj34i4k03 "mention")\
 \
-Academic-linked authors: David Reinstein, Josh Lewis, potentially others
+Academic-linked authors: David Reinstein, Josh Lewis, and potentially others
 
 ### Timing of trial
 
-Targeted dates: November 10, 18, 23, all in 2021, but may be delayed for feasibility
+[Targeted dates](#user-content-fn-1)[^1]: November 10, 18, 23, all in 2021, but may be delayed for feasibility
 
-{% hint style="info" %}
-Update -- four email dates are recorded in the data
-{% endhint %}
+
 
 ### Digital location where project 'lives' (planning, material, data)
 
-Present Gitbook, Google doc linked below, preregistration (OSF), and
+Present Gitbook, Google doc linked below, preregistration (OSF), and github/git repo
 
-{% hint style="info" %}
-Update: github/git repo
-{% endhint %}
+&#x20;
 
 ### Environment/context for trial
 
@@ -57,19 +53,17 @@ Emails\
 
 > All 10 emails had the same CTA: make an additional $100 donation for the giving season/GivingTuesday on top of their recurring monthly pledge donation.
 
-{% hint style="info" %}
-Update -- four email dates are recorded in the data
-{% endhint %}
+
 
 ### **Participant universe and sample size**
 
-Roughly 4000 participants, as described\\
+Roughly 4000 participants, as described.
 
-A series of three campaign emails will be sent out by OftW to their regular email lists, to roughly 4000 participants, as described
+A series of three campaign emails will be sent out by OftW to their regular email lists, to roughly 4000 participants, as described.
 
 ### Key treatment(s)
 
-Basically: (Chloe's description)
+Basically[^2]:&#x20;
 
 * A list of \~4500 contacts (activated pledgers) was split into two treatment groups.
 * Treatment Group A received emails that were focused on the contact's impact
@@ -90,7 +84,7 @@ Targeting: Donation incidence and amount in the relevant 'giving season' and ove
 \
 **Data storage/form:**
 
-* MailChimp data (Chloe sharing this),
+* MailChimp data (Chloe is sharing this),
 * Reports on donations (Kennan is gathering this)
 
 ### **Optional/suggested additions**
@@ -180,7 +174,11 @@ X-axis: if the “true difference in incidence rates” were of these magnitudes
 
 Implementation and management: Chloe Cudaback, Jack Lewars
 
-* our data is consistent with ‘no difference’ (of course) … but it's also consistent with ‘a fairly large difference in incidence’
+* Our data is consistent with ‘no difference’ (of course) … but it's also consistent with ‘a fairly large difference in incidence’
 * E.g., even if one treatment truly lead to ‘twice as many donations as the other’, we still have a 33% chance or so of seeing a difference as small as the one we see
 * We can reasonably ‘rule out’ differences of maybe 2.5x or greater
-* Main point: given the rareness of donations in this context, our sample size doesn’t let us make very strong conclusions in either direction about donationse
+* Main point: given the rareness of donations in this context, our sample size doesn’t let us make very strong conclusions in either direction about donations
+
+[^1]: Update -- four email dates are recorded in the data
+
+[^2]: This is Chloe's description...

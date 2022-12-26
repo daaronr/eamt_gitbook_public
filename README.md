@@ -11,11 +11,13 @@ NOTE: >-
 
 ## What is the "EA Market Testing Team"?
 
-We are a small group of researchers and practitioners. Our goal is to promote effective altruism and effective charitable giving through marketing campaigns, appeals, and events, both with our [partner organizations](broken-reference) and in independent surveys and trials. We want to improve the design and messaging of organizations like [Giving What We Can](contexts-partner-organizations-trials/gwwc/) and 80000 Hours to maximize their outreach and eventual impact.\
+We are a [small group of researchers and practitioners](our-team-and-resources.md).&#x20;
+
+**We aim to** **promote awareness and understanding of the** [**core ideas of Effective Altruism**](#user-content-fn-1)[^1] **(EA),  and** [**"to make giving effectively and significantly a cultural norm."**](#user-content-fn-2)[^2] We consider marketing campaigns, charitable appeals, events, and public communication, working both with our [partner organizations](broken-reference) and in independent surveys and trials. We want to improve the design and messaging of organizations like [Giving What We Can](contexts-partner-organizations-trials/gwwc/) and [80000 Hours](https://80000hours.org/) to improve their outreach methods and maximize their impact.\
 \
-While _doing_ marketing we are also _testing and analyzing_ this rigorously. We run carefully controlled trials and robustly analyze the results. However, we are careful to be _efficient_, recognizing the tradeoffs between rigorous experimental design and practical marketing.  \
+**Measuring and testing 'what works and when':** While [helping these organizations _do_ marketing and communication](#user-content-fn-3)[^3] we are also _testing and analyzing_ this rigorously. We help run and track careful  data collection and rigorous[^4] controlled trials. We robustly analyze the results to better understand which approaches tend to have a more positive impactda.\
 \
-We track, organize, and share what we have learned with the EA community, building and organizing resources and a knowledge base.  This will address questions such as:&#x20;
+**Communication:** We track, organize, and share what we have learned with the EA community, building and organizing resources and a knowledge base.  This will address questions such as:&#x20;
 
 * How to [implement](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/) and test marketing campaigns?
 * [What has worked](https://daaronr.github.io/eamt\_data\_analysis/) to promote EA?
@@ -24,9 +26,16 @@ We track, organize, and share what we have learned with the EA community, buildi
 
 We strive to be transparent. We want to report and share our data, procedures, code, and evidence without overselling the results.
 
-## What is our mission?
+### We believe this is the first organized collaboration of its kind. We aim to...
 
-### __[_October 2022 note_: Updating and pivoting; other organizations](#user-content-fn-1)[^1]
+* Coalesce our understanding and evidence on barriers and facilitators of effective altruism, effective giving, and effective action
+* Run a broad set of high-powered trials (large samples, high-stake real-world contexts, substantial differences between conditions)&#x20;
+  * ... to gather evidence on _what works best_ to promote meaningful actions in _specific_ cases,
+  * ... while aiming at [_generalizable_ principles and approaches](#user-content-fn-5)[^5]&#x20;
+* Do [profiling](broken-reference/),[ survey, and segmentation](broken-reference/) activities and trials, building evidence on 'which types of people' are most responsive to effective giving messages and appeals
+* Share our results, data, and tools[^6], with the relevant EA and research-interested communities. This will enable more and better outreach, promotion, testing, and insight.
+
+## What is our mission? Updating[^7]...
 
 As EAMT has progressed, we have encouraged others to do work and pursue initiatives in the 'space' of studying EA messaging, and marketing EA and effective giving. We hope that the resources we have provided, and the connections we have made have contributed to this. As the space changes, the EAMT mission, scope, and activities are adjusting as well.&#x20;
 
@@ -36,27 +45,29 @@ _We are moving towards a heightened focus on_&#x20;
 2. [Transparent presentation](https://daaronr.github.io/eamt\_data\_analysis/) of the results, rigorous statistical analysis&#x20;
 3. Synthesizing, sharing, and communicating this knowledge and skills base
 
-_This work provides substantial public goods, whose benefit is shared among the partner organizations and the EA community._
+_This work provides substantial_ [_public goods_](https://forum.effectivealtruism.org/topics/public-goods)_, whose benefit is shared among the partner organizations and the EA community._
 
-_****_
+<details>
 
-#### [Other relevant/new organizations and initiatives ](#user-content-fn-2)[^2]
+<summary>Other relevant/new organizations and initiatives </summary>
 
-* [#other-marketing-implementation-resources](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/#other-marketing-implementation-resources "mention") (including 'User Friendly', 'Good Impressions' and 'Altruistic Agency' )
+* [#other-marketing-implementation-resources](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/#other-marketing-implementation-resources "mention") (including User Friendly and Altruistic Agency)
+
+<!---->
+
 * Giving What We Can '[Bequests](https://www.givingwhatwecan.org/get-involved/bequests)' (a project we have encouraged and advised)
+
+<!---->
+
 * [Effective Altruism Psychology Lab (NYU)](https://www.eapsychology.org/members)
+
+<!---->
+
 * Effective Giving Collaboration and Summit
 
-__
+</details>
 
-### We believe this is the first organized collaboration of its kind. We aim to:
-
-* Coalesce our understanding and evidence on barriers and facilitators of effective altruism, effective giving, and effective action
-* Run a broad set of high-powered trials (large samples, high-stake real-world contexts, substantial differences between conditions)&#x20;
-  * ... to gather evidence on _what works best_ to promote meaningful actions in _specific_ cases...
-  * ... while aiming at _generalizable_ principles and approaches (see  '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um))
-* Do [profiling](broken-reference/),[ survey, and segmentation](broken-reference/) activities and trials, building evidence on 'which types of people' are most responsive to effective giving messages and appeals
-* Share our results, data, and tools[^3], with the relevant EA and research-interested communities. This will enable more and better outreach, promotion, testing, and insight.
+###
 
 ## Goals and FAQ
 
@@ -110,8 +121,17 @@ If you are interested in getting involved with our project or have feedback for 
 
 ### Next, check out the [Gitbook content overview](gitbook-content-overview.md).
 
-[^1]: _**Watch this space:**_ We aim to discuss our new approach here shortly, as well as differentiating what we do from the organizations listed below.
+[^1]: See [CEA's guiding principles.](https://www.centreforeffectivealtruism.org/ceas-guiding-principles) Key ideas include a commitment to helping others, considering how to use scarce resources most effectively, and being open to having a wide moral circle.
 
-[^2]: _More to be added here_
+[^2]: This quote comes from the 2022 [Giving What We Can strategy document](https://www.givingwhatwecan.org/blog/public-strategy-update).
 
-[^3]: including  [testing templates](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md), guides and [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)
+[^3]: Note that we are focusing on this less, now that [other groups](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/a3YtWoUiYYfiEQrBNztC/) have become involved with helping EA organizations _implement_ marketing.
+
+[^4]: However, we are also careful to be _efficient_, recognizing the tradeoffs between rigorous experimental design and practical marketing.&#x20;
+
+[^5]: See  '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um)
+
+[^6]: Including  [testing templates](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md), guides and [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)
+
+[^7]: (November, 2022 update)\
+    _**Watch this space:**_ We aim to discuss our new approach here shortly, as well as differentiating what we do from the organizations listed below.

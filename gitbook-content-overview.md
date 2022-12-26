@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-Our [mission](./), [what we are trying to do and why](overview-ea-forum-post.md), [most recent updates](broken-reference/), and the organization of [our team](our-team-and-resources.md)
+Our [mission](./), [what we are trying to do and why](partners-contexts-trials/charities-fundraisers-and-impact-information/overview-ea-forum-post.md), [most recent updates](broken-reference/), and the organization of [our team](our-team-and-resources.md)
 
 {% hint style="info" %}
 For a data-driven dynamic document covering (some of) our trials & evidence see [HERE.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)

@@ -4,7 +4,6 @@
 * [📕 Content overview](gitbook-content-overview.md)
 * [EAMT progress and results](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit)
 * [Goals, trajectory, FAQs](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit)
-* [📖 Posts and writings](overview-ea-forum-post.md)
 * [👋 Meet the team](our-team-and-resources.md)
 
 ## 🤝 Partners, contexts, trials
@@ -23,6 +22,7 @@
 * [Charities/fundraisers and impact information](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
+  * [📖 Posts and writings](partners-contexts-trials/charities-fundraisers-and-impact-information/overview-ea-forum-post.md)
 * [University/city groups](contexts-partner-organizations-trials/university-groups-promotion.md)
 * [Workplaces/orgs](partners-contexts-trials/workplaces-orgs.md)
 * [Other partners](contexts-partner-organizations-trials/other.md)
