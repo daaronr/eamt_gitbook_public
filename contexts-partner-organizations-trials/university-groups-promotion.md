@@ -81,7 +81,9 @@ This is our basic understanding of the processes used to draw in new members to 
 
 ### Independent University Group Outreach
 
-We have been independently contacting organizers that are known to be actively seeking to test outreach methods, and also publicly via a [callout post](https://forum.effectivealtruism.org/posts/KphWqKCJEybZRBZuh/university-and-city-group-outreach-testing-a-callout-to) on the EA Forum. An important aspect of the work here is to bring together people who are active in this space but working independently. Below is our current (non-exhaustive) list of groups or organisations that have relevant knowledge (strategy documents, marketing guides, etc), or have done some form of independent testing.
+We have been independently contacting organizers that are known to be actively seeking to test outreach methods, and also publicly via a [callout post](https://forum.effectivealtruism.org/posts/KphWqKCJEybZRBZuh/university-and-city-group-outreach-testing-a-callout-to) on the EA Forum. An important aspect of the work here is to bring together people who are active in this space but working independently. \
+\
+The airtable below presents our current (non-exhaustive) list of groups or organisations that have relevant knowledge (strategy documents, marketing guides, etc), or have done some form of independent testing.
 
 {% embed url="https://airtable.com/shroNhPnfOjMfzDWA" %}
 
