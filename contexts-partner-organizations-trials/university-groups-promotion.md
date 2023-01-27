@@ -8,7 +8,7 @@ EA seeks to amplify its impact through _movement-building._ Organizations like 8
 
 {% embed url="https://centreforeffectivealtruism.notion.site/UGAP-s-Outreach-Handbook-6eca98516a5d4151b50a492fccfe24ec" %}
 
-
+[Our Resource Airtable](university-groups-promotion.md#independent-university-group-outreach) (in-progress)
 
 ## Our collaborative goals
 
@@ -79,43 +79,11 @@ This is our basic understanding of the processes used to draw in new members to 
 
 (Above: a preview of funnel map; [see Google Doc](https://docs.google.com/document/d/19jyPub9GwbOiZ2IPgR74j5-uttrTgYgQNkBhCJCrYDY/edit?usp=sharing) for full description and work in progress)&#x20;
 
-### UGAP data tracking &#x20;
-
-Max's preliminary work on tracking outreach data for university groups in UGAP. This document offers the skeleton for tracking participation/engagement against hours dedicated to outreach methods.
-
-{% embed url="https://outreach-handbook.notion.site/UGAP-Data-Tracking-Pilot-dc56d3236eb94d7eb70339176985a423" %}
-
 ### Independent University Group Outreach
 
-We have been independently contacting organizers that are known to be actively seeking to test outreach methods, and also publicly via a [callout post](https://forum.effectivealtruism.org/posts/KphWqKCJEybZRBZuh/university-and-city-group-outreach-testing-a-callout-to) on the EA Forum. An important aspect of the work here is to bring together people who are active in this space but working independently. Below is our current (non-exhaustive) list of groups that have done some form of independent testing or who have relevant knowledge (strategy documents, marketing guides, etc).
+We have been independently contacting organizers that are known to be actively seeking to test outreach methods, and also publicly via a [callout post](https://forum.effectivealtruism.org/posts/KphWqKCJEybZRBZuh/university-and-city-group-outreach-testing-a-callout-to) on the EA Forum. An important aspect of the work here is to bring together people who are active in this space but working independently. Below is our current (non-exhaustive) list of groups or organisations that have relevant knowledge (strategy documents, marketing guides, etc), or have done some form of independent testing.
 
-#### Columbia University (CUEA)
-
-*   [Columbia EA Experiments](https://docs.google.com/document/d/1HnDGkafYAMhzOxSkp3OS9YRsqQi1hnf4XFzdye\_nwQs/edit)
-
-    Current and potential 'trials' by Dave Banerjee and the Columbia EA team. The document provides a good basis for future testing across different universities beyond Columbia. We hope to work with them to gain insight from these trials, tracking relevant outcome data and measuring differences from the comparison groups.
-*   [Columbia EA Master Marketing Guide](https://docs.google.com/document/d/1marDZUHn1AUBR4mRlM-BKyUSDV\_P5V\_6U9S8tVtBePI/edit#heading=h.nmt7y1dgudhm)
-
-    This guide summarizes the marketing strategy of CUEA. Their methods (a few formal trials and a lot of anecdotal knowledge) have been synthesized here. Provides a basis for other universities to market themselves in conjunction with [UGAP’s Outreach Guide](https://debonair-makemake-89e.notion.site/Outreach-Handbook-a6a0e8e059554a2193b85c1aa0cf7cc3).
-* [Summer 2022 Marketing Report](https://docs.google.com/document/d/150PJSBmcx7SJNwTePxV-ioOLwP8FiY4aKWUNdCe4Nc0/edit)
-* [Spring 2022 Marketing Report](https://docs.google.com/document/d/18puc673IfSqK-D9v3ul5olV7y9PsfbMFgakMYbq1n44/edit)
-
-#### Cambridge University
-
-[Brief summary](https://docs.google.com/document/d/1h62tC2UHSWlJ0fRxgvqSW6bIP1dIkx9hed5KDRzNOas/edit?usp=sharing) of their outreach methods and operations.&#x20;
-
-#### Stanford University
-
-_Currently limited to private Gitbook._
-
-#### University of Chicago
-
-_Currently limited to private Gitbook._
-
-#### EA Israel
-
-[EA Israel's Strategy Document](https://docs.google.com/document/d/1UoAdSID0crufgE6S\_vLWxu8huCj0L1snCnbYSZygPCk/edit?usp=sharing)\
-This discusses their strategy in-depth. Most of their findings are not specific to Israel or country-wide EA groups. Useful as a resource for EA groups.
+{% embed url="https://airtable.com/shroNhPnfOjMfzDWA" %}
 
 <details>
 
