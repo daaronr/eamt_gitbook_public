@@ -14,6 +14,12 @@ _For each proposed/ongoing/past trial, let's try to report the following minimal
 Please keep your answers brief -- if you want to give more detail (which is not necessary) please link a later section or external page. \_
 {% endhint %}
 
+{% hint style="info" %}
+Short version of this template [as Google Doc HERE](https://docs.google.com/document/d/1N1\_An6mgUl5TpwHlYOe4S70qABfOVXhJCG4ceFmIJZ4/copy) (link copy-opens a new version for you to work in)
+{% endhint %}
+
+
+
 ### **General idea, main 'hypothesis' (if there is one)**
 
 _Firstly, what is this promotion trying to do (e.g., 'encourage signups for giving pledges')?_
