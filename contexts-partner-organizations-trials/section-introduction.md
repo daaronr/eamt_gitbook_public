@@ -6,6 +6,8 @@ For a data-driven dynamic document covering (some of) our trials & evidence see 
 
 _<mark style="background-color:yellow;">In the</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Partner Organizations and Trials section**</mark><mark style="background-color:yellow;">, you will find reports of the trials we have run with organizations, including</mark>_ [gwwc](gwwc/ "mention") _<mark style="background-color:yellow;">and</mark>_ [one-for-the-world-oftw](one-for-the-world-oftw/ "mention")_<mark style="background-color:yellow;">.</mark>_
 
+These trials are also catalogued in our (currently private) airtable, in the `trials_run` sheet.
+
 ## **Our primary approach and goals**
 
 We want to identify the most effective and scalable strategies for marketing EA and EA-adjacent ideas and actions. To do this, we believe that running real-world marketing trials and experiments with EA-aligned organizations will provide the best evidence to act upon. By systematically varying the messaging, framing, and contexts, we can map out '_what works better where'_.
