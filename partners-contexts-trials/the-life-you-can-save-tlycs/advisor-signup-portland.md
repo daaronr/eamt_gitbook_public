@@ -6,7 +6,7 @@ description: TLYCS ran a campaign in a single city involving 'donation advice'
 
 ## See also
 
-We recoded and augmented this analysis within the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/) More work could be done, if warranted.
+We recoded and augmented this analysis [within the EAMT Analysis web-book here. ](https://daaronr.github.io/eamt\_data\_analysis/chapters/tlycs\_input\_simple\_analysis.html)More work could be done, if warranted.
 
 ## [Summary of trial and results](#user-content-fn-1)[^1]
 
