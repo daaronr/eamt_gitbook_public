@@ -4,17 +4,11 @@ description: TLYCS ran a campaign in a single city involving 'donation advice'
 
 # Advisor signup (Portland)
 
-<details>
-
-<summary>Notes on content/building this</summary>
-
-This was adapted from  the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention") and edited slightly for public reading (the extra details are in the private gitbook).
+## See also
 
 We recoded and augmented this analysis within the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/) More work could be done, if warranted.
 
-</details>
-
-## Summary of trial and results
+## [Summary of trial and results](#user-content-fn-1)[^1]
 
 In December 2021, TLYCS ran a YouTube advertising campaign in Portland Oregon, involving ‘donation advice’. The top 10% household-income households were targeted with (one of) three categories of videos. One of the ultimate goals was to get households to sign up for a 'concierge' personal donor advising service &#x20;
 
@@ -149,3 +143,5 @@ _Note this is a midpoint estimate, we have not yet given statistical bounds._
 ## Other outcomes
 
 There are very few signups for the concierge advising service. Only about 16 in December 2021 globally, only 1 of which was from Portland.
+
+[^1]: This was adapted from  the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention") and edited slightly for public reading (the extra details are in the private gitbook).
