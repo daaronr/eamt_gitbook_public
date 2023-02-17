@@ -59,7 +59,7 @@
 
 ## 🧮 Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
-* [Introduction](profiling-and-segmentation/section-introduction.md)
+* [Introduction, scoping work](profiling-and-segmentation/section-introduction.md)
 * [Existing work/data](profiling-and-segmentation/previous-work.md)
   * [Surveys/Predicting EA interest](profiling-and-segmentation/previous-work/surveys-predicting-ea-interest.md)
   * [Awareness: RP, etc.](profiling-and-segmentation/previous-work/rethink-priorities-work.md)
