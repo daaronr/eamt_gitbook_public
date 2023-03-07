@@ -26,6 +26,7 @@
 * [University/city groups](contexts-partner-organizations-trials/university-groups-promotion.md)
 * [Workplaces/orgs](partners-contexts-trials/workplaces-orgs.md)
 * [Other partners](contexts-partner-organizations-trials/other.md)
+* [Related/relevant projects/orgs](partners-contexts-trials/related-relevant-projects-orgs.md)
 
 ## 🪧 Marketing & testing: opportunities, tools, tips
 
