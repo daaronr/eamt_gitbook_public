@@ -19,9 +19,9 @@ Should we interpret this as&#x20;
 
 > 'direct emails are a more efficient use of time than tabling, thus groups should spend less time doing tabling and more time sending emails?'
 
-Maybe, but we should be careful; there are other explanations and interpretations we should delve into. **** Some of these could be partially addressed through survey design, others through careful analysis. Other 'causality' issues may require an experiment/trial/test to get at.&#x20;
+Maybe, but we should be careful; there are other explanations and interpretations we should delve into.  Some of these could be partially addressed through survey design, others through careful analysis. Other 'causality' issues may require an experiment/trial/test to get at.&#x20;
 
-### **** **Statistical inference: chance and selection/selectivity**
+### &#x20;**Statistical inference: chance and selection/selectivity**
 
 _Random variation_: With a small sample of groups, these numbers may be particularly high or low (for tabling, for emails, etc) by chance; the averages for a 'typical group' may turn out to be very different.&#x20;
 

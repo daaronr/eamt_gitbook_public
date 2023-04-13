@@ -65,7 +65,7 @@ See especially: ["Events and outreach"](https://forum.effectivealtruism.org/post
 
 _There are some further initiatives in this area but most of the material cannot be shared at the moment (see private Gitbook)._
 
-__
+
 
 ## Independent group testing and coordination
 

@@ -11,7 +11,7 @@ NOTE: >-
 
 ## What is the "EA Market Testing Team"?
 
-We are a [small group of researchers and practitioners](our-team-and-resources.md).&#x20;
+We are a [small group of researchers and practitioners](our-team-and-resources.md).  This project is organized by  [David Reinstein](https://davidreinstein.org), who maintains this wiki/Gitbook and other resources.&#x20;
 
 **We aim to** **promote awareness and understanding of the** [**core ideas of Effective Altruism**](#user-content-fn-1)[^1] **(EA),  and** [**"to make giving effectively and significantly a cultural norm."**](#user-content-fn-2)[^2] We consider marketing campaigns, charitable appeals, events, and public communication, working both with our [partner organizations](broken-reference) and in independent surveys and trials. We want to improve the design and messaging of organizations like [Giving What We Can](contexts-partner-organizations-trials/gwwc/) and [80000 Hours](https://80000hours.org/) to improve their outreach methods and maximize their impact.\
 \
@@ -85,7 +85,7 @@ For an overview of our progress and ongoing work, see the ['progress and results
 
 {% embed url="https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit" %}
 
-_Note that we cannot publicly share details of ongoing and upcoming trials._ _We aim to share the results when it is possible.  We aim to integrate shareable aspects of_ [_this private doc._](https://docs.google.com/document/d/1w9kUiJguWZx4EIvGBd7l0qMTJHWdlHV5z-pvKcdNPOA/edit)__
+_Note that we cannot publicly share details of ongoing and upcoming trials._ _We aim to share the results when it is possible.  We aim to integrate shareable aspects of_ [_this private doc._](https://docs.google.com/document/d/1w9kUiJguWZx4EIvGBd7l0qMTJHWdlHV5z-pvKcdNPOA/edit)
 
 {% hint style="info" %}
 For a data-driven dynamic document covering (some of) our trials and evidence see [HERE.](https://daaronr.github.io/eamt\_data\_analysis/chapters/gwwc\_gg.html)
@@ -129,7 +129,7 @@ If you are interested in getting involved with our project or have feedback for 
 
 [^2]: This quote comes from the 2022 [Giving What We Can strategy document](https://www.givingwhatwecan.org/blog/public-strategy-update).
 
-[^3]: Note that we are focusing on this less, now that [other groups](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/a3YtWoUiYYfiEQrBNztC/) have become involved with helping EA organizations _implement_ marketing.
+[^3]: Note that we are focusing on this less, now that [other groups](http://localhost:5000/o/-MfFk4CTSGwVOPkwnRgx/s/a3YtWoUiYYfiEQrBNztC/) have become involved with helping EA organizations _implement_ marketing.
 
 [^4]: However, we are also careful to be _efficient_, recognizing the tradeoffs between rigorous experimental design and practical marketing.&#x20;
 

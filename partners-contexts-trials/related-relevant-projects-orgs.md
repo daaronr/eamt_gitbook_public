@@ -12,11 +12,11 @@ _Note 7 Mar 2023: I just started this page, it is far from complete_
 
 {% embed url="https://forum.effectivealtruism.org/posts/Xr4n2cczyxxYpbrsh/overview-of-effective-giving-organisations" %}
 
-****
 
-****
 
-****
+
+
+
 
 **Which links** [**THIS**](https://docs.google.com/spreadsheets/d/1OSv9vkW0UkTyOuwOnYZeFfiZT8hrF8DSvUIwKKfh95A/edit#gid=0) **spreadsheet**
 
@@ -24,9 +24,9 @@ _Note 7 Mar 2023: I just started this page, it is far from complete_
 
 {% embed url="https://airtable.com/shrRiyBGO4bD9VGW9" %}
 
-****
 
-[Other orgs/approaches](https://app.gitbook.com/s/-Mf8cHxdwePMZXRTKnEE/contexts-and-environments-for-testing/other "mention") (a list of orgs in the 'EA effective giving' space; private gitbook atm)
+
+[Other orgs/approaches](http://localhost:5000/s/-Mf8cHxdwePMZXRTKnEE/contexts-and-environments-for-testing/other "mention") (a list of orgs in the 'EA effective giving' space; private gitbook atm)
 
 
 
@@ -44,11 +44,11 @@ _Note 7 Mar 2023: I just started this page, it is far from complete_
 
 ## Research and information-gathering initiatives
 
-****[**innovationsinfundraising.org** ](https://innovationsinfundraising.org/doku.php) **-** "The IiF wiki collects and presents evidence on the most successful approaches to motivating effective and impactful charitable giving, and promotes innovative research and its application." This precedes and is partially integrated into the current resource&#x20;
+[**innovationsinfundraising.org** ](https://innovationsinfundraising.org/doku.php) **-** "The IiF wiki collects and presents evidence on the most successful approaches to motivating effective and impactful charitable giving, and promotes innovative research and its application." This precedes and is partially integrated into the current resource&#x20;
 
 
 
-****[**Rhetorical.org**](https://rhetorical.org/research-statement)
+[**Rhetorical.org**](https://rhetorical.org/research-statement)
 
 > We are an academic collective and research non-profit, dedicated to providing public communication campaigns with cutting-edge research and rigorous tools for message development.&#x20;
 >
@@ -62,4 +62,4 @@ On [adaptive-design-sampling-reinforcement-learning.md](../methodological-discus
 >
 > * **Efficient message search.** We design research pipelines that allow campaigns to explore the large space of potential messages more efficiently, and to quickly zero-in on the most impactful messaging strategies. Our methodology is based on a combination of large-scale adaptive online survey RCTs, Bayesian machine learning and surrogate metrics.
 >
-> ****
+>

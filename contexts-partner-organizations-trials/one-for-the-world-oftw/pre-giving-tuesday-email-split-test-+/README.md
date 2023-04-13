@@ -30,7 +30,7 @@ _**Academic framing**_: "Does the Identifiable Victims Effect (see e.g., the met
 
 ### Point of contact (at organization running trial)
 
-[Chloë Cudaback](https://app.gitbook.com/u/wTqRK0aZqff8Tbm0WPvAj34i4k03 "mention")\
+[Chloë Cudaback](http://localhost:5000/u/wTqRK0aZqff8Tbm0WPvAj34i4k03 "mention")\
 \
 Academic-linked authors: David Reinstein, Josh Lewis, and potentially others
 

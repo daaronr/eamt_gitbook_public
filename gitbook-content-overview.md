@@ -7,7 +7,7 @@ Our [mission](./), [what we are trying to do and why](partners-contexts-trials/c
 {% hint style="info" %}
 _**Other key resources**_
 
-* [EA Market Testing data analysis](https://daaronr.github.io/eamt\_data\_analysis/): dynamic __ document/notebook (Quarto site) covering our trials & evidence&#x20;
+* [EA Market Testing data analysis](https://daaronr.github.io/eamt\_data\_analysis/): dynamic document/notebook (Quarto site) covering our trials & evidence&#x20;
 * [Airtable view of the relevant trials](https://airtable.com/shrFmaIfWHSAoBNNB) ([that is...](#user-content-fn-1)[^1]); [links, categorization provided](#user-content-fn-2)[^2]
 {% endhint %}
 

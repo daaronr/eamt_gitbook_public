@@ -20,4 +20,3 @@ Geo experiments” where only a single geo is targeted for a treatment seem fair
 
 </details>
 
-__

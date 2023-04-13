@@ -7,7 +7,7 @@ _**See also:**_ [facebook-split-testing-etc.md](../../methodological-discussion/
 
 
 {% hint style="info" %}
-**Updates/general advice:** (Sep 2022) **** To do 'any good tracking and optimization through 'Facebook, you should set up the Meta Pixel and Conversion API as soon as possible.
+**Updates/general advice:** (Sep 2022) To do 'any good tracking and optimization through 'Facebook, you should set up the Meta Pixel and Conversion API as soon as possible.
 
 \
 You may want to jump to the [#optimizing-and-pixels](targeted-ad-on-fb-with-variations-setup.md#optimizing-and-pixels "mention") (WIP) section.

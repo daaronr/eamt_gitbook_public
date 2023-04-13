@@ -73,7 +73,7 @@ We assigned the particular video treatments to audiences using a YouTube/Google 
 
 * How long people watched the videos for
 * **Whether they 'clicked through'**
-* Whether they filled out the form for advising **** (Algorithm is serving to optimize this)
+* Whether they filled out the form for advising (Algorithm is serving to optimize this)
 
 ## Results (simple analysis)
 
@@ -138,7 +138,7 @@ _Note this is a midpoint estimate, we have not yet given statistical bounds._
 
 **In the graph below** (pasted from the Quarto [here](https://daaronr.github.io/eamt\_data\_analysis/chapters/tlycs\_input\_simple\_analysis.html#plotting-the-difference-in-difference)), we show these year-on-year upticks in context.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><em>Year to year uptick by CIty</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption><p><em>Year to year uptick by CIty</em></p></figcaption></figure>
 
 ## Other outcomes
 

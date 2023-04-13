@@ -24,7 +24,7 @@ _**We believe this approach is likely to be the most fruitful because:**_
 
 1. Using naturally-occurring populations in real-world settings with meaningful costly choices and outcomes will lead to **more relevant findings**. In comparison to convenience samples of undergraduates or professional survey participants who are aware that they are doing a research study,  we anticipate greater:
    * _Internal validity:_ our results are less likely to be influenced by biases, such as acquiescence bias and hypothetical decision-making.
-   * __[_External generalizability/environmental relevance_](#user-content-fn-4)[^4]_:_ the context we are testing is similar or identical to the context we care about.
+   * [_External generalizability/environmental relevance_](#user-content-fn-4)[^4]_:_ the context we are testing is similar or identical to the context we care about.
 2. **We will "learn by doing"** by encountering unanticipated obstacles and learning about practical [implementation issues](../marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/) involved with advertising, promotion, and communication.
 3. **We can share what we learn** with relevant EA organizations and audiences. They then can build on our findings, rather than having to repeatedly make mistakes themselves.
 4. The trials _themselves_ should also have a **direct positive value in promoting EA.**

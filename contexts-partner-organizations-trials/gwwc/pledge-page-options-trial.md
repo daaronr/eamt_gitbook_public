@@ -25,7 +25,7 @@ From April-July 2021 they ran a trial presenting its 'pledge page' options in th
 * "_Separate Bullets for Other Pledges"_ was the _most_ successful presentation. It only showed a box for "The Pledge", with the other options given in less prominent bullet points below. This had about a 20% higher incidence rate than the _Original_ presentation.
 * _"Pledge before Try Giving"_ was the _least_ successful presentation this was like the one displayed above, but with "Try Giving" in the central position. This had about a 23% lower incidence rate than the _Original_ presentation.
 
-These results may only apply narrowly to the GWWC pledge case, and even here, we have some [caveats](pledge-page-options-trial.md#caveats). However, it loosely suggests that _****_** when making a call to action, it may be most effective to present the most well-known and expected option most prominently, and not to emphasize the range of choices **_****_ (see further [discussion](pledge-page-options-trial.md#intuitive-interpretation) below).
+These results may only apply narrowly to the GWWC pledge case, and even here, we have some [caveats](pledge-page-options-trial.md#caveats). However, it loosely suggests that **when making a call to action, it may be most effective to present the most well-known and expected option most prominently, and not to emphasize the range of choices** (see further [discussion](pledge-page-options-trial.md#intuitive-interpretation) below).
 
 Getting people to take the GWWC pledge may be seen as an important outcome on its own. It [may have a causal impact](#user-content-fn-1)[^1] on getting people engaged in the Effective Altruism community and other EA activities, such as EA career impact decisions.
 
@@ -45,7 +45,7 @@ Getting people to take the GWWC pledge may be seen as an important outcome on it
 
 ## Background and context
 
-**GWWC has three distinct pledge options, as shown** [**above**](pledge-page-options-trial.md#summary-of-trial-and-results)****
+**GWWC has three distinct pledge options, as shown** [**above**](pledge-page-options-trial.md#summary-of-trial-and-results)
 
 1\. "Try Giving" (1% of income),
 
@@ -106,7 +106,7 @@ Sample size: see below, from Google Analytics
 
 ### Key treatment(s)
 
-****[**Variation in the presentation of the pledge options**](#user-content-fn-3)[^3]****
+[**Variation in the presentation of the pledge options**](#user-content-fn-3)[^3]
 
 1. "**Original**" (Block of 3 in order of commitment, Middle Pledge in Center)
 
@@ -161,7 +161,7 @@ Most importantly:
 
 </details>
 
-****
+
 
 ## Ex-post: Reporting results (brief)
 
