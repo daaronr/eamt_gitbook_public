@@ -1,7 +1,7 @@
 # 📕 Content overview
 
 {% hint style="info" %}
-**You can** search this content and you can now ask it questions using a 'chatbot'; click the search bar and choose 'lens'.
+**You can now ask questions of this gitbook using a 'chatbot':** click the search bar and choose 'lens'.
 {% endhint %}
 
 ## **Introduction**
