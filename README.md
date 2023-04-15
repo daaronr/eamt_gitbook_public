@@ -51,7 +51,7 @@ _This work provides substantial_ [_public goods_](https://forum.effectivealtruis
 
 <summary>Other relevant/new organizations and initiatives </summary>
 
-* [#other-marketing-implementation-resources](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/#other-marketing-implementation-resources "mention") (including User Friendly and Altruistic Agency)
+* [#other-marketing-implementation-resources](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/#other-marketing-implementation-resources "mention") (including User Friendly, Good Impressions, and Altruistic Agency)
 
 <!---->
 
