@@ -1,5 +1,9 @@
 # 📕 Content overview
 
+{% hint style="info" %}
+**You can** search this content and you can now ask it questions using a 'chatbot'; click the search bar and choose 'lens'.
+{% endhint %}
+
 ## **Introduction**
 
 Our [mission](./), [what we are trying to do and why](partners-contexts-trials/charities-fundraisers-and-impact-information/overview-ea-forum-post.md), [most recent updates](broken-reference/), and the organization of [our team](our-team-and-resources.md)

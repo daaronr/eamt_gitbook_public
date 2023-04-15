@@ -11,7 +11,7 @@ NOTE: >-
 
 ## What is the "EA Market Testing Team"?
 
-We are a [small group of researchers and practitioners](our-team-and-resources.md).  This project is organized by  [David Reinstein](https://davidreinstein.org), who maintains this wiki/Gitbook and other resources.&#x20;
+We are a [small group of researchers and practitioners](our-team-and-resources.md).  This project is organized by [David Reinstein](https://davidreinstein.org)<img src=".gitbook/assets/image.png" alt="" data-size="line"> , who maintains this wiki/Gitbook and other resources.&#x20;
 
 **We aim to** **promote awareness and understanding of the** [**core ideas of Effective Altruism**](#user-content-fn-1)[^1] **(EA),  and** [**"to make giving effectively and significantly a cultural norm."**](#user-content-fn-2)[^2] We consider marketing campaigns, charitable appeals, events, and public communication, working both with our [partner organizations](broken-reference) and in independent surveys and trials. We want to improve the design and messaging of organizations like [Giving What We Can](contexts-partner-organizations-trials/gwwc/) and [80000 Hours](https://80000hours.org/) to improve their outreach methods and maximize their impact.\
 \
