@@ -1,6 +1,6 @@
 # Pre-giving-tues. email A/B
 
-Context: Donation 'upsell' to existing pledgers
+**Context**: Donation 'upsell' to existing pledgers
 
 **Question: Are effectiveness-minded (EA-adjacent) donors and pledgers more motivated to donate by**
 
@@ -8,7 +8,7 @@ Context: Donation 'upsell' to existing pledgers
 2. "B": **Emotional appeals and 'identified victim' images**
 
 {% hint style="info" %}
-**To do:** Integrate w/ in-depth replicable analysis, organized in dynamic document [here](https://daaronr.github.io/eamt\_data\_analysis/chapters/oftw\_upsell\_input\_first\_analysis.html)
+**Further information on experiment and outcomes in** in-depth replicable analysis, organized in dynamic document [here](https://daaronr.github.io/eamt\_data\_analysis/chapters/oftw\_upsell\_input\_first\_analysis.html)
 {% endhint %}
 
 ## General idea, main 'hypothesis' <a href="#general-idea-main-hypothesis" id="general-idea-main-hypothesis"></a>
@@ -82,10 +82,14 @@ Targeting: Donation incidence and amount in the relevant 'giving season' and ove
 [key dependent variable](https://effective-giving-marketing.gitbook.io/untitled/partner-organizations-and-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt#3-describe-the-key-dependent-variable-s-specifying-how-they-will-be-measured.)
 
 \
+
+
 **Data storage/form:**
 
 * MailChimp data (Chloe is sharing this),
 * Reports on donations (Kennan is gathering this)
+
+
 
 ### **Optional/suggested additions**
 
