@@ -2,7 +2,15 @@
 
 ## Cost of ads: benchmarks
 
-Reinstein, FB ads tied to fundraisers\\
+Reinstein, FB ads tied to fundraisers.
+
+
+
+{% hint style="info" %}
+Note: this information is subject to change; updated \~ Apr. 2022
+{% endhint %}
+
+
 
 > My costs have been:\\
 >
