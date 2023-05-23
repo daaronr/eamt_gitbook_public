@@ -80,6 +80,11 @@ _Awaiting response from Stanford EA._
 
 _Currently limited to private Gitbook._
 
+
+## MIT, MIT Alignment org
+
+_Currently limited to private Gitbook._
+
 ### EA Israel
 
 [EA Israel's Strategy Document](https://docs.google.com/document/d/1UoAdSID0crufgE6S\_vLWxu8huCj0L1snCnbYSZygPCk/edit?usp=sharing)\
