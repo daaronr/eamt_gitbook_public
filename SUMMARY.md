@@ -1,5 +1,8 @@
 # Table of contents
 
+
+## Introduction/overview
+
 * [Introduction](README.md)
 * [📕 Content overview](gitbook-content-overview.md)
 * [EAMT progress and results (may need updating)](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit)
