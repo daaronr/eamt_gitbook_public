@@ -40,6 +40,7 @@ We've done a  review of existing literature: to inform the trials we are running
 ### You can find references, tech support, and other resources in the [appendix](appendix/how-this-gitbook-works/).
 
 
+
 ## What is this 'Gitbook' meant for?
 
 The three key aims of this [**public gitbook**](https://effective-giving-marketing.gitbook.io/untitled/) are to:
@@ -63,3 +64,4 @@ The three key aims of this [**public gitbook**](https://effective-giving-marketi
 [^4]: We include background information on each organization and its priorities for testing.
 
 [^5]: &#x20;(on Facebook etc)
+

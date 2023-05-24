@@ -45,15 +45,7 @@ _We are moving towards a heightened focus on_&#x20;
 
 _This work provides substantial_ [_public goods_](https://forum.effectivealtruism.org/topics/public-goods)_, whose benefit is shared among the partner organizations and the EA community._
 
-<<<<<<< HEAD
 
-||||||| a0d1ae6
-{% hint style="info" %}
-_**Watch this space:**_ We will be discussing our new approach here shortly, as well as differentiating what we do from the organizations listed below.
-{% endhint %}
-=======
-<details>
->>>>>>> 9b4b1f2e85f07a07731dd77bc8a62f420bc937d9
 
 <summary>Other relevant/new organizations and initiatives </summary>
 
@@ -75,15 +67,10 @@ _**Watch this space:**_ We will be discussing our new approach here shortly, as 
 
 * Effective Giving Collaboration and Summit
 
-<<<<<<< HEAD
-### We believe the EA Market Testing team is the first organized collaboration of its kind. We aim to:
-||||||| a0d1ae6
-### We believe this is the first organized collaboration of its kind. We aim to:
-=======
-</details>
->>>>>>> 9b4b1f2e85f07a07731dd77bc8a62f420bc937d9
 
-###
+*We believe the EA Market Testing Team is the first organized collaboration of its kind.*
+
+
 
 ## Goals and FAQ
 
@@ -136,6 +123,7 @@ If you are interested in getting involved with our project or have feedback for 
 
 ### Next, check out the [Gitbook content overview](gitbook-content-overview.md).
 
+
 (For an explanation of this Gitbook's structure, content, and aims.
 
 [^1]: See [CEA's guiding principles.](https://www.centreforeffectivealtruism.org/ceas-guiding-principles) Key ideas include a commitment to helping others, considering how to use scarce resources most effectively, and being open to having a wide moral circle.
@@ -151,4 +139,3 @@ If you are interested in getting involved with our project or have feedback for 
 [^6]: Including  [testing templates](marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md), guides and [implementation tips](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/)
 
 [^7]: (November, 2022 update)\
-

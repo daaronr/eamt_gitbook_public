@@ -132,7 +132,7 @@ The average is 46.5 users in the 2020 period and 64.5 users in the 2021 period, 
 
 * 38.8% uptick multiplied by 144 users = 55.9 (‘counterfactual uptick’ in users for Portland)
 * 162 - 55.9 = 106 (uptick relative to counterfactual)
-* <mark style="color:orange;background-color:red;">**USD 4000 /106 = $37.7 cost per additional user through this ad**</mark>
+* <mark style="color:orange;background-color:red;">**USD 4000 /106 = 37.7 USD cost per additional user through this ad**</mark>
 
 _Note this is a midpoint estimate, we have not yet given statistical bounds._
 
@@ -142,14 +142,10 @@ _Note this is a midpoint estimate, we have not yet given statistical bounds._
 
 ## Other outcomes
 
-There are very few signups for the concierge advising service. Only about 16 in December 2021 globally, only 1 of which was from Portland.
-<<<<<<< HEAD
+There were very few signups for the concierge advising service. Only about 16 in December 2021 globally, only 1 of which was from Portland.
 
 ## Notes
 
 Other detailed notes are in our private Gitbook. More formal and detailed analysis could be done if it seems merited.
-||||||| a0d1ae6
-=======
 
 [^1]: This was adapted from  the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention") and edited slightly for public reading (the extra details are in the private gitbook).
->>>>>>> 9b4b1f2e85f07a07731dd77bc8a62f420bc937d9

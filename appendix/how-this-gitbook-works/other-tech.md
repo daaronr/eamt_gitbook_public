@@ -6,7 +6,7 @@ description: Airtable, Slack, etc.
 
 ## Airtable
 
-Airtable is an online database that is user-friendly and social. We are using the airtable "GWWC+ testing/trial ideas" (ask [david reinstein](https://app.gitbook.com/u/WrM9GjKWCyRyoIjCKt7f0ddJwCr1 "mention") for edit access) to keep a simple listing of key elements and structured information; in conjunction with this Gitbook.
+Airtable is an online database that is user-friendly and social. We are using the airtable "GWWC+ testing/trial ideas" (ask [david reinstein](http://localhost:5000/u/WrM9GjKWCyRyoIjCKt7f0ddJwCr1 "mention") for edit access) to keep a simple listing of key elements and structured information; in conjunction with this Gitbook.
 
 The first table in the airtable (picture below) explains all the other tables
 

@@ -79,7 +79,6 @@ This is our basic understanding of the processes used to draw in new members to 
 
 (Above: a preview of funnel map; [see Google Doc](https://docs.google.com/document/d/19jyPub9GwbOiZ2IPgR74j5-uttrTgYgQNkBhCJCrYDY/edit?usp=sharing) for full description and work in progress)&#x20;
 
-<<<<<<< HEAD
 ### Stanford University
 
 _Awaiting response from Stanford EA._
@@ -98,33 +97,11 @@ _Currently limited to private Gitbook._
 [EA Israel's Strategy Document](https://docs.google.com/document/d/1UoAdSID0crufgE6S\_vLWxu8huCj0L1snCnbYSZygPCk/edit?usp=sharing)\
 This discusses their strategy in-depth. A lot of their findings are not specific to Israel or country-wide EA groups. Useful as a resource for EA groups.
 
-_Useful findings will be synthesised and integrated here in the future._
-
-## Work in progress
-
-Mapping [the funnel here (preliminary)](https://docs.google.com/document/d/19jyPub9GwbOiZ2IPgR74j5-uttrTgYgQNkBhCJCrYDY/edit).
-||||||| a0d1ae6
-### Stanford University
-
-_Awaiting response from Stanford EA._
-
-### University of Chicago
-
-_Currently limited to private Gitbook._
-
-### EA Israel
-
-[EA Israel's Strategy Document](https://docs.google.com/document/d/1UoAdSID0crufgE6S\_vLWxu8huCj0L1snCnbYSZygPCk/edit?usp=sharing)\
-This discusses their strategy in-depth. A lot of their findings are not specific to Israel or country-wide EA groups. Useful as a resource for EA groups.
 
 _Useful findings will be synthesised and integrated here in the future._
 
-## Work in progress
 
-Mapping [the funnel here (preliminary)](https://docs.google.com/document/d/19jyPub9GwbOiZ2IPgR74j5-uttrTgYgQNkBhCJCrYDY/edit).
-=======
 ### Independent University Group Outreach
->>>>>>> 9b4b1f2e85f07a07731dd77bc8a62f420bc937d9
 
 We have been independently contacting organizers that are known to be actively seeking to test outreach methods, and also publicly via a [callout post](https://forum.effectivealtruism.org/posts/KphWqKCJEybZRBZuh/university-and-city-group-outreach-testing-a-callout-to) on the EA Forum. An important aspect of the work here is to bring together people who are active in this space but working independently. \
 \
