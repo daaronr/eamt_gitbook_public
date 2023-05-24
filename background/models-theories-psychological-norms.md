@@ -4,11 +4,13 @@ description: >-
   evidenced background drivers barriers to effectiveness X charitable giving
 ---
 
-# Models, theories, psychological norms
+# Models, theories, psych. norms
 
 ## Barriers/obstacles to effective giving: classification
 
-{% embed url="https://daaronr.github.io/ea_giving_barriers/chapters/barriers-breakdown.html" %}
+{% embed url="https://daaronr.github.io/ea_giving_barriers/chapters/barriers_breakdown.html" %}
+"Breakdown of Barriers"
+{% endembed %}
 
 We focus on the 'barriers' or 'hurdles to giving effectively' among individuals who _already_ engage in some charitable giving and other-regarding acts. Loosely, a donor would need to "jump over all of these hurdles" and cross each of these barriers in order to be giving effectively.
 
@@ -21,7 +23,7 @@ We focus on the 'barriers' or 'hurdles to giving effectively' among individuals 
 * Presenting effectiveness information may backfire: E.g., if it switches off the 'generous part of the brain', gets people to think in a more 'market' mode, or makes people indecisive
 * Judgement/cognition failures, quantitative biases, information failure: People try but fail to optimize, and/or have persistent incorrect beliefs
 * Emotion overrides cognition: Our brain serves two masters, those decisions are not consistent
-* Identity and signalling: Effectiveness in giving clashes with our self-image/self-beliefs, or with how we want to appear to others&#x20;
+* Identity and signalling: Effectiveness in giving clashes with our self-image/self-beliefs, or with how we want to appear to others
 * Systemic factors (and inertia): social systems leading to pressure and incentives from others to give to local or less-effective causes. Even if impact is a goal these systems take a long time to adjust.
 
 I present and discuss this breakdown, a more practical breakdown, and specific examples in each category in the [Barriers breakdown](https://daaronr.github.io/ea\_giving\_barriers/barriers-breakdown.html#barriers-concept) part of the synthesis. I go into further detail an (work to) present evidence on each of these in later sections of that site. (I plan to go through that work and extract only the key, most practical elements).

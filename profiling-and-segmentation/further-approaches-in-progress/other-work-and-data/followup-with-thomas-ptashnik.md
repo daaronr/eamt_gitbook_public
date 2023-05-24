@@ -12,7 +12,7 @@ H[ere's](https://data.nber.org/data-appendix/w26555/ONLINE%20APPENDIX%20-%20Your
 
 </details>
 
-### Some salient example content: ![](<../../../.gitbook/assets/image (3) (1) (1) (1).png>)
+### Some salient example content: ![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>) ![](<../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png>)
 

@@ -22,7 +22,7 @@
     * [Preregistration: OftW pre-GT](contexts-partner-organizations-trials/one-for-the-world-oftw/pre-giving-tuesday-email-split-test-+/preregistration-oftw-pre-gt.md)
 * [The Life You Can Save (TLYCS)](partners-contexts-trials/the-life-you-can-save-tlycs/README.md)
   * [Advisor signup (Portland)](partners-contexts-trials/the-life-you-can-save-tlycs/advisor-signup-portland.md)
-* [Charities/fundraisers and impact information](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/README.md)
+* [Fundraisers & impact info.](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
   * [📖 Posts and writings](partners-contexts-trials/charities-fundraisers-and-impact-information/overview-ea-forum-post.md)
@@ -58,7 +58,7 @@
   * [Facebook split-testing issues](methodological-discussion/splits-randomization/facebook-split-testing-etc.md)
 * [Simple quant design issues](methodological-discussion/simple-quant-design.md)
 * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
-* ['Observational' studies: misc. issues](methodological-discussion/observational-studies-misc.-issues.md)
+* ['Observational' studies: issues](methodological-discussion/observational-studies-misc.-issues.md)
 * [Analysis: Statistical approaches](methodological-discussion/analysis-statistical-approaches.md)
 
 ## 🧮 Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
@@ -81,7 +81,7 @@
 * [Introduction...](background/section-introduction.md)
 * [The challenge: drivers of effective/ineffective giving](background/the-challenge-drivers-of-effective-ineffective-giving.md)
   * [How little we know...](background/the-challenge-how-little-we-know-about-drivers-of-effective-ineffective-giving.md)
-* [Models, theories, psychological norms](background/models-theories-psychological-norms.md)
+* [Models, theories, psych. norms](background/models-theories-psychological-norms.md)
 * [Tools and trials: overview](background/tools-and-trials-overview/README.md)
   * [Tools/interventions: principles](background/tools-and-trials-overview/tools-interventions-principles.md)
   * [Outcomes: Effective gift/consider impact)](background/tools-and-trials-overview/oc-effective-donation-consider-effectiveness/README.md)
@@ -95,6 +95,6 @@
 
 * [How this 'gitbook' works](appendix/how-this-gitbook-works/README.md)
   * [Other tech](appendix/how-this-gitbook-works/other-tech.md)
-* [Literature on animal advocacy messaging](appendix/literature-on-animal-advocacy-messaging.md)
+* [Literature: animal advocacy messaging](appendix/literature-on-animal-advocacy-messaging.md)
 * [Charity ratings, rankings, messages](appendix/charity-ratings-rankings-messages.md)
 * ["A large-scale online experiment" (participants-aware)](https://docs.google.com/document/d/1s3d0LYlFzmdV00gGji9AugOM7C7Dh3SVk0JbzlEhMFY/edit?usp=sharing)
