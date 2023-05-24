@@ -44,7 +44,7 @@ From 2019
 
 ### A proposed project
 
-**DR notes on** 15 Dec 2021 meeting with [thomas-ptashnik](https://app.gitbook.com/u/0Z9Mh5iZKSXcJDKpkhHIgZojBPJ3 "mention")
+**DR notes on** 15 Dec 2021 meeting with [thomas-ptashnik](http://localhost:5000/u/0Z9Mh5iZKSXcJDKpkhHIgZojBPJ3 "mention")
 
 #### **Does the Fehr/SOEP data provide valuable 'outcome measures' of EA and effective giving support?**
 

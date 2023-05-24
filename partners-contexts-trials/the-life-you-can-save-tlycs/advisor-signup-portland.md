@@ -4,17 +4,11 @@ description: TLYCS ran a campaign in a single city involving 'donation advice'
 
 # Advisor signup (Portland)
 
-<details>
+## See also
 
-<summary>Notes on content/building this</summary>
+We recoded and augmented this analysis [within the EAMT Analysis web-book here. ](https://daaronr.github.io/eamt\_data\_analysis/chapters/tlycs\_input\_simple\_analysis.html)More work could be done, if warranted.
 
-This was adapted from  the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention") and edited slightly for public reading (the extra details are in the private gitbook).
-
-We recoded and augmented this analysis within the [EAMT Analysis web-book here.](https://daaronr.github.io/eamt\_data\_analysis/) More work could be done, if warranted.
-
-</details>
-
-## Summary of trial and results
+## [Summary of trial and results](#user-content-fn-1)[^1]
 
 In December 2021, TLYCS ran a YouTube advertising campaign in Portland Oregon, involving ‘donation advice’. The top 10% household-income households were targeted with (one of) three categories of videos. One of the ultimate goals was to get households to sign up for a 'concierge' personal donor advising service &#x20;
 
@@ -79,7 +73,7 @@ We assigned the particular video treatments to audiences using a YouTube/Google 
 
 * How long people watched the videos for
 * **Whether they 'clicked through'**
-* Whether they filled out the form for advising **** (Algorithm is serving to optimize this)
+* Whether they filled out the form for advising (Algorithm is serving to optimize this)
 
 ## Results (simple analysis)
 
@@ -144,12 +138,18 @@ _Note this is a midpoint estimate, we have not yet given statistical bounds._
 
 **In the graph below** (pasted from the Quarto [here](https://daaronr.github.io/eamt\_data\_analysis/chapters/tlycs\_input\_simple\_analysis.html#plotting-the-difference-in-difference)), we show these year-on-year upticks in context.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><em>Year to year uptick by CIty</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption><p><em>Year to year uptick by CIty</em></p></figcaption></figure>
 
 ## Other outcomes
 
 There are very few signups for the concierge advising service. Only about 16 in December 2021 globally, only 1 of which was from Portland.
+<<<<<<< HEAD
 
 ## Notes
 
 Other detailed notes are in our private Gitbook. More formal and detailed analysis could be done if it seems merited.
+||||||| a0d1ae6
+=======
+
+[^1]: This was adapted from  the [trial-reporting-template.md](../../marketing-and-testing-opportunities-tools-tips/trial-reporting-template.md "mention") and edited slightly for public reading (the extra details are in the private gitbook).
+>>>>>>> 9b4b1f2e85f07a07731dd77bc8a62f420bc937d9

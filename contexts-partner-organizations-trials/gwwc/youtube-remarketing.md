@@ -5,11 +5,11 @@ description: GWWC youtube remarketing campaign (trial)
 # YouTube Remarketing
 
 See also the cross-organization [notes on advertising, google, youtube, etc](../../partner-organizations-and-trials/gwwc/broken-reference/) (=placeholder for now) and the tips on\
-[doing-and-funding-ads](../../marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads/ "mention")
+[doing-and-funding-ads.md](../../marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md "mention")
 
 ## YouTube Remarketing
 
-July 20, 2021: GWWClaunched a YouTube remarketing campaign. That means that when someone goes to the GWWC website, leaves, and then goes to YouTube we show them one of the following videos:
+July 20, 2021: GWWC launched a YouTube remarketing campaign. That means that when someone goes to the GWWC website, leaves, and then goes to YouTube we show them one of the following videos:
 
 Algorithm decides which video to present to people.
 

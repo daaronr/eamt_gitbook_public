@@ -14,7 +14,7 @@ Facebook's Ad Manager and Google Analytics often report results that seem to hav
 
 #### **1. Where do the other 600 clicks end up?  Ad blockers? Do they click the ad and shut down before the page comes up?**
 
-****
+
 
 > &#x20;**JS:**  main reasons \[DR: slightly edited\[
 >
@@ -29,6 +29,6 @@ Facebook's Ad Manager and Google Analytics often report results that seem to hav
 
 Leticia at Facebook: can be mistaken clicks, this is common.. need a pixel to fix this ..., can change it to 'landing page view'
 
-> ****
+>
 
 #### 2,. How is it possible that 455 people come to the page and only 20 (under  5%) of them actually even do anything on the page?

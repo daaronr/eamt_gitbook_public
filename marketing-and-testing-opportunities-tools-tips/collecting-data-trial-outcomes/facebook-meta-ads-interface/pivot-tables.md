@@ -6,8 +6,8 @@ You may want to see or export crosstabs of one outcome, user feature, or design 
 
 1. **Start new pivot table**&#x20;
 
-~~From within Ads Manager~~  ****  From 'ads reporting' (3 Aug 2022 updated interface)\
-****![](<../../../.gitbook/assets/image (7) (1).png>) **** \
+~~From within Ads Manager~~  From 'ads reporting' (3 Aug 2022 updated interface)\
+![](<../../../.gitbook/assets/image (7) (1).png>) \
 
 
 Click "Create Report" --> Pivot table\
@@ -15,17 +15,17 @@ Click "Create Report" --> Pivot table\
 
 **2. As before, make sure you've selected the right date range, and (redo) any relevant filters**
 
-****![](<../../../.gitbook/assets/image (1) (2).png>)****
+![](<../../../.gitbook/assets/image (1) (2).png>)
 
 
 
-****![](<../../../.gitbook/assets/image (10) (3).png>)****
+![](<../../../.gitbook/assets/image (10) (3).png>)
 
-****
+
 
 Here I add a filter for 'campaign name **'** contains 'general'. Because I'm specifically trying to pull down some information on 'which video people saw' in this group (which needs a special setting to access... as noted below)
 
-****
+
 
 **3. "Customize pivot table" – "Breakdowns" ...** the things you want this to disaggregate across (sums and averages within groups)
 
@@ -77,8 +77,8 @@ This could also be helpful if you are using the Ads Manager tools _in situ_, but
 
 **6.   Save report for later use, share**
 
-****![](<../../../.gitbook/assets/image (12).png>)****\
-****
+![](<../../../.gitbook/assets/image (12).png>)\
+
 
 If you think the report is useful in-situ, you can also share a link
 
@@ -88,7 +88,7 @@ If you think the report is useful in-situ, you can also share a link
 
 **7. Export the data**
 
-****![](<../../../.gitbook/assets/image (11).png>)****
+![](<../../../.gitbook/assets/image (11).png>)
 
 As in [#extracting-simple-results](./#extracting-simple-results "mention")...
 

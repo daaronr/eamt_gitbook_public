@@ -74,6 +74,8 @@ We will report all of the following analyses, with our preferred method in bold:
 * **Fisher's exact test**
 * Bayesian Test of Difference in Proportions (as in [here](https://daaronr.github.io/dualprocess/donor-voice-questions-and-tests.html#bayes\_prop)), with an informative beta distribution for the prior over the incidence rate in each treatment, with a parameter based on the incidence rates for similar campaigns in the prior 2 years.
 
+
+
 **Continuous outcomes:**
 
 * **Standard rank-sum tests (Mann–Whitney U test**)
@@ -126,7 +128,9 @@ We consider these as secondary because the click and open rates do not necessari
 
 Exploratory: what factors (especially gender, university/student status, university subject) predict which treatment leads to greater donation (incidence and amount)
 
-Note that our partner is planning to use this trial to inform future trials and experiments, particular for the 'Giving Tuesday' season itself. .
+Note that our partner is planning to use this trial to inform future trials and experiments, particular for the 'Giving Tuesday' season itself.&#x20;
+
+
 
 #### Power calculations
 

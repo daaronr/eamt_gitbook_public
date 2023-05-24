@@ -4,7 +4,6 @@
 * [📕 Content overview](gitbook-content-overview.md)
 * [EAMT progress and results (may need updating)](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit)
 * [Goals, trajectory, FAQs](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit)
-* [📖 Posts and writings](overview-ea-forum-post.md)
 * [👋 Meet the team](our-team-and-resources.md)
 
 ## 🤝 Partners, contexts, trials
@@ -23,17 +22,19 @@
 * [Charities/fundraisers and impact information](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/README.md)
   * [ICRC - quick overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/icrc-quick-overview-+.md)
   * [CRS/DV: overview](contexts-partner-organizations-trials/charities-fundraisers-and-impact-information/crs-dv-overview-+.md)
+  * [📖 Posts and writings](partners-contexts-trials/charities-fundraisers-and-impact-information/overview-ea-forum-post.md)
 * [University/city groups](contexts-partner-organizations-trials/university-groups-promotion.md)
 * [Workplaces/orgs](partners-contexts-trials/workplaces-orgs.md)
 * [Other partners](contexts-partner-organizations-trials/other.md)
+* [Related/relevant projects/orgs](partners-contexts-trials/related-relevant-projects-orgs.md)
 
 ## 🪧 Marketing & testing: opportunities, tools, tips
 
 * [Testing Contexts: Overview](marketing-and-testing-opportunities-tools-tips/environments-and-plans/future-avenues.md)
 * [Implementing ads, messages, designs](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/README.md)
-  * [Doing and funding ads](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads/README.md)
-    * [WIP... 'Cost of ads' - benchmarks](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads/wip...-cost-of-ads-benchmarks.md)
+  * [Doing and funding ads](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/doing-and-funding-ads.md)
   * [Video ads/Best-practice guidelines](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/best-practice-guidelines.md)
+  * [Facebook](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/wip...-cost-of-ads-benchmarks.md)
   * [Targeted ad on FB, with variations: setup](marketing-and-testing-opportunities-tools-tips/implementation-and-collecting-data-issues/targeted-ad-on-fb-with-variations-setup.md)
 * [Collecting outcome data](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/README.md)
   * [Facebook ads interface](marketing-and-testing-opportunities-tools-tips/collecting-data-trial-outcomes/facebook-meta-ads-interface/README.md)
@@ -54,11 +55,12 @@
   * [Facebook split-testing issues](methodological-discussion/splits-randomization/facebook-split-testing-etc.md)
 * [Simple quant design issues](methodological-discussion/simple-quant-design.md)
 * [Adaptive design/sampling, reinforcement learning](methodological-discussion/adaptive-design-sampling-reinforcement-learning.md)
+* ['Observational' studies: misc. issues](methodological-discussion/observational-studies-misc.-issues.md)
 * [Analysis: Statistical approaches](methodological-discussion/analysis-statistical-approaches.md)
 
 ## 🧮 Profiling and segmentation project <a href="#profiling-and-segmentation" id="profiling-and-segmentation"></a>
 
-* [Introduction](profiling-and-segmentation/section-introduction.md)
+* [Introduction, scoping work](profiling-and-segmentation/section-introduction.md)
 * [Existing work/data](profiling-and-segmentation/previous-work.md)
   * [Surveys/Predicting EA interest](profiling-and-segmentation/previous-work/surveys-predicting-ea-interest.md)
   * [Awareness: RP, etc.](profiling-and-segmentation/previous-work/rethink-priorities-work.md)
