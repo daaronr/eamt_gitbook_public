@@ -106,12 +106,12 @@ _Guiding assumption: a counterfactual 0 visits from Portland in this season_
 
 * 306 Portland Users (389 Portland site visits) in relevant 2021 period.
 * If these were _all_ driven by the advertisement (and counterfactual was 0 visits), this is +306 Users and +389 visits
-* Cost $4k (sensitive info?)
+* Cost $4k
 * <mark style="background-color:green;">-->Lower bound on cost of</mark> <mark style="background-color:green;">**$13.07**</mark> <mark style="background-color:green;">per user ($10.28 per visit)</mark>
 
-**YoY (maybe reasonable) optimistic bound**
+**Year-on-Year (maybe reasonable) optimistic bound**
 
-_Guiding assumption: a counterfactual 'same visits as last year' in Portland_
+_Guiding assumption: a counterfactual 'sam as last year' in Portland_
 
 * 306 Portland Users (389 Portland site visits) in relevant 2021 period.
 * 144 Portland Users (189 Portland site visits) in relevant 2020 period.
@@ -149,3 +149,7 @@ _Note this is a midpoint estimate, we have not yet given statistical bounds._
 ## Other outcomes
 
 There are very few signups for the concierge advising service. Only about 16 in December 2021 globally, only 1 of which was from Portland.
+
+## Notes
+
+Other detailed notes are in our private Gitbook. More formal and detailed analysis could be done if it seems merited.

@@ -35,3 +35,16 @@ Our profiling project aims to help better understand what sorts of people are am
 We've done a  review of existing literature: to inform the trials we are running, and to identify important research topics. This includes [What is known/models of effective giving](background/models-theories-psychological-norms.md) and [Principles and theories behind potential trials](background/tools-and-trials-overview/tools-interventions-principles.md).
 
 ### You can find references, tech support, and other resources in the [appendix](appendix/how-this-gitbook-works/).
+
+
+## What is this 'Gitbook' meant for?
+
+The three key aims of this [**public gitbook**](https://effective-giving-marketing.gitbook.io/untitled/) are to:
+
+1. **Convey** **who we are, what have accomplished, and the scope of our work** to funders, people in the broader EA community, and people not yet involved in the project who would be interested in joining
+
+2. **Share tools and knowledge with** **people in the EA/global priorities community who will apply it to their work.** We are building a knowledge base. Content in the public gitbook can inform and support a diverse set of projects (i.e., implementing marketing campaigns, fundraising initiatives, academic research)
+
+3. **Seek feedback on our work**. This includes technical and industry feedback on implementation and academic expertise (literature reviews and frameworks to consider, methodology, and experimental design).
+
+

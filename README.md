@@ -1,8 +1,6 @@
 ---
-NOTE: >-
-  THIS 'make_publicable' branch has been moved to
-  https://github.com/daaronr/eamt_gitbook_public!!! THAT IS THE ONE syncing with
-  the gitbook Welcome to the EA Market Testing gitbook! Explore the resources
+NOTE:
+Welcome to the EA Market Testing gitbook! Explore the resources
   here to learn about who we are, the knowledge base we are building, and how
   our work can be used to promote effective giving and action.
 ---
@@ -38,9 +36,7 @@ _We are moving towards a heightened focus on_&#x20;
 
 _This work provides substantial public goods, whose benefit is shared among the partner organizations and the EA community._
 
-{% hint style="info" %}
-_**Watch this space:**_ We will be discussing our new approach here shortly, as well as differentiating what we do from the organizations listed below.
-{% endhint %}
+
 
 #### Other relevant/new organizations and initiatives&#x20;
 
@@ -50,7 +46,7 @@ _**Watch this space:**_ We will be discussing our new approach here shortly, as 
 * Effective Giving Collaboration and Summit
 * _More to be added here_
 
-### We believe this is the first organized collaboration of its kind. We aim to:
+### We believe the EA Market Testing team is the first organized collaboration of its kind. We aim to:
 
 * Coalesce our understanding and evidence on barriers and facilitators of effective altruism, effective giving, and effective action
 * Run a broad set of high-powered trials (large samples, high-stake real-world contexts, substantial differences between conditions)&#x20;
@@ -110,3 +106,5 @@ It’s been extremely useful to hear what others in EA, individuals and orgs are
 If you are interested in getting involved with our project or have feedback for us, contact David Reinstein at daaronr AT gmail.com.&#x20;
 
 ### Next, check out the [Gitbook content overview](gitbook-content-overview.md).
+
+(For an explanation of this Gitbook's structure, content, and aims.
