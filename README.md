@@ -1,5 +1,5 @@
 ---
-NOTE:
+NOTE: >-
 Welcome to the EA Market Testing gitbook! Explore the resources
   here to learn about who we are, the knowledge base we are building, and how
   our work can be used to promote effective giving and action.
