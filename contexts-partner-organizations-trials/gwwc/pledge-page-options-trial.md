@@ -18,7 +18,7 @@ We intend to redo and augment much of this analysis in a more transparent way; d
 
 Giving What We Can (GWWC) has three giving pledge options, displayed in the 'Original presentation version' below.
 
-![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1) (1) (1) (2).png>)
+![Pledge page "Original"](<../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1).png>)
 
 From April-July 2021 they ran a trial presenting its 'pledge page' options in three slightly different ways. Considering 'clicks on any button' as the outcome, and a Bayesian 'preponderance of evidence' standard...
 
@@ -110,13 +110,13 @@ Sample size: see below, from Google Analytics
 
 1. "**Original**" (Block of 3 in order of commitment, Middle Pledge in Center)
 
-![](<../../.gitbook/assets/image (15) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (15) (1) (1) (1) (1) (2) (1).png>)
 
 2\. "**Pledge before TryGiving**" ... as above but with Try Giving and The Pledge swapped, and Try Giving (in the center) highlighted
 
 3\. "**Separate Bullets for Other Pledges**" (see below)
 
-![](<../../.gitbook/assets/images\_moved/image (12) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 ### Treatment assignment procedure
 
@@ -185,7 +185,7 @@ _**3. Where is the data stored ... \[noted above]**_
 
 ### Basic results/outcomes
 
-![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1) (1) (1) (1) (3).png>)
+![performance of three versions, shared from Google Optimize](<../../.gitbook/assets/image (17) (1) (1) (1) (1) (1) (2).png>)
 
 ### **Quick interpretation**
 

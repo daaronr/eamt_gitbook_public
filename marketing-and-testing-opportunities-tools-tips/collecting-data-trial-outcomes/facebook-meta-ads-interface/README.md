@@ -2,14 +2,14 @@
 description: How to get data from trials of Facebook ad
 ---
 
-# Facebook (Meta) ads interface
+# Facebook ads interface
 
 ## Using Meta ads manager reporting suite
 
 ### Extracting simple results
 
 1. **Go to "the reporting suite in Meta ads manager"**\
-   ![](<../../../.gitbook/assets/fb\_ad\_images/image (39).png>)
+   ![](<../../../.gitbook/assets/image (39).png>)
 
 <details>
 
@@ -27,12 +27,12 @@ URL should look like:\
 
 This gets us the screen below
 
-![](../../../.gitbook/assets/fb\_ad\_images/gg\_select.png)
+![](<../../../.gitbook/assets/image (15).png>)
 
 **3. Specify the date range.**
 
 Here “Effective Giving Guide Lead Generation campaign … ran late November 2021 - January 2022"\
-![](<../../../.gitbook/assets/fb\_ad\_images/image (21).png>) _(Careful in specifying the dates; the interface is weird)_
+![](<../../../.gitbook/assets/image (19).png>) _(Careful in specifying the dates; the interface is weird)_
 
 After specifying these dates, more information comes up in the basic columns:\
 ![](<../../../.gitbook/assets/fb\_ad\_images/image (32).png>)

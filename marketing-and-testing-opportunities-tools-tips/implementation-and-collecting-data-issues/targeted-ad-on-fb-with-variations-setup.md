@@ -29,11 +29,11 @@ You have to link a "Facebook Page" or "Instagram Account" to your ad campaign to
 
 </details>
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 The next step is to select "Create a campaign" and choose an "objective"... the interface gives you some idea of what these aim for:\
 \
-![](<../../.gitbook/assets/image (3) (2).png>)![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (20) (2).png>)![](<../../.gitbook/assets/image (18) (3).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (20) (2).png>)![](<../../.gitbook/assets/image (18) (3).png>)
 
 ![](<../../.gitbook/assets/image (11) (3).png>)
 
@@ -122,7 +122,7 @@ If you don't have an existing contact list or comparison group, you may prefer t
 \
 For example, you can specify age groups and then 'detailed targeting' categories, including, e.g., Schools (including universities):
 
-<img src="../../.gitbook/assets/image (29).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (29) (1).png" alt="" data-size="original">
 
 \
 \
@@ -145,13 +145,13 @@ For example, you can specify age groups and then 'detailed targeting' categories
 
 
 
-<img src="../../.gitbook/assets/image (29).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (29) (1).png" alt="" data-size="original">
 
 </details>
 
 
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 You can specify
 
@@ -225,7 +225,7 @@ To do that we need to set up a "meta pixel". See [#optimizing-and-pixels](target
 
 DR: In my past experience, you ended up paying Facebook based on the number of "clicks" you got not simply on how long your ad was up. But it's probably a combination of these, and there are probably different pricing plans. You can tell Facebook to put a limit on either of these do not go "over budget". Facebook will aim to spend your entire budget and get the most link clicks using the lowest cost bid strategy.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 Currently EUR 315 is the max for new users ... but for our present pilot we may want less than this (check: how much do we expect to pay for 800 clicks, let's split this up into ... first 100 clicks, next 300 clicks,.. to see if its going OK )
 
@@ -263,13 +263,13 @@ Once you are in the ads manager for an ad, go to the 'Events Manager':
 
 
 
-![](<../../.gitbook/assets/image (7) (2).png>)
+![](<../../.gitbook/assets/image (17) (2).png>)
 
 
 
 "Events setup tool"
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (3).png>)
 
 
 
@@ -293,7 +293,7 @@ As seen below, this opens our page, and show what things have already been assoc
 
 For example, I could click 'who are we' on a page and associate it with 'view content'
 
-![](<../../.gitbook/assets/image (26) (2).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 I could 'add a value' to this, if it makes sense.&#x20;
 
@@ -312,13 +312,13 @@ Once you have nice pixels set up, you can use this in helping Facebook decide wh
 
 
 Define your goal as 'conversion', and define what 'conversion' corresponds to in terms of pixels:\
-![](<../../.gitbook/assets/image (6) (3).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 
 
 Here we're choosing 'initiate checkout', which we defined as clicking on a  'create fundraiser' button on the first page of our site (early in the funnel)
 
-![](<../../.gitbook/assets/image (5) (3).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 \
 The warning below might not matter as we&#x20;

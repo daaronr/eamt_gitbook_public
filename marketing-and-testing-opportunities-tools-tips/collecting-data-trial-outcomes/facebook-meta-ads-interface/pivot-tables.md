@@ -77,7 +77,7 @@ This could also be helpful if you are using the Ads Manager tools _in situ_, but
 
 **6.   Save report for later use, share**
 
-![](<../../../.gitbook/assets/image (12).png>)\
+![](<../../../.gitbook/assets/image (11) (1).png>)\
 
 
 If you think the report is useful in-situ, you can also share a link
