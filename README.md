@@ -115,7 +115,7 @@ If you are interested in getting involved with our project or have feedback for 
 
 [^1]: See [CEA's guiding principles.](https://www.centreforeffectivealtruism.org/ceas-guiding-principles) Key ideas include a commitment to helping others, considering how to use scarce resources most effectively, and being open to having a wide moral circle.
 
-[^2]: Note that we are focusing on this less, now that [other groups](http://localhost:5000/o/-MfFk4CTSGwVOPkwnRgx/s/a3YtWoUiYYfiEQrBNztC/) have become involved with helping EA organizations _implement_ marketing.
+[^2]: Note that we are focusing on this less, now that [other groups](http://127.0.0.1:5000/o/-MfFk4CTSGwVOPkwnRgx/s/a3YtWoUiYYfiEQrBNztC/) have become involved with helping EA organizations _implement_ marketing.
 
 [^3]: See '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um)
 
