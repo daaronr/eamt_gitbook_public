@@ -9,6 +9,19 @@ NOTE: >-
 
 {% include ".gitbook/includes/late-2024-update-this-proj....md" %}
 
+{% hint style="info" %}
+**See also**
+
+* Our public reports of trials and analysis in the [web-book here](https://daaronr.github.io/eamt\_data\_analysis/)&#x20;
+* The [Barriers to Effective Giving](https://daaronr.github.io/ea\_giving\_barriers/) living web book&#x20;
+* Our regularly updated 'data analysis report' on all the trials and evidence, which you can [download HERE](https://www.dropbox.com/s/jyxj2jen6e9ptjz/eamt\_bookdown.zip?dl=0) as a protected zip file (need to request password, permission granted with consent of participating organizations)
+* [EAMT Goals, FAQ](https://docs.google.com/document/d/1Ok9b51p5aQ1qHFnrGkf\_e7vsjnDWzWdU\_Zv3eUCtEL4/edit?tab=t.0); [EAMT Progress and results](https://docs.google.com/document/d/1buIcG21ChtWiDvAdV8Rp6Z8izofmAXOsy5PaomFsHZw/edit?tab=t.0)
+
+
+{% endhint %}
+
+
+
 ## What is the "EA Market Testing Team"?
 
 We are a [small group of researchers and practitioners](our-team-and-resources.md). This project is organized by [David Reinstein](https://davidreinstein.org)<img src=".gitbook/assets/image (30).png" alt="" data-size="line"> , who maintains this wiki/Gitbook and other resources.
