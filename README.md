@@ -7,6 +7,8 @@ NOTE: >-
 
 # Introduction & explanation
 
+{% include ".gitbook/includes/late-2024-update-this-proj....md" %}
+
 ## What is the "EA Market Testing Team"?
 
 We are a [small group of researchers and practitioners](our-team-and-resources.md). This project is organized by [David Reinstein](https://davidreinstein.org)<img src=".gitbook/assets/image (30).png" alt="" data-size="line"> , who maintains this wiki/Gitbook and other resources.
@@ -115,7 +117,7 @@ If you are interested in getting involved with our project or have feedback for 
 
 [^1]: See [CEA's guiding principles.](https://www.centreforeffectivealtruism.org/ceas-guiding-principles) Key ideas include a commitment to helping others, considering how to use scarce resources most effectively, and being open to having a wide moral circle.
 
-[^2]: Note that we are focusing on this less, now that [other groups](http://127.0.0.1:5000/o/-MfFk4CTSGwVOPkwnRgx/s/a3YtWoUiYYfiEQrBNztC/) have become involved with helping EA organizations _implement_ marketing.
+[^2]: Note that we are focusing on this less, now that [other groups](https://app.gitbook.com/o/-MfFk4CTSGwVOPkwnRgx/s/a3YtWoUiYYfiEQrBNztC/) have become involved with helping EA organizations _implement_ marketing.
 
 [^3]: See '[high-value questions'](https://docs.google.com/document/d/1Jyn\_6aFt7z1kDo-6sHm9o\_ccPgEvig1b6c8OqPRH2eI/edit#heading=h.gjcw9rquq2um)
 
