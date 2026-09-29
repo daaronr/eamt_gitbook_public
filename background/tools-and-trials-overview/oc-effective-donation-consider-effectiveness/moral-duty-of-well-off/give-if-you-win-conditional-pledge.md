@@ -1,5 +1,5 @@
 ---
-description: See giveifyouwin.org
+description: See https://daaronr.github.io/giveifyouwin/
 ---
 
 # Give if you win/ conditional pledge
@@ -9,9 +9,9 @@ description: See giveifyouwin.org
 * Control: Ask about career goal/target, follow up in 1 year, ask for pledge then
 * Treatment: Same but ask initially for conditional pledge \(‘if you attain the goal’\)
 
-See [Give If You Win](http://giveifyouwin.org/) project \(hope to scale up evidence from smaller contexts\)
+See [Give If You Win](https://daaronr.github.io/giveifyouwin/) project \(hope to scale up evidence from smaller contexts\)
 
-{% embed url="http://giveifyouwin.org/" %}
+{% embed url="https://daaronr.github.io/giveifyouwin/" %}
 
 
 

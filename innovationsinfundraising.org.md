@@ -28,7 +28,7 @@ _I would consider reviving this in the future, and would be happy to join it wit
 
 **Purpose**: To explain and promote practical fundraising innovations stemming from academic research, to encourage trials and experiments, to promote effective giving and encourage collaboration and knowledge-sharing
 
-**Key innovations and ideas**: [Give if You Win](http://giveifyouwin.org/), default recognition, give more tomorrow
+**Key innovations and ideas**: [Give if You Win](https://daaronr.github.io/giveifyouwin/), default recognition, give more tomorrow
 
 **Funding and support:** ESRC Impact Acceleration; University of Exeter; Centre for Effective Altruism (CEA)
 
